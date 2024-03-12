@@ -1,0 +1,75 @@
+{
+    "botones": [
+            "Inicio",
+            "Presentaci\u00F3n",
+            "Perfil de ingreso",
+            "Perfil de egreso",
+            "Plan de estudios",
+            "Mapa curricular", 
+            "Programas", 
+            "Titulaci\u00F3n",
+            "Reconocimientos y proyectos",
+            "Contacto"
+    ],
+    
+    "titulo": "Arquitectura",
+    "icono": "icono-secciones icon-arquitectura",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La FES Arag\u00F3n es una de las tres sedes de nuestra M\u00E1xima Casa de Estudios en las que se imparte la carrera de Arquitectura. Recibe un afectuoso saludo y la m\u00E1s cordial de las bienvenidas a tu nuevo hogar, del cual debes sentir orgullo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Arquitectura atraviesa por un momento muy importante, ya que se encuentra en un proceso de cambio debido al desarrollo de grandes proyectos de orden mundial. En la Facultad se busca integrar a estudiantes a este escenario, a partir de la vinculaci\u00F3n con la comunidad, las entidades gubernamentales y el sector empresarial.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad de Arquitectura te desea lo mejor durante los pr\u00F3ximos cinco a\u00F1os.<\/span><\/p>"
+        }, {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Objetivo general<\/strong><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Capacitar a estudiantes para concebir, determinar y realizar los espacios-forma internos y externos que satisfagan las necesidades de las personas en su dualidad f\u00EDsica y espiritual, desde el plano individual y como integrantes de una comunidad.<\/span><\/p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Caracter\u00EDsticas generales<\/strong><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El plan de estudios obedece a una organizaci\u00F3n acad\u00E9mica en la cual se toma como punto de partida el nivel intelectual con el que estudiantes llegan a la universidad, considerando su capacidad de aprendizaje y ofreci\u00E9ndoles un plan de estudios que evolucione paralelamente con su personalidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La oferta curricular se divide en tres etapas: conocimiento elemental, medio y superior; en cada una de estas se aborda un aspecto de la actividad profesional.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La estructura acad\u00E9mica de apoyo cuenta con un enfoque para que estudiantes conozcan las expresiones de la cultura tales como: la escultura, la pintura, la literatura, la m\u00FAsica, el cine y el teatro; adem\u00E1s del an\u00E1lisis de las relaciones gremiales y de la sociedad-cliente en sus expresiones pr\u00E1cticas, as\u00ED como evaluar los logros al concluir cada una de las etapas de formaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se hace \u00E9nfasis en la formaci\u00F3n tecnol\u00F3gica para que la comunidad estudiantil domine lo b\u00E1sico de la t\u00E9cnica edilicia y conozca las \u00FAltimas creaciones de materiales y sistemas constructivos, del mismo modo, se le instruye en las alternativas recientes para hacer Arquitectura.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente, uno de los objetivos de nuestro plan de estudios es formar estudiantes para seguir una metodolog\u00EDa de an\u00E1lisis y evaluaci\u00F3n de dise\u00F1os y obras de arquitectura, para que gradualmente durante su desarrollo escolar, descubran y apliquen en unidad la teor\u00EDa y la pr\u00E1ctica.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad aspirante deber\u00E1 contar con:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">nivel medio superior concluido;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">amplia creatividad;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">manejo de herramientas algebraicas;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">habilidad para el dibujo t\u00E9cnico y arquitect\u00F3nico;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">sociabilidad;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">habilidad para el trabajo en ambientes colaborativos;<\/span><\/li><\/ul>"
+        }, 
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La formaci\u00F3n profesional se concibe como una pr\u00E1ctica inscrita en la din\u00E1mica social, y se caracteriza m\u00E1s por amplios conocimientos, dominio de m\u00E9todos y conceptos que por s\u00F3lo la acumulaci\u00F3n de informaci\u00F3n. Tambi\u00E9n, contempla habilidades y actitudes que en su conjunto delimitan una pr\u00E1ctica profesional, por lo que la comunidad egresada de la carrera de Arquitectura debe contar con elementos formativos para:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">dise\u00F1ar, concebir, determinar y realizar todo espacio-forma que satisfaga las necesidades de las personas en su dualidad f\u00EDsica y espiritual, desde el plano individual y como integrantes de una comunidad;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">sustentar la concepci\u00F3n del Dise\u00F1o Arquitect\u00F3nico en su concepto integral;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">fundamentar la relaci\u00F3n y desarrollo de los procesos y sistemas constructivos de los espacios-forma arquitect\u00F3nicos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">seleccionar el tipo de estructura y el dise\u00F1o de los elementos estructurales de los espacios-forma arquitect\u00F3nicos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">establecer la concepci\u00F3n y determinaci\u00F3n de las necesidades y elementos para el funcionamiento hidrosanitario, el\u00E9ctrico y de combustibles, as\u00ED como para el control luminoso, t\u00E9rmico y ac\u00FAstico de todo espacio-forma;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">organizar y estructurar todos los procesos que integran el dise\u00F1o y la realizaci\u00F3n de los espacios arquitect\u00F3nicos y urbanos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">cimentar el dise\u00F1o arquitect\u00F3nico integral en su contexto urbano en una planeaci\u00F3n normativa;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">reconocer que la creatividad de profesionales de la Arquitectura responde a una formaci\u00F3n liberal como personas en su dualidad espiritual y \u00E9tica.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/arquitectura/Plan-de-estudios.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/arquitectura/mapa-arquitectura.pdf"
+        },
+        
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/arquitectura/programas-arquitectura.pdf"
+        }, 
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/arquitectura/arquitectura-titulacion.pdf"
+        },
+        {
+            "tipo": "reconocimientos",
+            "texto": {
+                "reconocimiento_docentes": "<ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Se obtuvo el primer lugar en el <\/span><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">Concurso CANACERO 2017<\/em><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">hubo participaci\u00F3n en los <\/span><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">XI Encuentros Acad\u00E9micos<\/em><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> en la Universidad Intercontinental;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">hubo participaci\u00F3n en el <\/span><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">Concurso \"Mario J. Pani\" 2017<\/em><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">hubo participantes finalistas en el <\/span><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">Concurso internacional \"Vivienda Multiconfort\" Saint Gobain 2018<\/em><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> celebrado en Dub\u00E1i;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">hubo participaci\u00F3n en la <\/span><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">Muestra Internacional de Arquitectura Universitaria 2018<\/em><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> en la FES Arag\u00F3n, UNAM;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">se presentaron conferencias y ponencias en universidades p\u00FAblicas y privadas;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">se presentaron conferencias y ponencias en el Museo Nacional de Antropolog\u00EDa, el Museo del Templo Mayor y en el Instituto de Investigaciones Jur\u00EDdicas de la UNAM;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">hay docentes que son integrantes de los Comit\u00E9s de Acreditaci\u00F3n de Escuelas de Arquitectura de M\u00E9xico por la Acreditadora Nacional de Programas de Arquitectura y Disciplinas del. Espacio Habitable (ANPADEH);<\/span><\/li><li class=\"ql-align-justify\"><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">hay docentes que son integrantes del Cuadro de Tutores de la Divisi\u00F3n de Estudios de Posgrado e Investigaci\u00F3n de la UNAM.<\/em><\/li><\/ul>",
+                "reconocimiento_alumnos": "<ul><li class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Proyecto \"Club de Arquilectura\".<\/strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Grupo de estudiantes y docentes dedicados a la lectura y an\u00E1lisis de publicaciones literarias diversas. Su participaci\u00F3n es semestral y su permanencia corresponde a las asignaturas de la Sub\u00E1rea de Teor\u00EDa.<\/span><\/li><li class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Proyecto \"Sala de modelos virtuales, l\u00E1ser y 3D\".<\/strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Dirigido a la habilitaci\u00F3n y puesta en operaci\u00F3n de un espacio de tecnolog\u00EDa avanzada, cuyo prop\u00F3sito ser\u00E1 la presentaci\u00F3n de propuestas arquitect\u00F3nicas en realidad virtual y aumentada, la tecnolog\u00EDa l\u00E1ser y la elaboraci\u00F3n de objetos arquitect\u00F3nicos en tercera dimensi\u00F3n. Actualmente se encuentran a cargo los estudiantes Joaqu\u00EDn Islas Mart\u00EDnez, Nancy Hern\u00E1ndez Y\u00E1\u00F1ez y Daniel Ju\u00E1rez Terrazas.<\/span><\/li><li><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Proyecto \"Obra del Arq. \u00C1lvaro Aburto Alvarado\".<\/strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Equipo integrado para la digitalizaci\u00F3n y catalogaci\u00F3n de la obra original de uno de los tres arquitectos de mayor influencia en la primera mitad del siglo XX. La persona encargada a la fecha es Ricardo Ren\u00E9 Rosales S\u00E1nchez.<\/span><\/li><\/ul>"
+            }
+        }, 
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Ana María Cortés Carmona",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/arquitectura/ana-maria-cortes-carmona.jpg",
+                "genero_jefe_carrera": "1",
+                "secretario_tecnico": "Miguel \u00C1ngel Lazo Aguilar",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/arquitectura/miguel-angel-lazo-aguilar.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30858, 30857 y 30824",
+                "correo_electronico": "arquitectura@aragon.unam.mx",
+                "correo_electronico_st": "st.arquitectura@aragon.unam.mx",
+                "facebook": "https:\/\/www.facebook.com\/FESAragon.arquitectura\/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/arquitectura"
+            }
+        }]
+}

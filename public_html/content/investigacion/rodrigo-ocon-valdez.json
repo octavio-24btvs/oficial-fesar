@@ -1,0 +1,18 @@
+{
+    "nombre": "Rodrigo Ocón Valdez", 
+    "grado_academico": "Maestro", 
+     "correo": [ "rodrigoocon99@aragon.unam.mx"],
+     "imagen": true,  
+    "estudios": [
+        "Licenciatura como Ingeniero Mecánico Electricista. Universidad Nacional Autónoma de México.",
+        "Maestría en Ciencias con Especialidad en Ingeniería Eléctrica. Instituto Politécnico Nacional."
+    ], 
+    "lineas_investigacion": [
+        "Electricidad"
+    ], 
+    "investigaciones": [
+        "Tecnologías de la Información y Comunicación (Tic ́s) en la enseñanza de prácticas de laboratorio de ingeniería.",
+        "Simulación digital aplicada en la enseñanza de ingeniería eléctrica.",
+        "Modernización de prácticas e implementación de módulos didácticos y recursos digitales para el laboratorio de Protección de Sistemas Eléctricos en el área de máquinas eléctricas y potencia de la FES Aragón."
+    ]
+}

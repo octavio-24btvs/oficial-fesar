@@ -1,0 +1,156 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfiles",
+        "Plan de estudios",
+        "Titulaci\u00F3n",
+        "Acreditaci\u00F3n",
+        "Contacto"
+    ],
+    "titulo": "Ingenier\u00EDa Civil",
+    "icono": "icono-secciones icon-ingenieria-civil",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de Bienvenida</h2><p>La Licenciatura en Ingenier\u00EDa Civil te da la bienvenida a la FES Arag\u00F3n. Ahora eres parte de la comunidad universitaria m\u00E1s grande de M\u00E9xico. Te pedimos colabores con tu esfuerzo para que nuestra Facultad sea un aut\u00E9ntico espacio donde, con libertad y pluralidad, se forje el futuro del pa\u00EDs.<\/p>",
+            "imagenes": [
+                {
+                    "imagen": "mecanica/carrusel/iso-9001-2015.jpg",
+                    "tipo_hipervinculo": "pdf",
+                    "hipervinculo": "mecanica/certificacion-lab.pdf"
+                },
+                {
+                    "imagen": "mecanica/carrusel/taller-de-integracion-de-conocimientos.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "mecanica/carrusel/img-completa/taller-de-integracion-de-conocimientos.jpg"
+                },
+                {
+                    "imagen": "mecanica/carrusel/rankin-del-universal.jpg",
+                    "tipo_hipervinculo": "link",
+                    "hipervinculo": "https://interactivo.eluniversal.com.mx/2019/mejores-universidades/?fbclid=IwAR34YEQ2gegenYoeaJEkau8f_Wd9MQcKVW7hcgS0wsComxXs3QRCTW4jxws#page/62"
+                }
+
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row mb-3\"><div class=\"col-12\"><h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><div class=\"row galeria justify-content-center align-items-center\"><div class=\"col-12 col-lg-6\"><div class=\"embed-responsive embed-responsive-16by9\" style=\"border-radius: 15px;\"> <iframe class=\"embed-responsive-item\" src=\"https:\/\/www.youtube.com\/embed\/_qbS0cHL2kM\" frameborder=\"0\" allowfullscreen><\/iframe><\/div><\/div><div class=\"col-12 col-lg-4\"><button type=\"button\" class=\"btn boton-registro btn-group-sm\" data-toggle=\"modal\" data-target=\"#modalobjetivo\">Objetivo</button><div class=\"modal fade\" id=\"modalobjetivo\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Objetivo</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>Formar profesionales con fundamentos para planear, diseñar, construir, desarrollar y evaluar proyectos en las \u00E1reas de estructuras, construcci\u00F3n, geotecnia, sistemas y transportes, hidr\u00E1ulica y ambiental; con la finalidad de dar soluci\u00F3n a las necesidades de creaci\u00F3n, mejora, mantenimiento y rehabilitaci\u00F3n de obras civiles desde un marco de diversidad de la Ingenier\u00EDa, aplicando criterios de sustentabilidad con enfoque \u00E9tico y responsable en el ejercicio de la profesi\u00F3n.<\/p></div></div></div></div><br/><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalMision\">Misi\u00F3n</button><div class=\"modal fade\" id=\"modalMision\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Misi\u00F3n</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>Formar profesionistas con una educaci\u00F3n integral y en especial con una alta competitividad en el \u00E1rea de la ingenier\u00EDa civil, con la finalidad de que en el ejercicio de su profesi\u00F3n busquen atender las necesidades de creaci\u00F3n, mejora, mantenimiento y rehabilitaci\u00F3n de obras civiles desde un marco de diversidad de la Ingenier\u00EDa, aplicando criterios de sustentabilidad con enfoque \u00E9tico, responsable y desde una perspectiva que conlleve siempre el beneficio social en la b\u00FAsqueda de soluciones a problemas regionales, nacionales e internacionales.</p></div></div></div></div><br><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalVision\">Visi\u00F3n</button><div class=\"modal fade\" id=\"modalVision\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Visi\u00F3n</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>La carrera de Ingenier\u00EDa Civil en la Facultad de Estudios Superiores Arag\u00F3n es un programa con un amplio reconocimiento acad\u00E9mico y social dentro de la UNAM, que aspira a colocarse como uno de los ejes principales del \u00E1rea del conocimiento ingenieril de la universidad y consolidarse como un referente en el \u00E1mbito nacional y trascender al internacional.</p><p>Con un amplio compromiso hacia el estudiante y guiado por valores como los de legalidad, transparencia, pasi\u00F3n, innovaci\u00F3n, igualdad y af\u00E1n por el saber, buscamos que nuestros estudiantes y egresados en el ejercicio competitivo de su profesi\u00F3n, o a trav\u00E9s de organizaciones sociales, busquen soluciones integrales a las necesidades econ\u00F3micas, sociales y del medio ambiente.<\/p></div></div></div></div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3\">Perfiles<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Perfil de ingreso",
+                    "texto": "<p>La comunidad aspirante deber\u00E1 contar con:</p> <ul><li>conocimientos s\u00F3lidos de f\u00CDsica, qu\u00CDmica y matem\u00E1ticas;<\/li><li>aptitud para detectar, definir y aplicar el razonamiento cient\u00CDfico al estudio y la soluci\u00F3n de problemas pr\u00E1cticos, en el campo de la f\u00CDsica y en especial de la mec\u00E1nica;<\/li><li>capacidad para dirigir el trabajo en equipo;<\/li><li>habilidad en el manejo de diferentes f\u00F3rmulas y lenguajes de computaci\u00F3n;<\/li><li>inventiva y creatividad;<\/li><li>actitud responsable, positiva y emprendedora, a fin de realizar con seguridad y confianza sus labores;<\/li><li>lectura y comprensi\u00F3n del idioma inglés.<\/li><\/ul>"
+                },
+                {
+                    "titulo": "Perfil de egreso",
+                    "texto": "<p>La comunidad profesional de la Ingenier\u00CDa Mec\u00E1nica tendr\u00E1 conocimientos de ciencias exactas, administrativas y de la ingenier\u00CDa para desarrollarse en las \u00E1reas de dise\u00F1o de sistemas, dispositivos electromec\u00E1nicos, selecci\u00F3n y an\u00E1lisis de fallas en los materiales, procesos térmicos y de fluidos, as\u00CD como la manufactura de maquinaria industrial. Esta formaci\u00F3n le permitir\u00E1 participar activamente en las diversas ramas de la ingenier\u00CDa y responder a las necesidades productivas y de servicios que requiere la sociedad.</p><p>Nuestra comunidad egresada desempe\u00F1a un papel importante en el desarrollo de la econom\u00CDa. Fortalece la micro, peque\u00F1a y mediana empresa mediante el dise\u00F1o de dispositivos, productos y tecnolog\u00CDa, el estudio de las nuevas técnicas de manufactura, an\u00E1lisis energéticos, as\u00CD como la capacitaci\u00F3n y la administraci\u00F3n.</p><p>También contar\u00E1 con conocimientos que le permitir\u00E1n emprender estudios de posgrado que lo mantendr\u00E1n actualizado con respecto a los constantes avances en las técnicas y tecnolog\u00CDas de esta disciplina.</p>"
+                },
+                {
+                    "titulo": "Objetivos educacionales",
+                    "texto": "<p>La comunidad egresada de la Licenciatura en Ingeniería Mecánica:</p><ol><li class=\"ql-align-justify\">ser\u00E1 capaz de dise\u00F1ar, administrar y\/o mejorar sistemas, equipos y dispositivos, ya sea mec\u00E1nicos o electromec\u00E1nicos, as\u00ED como procesos t\u00E9rmicos y de manufactura, en las \u00E1reas de especialidad: Dise\u00F1o, Manufactura, Termoenerg\u00EDa, Mecatr\u00F3nica y Biomec\u00E1nica.<\/li><li class=\"ql-align-justify\">dise\u00F1ar\u00E1 y desarrollar\u00E1 proyectos en su campo de especializaci\u00F3n apoyado de las TIC´s y de equipo especializado.<\/li><li class=\"ql-align-justify\">se integrar\u00E1 con \u00E9xito en equipos interdisciplinarios y multidisciplinarios, tanto en el sector p\u00FAblico como en el privado.<\/li><li class=\"ql-align-justify\">ser\u00E1 capaz de aplicar el juicio ingenieril para dar soluciones integrales \u00E9ticas y con responsabilidad social.<\/li><li class=\"ql-align-justify\">ampliar\u00E1 sus conocimientos al participar en actividades de actualizaci\u00F3n a trav\u00E9s de cursos, especializaciones, diplomados y\/o estudios de posgrado.<\/li><\/ol><p class=\"ql-align-justify\"><br><\/p>"
+                },
+                {
+                    "titulo": "Atributos del egresado",
+                    "texto": "<p>Estos son un conjunto de resultados evaluables; representan el potencial de nuestros egresados en la adquisici\u00F3n de las competencias o capacidades para ejercer la pr\u00E1ctica de la ingenier\u00CDa mec\u00E1nica a un nivel apropiado.</p><br>La comunidad estudiantil de la Licenciatura en Ingenier\u00EDa Mecanica:<ol class=\"alpha-numeric-list\"><li>identifica, formula y resuelve problemas de ingenier\u00CDa, aplicando los principios de ingenier\u00CDa, ciencias y matem\u00E1ticas.</li><li>aplica, analiza y sintetiza procesos de dise\u00F1o de ingenier\u00CDa que resulten en proyectos que cumplen las necesidades especificadas.</li><li>desarrolla y conduce experimentaci\u00F3n adecuada; analiza e interpreta datos y utiliza el juicio ingenieril para establecer conclusiones.</li><li>se comunica efectivamente de forma oral y escrita con diferentes audiencias y empleando los distintos medios a su alcance.</li><li>reconoce sus responsabilidades éticas y profesionales en situaciones relevantes para la ingenier\u00CDa y realiza juicios informados que deben considerar el impacto de las soluciones de ingenier\u00CDa en los contextos global, econ\u00F3mico, ambiental y social.</li><li>reconoce la necesidad permanente de conocimiento adicional y tiene la habilidad para localizar, evaluar, integrar y aplicar este conocimiento adecuadamente.</li><li>trabaja de manera efectiva en equipos disciplinarios o multidisciplinarios que establecen objetivos y metas, planean tareas, cumplen fechas l\u00CDmite, analizan riesgos e incertidumbre y eval\u00FAan resultados.<br/><br/><a class=\"btn boton-registro\" href=\"public_html/documents/licenciaturas/mecanica/mapeo-de-los-atributo-de-egreso.pdf\" target=\"_blank\" title=\"Mapeo de los Atributos de Egreso\">Mapeo de los Atributos de Egreso</a></li></ol>"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3\">Aspectos generales<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Requisitos de ingreso",
+                    "texto": "<p class=\"ql-align-justify\"><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Están establecidos en el Reglamento General de Inscripciones, en el que se determina que para ingresar a la Universidad es indispensable:<\/span><\/p><ol><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">solicitar la inscripci\u00F3n de acuerdo con los instructivos que se establezcan;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">haber obtenido en el ciclo de estudios inmediato anterior un promedio m\u00EDnimo de siete o su equivalente;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">contar con la aceptaci\u00F3n mediante concurso de selecci\u00F3n, que comprender\u00E1 una prueba escrita y que deber\u00E1 realizarse dentro de los periodos que al efecto se se\u00F1alen;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">contar con el antecedente acad\u00E9mico indispensable del bachillerato.<\/span><\/li><\/ol>"       
+                },
+                {
+                    "titulo": "Requisitos de egreso",
+                    "texto":"<p>Acreditar todas las asignaturas del plan de estudios, de acuerdo con su estructura, requerimientos curriculares, y verificar que con esto se cubra el 100% de los créditos del plan de estudios.</P>"                
+                },
+                {
+                    "titulo": "Normatividad",
+                    "texto": "<ul><li><a href=\"public_html/documents/licenciaturas/mecanica/normatividad.pdf\"target=\"_blank\">Normatividad</a> </li></ul>"
+                },
+                {
+                    "titulo": "Duraci\u00F3n",
+                    "texto": "<p>El nuevo plan de estudios para la licenciatura de Ingenier\u00CDa Mec\u00E1nica se cursar\u00E1 en 8 semestres con 316 créditos obligatorios, 24 créditos obligatorios de elecci\u00F3n y 16 créditos optativos, dando un total de 356 créditos. Comprende 43 asignaturas, de las cuales 38 son obligatorias, tres son obligatorias de especialidad y dos son optativas.<\/p>"
+                }
+            ],
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro\" href=\"public_html/documents/licenciaturas/mecanica/mapa-curricular.pdf\" title=\"Malla Curricular\" target=\"_blank\">Malla Curricular<\/a><\/div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3\">Titulación<\/h2><div class=\"col-12 d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/req-generales.pdf\" target=\"_blank\" title=\"Requisitos generales\">Requisitos generales</a></div>",
+            "acordeon": [
+                {
+                    "titulo": "Tesis",
+                    "texto": "<p>Esta modalidad de titulaci\u00F3n est\u00E1 dirigida a la comunidad egresada que se encuentre interesada en realizar una investigaci\u00F3n pura, b\u00E1sica, te\u00F3rica, pr\u00E1ctica, o aplicada; empleando una rigurosa metodolog\u00CDa cient\u00CDfica.</p><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/tesis.pdf\" title=\"Tesis\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                },
+                {
+                    "titulo": "Actividad de Investigaci\u00F3n",
+                    "texto": "<p>Esta modalidad tiene por objetivo incorporar a la comunidad estudiantil y egresada en proyectos de investigaci\u00F3n, garantizar el uso de los conocimientos adquiridos durante la licenciatura y adentrarlas en el campo de su profesi\u00F3n; propiciando el desarrollo de ideas innovadoras a favor de la sociedad en general.</P><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/actividad-de-investigacion.pdf\" title=\"Actividad de Investigaci\u00F3n\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                },
+                {
+                    "titulo": "Alto nivel académico",
+                    "texto": "<p>Esta modalidad de titulaci\u00F3n est\u00E1 dirigida a la comunidad egresada que acreditó todas sus asignaturas de forma sobresaliente, con promedio m\u00CDnimo de 9.5, en la primera inscripci\u00F3n y sin ningún recursamiento.</p><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/alto-nivel.pdf\" title=\"Alto nivel académico\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                },
+                {
+                    "titulo": "Estudios de Posgrado",
+                    "texto": "<p>Esta modalidad est\u00E1 dirigida a la comunidad egresada que haya cubierto al menos un semestre en alguno de los programas de posgrado de la UNAM autorizados, con una calificaci\u00F3n m\u00CDnima de ocho en cada una de sus actividades.</p><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/posgrado.pdf\" title=\"Estudios de Posgrado\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                },
+                {
+                    "titulo": "Desarrollo de un Caso Pr\u00E1ctico",
+                    "texto": "<p>Esta modalidad est\u00E1 dirigida a la comunidad egresada que desarrolle soluciones a problemas reales aplicando conocimientos de su licenciatura y que posea criterio profesional.</p><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/caso-practico.pdf\" title=\"Desarrollo de un Caso Pr\u00E1ctico\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                },
+                {
+                    "titulo": "Examen General de conocimientos",
+                    "texto": "<p>Esta modalidad est\u00E1 dirigida a la comunidad egresada que demuestre, mediante un examen, que domine los conocimientos actualizados de la licenciatura.</p><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/examen.pdf\" title=\"Examen General de conocimientos\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                },
+                {
+                    "titulo": "Informe del Ejercicio Profesional",
+                    "texto": "<p>Esta modalidad est\u00E1 dirigida a la comunidad egresada que hayan ejercido la profesi\u00F3n, al menos durante tres a\u00F1os consecutivos, aplicando los conocimientos de la licenciatura y que posean criterio profesional.</p><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/ejercicio-profesional.pdf\" title=\"Informe del Ejercicio Profesional\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                },
+                {
+                    "titulo": "Memoria de Desempe\u00F1o de Servicio Social",
+                    "texto": "<p>Para la comunidad egresada que haya realizado su Servicio Social, después de haber acreditado todas las asignaturas de la licenciatura y si implica la pr\u00E1ctica profesional.</p><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/servicio-social.pdf\" title=\"Memoria de Desempe\u00F1o de Servicio Social\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                },
+                {
+                    "titulo": "Actividad de Apoyo a la Docencia",
+                    "texto": "<p>Esta modalidad tiene por objetivo valorar en conjunto los conocimientos generales de la comunidad egresada; demostrar su capacidad para aplicar los conocimientos adquiridos y su criterio profesional, y mejorar el proceso de ense\u00F1anza-aprendizaje de la comunidad estudiantil y favorecer la mejora continua del plan de estudios de la carrera en cuesti\u00F3n.</p><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/apoyo-docencia.pdf\" title=\"Actividad de Apoyo a la Docencia\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                },
+                {
+                    "titulo": "Cursos y diplomados de Actualizaci\u00F3n y Capacitaci\u00F3n Profesional",
+                    "texto": "<p>Para la comunidad egresada que cuente en su haber con algún curso o diplomado de calidad reconocida, que propicie la aplicaci\u00F3n correcta de los conocimientos de su licenciatura, y que cuente con una duraci\u00F3n m\u00CDnima de 240 horas.</p><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/actualizacion-profesional.pdf\" title=\"Cursos y diplomados de Actualizaci\u00F3n y Capacitaci\u00F3n Profesional\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                },
+                {
+                    "titulo": "Ampliaci\u00F3n y Profundizaci\u00F3n de Conocimientos en su Alternativa de Cursos o Diplomados De Educaci\u00F3n Continua",
+                    "texto": "<p>Esta modalidad est\u00E1 dirigida a la comunidad egresada que desee actualizarse en temas de vanguardia, mediante varios cursos o diplomados que sumen 240 horas.</p><div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/mecanica/educacion-continua.pdf\" title=\"Ampliaci\u00F3n y Profundizaci\u00F3n de Conocimientos en su Alternativa de Cursos o Diplomados De Educaci\u00F3n Continua\" target=\"_blank\">M\u00E1s informaci\u00F3n<\/a><\/div>"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row justify-content-center\"><h2 class=\"col-12\">Acreditación Internacional</h2><p class=\"col-12\">Tendremos la visita de las personas evaluadoras del Consejo de Acreditaci\u00F3n para la Ense\u00F1anza de la Ingenier\u00EDa (CACEI) los días 4 y 5 de noviembre de 2019, en la cual se llevar\u00E1 a cabo el proceso de reacreditaci\u00F3n con el marco de referencia 2018 en el contexto internacional.<\/p><p class=\"col-12\">Actualmente, la Licenciatura en Ingenier\u00EDa Mec\u00E1nica se encuentra acreditada por el CACEI bajo el marco de referencia 2010 en un contexto nacional. Sin embargo, como parte de los esfuerzos mejora continua del programa educativo, se ha iniciado con los trabajos para su evaluaci\u00F3n bajo el marco de referencia de 2018 del CACEI en el contexto internacional, lo cual permitir\u00E1 avalar la calidad del mismo, representando una oportunidad de crecimiento para toda la comunidad de la Licenciatura<\/p><div class=\"col-12\"><a class=\"btn boton-registro\" href=\"public_html/documents/licenciaturas/mecanica/constancia-de-acreditacion.pdf\" target=\"_blank\" title=\"Servicios Escolares\">Certificado de Acreditaci\u00F3n 2014-2019</a></div></div>"
+        },
+        {
+    "tipo": "contacto",
+            "texto": {
+            "jefe_carrera": "Juan Carlos Ort\u00EDz Le\u00F3n",
+                    "foto_jefe_de_carrera": "public_html/img/oferta_academica/civil/juan-carlos-ortiz-leon.jpg",
+                    "genero_jefe_carrera": "0",
+                    "secretario_tecnico": "Oniel Garc\u00EDa Balanzar",
+                    "foto_secretario_tecnico": "public_html/img/oferta_academica/civil/oniel-garcia-balanzar.jpg",
+                    "genero_secretario_tecnico": "0",
+                    "horario": "De lunes a viernes de 9:00 a 15:00 h y de 17:00 a 21:00 h",
+                    "telefonos": "56230821 y 56230821",
+                    "correo_electronico": "<div>civil@aragon.unam.mx<\/div><div>st.civil@aragon.unam.mx<\/div>",
+                    "facebook": "https://www.facebook.com/FESAragon.civil/",
+                    "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/civil"
+            }
+        }
+    ]
+}

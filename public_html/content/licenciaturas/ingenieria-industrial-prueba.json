@@ -1,0 +1,68 @@
+{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfiles",
+        "Plan de estudios",
+        "Titulaci\u00F3n",
+        "Grupos de inter\u00E9s",
+        "Contacto"
+    ],
+    "titulo": "Ingenier\u00EDa Industrial",
+    "icono": "icono-secciones icon-ingenieria-industrial",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Bienvenidos</h2><p>La carrera de Ingeniería Industrial te da la bienvenida a la FES Aragón de la UNAM. Ahora eres parte de la comunidad universitaria más grande de México. Te pedimos colabores con tu esfuerzo para que nuestra Facultad sea un auténtico espacio donde, con libertad y pluralidad, se forje el futuro del país.</p>",
+            "imagenes": [
+                {
+                    "imagen": "industrial/carrusel/1.jpg",
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/1.jpg"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentación</h2><p><strong>Objetivo General</strong></p><p>Nuestro objetivo es formar profesionales especialistas en las áreas de estructuras, construcción, geotecnia, sistemas y transportes, hidráulica y ambiental, para planear, diseñar, construir, operar, desarrollar y evaluar proyectos de infraestructura de obras públicas y privadas. Asimismo, la formación profesional de la carrera busca contribuir a la solución de las necesidades de creación, mejora, mantenimiento y rehabilitación de las obras civiles desde un marco diverso de la ingeniería, aplicando criterios de sustentabilidad con enfoque ético y responsable en el ejercicio de la profesión.</p><p><strong>Programa educativo</strong></p><p>La comunidad egresada de la carrera de Ingeniería Civil se integra por personas de formación multidisciplinaria que comprenden el comportamiento de estructuras y obras en construcción, prevén los impactos ocasionados por factores sociales, ecológicos y económicos, además de encargarse de la organización conveniente de recursos naturales y humanos de grandes áreas. Su trabajo es de gran importancia para el desarrollo de las poblaciones urbanas y rurales.</p><p>Nuestro programa contempla:</p><ul><li>posicionar a los estudiantes en empresas que se dedican al diseño de proyectos, colaborando en el sector constructivo de acuerdo con su área de especialización;</li><li>preparar a la comunidad estudiantil con herramientas informáticas, y equipo especializado para facilitar el desarrollo de proyectos civiles;</li><li>procurar que estudiantes mantengan contacto con organizaciones sociales, profesionales o de egresados que les permitan tener competitividad en el ejercicio profesional;</li><li>dotar al cuerpo estudiantil de habilidades de comunicación para coordinar equipos multidisciplinarios y dar soluciones integrales a las necesidades de la sociedad;</li><li>incorporar a estudiantes en actividades de actualización académica (estudios de posgrado, especializaciones y diplomados) que les ayuden a innovar y puedan responder a los avances constantes de esta profesión.</li></ul><hr><h2 class=\"titulo-seccion pb-2\">Misión y visión del programa educativo</h2><p><strong>Misión</strong></p><p>Formar profesionistas con una educación integral y, en especial, con una alta competitividad en el área de la ingeniería civil, con la finalidad de que en el ejercicio de su profesión busquen atender las necesidades de creación, mejora, mantenimiento y rehabilitación de obras civiles desde un marco de diversidad de la Ingeniería, aplicando criterios de sustentabilidad con enfoque ético, responsable y desde una perspectiva que conlleve siempre al beneficio social en la búsqueda de soluciones a problemas regionales, nacionales e internacionales.</p><p><strong>Visión</strong></p><p>La comunidad egresada de la carrera de Ingeniería Civil se integra por personas de formación multidisciplinaria que comprenden el comportamiento de estructuras y obras en construcción, prevén los impactos ocasionados por factores sociales, ecológicos y económicos, además de encargarse de la organización conveniente de recursos naturales y humanos de grandes áreas. Su trabajo es de gran importancia para el desarrollo de las poblaciones urbanas y rurales.</p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso</h2><p>La comunidad estudiantil aspirante deberá concluir el bachillerato en el Área de Ciencias Físico-Matemáticas, ya que requiere tener conocimiento de matemáticas en las asignaturas de álgebra, geometría analítica, así como en cálculo integral y diferencial; además de poseer conocimientos sólidos en física, particularmente en temas relacionados con mecánica, electricidad y magnetismo, y conocimientos básicos en química.</p><p>Asimismo, necesitará aptitudes para la planeación y dirección de trabajos en grupo, interés científico, técnico y administrativo, capacidad de análisis y síntesis, inclinación para la solución de problemas y capacidad para la toma de decisiones, apoyándose siempre en su conocimiento.</p><hr><h2 class=\"titulo-seccion pb-2\">Perfil de Egreso</h2><p>La comunidad egresada estará capacitada para supervisar y coordinar el trabajo técnico y administrativo de otras personas. La creación, supervisión, coordinación y dirección de sistemas de obras para la producción de bienes y servicios. Sabrá recopilar y analizar información topográfica, sísmica y de suelos. Además, aplicará métodos estadísticos para dar pronósticos tales como el crecimiento de la población, determinación de vientos, precipitaciones y calidad del agua.</p><p>A su vez, podrá planear, diseñar, construir, administrar, mantener y operar obras para el desarrollo urbano, rural, industrial, habitacional y de la infraestructura del país, procurando el mejor aprovechamiento de los recursos materiales y financieros en beneficio de la sociedad.</p><p>La comunidad profesional de la Ingeniería Civil podrá especializarse en las áreas de análisis y diseño de edificaciones, dirección, administración y supervisión de obras en materia de construcción, estudio del comportamiento de la mecánica de suelos y rocas para la estructura y cimentación adecuada, estudio y análisis de fenómenos del ciclo hidrológico para el aprovechamiento hidráulico, estudio y diseño de obras para la promoción y conservación de la salud, así como en la planeación de sistemas de transportes.</p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Objetivos educacionales</h2><p>La comunidad egresada de la carrera de Ingeniería Civil:</p><p>Requisitos de ingreso:</p><ol class=\"zero-fill-list\"><li>diseña proyectos de acuerdo con su área de especialización;</li><li>emplea herramientas computacionales para facilitar el desarrollo de proyectos civiles;</li><li>mantiene contacto con grupos de interés especiales, que le permiten ser competitiva en el ejercicio de la profesión.</li><li>utiliza habilidades de comunicación para coordinar equipos multidisciplinarios y dar soluciones integrales a las necesidades de la sociedad;</li><li>se incorpora en actividades de educación continua como estudios de posgrado, especializaciones, diplomados y cursos de actualización profesional, para asimilar los cambios y avances de la profesión.</li></ol><hr><h2 class=\"titulo-seccion pb-2\">Atributos del egresado</h2><p>La comunidad egresada de la carrera de Ingeniería Civil:</p><ol class=\"alpha-numeric-list\"><li>identifica, formula y resuelve problemas de ingeniería aplicando los principios de ingeniería, ciencias y matemáticas</li><li>aplica, analiza y sintetiza procesos de diseño de ingeniería que resulten en proyectos que cumplan las necesidades especificadas</li><li>desarrolla y conduce experimentación adecuada; analiza e interpreta datos y utiliza el juicio ingenieril para establecer conclusiones</li><li>se comunica efectivamente de forma oral y escrita, con diferentes audiencias y empleando los distintos medios a su alcance</li><li>reconoce sus responsabilidades éticas y profesionales en situaciones relevantes para la ingeniería y realiza juicios informados que deben considerar el impacto de las soluciones de ingeniería en los contextos global, económico, ambiental y social</li><li>reconoce la necesidad permanente de conocimiento adicional y de tener la habilidad para localizar, evaluar, integrar y aplicar este conocimiento adecuadamente</li><li>trabaja efectivamente en equipos disciplinarios o multidisciplinarios que establecen objetivos y metas, planean tareas, cumplen fechas límite, analizan riesgos e incertidumbre y evalúan resultados</li></ol><hr><h2 class=\"titulo-seccion pb-2\">Mapa curricular</h2><div class=\"row\"><div class=\"col-12\"><a class=\"btn boton-registro\" href=\"pdf\/ingenieria-civil\/mapa-ing-civil.pdf\" target=\"_blank\" title=\"Servicios Escolares\">Mapa curricular</a><a class=\"btn boton-registro\" href=\"pdf\/ingenieria-civil\/acta-constitutiva.pdf\" target=\"_blank\" title=\"Servicios Escolares\">Acta constitutiva</a><a class=\"btn boton-registro\" href=\"pdf\/ingenieria-civil\/mapa-ing-civil.pdf\" target=\"_blank\" title=\"Servicios Escolares\">Mapeo de atributos de engreso</a></div></div>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html\/documents\/ingenieria-civil-titulacion.pdf"
+        },
+        {
+            "tipo": "grupos_de_interes",
+            "titulos": [
+                "Reconocimientos de estudiantes y docentes",
+                "Proyectos académicos estudiantiles"
+            ],
+            "contenidos": [
+                "<ul><li>Es una carrera acreditada por parte del Consejo de la Acreditación de la Enseñanza de la Ingeniería (CACEI) A.C.;<\/li><li>la comunidad de la carrera ha recibido premios por los mejores promedios en ingeniería por la Asociación Nacional de Facultades y Escuelas de Ingeniería (ANFEI);<\/li><li>la FES Aragón participó como sede en el Rally Latinoamericano de Innovación 2017, donde se obtuvo el primer lugar.<\/li><\/ul>",
+                "<ul><li>Comunidad de Ingeniería Industrial y Desarrollo Estudiantil (CIIDE). Su objetivo es impulsar a la comunidad estudiantil a la participación activa y emprendedora durante su formación académica. Cuenta con la participación de Ariadna Velázquez Rodríguez, Juan Antonio Amat Carrasco, Marcos Francisco Esparza Posadas e Israel López Rojas.<\/li><\/ul>"
+            ]
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Juan Carlos Ort\u00EDz Le\u00F3n",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/civil/juan-carlos-ortiz-leon.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Oniel Garc\u00EDa Balanzar",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/civil/oniel-garcia-balanzar.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 9:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "56230821 y 56230821",
+                "correo_electronico": "civil@aragon.unam.mx",
+                "facebook": "https://www.facebook.com/FESAragon.civil/"
+            }
+        }
+    ]
+}

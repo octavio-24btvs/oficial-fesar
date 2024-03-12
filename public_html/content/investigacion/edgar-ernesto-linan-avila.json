@@ -1,0 +1,22 @@
+{
+    "nombre": "Édgar Ernesto Liñán Ávila", 
+    "grado_academico": "Doctor", 
+     "correo": [ "elinan@unam.mx"     ],
+     "correo2": [ "edgarlinanlia@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Lengua y Literaturas Hispánicas. Universidad Nacional Autónoma de México.",
+         "Maestría en Literatura Hispanoamericana. Universidad Nacional Autónoma de México.",
+         "Doctorado en Letras Iberoamericanas. Universidad Nacional Autónoma de México."
+
+
+    ], 
+    "lineas_investigacion": [
+        "El concepto de la realidad y sus interpretaciones.",
+        "Literatura y periodismo.",
+        "Periodismo escrito."
+    ], 
+    "investigaciones": [
+        "Obras significativas del periodismo mexicano."
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "titulo": "Comics", 
+    "seccion": "comic", 
+    "imagenes": [
+        {
+            "imagen": "alimentate-sanamente.jpg",
+            "alt": "Alimentate sanamente"
+        },
+        {
+            "imagen": "cuidar-un-enfermo.jpg",
+            "alt": "Cuidar un enfermo"
+        },
+        {
+            "imagen": "escuela-cerrada.jpg",
+            "alt": "Escuela cerrada"
+        },
+        {
+            "imagen": "lavarte-las-manos.jpg",
+            "alt": "Lavarte las manos"
+        },
+        {
+            "imagen": "limpieza.jpg",
+            "alt": "Limpieza"
+        },
+        {
+            "imagen": "limpieza-en-casa.jpg",
+            "alt": "Limpieza en casa"
+        },
+        {
+            "imagen": "precauciones.jpg",
+            "alt": "Precauciones"
+        },
+        {
+            "imagen": "quedate-en-casa.jpg",
+            "alt": "Quedate en casa"
+        },
+        {
+            "imagen": "uso-incorrecto-del-cubrebocas.jpg",
+            "alt": "Uso incorrecto del cubrebocas"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+	"titulo": "ASINEA: La arquitectura desde los colegios",
+	"titulo_normalizado": "asinea-la-arquitectura-desde-los-colegios",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor":"Velia L\u00F3pez",
+	"fecha":"22/10/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En M\u00E9xico diversas escuelas imparten la carrera de Arquitectura; sin embargo, cada una tiene su propia forma de ense\u00F1ar; algunas, por ejemplo, se encuentran innovando la ense\u00F1anza al implementar nuevos temas de impacto significativo, pues actualmente se busca obtener obras arquitect\u00F3nicas saludables y con menos huella de carbono para beneficios de toda la poblaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para el arquitecto Honorato F. Carrasco, presidente del Colegio de Arquitectos de la Ciudad de M\u00E9xico, Sociedad de Arquitectos de M\u00E9xico, quien particip\u00F3 en la mesa “La ense\u00F1anza de la arquitectura desde la visi\u00F3n de los cuerpos colegiados”, hay un mayor n\u00FAmero de competencia y menor mercado de trabajo, adem\u00E1s de considerar las desventajas de quienes reci\u00E9n egresan de la carrera, pues considera al mercado laboral como poco favorable para las y los j\u00F3venes.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por tales motivos, Jos\u00E9 Manuel Trigos, tambi\u00E9n ponente y presidente del Colegio de Arquitectos del Estado de M\u00E9xico, concluy\u00F3 en que es importante diversificar el mercado de trabajo y aumentar la presencia de arquitectos a todas las zonas, as\u00ED como equilibrar los egresos de arquitectas y arquitectos con nuevas estrategias de construcci\u00F3n y obra.<\/span><\/p>",
+	"imagenes":[{"imagen":"desde-los-colegios1.gif"},{"imagen":"desde-los-colegios-2.gif"},{"imagen":"desde-los-colegios-3.gif"},{"imagen":"desde-los-colegios-4.gif"}]
+}

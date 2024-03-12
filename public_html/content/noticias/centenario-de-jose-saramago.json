@@ -1,0 +1,31 @@
+{
+	"titulo": "Centenario de Jos\u00E9 Saramago",
+	"titulo_normalizado": "centenario-de-jose-saramago",
+	"secciones": [
+		{
+			"seccion": "Centro de Lenguas",
+			"seccion_normalizada": "centro-de-lenguas"
+		},
+		{
+			"seccion": "SUAyED",
+			"seccion_normalizada": "suayed"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "16/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A cien a\u00F1os del nacimiento del escritor portugu\u00E9s Jos\u00E9 Saramago, ganador del premio Nobel de literatura en 1998, se llevaron a cabo dos conferencias y la proyecci\u00F3n del documental <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Jos\u00E9 y Pilar <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">en el teatro Jos\u00E9 Vasconcelos de la Facultad de Estudios Superiores Arag\u00F3n, las ponencias fueron impartidas por Cristina D\u00EDaz y Enrique Moreno, docentes aragoneses, quienes dieron su presentaci\u00F3n en portugu\u00E9s, idioma natal del escritor.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La primera conferencia titulada \"<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Vida de Jos\u00E9 Saramago el nobel de literatura portugu\u00E9s\" <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">narr\u00F3 los estudios, las inspiraciones y un recuento de las obras m\u00E1s destacadas del escritor en las que profundiza en la literatura a trav\u00E9s de novelas rom\u00E1nticas, cr\u00F3nicas y ensayos, en los cuales hac\u00EDa una cr\u00EDtica reflexiva de los movimientos sociales, hist\u00F3ricos y pol\u00EDticos de Am\u00E9rica Latina, dotando sus historias de realismo m\u00E1gico.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte la conferencia titulada <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">\"Los ep\u00EDgrafes de los libros de Saramago\" <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">explic\u00F3 el uso de&nbsp; este recurso literario que se ubica al principio de cada cap\u00EDtulo, Saramago los utilizaba como una gu\u00EDa para hacer romance, \u00E9l mismo las describe como una credencial y carta de navegaci\u00F3n, que desenvuelve la historia a una direcci\u00F3n particular.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para finalizar con esta celebraci\u00F3n se otorgaron diplomas a los participantes y se proyect\u00F3 el documental biogr\u00E1fico de Saramago y su esposa, Pilar del R\u00EDo, durante la construcci\u00F3n de su obra final: <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">El viaje del elefante.<\/em><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Saramago1.gif"
+		},
+		{
+			"imagen": "Saramago2.gif"
+		},
+		{
+			"imagen": "Saramago3.gif"
+		},
+		{
+			"imagen": "Saramago4.gif"
+		}	]
+
+}

@@ -1,0 +1,20 @@
+{
+    "carrera": "Ingeniería Mecánica", 
+    "icono": "icon-ingenieria-mecanica", 
+    "investigadores": [
+        {
+            "nombre": "Alberto Reyes Solís", 
+            "nombre_normalizado": "alberto-reyes-solis"
+        },
+        {
+            "nombre": "Daniel Aldama Ávalos", 
+            "nombre_normalizado": "daniel-aldama-avalos",
+            "imagen": true
+        },  
+        {
+            "nombre": "Humberto Mancilla Alonso", 
+            "nombre_normalizado": "humberto-mancilla-alonso",
+            "imagen": true
+        }
+    ]
+}

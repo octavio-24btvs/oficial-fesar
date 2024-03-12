@@ -1,0 +1,39 @@
+<div class="container content concursos">
+    <hr>
+    <div class="row encabezado">
+        <div class="col-lg-12 encabezado-titulo">
+            <i class="icono-secciones icon-concurso-de-oposicion" style="font-size: 30px;"></i>
+            <h1 class="mw-50"> Concurso de oposici&oacute;n abierta </h1>
+        </div>
+    </div>
+    <hr>
+    <div class="row justify-content-md-center mb-2 pb-3">
+       <div class="col-12 col-lg-6">
+            <a class="boton-registro btn btn-secondary btn-sm boton-header" 
+            ui-sref="tabla_de_concurso_de_oposicion"
+             title="Tablas de evaluación de los concursos de oposición" style="white-space: inherit;">
+             Tablas de evaluación de los concursos de oposición</a>
+        </div>
+       <div class="col-12 col-lg-6">
+        <a class="boton-registro btn btn-secondary btn-sm boton-header"
+            href="public_html/documents/nuestra_facultad/consejo_tecnico/lineamientos-videograbacion.pdf"
+            title="Lineamientos de Videograbación de Concursos de Oposición" style="white-space: inherit;">
+            Lineamientos de Videograbación de Concursos de Oposición</a>
+        </div>
+    </div>
+    <div class="card" ng-repeat="concurso in concursos">
+        <div class="card-header" ng-class="{actual: concurso.actual}"
+            ng-click="showing === concurso ? showing = {} : showing = concurso">
+            <p><strong>{{concurso.concurso}}</strong></p>
+        </div>
+        <div class="card-body acc-pdfs" ng-show="showing === concurso">
+            <a ng-repeat="pdf in concurso.pdfs"
+                ng-href="public_html/documents/concursos/{{concurso.concurso_normalizado}}/{{pdf.titulo_normalizado}}.{{!pdf.tipo ? 'pdf' : pdf.tipo}}"
+                target="blank" title="{{pdf.titulo}}">
+                {{pdf.titulo}}
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+</div>

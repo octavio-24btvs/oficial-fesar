@@ -1,0 +1,109 @@
+<div class="container content">
+    <hr>
+    <div class="row pleca-secciones">
+        <div class="col-12 secciones">
+            <h2>ELECCIONES PERIODO {{eleccion.periodo}}</h2>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-12">
+            <img class="img-fluid " ng-src="public_html/img/elecciones/{{eleccion.imagen}}" alt="{{eleccion.descripcion}}" />
+            <div class="card mt-2">
+                <div class="card-header" ng-click="showing = '0'">
+                    <a href="public_html/documents/elecciones/conovocatoria-eleccion-ordinaria-consejeros-tecnicos.pdf" target="_blank"><p><strong>Convocatoria</strong></p></a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" ng-click="showing = '1'">
+                    <p><strong>Padr&oacute;n de alumnos electores</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing === '1'">
+                    <a href="public_html/documents/elecciones/cons_elecCT_20192_0401.pdf" target="_blank"><h2>PADR&Oacute;N DE ALUMNOS ELECTORES [401] F.E.S. ARAG&Oacute;N (ARQUITECTURA)</h2></a>
+                    <ul>
+                        <li>[102] Arquitectura</li>
+                        <li>[102] Dise&ntilde;o Industrial</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elecCT_20192_0404.pdf" target="_blank"><h2>PADR&Oacute;N DE ALUMNOS ELECTORES [404] F.E.S. ARAG&Oacute;N (CIENCIAS POL&Iacute;TICAS)</h2></a>
+                    <ul>
+                        <li>[302] Ciencias de la Comunicaci&oacute;n (Periodismo)</li>
+                        <li>[310] Relaciones Internacionales</li>
+                        <li>[311] Sociolog&iacute;a</li>
+                        <li>[310] SUA Relciones Internacionales</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elecCT_20192_0407.pdf" target="_blank"><h2>PADR&Oacute;N DE ALUMNOS ELECTORES [407] F.E.S. ARAG&Oacute;N (DERECHO)</h2></a>
+                    <ul>
+                        <li>[305] Derecho</li>
+                        <li>[305] SUA Derecho</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elecCT_20192_0408.pdf" target="_blank"><h2>PADR&Oacute;N DE ALUMNOS ELECTORES [408] F.E.S. ARAG&Oacute;N (ECONOM&Iacute;A)</h2></a>
+                    <ul>
+                        <li>[306] Econom&iacute;a</li>
+                        <li>[306] SUA Econom&iacute;a</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elecCT_20192_0410.pdf" target="_blank"><h2>PADR&Oacute;N DE ALUMNOS ELECTORES [410] F.E.S. ARAG&Oacute;N (FILOSOF&Iacute;A)</h2></a>
+                    <ul>
+                        <li>[421] Pedagog&iacute;a</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elecCT_20192_0411.pdf" target="_blank"><h2>PADR&Oacute;N DE ALUMNOS ELECTORES [411] F.E.S. ARAG&Oacute;N (INGENIER&Iacute;A)</h2></a>
+                    <ul>
+                        <li>[107] Ingenier&iacute;a Civil</li>
+                        <li>[110] Ingenier&iacute;a en Computaci&oacute;n</li>
+                        <li>[109] Ingenier&iacute;a El&eacute;ctrica - Electr&oacute;nica</li>
+                        <li>[114] Ingenier&iacute;a Industrial</li>
+                        <li>[115] Ingenier&iacute;a Mec&aacute;nica</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elecCT_20192_0420.pdf" target="_blank"><h2>PADR&Oacute;N DE ALUMNOS ELECTORES [420] F.E.S. ARAG&Oacute;N (AGROPECUARIO)</h2></a>
+                    <ul>
+                        <li>[309] Planificaci&oacute;n para el Desarrollo Agropecuario</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" ng-click="showing = '2'">
+                    <p><strong>Lista de alumnos elegibles</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing === '2'">
+                    <a href="public_html/documents/elecciones/cons_elegCT_20192_0401.pdf" target="_blank"><h2>LISTA DE ALUMNOS ELEGIBLES [401] F. E. S. ARAGÓN (ARQUITECTURA)</h2></a>
+                    <ul>
+                        <li>[102] Arquitectura</li>
+                        <li>[102] Dise&ntilde;o Industrial</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elegCT_20192_0404.pdf" target="_blank"><h2>LISTA DE ALUMNOS ELEGIBLES [404] - F. E. S. ARAGÓN (CIENCIAS POLÍTICAS)</h2></a>
+                    <ul>
+                        <li>[302] Ciencias de la Comunicaci&oacute;n (Periodismo)</li>
+                        <li>[310] Relaciones Internacionales</li>
+                        <li>[311] Sociolog&iacute;a</li>
+                        <li>[310] SUA Relciones Internacionales</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elegCT_20192_0407.pdf" target="_blank"><h2>LISTA DE ALUMNOS ELEGIBLES [407] - F. E. S. ARAGÓN (DERECHO)</h2></a>
+                    <ul>
+                        <li>[305] Derecho</li>
+                        <li>[305] SUA Derecho</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elegCT_20192_0408.pdf" target="_blank"><h2>LISTA DE ALUMNOS ELEGIBLES [408] - F. E. S. ARAGÓN (ECONOMÍA)</h2></a>
+                    <ul>
+                        <li>[306] Econom&iacute;a</li>
+                        <li>[306] SUA Econom&iacute;a</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elegCT_20192_0410.pdf" target="_blank"><h2>LISTA DE ALUMNOS ELEGIBLES [410] - F. E. S. ARAGÓN (FILOSOFÍA)</h2></a>
+                    <ul>
+                        <li>[421] Pedagog&iacute;a</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elegCT_20192_0411.pdf" target="_blank"><h2>LISTA DE ALUMNOS ELEGIBLES [411] - F. E. S. ARAGÓN (INGENIERÍA)</h2></a>
+                    <ul>
+                        <li>[107] Ingenier&iacute;a Civil</li>
+                        <li>[110] Ingenier&iacute;a en Computaci&oacute;n</li>
+                        <li>[109] Ingenier&iacute;a El&eacute;ctrica - Electr&oacute;nica</li>
+                        <li>[114] Ingenier&iacute;a Industrial</li>
+                        <li>[115] Ingenier&iacute;a Mec&aacute;nica</li>
+                    </ul>
+                    <a href="public_html/documents/elecciones/cons_elegCT_20192_0420.pdf" target="_blank"><h2>LISTA DE ALUMNOS ELEGIBLES [420] - F. E. S. ARAGÓN (AGROPECUARIO)</h2></a>
+                    <ul>
+                        <li>[309] Planificaci&oacute;n para el Desarrollo Agropecuario</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

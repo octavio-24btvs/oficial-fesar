@@ -1,0 +1,22 @@
+<div class="container content">
+    <hr>
+    <div class="row pleca-secciones">
+        <div class="col-lg-12 secciones">
+            <i class="icono-secciones icon-actididades-deportivas"></i><h1>Pr&oacute;ximos congresos</h1>
+        </div>
+    </div>
+    <hr>
+    <div class="container">
+        <img class="img-fluid" ng-src="public_html/img/congresos/{{congreso.img}}" alt="{{congreso.descripcion}}">
+        <p>{{congreso.titulo}}</p>
+        <p>Sede: {{congreso.sede}}</p>
+        <p>Consulta la informaci&oacute;n correspondiente al evento en los siguientes enlaces:</p>
+        <div>
+            <ol>
+                <li ng-repeat="enlace in congreso.enlaces">
+                    <a ng-href="public_html/documents/congresos/{{enlace.enlace}}" target="_blank">{{enlace.texto}}</a>
+                </li>
+            </ol>
+        </div>
+    </div>
+</div>

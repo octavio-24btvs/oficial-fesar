@@ -1,0 +1,14 @@
+{
+	"titulo": "SEMDIS: Libro Conversatorio sobre el dise\u00F1o",
+	"titulo_normalizado": "semdis-libro-conversatorio-sobre-el-diseno",
+	"secciones": [
+		{
+			"seccion": "Diseño Industrial",
+			"seccion_normalizada": "diseno-industrial"
+		}
+	],
+	"autor":"Alejandrino Olgu\u00EDn",
+	"fecha":"22/10/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para cerrar con broche de oro el coloquio <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La sustentabilidad en el dise\u00F1o. Ense\u00F1anza y pr\u00E1ctica<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, el profesor Gabriel Sim\u00F3n Sol, de la UAM Xochimilco, present\u00F3 su libro <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Conversatorio sobre el dise\u00F1o<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este material, el autor se conceptualiz\u00F3 como un moderador entre teor\u00EDas para construir un concepto, llevando al an\u00E1lisis del buen uso de los materiales y los procesos.&nbsp; Durante el evento, Sol coment\u00F3 que el esfuerzo que implic\u00F3 hacer la publicaci\u00F3n pues abarca dos perspectivas: la docente y la estudiantil.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tras esto, se efectu\u00F3 la clausura de la jornada, en la cual estuvieron Rosa Lucia Mata, jefa de la Divisi\u00F3n de Humanidades; Ricardo Obreg\u00F3n, jefe de la carrera de Dise\u00F1o Industrial; las docentes Patricia D\u00EDaz y Norma Edith Alonso, as\u00ED como toda el \u00E1rea de producci\u00F3n y transmisi\u00F3n.<\/span><\/p>",
+	"imagenes":[{"imagen":"libro-conversatorio-sobre-el-diseno-1.jpg"},{"imagen":"libro-conversatorio-sobre-el-diseno-2.jpg"}]
+}

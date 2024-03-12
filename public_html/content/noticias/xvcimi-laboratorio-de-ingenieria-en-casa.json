@@ -1,0 +1,30 @@
+{
+	"titulo": "XVCIMI: Laboratorio de ingenier\u00EDa en casa",
+	"titulo_normalizado": "xvcimi-laboratorio-de-ingenieria-en-casa",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		}
+	],
+	"autor": "Luis Gonz\u00E1lez",
+	"fecha": "26/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la Sesi\u00F3n 5 del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">XV Congreso Internacional Multidisciplinario de Investigaci\u00F3n<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> se present\u00F3 la investigaci\u00F3n sobre Manufactura y tecnolog\u00EDa llamada \"Laboratorio interactivo y personalizado de soporte para clases virtuales y presenciales a nivel licenciatura en el \u00E1rea de ingenier\u00EDa\", donde&nbsp; particip\u00F3 David Gonz\u00E1lez, ingeniero mec\u00E1nico electricista egresado de la UNAM, con la ayuda de Lucero Mendoza, becaria de la carrera.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La investigaci\u00F3n en la cual tambi\u00E9n participaron los acad\u00E9micos Antonia Navarro, Ren\u00E9 Edmundo Cuevas, Noe Gonz\u00E1lez y el becario C\u00E9sar Emilio Eliosa, nos habla de la problem\u00E1tica de tomar clases te\u00F3rico-pr\u00E1cticas a distancia a ra\u00EDz de la pandemia de Covid-19, debido a la carencia del material necesario en casa y los altos costos de este. Gonz\u00E1lez habl\u00F3 sobre la iniciativa de crear un laboratorio interactivo con la finalidad de ser utilizado en la mayor\u00EDa de las asignaturas de carreras como Ingenier\u00EDa en Computaci\u00F3n e Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica, pues los simuladores digitales son \"muy f\u00E1ciles de usar, no se asemejan en nada a la realidad\".<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mendoza habl\u00F3 de la justificaci\u00F3n planteando la minimizaci\u00F3n en el tama\u00F1o de los componentes para generar un \"laboratorio\" en un circuito impreso port\u00E1til con un tama\u00F1o aproximado de 28 x 22 cm y un costo de $1 500. El dise\u00F1o de la tarjeta modular e intercambiable con sistemas embebidos fue mostrado por Mendoza, esperando sean utilizados en conjunto con los simuladores digitales para su mayor aprovechamiento, y resulten de ayuda ante situaciones como la pandemia o durante el paro de labores.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "laboratorio-1.gif"
+		},
+		{
+			"imagen": "laboratorio-2.gif"
+		},
+		{
+			"imagen": "laboratorio-3.gif"
+		},
+		{
+			"imagen": "laboratorio-4.gif"
+		},
+		{
+			"imagen": "laboratorio-5.gif"
+		}	]
+
+}

@@ -1,0 +1,43 @@
+{
+    "carrera": "Economía", 
+    "icono": "icon-economia", 
+    "investigadores": [
+        {
+            "nombre": "Fernando Palma Galván", 
+            "nombre_normalizado": "fernando-palma-galvan"
+        },
+        {
+            "nombre": "Guadalupe García Balderas", 
+            "nombre_normalizado": "guadalupe-garcia-balderas"
+        }, 
+        {
+            "nombre": "Helios Padilla Zazueta", 
+            "nombre_normalizado": "helios-padilla-zazueta", 
+            "imagen": true
+        },
+        {
+            "nombre": "Jaime Linares Zarco", 
+            "nombre_normalizado": "jaime-linares-zarco"
+        },
+        {
+            "nombre": "Jaime Llanos Martínez", 
+            "nombre_normalizado": "jaime-llanos-martinez", 
+            "imagen": true
+        }, 
+        {
+            "nombre": "Jorge González Gutiérrez", 
+            "nombre_normalizado": "jorge-gonzalez-gutierrez", 
+            "imagen": true
+        },
+        {
+            "nombre": "José Ricardo Ramírez Brun", 
+            "nombre_normalizado": "jose-ricardo-ramirez-brun", 
+            "imagen": true
+        },
+        {
+            "nombre": "Orlando Eleazar Moreno Pérez", 
+            "nombre_normalizado": "orlando-eleazar-moreno-perez", 
+            "imagen": true
+        }
+    ]
+}

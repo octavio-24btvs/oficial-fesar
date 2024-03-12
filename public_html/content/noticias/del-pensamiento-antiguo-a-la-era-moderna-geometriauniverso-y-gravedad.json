@@ -1,0 +1,40 @@
+{
+	"titulo": "Del pensamiento antiguo a la Era Moderna: Geometr\u00EDa,universo y gravedad",
+	"titulo_normalizado": "del-pensamiento-antiguo-a-la-era-moderna-geometriauniverso-y-gravedad",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Hilda Hern\u00E1ndez",
+	"fecha": "18/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La conferencia \"Geometr\u00EDa, Universo y Gravedad,\" cont\u00F3 con la participaci\u00F3n de Miguel Alcubierre como conferencista, un destacado f\u00EDsico te\u00F3rico mexicano, quien nos brind\u00F3 una fascinante charla titulada \"Geometr\u00EDa, Universo y Gravedad\".<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este acto esboz\u00F3 concisamente c\u00F3mo se origin\u00F3 el conocimiento sobre el universo y c\u00F3mo ha progresado en distintas \u00E9pocas. La discusi\u00F3n en el evento incluy\u00F3 la menci\u00F3n de figuras hist\u00F3ricas fundamentales en la astronom\u00EDa y la f\u00EDsica.&nbsp; Desde Arist\u00F3teles, el fil\u00F3sofo griego cuyas ideas influenciaron durante siglos la concepci\u00F3n del cosmos; hasta la teor\u00EDa de la relatividad especial de Albert Einstein.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Seg\u00FAn Alcubierre, las creencias arraigadas en distintos momentos de la historia limitaban las investigaciones cient\u00EDficas. En ciertos momentos hist\u00F3ricos se consideraba m\u00E1s prioritario aprender sobre cuestiones teol\u00F3gicas y divinas que profundizar en el estudio del universo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Despu\u00E9s de esta cautivadora pl\u00E1tica, se llev\u00F3 a cabo la entrega de los reconocimientos de la Asociaci\u00F3n Nacional de Facultades y Escuelas de Ingenier\u00EDa (ANFEI) a los estudiantes destacados por sus excelentes promedios acad\u00E9micos. Este evento resalt\u00F3 la importancia de la educaci\u00F3n e investigaci\u00F3n en ingenier\u00EDa y c\u00F3mo se conectan con nuestra comprensi\u00F3n en constante cambio del cosmos. En un mundo que siempre cambia, buscar conocimiento y adaptarse a nuevas ideas siguen siendo vitales para nuestro progreso como sociedad.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Gravedad1.gif"
+		},
+		{
+			"imagen": "Gravedad2.gif"
+		},
+		{
+			"imagen": "Gravedad3.gif"
+		},
+		{
+			"imagen": "Gravedad4.gif"
+		},
+		{
+			"imagen": "Gravedad5.gif"
+		},
+		{
+			"imagen": "Gravedad6.gif"
+		},
+		{
+			"imagen": "Gravedad7.gif"
+		}	]
+
+}

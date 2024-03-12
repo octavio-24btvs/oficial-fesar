@@ -1,0 +1,27 @@
+{
+	"titulo": "SING22: El motor de grandes ideas",
+	"titulo_normalizado": "sing22-el-motor-de-grandes-ideas",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		}
+	],
+	"autor": "Leslie Mart\u00EDnez",
+	"fecha": "28/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se llev\u00F3 a cabo la ponencia “\u00BFC\u00F3mo funciona un tren de potencia el\u00E9ctrico?” en el auditorio Ing. Pablo Ortiz Macedo, como parte de las actividades de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> en la Facultad de Estudios Superiores Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El evento estuvo a cargo de la Divisi\u00F3n de las Ciencias F\u00EDsico-Matem\u00E1ticas y de las Ingenier\u00EDas, se presentaron tres integrantes de E-Ko Tech, una empresa dedicada al armado profesional de computadoras: Alma Yesenia Mar\u00EDn, Zair Alonso Zacusa y el capit\u00E1n Sebasti\u00E1n Lugo, quienes forman parte del equipo y estar\u00E1n participando en el concurso Formula SAE Electric, con su propio auto tipo f\u00F3rmula.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la ponencia, los integrantes de E-Ko Tech destacaron lo m\u00E1s importante sobre los veh\u00EDculos el\u00E9ctricos y le explicaron a las y los alumnos presentes las caracter\u00EDsticas m\u00E1s representativas de estos; del mismo modo, abordaron temas como los tipos de motores y su historia, las ventajas y funciones de cada uno; tambi\u00E9n se mencion\u00F3 un poco de informaci\u00F3n sobre los frenos y muchos m\u00E1s elementos que se toman en cuenta a la hora de la fabricaci\u00F3n de un veh\u00EDculo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad estudiantil mostr\u00F3&nbsp; una actitud participativa, bastante interesada durante la ronda de preguntas y respuestas, en los \u00FAltimos 20 minutos del evento. La ponencia concluy\u00F3 con una invitaci\u00F3n hacia la comunidad por parte del capit\u00E1n Sebasti\u00E1n Lugo para formar parte del equipo E-Ko Tech y transformar todas aquellas ideas en proyectos y, posteriormente, metas y sue\u00F1os realizados.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "tren-1.jpg"
+		},
+		{
+			"imagen": "tren-2.jpg"
+		},
+		{
+			"imagen": "tren-3.jpg"
+		},
+		{
+			"imagen": "tren-4.jpg"
+		}	]
+
+}

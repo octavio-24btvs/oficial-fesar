@@ -1,0 +1,15 @@
+{
+    "nombre": "Irene Vázquez Vélez", 
+    "grado_academico": "Maestra", 
+     "correo": [ "irenevazquezl7@aragon.unam.mx "     ],
+    "estudios": [
+        "Licenciatura en Derecho, UNAM.",
+        "Maestría en Educación, Universidad Insurgentes."
+    ], 
+    "lineas_investigacion": [
+        "Investigación en Procesos de Formación."
+    ], 
+    "investigaciones": [
+        "Procedimientos administrativos federales."
+    ]
+}

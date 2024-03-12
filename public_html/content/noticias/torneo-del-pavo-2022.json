@@ -1,0 +1,40 @@
+{
+	"titulo": "Torneo del pavo 2022",
+	"titulo_normalizado": "torneo-del-pavo-2022",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Tiar\u00E9 Rodr\u00EDguez",
+	"fecha": "28/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de las instalaciones de la Facultad de Estudios Superiores Arag\u00F3n, en la cancha de f\u00FAtbol 7, se llev\u00F3 a cabo la final femenil del Torneo del Pavo. Disput\u00E1ndose el premio entre tres bandos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los equipos participantes contaban con ciertos puntos con los cuales llegaron a la final, Panzonas FC contaba con uno, Real Campechano ten\u00EDa dos y Culisueltas tres. El primer partido se llev\u00F3 a cabo entre Real Campechano <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">vs <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Panzonas FC, empatando 3-3, por lo que se fueron a finales, logrando un marcador final de 4-3 respectivamente. Despu\u00E9s vino el partido entre Panzonas y Culisueltas con un marcador de 9-1 a favor de Culisueltas. El \u00FAltimo partido se tuvo entre Culisueltas contra Real Campechano, ganando el primer equipo mencionado con un marcador 5-0.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al final de los partidos, Extensi\u00F3n Universitaria realiz\u00F3 la entrega de las medallas correspondientes, el primer lugar para Culisueltas, segundo lugar para Real Campechano y tercer lugar para Panzonas.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Felicidades por su esfuerzo y esperamos que sigan manteniendo el h\u00E1bito del deporte durante su vida universitaria.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Pavo1.gif"
+		},
+		{
+			"imagen": "Pavo2.gif"
+		},
+		{
+			"imagen": "Pavo3.gif"
+		},
+		{
+			"imagen": "Pavo4.gif"
+		},
+		{
+			"imagen": "Pavo5.gif"
+		},
+		{
+			"imagen": "Pavo6.gif"
+		},
+		{
+			"imagen": "Pavo7.gif"
+		}	]
+
+}

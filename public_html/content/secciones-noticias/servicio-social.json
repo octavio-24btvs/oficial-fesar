@@ -1,0 +1,28 @@
+{
+	"id": 28,
+	"titulo": "Servicio Social",
+	"icono": "icon-servicio-social",
+	"noticias": [
+		{
+			"titulo":"Taller para conocer la cultura drag",
+			"titulo_normalizado":"taller-para-conocer-la-cultura-drag",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "Drag1.gif",
+			"fecha":"28/10/21"
+		},
+		{
+			"titulo":"Nuevo ciclo del programa Peraj",
+			"titulo_normalizado":"nuevo-ciclo-del-programa-peraj",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "img-2.jpg",
+			"fecha":"22/10/18"
+		},
+		{
+			"titulo":"Premio al Servicio Social Dr. Gustavo Baz Prada 2023",
+			"titulo_normalizado":"premio-al-servicio-social-dr-gustavo-baz-prada-2023",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Premio-1.gif",
+			"fecha":"19/10/23"
+		}
+	]
+}

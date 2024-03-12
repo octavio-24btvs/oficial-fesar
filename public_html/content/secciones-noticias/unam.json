@@ -1,0 +1,364 @@
+{
+	"id": 39,
+	"titulo": "UNAM",
+	"icono": "icon-unam",
+	"noticias": [
+		{
+			"titulo":"Br\u00FAjula en Mano: Tu gu\u00EDa educativa",
+			"titulo_normalizado":"brujula-en-mano-tu-guia-educativa",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Brujula1.gif",
+			"fecha":"31/07/23"
+		},
+		{
+			"titulo":"Se realiza la ceremonia general del Premio Gustavo Baz Prada",
+			"titulo_normalizado":"se-realiza-la-ceremonia-general-del-premio-gustavo-baz-prada",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "se-realiza-la-ceremonia-general-del-premio-gustavo-baz-prada-1.jpg",
+			"fecha":"30/11/21"
+		},
+		{
+			"titulo":"Lupita “Dinamita” Torres orgullo de Arag\u00F3n",
+			"titulo_normalizado":"lupita----dinamita----torres-orgullo-de-aragon",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Box-1.gif",
+			"fecha":"30/08/23"
+		},
+		{
+			"titulo":"La UNAM, una de las dos mejores universidades de Iberoam\u00E9rica",
+			"titulo_normalizado":"la-unam-una-de-las-dos-mejores-universidades-de-iberoamerica",
+			"autor":"Redacci\u00F3n",
+			"imagen": "not-found.jpg",
+			"fecha":"30/04/19"
+		},
+		{
+			"titulo":"Proponen pr\u00E1cticas para erradicar la discriminaci\u00F3n",
+			"titulo_normalizado":"proponen-practicas-para-erradicar-la-discriminacion",
+			"autor":"Aranza Ramos",
+			"imagen": "Discriminacion1 (1).jpg",
+			"fecha":"29/06/22"
+		},
+		{
+			"titulo":"Sistematizar el an\u00E1lisis de p\u00FAblico en museos",
+			"titulo_normalizado":"sistematizar-el-analisis-de-publico-en-museos",
+			"autor":"Aurelio Nito",
+			"imagen": "sistematizar-analisis-de-publico-en-museos-1.png",
+			"fecha":"29/01/19"
+		},
+		{
+			"titulo":"Reconocimiento a la antig\u00FCedad acad\u00E9mica",
+			"titulo_normalizado":"reconocimiento-a-la-antiguedad-academica",
+			"autor":"Erik Pliego",
+			"imagen": "Docentes1.gif",
+			"fecha":"27/05/22"
+		},
+		{
+			"titulo":"Restaurar la biodiversidad mediante museos ecol\u00F3gicos",
+			"titulo_normalizado":"restaurar-la-biodiversidad-mediante-museos-ecologicos",
+			"autor":"Redacci\u00F3n",
+			"imagen": "restaurar-la-biodiversidad-mediante-museos-ecologicos-1.jpg",
+			"fecha":"26/03/19"
+		},
+		{
+			"titulo":"Proyecto de exposici\u00F3n museol\u00F3gica",
+			"titulo_normalizado":"proyecto-de-exposicion-museologica",
+			"autor":"Daniela Reyes",
+			"imagen": "proyecto-de-exposicion-museologica-1.jpg",
+			"fecha":"26/02/19"
+		},
+		{
+			"titulo":"Internacionalizaci\u00F3n, la UNAM con visi\u00F3n global",
+			"titulo_normalizado":"internacionalizacion-la-unam-con-vision-global",
+			"autor":"Beatriz Calva",
+			"imagen": "aragon-1.gif",
+			"fecha":"25/05/23"
+		},
+		{
+			"titulo":"Proceso alternativo y Justicia restaurativa",
+			"titulo_normalizado":"proceso-alternativo-y-justicia-restaurativa",
+			"autor":"Kenia Brodman",
+			"imagen": "Justicia4.gif",
+			"fecha":"25/04/22"
+		},
+		{
+			"titulo":"Estrechando lazos",
+			"titulo_normalizado":"estrechando-lazos",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Acuerdo-1.gif",
+			"fecha":"24/10/23"
+		},
+		{
+			"titulo":"CIII: Ingenier\u00EDa Industrial en la experiencia laboral",
+			"titulo_normalizado":"ciii-ingenieria-industrial-en-la-experiencia-laboral",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "primer-congreso-2.jpg",
+			"fecha":"24/03/22"
+		},
+		{
+			"titulo":"\u00A1Feliz Aniversario SUAyED!",
+			"titulo_normalizado":"feliz-aniversario-suayed",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "suayed1.gif",
+			"fecha":"23/03/22"
+		},
+		{
+			"titulo":"Un emoji vale m\u00E1s que mil palabras",
+			"titulo_normalizado":"un-emoji-vale-mas-que-mil-palabras",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "emoji-1.gif",
+			"fecha":"20/10/22"
+		},
+		{
+			"titulo":"Nada es un impedimento",
+			"titulo_normalizado":"nada-es-un-impedimento",
+			"autor":"Brenda Martinez",
+			"imagen": "nada-es-un-impedimento-1.jpg",
+			"fecha":"20/05/21"
+		},
+		{
+			"titulo":"Premio al Servicio Social Dr. Gustavo Baz Prada 2023",
+			"titulo_normalizado":"premio-al-servicio-social-dr-gustavo-baz-prada-2023",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Premio-1.gif",
+			"fecha":"19/10/23"
+		},
+		{
+			"titulo":"Movilidad estudiantil en la UNAM",
+			"titulo_normalizado":"movilidad-estudiantil-en-la-unam",
+			"autor":"Norma Mora",
+			"imagen": "movilidad-estudiantil-en-la-unam-1.jpg",
+			"fecha":"18/06/21"
+		},
+		{
+			"titulo":"Bienestar sobre la mesa",
+			"titulo_normalizado":"bienestar-sobre-la-mesa",
+			"autor":"Elisa Jacobo",
+			"imagen": "mesa-1.gif",
+			"fecha":"14/10/22"
+		},
+		{
+			"titulo":"Reconocimiento al desempe\u00F1o acad\u00E9mico",
+			"titulo_normalizado":"reconocimiento-al-desempeno-academico",
+			"autor":"Erik Pliego",
+			"imagen": "Gabino1.gif",
+			"fecha":"14/10/22"
+		},
+		{
+			"titulo":"CIMN22: Mujeres privadas de su libertad",
+			"titulo_normalizado":"cimn22-mujeres-privadas-de-su-libertad",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "mujeres-1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"Jornada electoral del Consejo Universitario",
+			"titulo_normalizado":"jornada-electoral-del-consejo-universitario",
+			"autor":"Erik Pliego",
+			"imagen": "Elecciones1.gif",
+			"fecha":"12/11/21"
+		},
+		{
+			"titulo":"CIMN22: Mujer en la ciencia",
+			"titulo_normalizado":"cimn22-mujer-en-la-ciencia",
+			"autor":"Elisa Jacobo",
+			"imagen": "mujeres-ciencia-1.gif",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"CIMN22: Paridad pol\u00EDtica: a\u00FAn mucho por hacer",
+			"titulo_normalizado":"cimn22-paridad-politica-aun-mucho-por-hacer",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "Mujeres política 1 (1).png",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"CIMN22: Comunidad trans: adi\u00F3s a la escuela",
+			"titulo_normalizado":"cimn22-comunidad-trans-adios-a-la-escuela",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "salud-1.gif",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"Por la igualdad: diversidad y retos",
+			"titulo_normalizado":"por-la-igualdad-diversidad-y-retos",
+			"autor":"Elisa Jacobo",
+			"imagen": "inauguracion-1.gif",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"CIMN22: Ciencia y educaci\u00F3n en voces de mujeres",
+			"titulo_normalizado":"cimn22-ciencia-y-educacion-en-voces-de-mujeres",
+			"autor":"Elisa Jacobo",
+			"imagen": "Voces 1 (1).jpeg",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"Nuevo certificado de calidad para la FES Arag\u00F3n",
+			"titulo_normalizado":"nuevo-certificado-de-calidad-para-la-fes-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "IMNC1.gif",
+			"fecha":"10/11/22"
+		},
+		{
+			"titulo":"Arag\u00F3n se embellece con un nuevo mural",
+			"titulo_normalizado":"aragon-se-embellece-con-un-nuevo-mural",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "mural-1.jpg",
+			"fecha":"10/08/23"
+		},
+		{
+			"titulo":"Diversi\u00F3n y amistad gracias a Peraj",
+			"titulo_normalizado":"diversion-y-amistad-gracias-a-peraj",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "Diversion-y-amistad-gracias-a-Peraj-1.jpg",
+			"fecha":"10/03/19"
+		},
+		{
+			"titulo":"100 d\u00EDas de pandemia",
+			"titulo_normalizado":"100-dias-de-pandemia",
+			"autor":"Erik Pliego",
+			"imagen": "100-dias-de-1.jpg",
+			"fecha":"09/06/20"
+		},
+		{
+			"titulo":"Orgullo y satisfacci\u00F3n en la bienvenida al nuevo ciclo escolar",
+			"titulo_normalizado":"orgullo-y-satisfaccion-en-la-bienvenida-al-nuevo-ciclo-escolar",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "orgullo-y-satisfaccion-en-la-bienvenida-al-nuevo-ciclo-escolar-1.jpg",
+			"fecha":"08/08/19"
+		},
+		{
+			"titulo":"Reconocimiento a la labor docente",
+			"titulo_normalizado":"reconocimiento-a-la-labor-docente",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "medallas-1 (1).jpg",
+			"fecha":"08/06/22"
+		},
+		{
+			"titulo":"Sor Juana In\u00E9s de la Cruz 2023",
+			"titulo_normalizado":"sor-juana-ines-de-la-cruz-2023",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "Copia de FPG_8241.JPG",
+			"fecha":"08/03/23"
+		},
+		{
+			"titulo":"El movimiento  estudiantil y la Guerra Fr\u00EDa en Argentina",
+			"titulo_normalizado":"el-movimiento--estudiantil-y-la-guerra-fria-en-argentina",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "movimiento-estudiantil-guerra-fria-1.jpg",
+			"fecha":"04/06/21"
+		},
+		{
+			"titulo":"Lucha actual de los movimientos estudiantiles",
+			"titulo_normalizado":"lucha-actual-de-los-movimientos-estudiantiles",
+			"autor":"Alberto Ochoa",
+			"imagen": "Halconazo1.gif",
+			"fecha":"04/06/21"
+		},
+		{
+			"titulo":"Los a\u00F1os heridos",
+			"titulo_normalizado":"los-anos-heridos",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "fritz-glockner-congreso-el-halconazo-1.jpg",
+			"fecha":"04/06/21"
+		},
+		{
+			"titulo":"Las mujeres en el 71",
+			"titulo_normalizado":"las-mujeres-en-el-71",
+			"autor":"Norma Mora",
+			"imagen": "las-mujeres-en-el-71-1.jpg",
+			"fecha":"04/06/21"
+		},
+		{
+			"titulo":"Reconocimiento Sor Juana, emblema de las universitarias",
+			"titulo_normalizado":"reconocimiento-sor-juana-emblema-de-las-universitarias",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "reconocimiento-sor-juana-emblema-1.jpg",
+			"fecha":"04/03/21"
+		},
+		{
+			"titulo":"Especialistas aragoneses en FILPM",
+			"titulo_normalizado":"especialistas-aragoneses-en-filpm",
+			"autor":"Luis Bocanegra",
+			"imagen": "Especialistas-aragoneses-en-filpm-1.jpg",
+			"fecha":"04/03/19"
+		},
+		{
+			"titulo":"Cr\u00EDmenes de Estado y el financiamiento paramilitar",
+			"titulo_normalizado":"crimenes-de-estado-y-el-financiamiento-paramilitar",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Crímenes1.gif",
+			"fecha":"03/06/21"
+		},
+		{
+			"titulo":"Olvido y represi\u00F3n",
+			"titulo_normalizado":"olvido-y-represion",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "olvido-y-represion-1.jpg",
+			"fecha":"03/06/21"
+		},
+		{
+			"titulo":"Memorias Inquietas",
+			"titulo_normalizado":"memorias-inquietas",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "memorias-inquietas-1.jpg",
+			"fecha":"03/06/21"
+		},
+		{
+			"titulo":"Segundo Informe de Actividades",
+			"titulo_normalizado":"segundo-informe-de-actividades",
+			"autor":"Erik Pliego",
+			"imagen": "Informe1.gif",
+			"fecha":"03/02/23"
+		},
+		{
+			"titulo":"Sobre el 10 de junio del 71",
+			"titulo_normalizado":"sobre-el-10-de-junio-del-71",
+			"autor":"Francisco Olivares",
+			"imagen": "sobre-el-10-de-junio-del-71-1.jpg",
+			"fecha":"02/06/21"
+		},
+		{
+			"titulo":"La repercusi\u00F3n de los movimientos estudiantiles",
+			"titulo_normalizado":"la-repercusion-de-los-movimientos-estudiantiles",
+			"autor":"Brenda Martinez",
+			"imagen": "la-repercusion-de-los-movimientos-estudiantiles-1.jpg",
+			"fecha":"02/06/21"
+		},
+		{
+			"titulo":"Testimonios de la represi\u00F3n",
+			"titulo_normalizado":"testimonios-de-la-represion",
+			"autor":"Erik Pliego",
+			"imagen": "Testimonios1.gif",
+			"fecha":"02/06/21"
+		},
+		{
+			"titulo":"La revoluci\u00F3n estudiantil",
+			"titulo_normalizado":"la-revolucion-estudiantil",
+			"autor":"Velia Andrey L\u00F3pez",
+			"imagen": "Revolucion1.gif",
+			"fecha":"02/06/21"
+		},
+		{
+			"titulo":"Grupos de represi\u00F3n en las universidades",
+			"titulo_normalizado":"grupos-de-represion-en-las-universidades",
+			"autor":"Redacci\u00F3n",
+			"imagen": "Grupos1.gif",
+			"fecha":"02/06/21"
+		},
+		{
+			"titulo":"Sobre el 10 de junio del 71",
+			"titulo_normalizado":"sobre-el-10-de-junio-del-71",
+			"autor":"Francisco Olivares",
+			"imagen": "sobre-el-10-de-junio-del-71-1.jpg",
+			"fecha":"02/06/21"
+		},
+		{
+			"titulo":"Reconocimiento a la excelencia acad\u00E9mica",
+			"titulo_normalizado":"reconocimiento-a-la-excelencia-academica",
+			"autor":"Aurelio Nito",
+			"imagen": "Reconocimiento-a-la-excelencia-academica-1.jpg",
+			"fecha":"01/03/19"
+		}
+	]
+}

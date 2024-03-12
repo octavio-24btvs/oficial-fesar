@@ -1,0 +1,30 @@
+{
+	"titulo": "SA22: Amor al arte en dos dimensiones",
+	"titulo_normalizado": "sa22-amor-al-arte-en-dos-dimensiones",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor": "Luis Gonz\u00E1lez",
+	"fecha": "10/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(34, 34, 34);\">En el marco de la <\/span><em style=\"color: rgb(34, 34, 34);\">Semana de la Arquitectura<\/em><span style=\"color: rgb(34, 34, 34);\">, se llev\u00F3 a cabo la conferencia \"De todo, menos arquitectura\", en la cual particip\u00F3 el egresado de la carrera Alejandro D\u00EDaz, quien tambi\u00E9n realiza pinturas bajo el seud\u00F3nimo \"2D\", y cont\u00F3 con la presencia de la jefa de la carrera Ana Cort\u00E9s.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(34, 34, 34); background-color: transparent;\">D\u00EDaz comenz\u00F3 su ponencia hablando sobre c\u00F3mo surgi\u00F3 su gusto por la arquitectura y el amor por el arte, mientras copiaba esculturas como la Victoria alada de Samotracia, entre otras. El artista coment\u00F3 acerca de los momentos cuando cruz\u00F3 umbrales, como en sus clases (donde naci\u00F3 su seud\u00F3nimo) y la realizaci\u00F3n de su servicio social en el Papalote Museo del Ni\u00F1o, lugar donde descubri\u00F3 que algo tan serio como la arquitectura puede convivir con la alegr\u00EDa y empat\u00EDa aprendida en dicho lugar.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(34, 34, 34); background-color: transparent;\">Habl\u00F3 al siguiente t\u00E9rmino de su primer trabajo como pintor; un mural dentro de un restaurante en la ciudad de Guanajuato, la cual dio pie a viajar por Europa en repetidas ocasiones, y consiguiendo plasmar su arte en ciudades como Roma, Par\u00EDs y Londres.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(34, 34, 34); background-color: transparent;\">\"2D\" destac\u00F3 su formaci\u00F3n a la hora de realizar sus obras, y mencion\u00F3 que nunca dej\u00F3 de ser arquitecto y siempre recurre a la conceptualizaci\u00F3n y boceto de cada uno de sus proyectos. \"Absorban lo que les est\u00E1n ense\u00F1ando sus profesores, estructuren sus ideas y sus planes\"<\/span><span style=\"color: rgb(34, 34, 34);\">, agreg\u00F3. D\u00EDaz finaliz\u00F3 con palabras de aliento a los asistentes, anim\u00E1ndonos&nbsp; a cruzar sus propios umbrales y a no quedarse en “el hubiera”.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "de-todo-menos-1.jpg"
+		},
+		{
+			"imagen": "de-todo-menos-2.jpg"
+		},
+		{
+			"imagen": "de-todo-menos-3.jpg"
+		},
+		{
+			"imagen": "de-todo-menos-4.jpg"
+		},
+		{
+			"imagen": "de-todo-menos-5.jpg"
+		}	]
+
+}

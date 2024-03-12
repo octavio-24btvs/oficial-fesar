@@ -1,0 +1,33 @@
+{
+    "carrera": "Ingeniería Civil", 
+    "icono": "icon-ingenieria-civil", 
+    "investigadores": [
+        {
+            "nombre": "Daniel Velázquez Vázquez", 
+            "nombre_normalizado": "daniel-velazquez-vazquez",
+            "imagen": true
+        },
+        {
+            "nombre": "Gilberto García Santamaría González", 
+            "nombre_normalizado": "gilberto-garcia-santamaria-gonzalez"
+        },
+        {
+            "nombre": "Gustavo Fernández Torres", 
+            "nombre_normalizado": "gustavo-fernandez-torres"
+        }, 
+        {
+            "nombre": "Jaime Retama Velasco", 
+            "nombre_normalizado": "jaime-retama-velasco", 
+            "imagen": true
+        }, 
+        {
+            "nombre": "Jose Paulo Mejorada Mota", 
+            "nombre_normalizado": "jose-paulo-mejorada-mota",
+            "imagen": true
+        }, 
+        {
+            "nombre": "Martín Rubén Jiménez Magaña", 
+            "nombre_normalizado": "martin-ruben-jimenez-magana"
+        }
+    ]
+}

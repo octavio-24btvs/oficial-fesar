@@ -1,0 +1,14 @@
+{
+	"titulo": "Conservaci\u00F3n y color del arte",
+	"titulo_normalizado": "conservacion-y-color-del-arte",
+	"secciones": [
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor":"Velia Andrey L\u00F3pez",
+	"fecha":"01/06/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">De acuerdo con Jos\u00E9 Lazarte, del Museo Metropolitano de Arte de Nueva York, el rol de la conservaci\u00F3n es un punto importante en el arte, ya que, debe de ser llevada a cabo por especialistas en la materia de preservaci\u00F3n y restauraci\u00F3n, as\u00ED como por personas con conocimientos cient\u00EDficos que entiendan el proceso de deterioro para as\u00ED saber c\u00F3mo emplear los componentes qu\u00EDmicos y herramientas sin afectar una pieza de arte. Esto form\u00F3 parte de la conferencia “Arte artesanal y su preservaci\u00F3n” del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">1er Congreso Internacional de Artesan\u00EDa. Voces, saberes y haceres.<\/em><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el evento tambi\u00E9n participaron Mar\u00EDa Guadalupe de Jes\u00FAs Rivero (del Instituto Nacional de Administraci\u00F3n P\u00FAblica) y Orlando Mart\u00EDnez (de la Escuela Nacional de Conservaci\u00F3n, Restauraci\u00F3n y Museograf\u00EDa del INHA), quienes explicaron que, dependiendo del tipo de obra, se asigna el departamento encargado de realizar el proceso de conservaci\u00F3n, pues existen diversos m\u00E9todos de restauraci\u00F3n; como lo son la documentaci\u00F3n fotogr\u00E1fica, luz ultravioleta, radiograf\u00EDas y reflectores, por mencionar algunos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cabe destacar que las conservadoras y los conservadores llevan a cabo la elecci\u00F3n de las nuevas adquisiciones de arte, pues gracias a su an\u00E1lisis pueden detallar las regiones y escuelas art\u00EDsticas de las cuales formaron parte.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por ello, el color y forma de un objeto son importantes al definir las cualidades ic\u00F3nicas, est\u00E9ticas y valorativas del mismo. Mart\u00EDnez explic\u00F3 que el color forma parte importante de la evidencia del tiempo, sucesos y cambios en sus materiales por sucesos internos y externos.<\/span><\/p>",
+	"imagenes":[{"imagen":"arte1.gif"},{"imagen":"arte2.gif"},{"imagen":"arte3.gif"}]
+}

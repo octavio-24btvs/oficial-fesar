@@ -1,0 +1,38 @@
+{
+	"titulo": "Laboratorio Electr\u00F3nico M\u00F3vil (LEM)",
+	"titulo_normalizado": "laboratorio-electronico-movil-lem",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería Eléctrica Electrónica",
+			"seccion_normalizada": "electrica-electronica"
+		},
+		{
+			"seccion": "Ingeniería Industrial",
+			"seccion_normalizada": "industrial"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "02/05/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Facultad de Estudios Superiores Arag\u00F3n en su b\u00FAsqueda constante por innovar los procesos de ense\u00F1anza-aprendizaje, tanto te\u00F3ricos como pr\u00E1cticos, ha desarrollado el Laboratorio M\u00F3vil Electr\u00F3nico (LEM) a partir de la idea de Marcelo P\u00E9rez, profesor adscrito al Centro Tecnol\u00F3gico Arag\u00F3n, y el dise\u00F1o de Erick Magdiel Garc\u00EDa, estudiante de la carrera de Dise\u00F1o Industrial. Esta nueva herramienta estar\u00E1 a disposici\u00F3n de las y los estudiantes de las Ciencias F\u00EDsico-Matem\u00E1ticas y de las Ingenier\u00EDas que lo soliciten.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Laboratorio M\u00F3vil Electr\u00F3nico contiene los siguientes dispositivos:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Fuentes de alimentaci\u00F3n de corriente alterna y corriente directa<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Generador de funciones<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">&nbsp;Mult\u00EDmetro y osciloscopio digital<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Analizador de espectros<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Manual de usuario f\u00EDsico, digital y audiovisual<\/span><\/li><\/ul><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con los LEM, los estudiantes podr\u00E1n profundizar los conocimientos adquiridos en la teor\u00EDa y la pr\u00E1ctica, realizar mediciones, participar en concursos, elaborar prototipos y desarrollar cualquier otro tipo de proyectos que consideren.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al d\u00EDa de hoy existen un total de 10 LEM para ser utilizados dentro de las instalaciones de la Facultad, la comunidad estudiantil de las ingenier\u00EDas  en <\/span>Computaci\u00F3n, El\u00E9ctrica, Industrial y Mec\u00E1nica<span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> podr\u00E1 solicitarlos en las \u00E1reas de Electricidad y Magnetismo, Medici\u00F3n e Instrumentaci\u00F3n, as\u00ED como en Control, ubicadas en el edificio L3 “El\u00E9ctrica-Electr\u00F3nica”, planta baja, primer y segundo piso.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "LEM1.gif"
+		},
+		{
+			"imagen": "LEM2.gif"
+		},
+		{
+			"imagen": "LEM3.gif"
+		},
+		{
+			"imagen": "LEM4.gif"
+		},
+		{
+			"imagen": "LEM5.gif"
+		}	]
+
+}

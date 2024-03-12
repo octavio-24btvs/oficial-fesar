@@ -1,0 +1,21 @@
+{
+	"titulo": "Realiza un intercambio acad\u00E9mico",
+	"titulo_normalizado": "realiza-un-intercambio-academico",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Civil",
+			"seccion_normalizada": "civil"
+		}
+	],
+	"autor": "Rosa Francisco",
+	"fecha": "06/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La conferencia “Estancia de investigaci\u00F3n en la Universidad Polit\u00E9cnica de Catalu\u00F1a: Deterioro f\u00EDsico del suelo debido a condiciones ambientales” cont\u00F3 con la ponencia de Carolina Hern\u00E1ndez, acad\u00E9mica del \u00E1rea de geotecnia en la carrera de Ingenier\u00EDa Civil de la FES Arag\u00F3n, qui\u00E9n tuvo la oportunidad de irse de intercambio acad\u00E9mico a Espa\u00F1a.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El objetivo de esta conferencia fue que la comunidad universitaria se vea incentivada para realizar una estancia de investigaci\u00F3n, intercambio acad\u00E9mico o profundizaci\u00F3n en un idioma, en este caso en particular los docentes y estudiantes de la disciplina de ingenier\u00EDa civil.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hern\u00E1ndez platic\u00F3 sobre el proceso, desde la convocatoria hasta la gesti\u00F3n de recursos, el otorgamiento del apoyo econ\u00F3mico, las experiencias y el aprendizaje que conlleva una estancia de investigaci\u00F3n en el extranjero.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "realiza-un-intercambio-academico-1.jpg"
+		},
+		{
+			"imagen": "realiza-un-intercambio-academico-2.jpg"
+		}	]
+
+}

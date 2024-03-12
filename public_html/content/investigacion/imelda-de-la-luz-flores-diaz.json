@@ -1,0 +1,16 @@
+{
+    "nombre": "Imelda de la Luz Flores Díaz", 
+    "grado_academico": "Maestra", 
+     "correo": [ "imeldaflores29@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Ingeniería en Computación. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería en Sistemas Computacionales. Tecnológico de Estudios Superiores de Ecatepec.", 
+        "Maestría en Economía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Software."
+    ], 
+    "investigaciones": [
+        "Importancia y trascendencia de la Robótica en México."
+    ]
+}

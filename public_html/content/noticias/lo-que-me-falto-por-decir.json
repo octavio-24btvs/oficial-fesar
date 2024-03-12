@@ -1,0 +1,14 @@
+{
+	"titulo": "Lo que me falt\u00F3 por decir",
+	"titulo_normalizado": "lo-que-me-falto-por-decir",
+	"secciones": [
+		{
+			"seccion": "Inclusión",
+			"seccion_normalizada": "inclusión"
+		}
+	],
+	"autor":"C\u00E9sar Estrada",
+	"fecha":"03/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Integrantes de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">RADAK films<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, junto con la psic\u00F3loga Viviana Espa\u00F1a, se presentaron en la Facultad para impartir una conferencia y proyectar el cortometraje<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Lo que me falt\u00F3 por decir<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, que tiene como finalidad concientizar a la comunidad sobre un problema de salud cada vez m\u00E1s com\u00FAn: la depresi\u00F3n. Adem\u00E1s, explicaron las diferencias entre emociones y sentimientos. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El cortometraje aborda temas como abusos emocionales y sexuales, los niveles que existen entre cada uno y sus variantes entre infantes, adolescentes y personas adultas. Por \u00FAltimo, invitaron al p\u00FAblico a sensibilizarse, generar empat\u00EDa y buscar ayuda si es que se atraviesa por alguna de estas situaciones que pueden desencadenar en decisiones que afecten la integridad personal.<\/span><\/p>",
+	"imagenes":[{"imagen":"lo-que-me-falto-por-decir-4.jpg"},{"imagen":"lo-que-me-falto-por-decir-3.jpg"},{"imagen":"lo-que-me-falto-por-decir-1.jpg"},{"imagen":"lo-que-me-falto-por-decir-2.jpg"}]
+}

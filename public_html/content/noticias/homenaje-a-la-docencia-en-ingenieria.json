@@ -1,0 +1,24 @@
+{
+	"titulo": "Homenaje a la docencia en ingenier\u00EDa",
+	"titulo_normalizado": "homenaje-a-la-docencia-en-ingenieria",
+	"secciones": [
+		{
+			"seccion": "Ingeniería en Computación",
+			"seccion_normalizada": "ingenieria-en-computacion"
+		}
+	],
+	"autor": "Edna Reyes",
+	"fecha": "30/05/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La carrera de Ingenier\u00EDa en Computaci\u00F3n llev\u00F3 a cabo una ceremonia de entrega de reconocimientos a los jubilados de esta licenciatura, en la Galer\u00EDa Diego Rivera del edificio de Extensi\u00F3n Universitaria. Cont\u00F3 con la presencia de Fernando Macedo, director de la FES Arag\u00F3n; Mario Sosa, jefe de la Divisi\u00F3n de las Ciencias F\u00EDsico-Matem\u00E1ticas y de las Ingenier\u00EDas; y Jorge Arturo L\u00F3pez, jefe de la carrera de Ingenier\u00EDa en Computaci\u00F3n.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El evento fue musicalizado con piezas de piano interpretadas por Salvador Alcal\u00E1; V\u00EDctor S\u00E1nchez egresado aragon\u00E9s, y el profesor Marcelo P\u00E9rez dirigieron unas palabras a los galardonados, donde agradecieron tantos a\u00F1os de brindar a la comunidad estudiantil sus conocimientos, as\u00ED como apoyo acad\u00E9mico y personal.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente, Macedo reconoci\u00F3 la labor de los docentes jubilados, los consejos y la amistad otorgados; les pidi\u00F3 sentirse orgullosos por haber formado parte de las aulas de la Facultad y sobre todo por contribuir al crecimiento de la sociedad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Alfredo Monta\u00F1o, Hugo Portilla, Adri\u00E1n Mart\u00EDnez y Silvia Vega fueron los docentes reconocidos en este emotivo evento.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "homenaje-a-la-docencia-en-ingenieria-1.jpg"
+		},
+		{
+			"imagen": "homenaje-a-la-docencia-en-ingenieria-2.jpg"
+		},
+		{
+			"imagen": "homenaje-a-la-docencia-en-ingenieria-3.jpg"
+		}	]
+
+}

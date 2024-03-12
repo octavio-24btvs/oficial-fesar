@@ -1,0 +1,37 @@
+{
+    "carrera": "Derecho", 
+    "icono": "icon-derecho", 
+    "investigadores": [
+        {
+            "nombre": "Antonio Reyes Cortés", 
+            "nombre_normalizado": "antonio-reyes-cortes", 
+            "imagen": true
+        }, 
+        {
+            "nombre": "Bernabé Luna Ramos", 
+            "nombre_normalizado": "bernabe-luna-ramos"
+        }, 
+        {
+            "nombre": "Blanca Laura Rivero Banda", 
+            "nombre_normalizado": "blanca-laura-rivero-banda"
+        },
+        {
+            "nombre": "Irene Vázquez Vélez", 
+            "nombre_normalizado": "irene-vazquez-velez"
+        },
+        {
+            "nombre": "Isidro Mendoza García", 
+            "nombre_normalizado": "isidro-mendoza-garcia",
+            "imagen": true
+        },  
+        {
+            "nombre": "Martha Rodríguez Ortiz", 
+            "nombre_normalizado": "martha-rodriguez-ortiz"
+        },
+        {
+            "nombre": "Miguel Mejía Sánchez", 
+            "nombre_normalizado": "miguel-mejia-sanchez", 
+            "imagen": true
+        }
+    ]
+}

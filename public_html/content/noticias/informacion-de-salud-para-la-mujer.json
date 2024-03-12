@@ -1,0 +1,14 @@
+{
+	"titulo": "Informaci\u00F3n de salud para la mujer",
+	"titulo_normalizado": "informacion-de-salud-para-la-mujer",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor":"Edith Granados",
+	"fecha":"06/03/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana Feminista<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> en la FES Arag\u00F3n, en la explanada central se instalaron diferentes m\u00F3dulos provenientes de instituciones como el IMSS, la Escuela Superior de Enfermer\u00EDa y Obstetricia y cl\u00EDnicas privadas como <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Femy CENTE<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Bajo el nombre <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mujer en Movimiento<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, la jornada cont\u00F3 con diversos stands en los que se ofreci\u00F3 informaci\u00F3n sobre m\u00E9todos anticonceptivos, pruebas para detectar problemas o Infecciones de Transmisi\u00F3n Sexual, exploraci\u00F3n femenina, campa\u00F1as para el papanicolao, interrupci\u00F3n del embarazo, etc\u00E9tera; as\u00ED como los lugares para obtener estos servicios de una manera segura, econ\u00F3mica y con un buen trato, sin ning\u00FAn tipo de prejuicios.<\/span><\/p>",
+	"imagenes":[{"imagen":"Informacion-de-salud-para-la-mujer-7.jpg"},{"imagen":"Informacion-de-salud-para-la-mujer-6.jpg"},{"imagen":"Informacion-de-salud-para-la-mujer-5.jpg"},{"imagen":"Informacion-de-salud-para-la-mujer-4.jpg"},{"imagen":"Informacion-de-salud-para-la-mujer-3.jpg"},{"imagen":"Informacion-de-salud-para-la-mujer-2.jpg"},{"imagen":"Informacion-de-salud-para-la-mujer-1.jpg"}]
+}

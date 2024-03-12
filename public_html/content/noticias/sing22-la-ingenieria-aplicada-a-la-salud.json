@@ -1,0 +1,28 @@
+{
+	"titulo": "SING22: La Ingenier\u00EDa aplicada a la Salud",
+	"titulo_normalizado": "sing22-la-ingenieria-aplicada-a-la-salud",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería en Computación",
+			"seccion_normalizada": "ingenieria-en-computacion"
+		}
+	],
+	"autor": "Javier Cer\u00F3n",
+	"fecha": "27/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Arcelia Bernal en el Auditorio Claudio Carl Merrifield Castro<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">del Centro Tecnol\u00F3gico Arag\u00F3n present\u00F3 la conferencia “Aplicaciones de la Ingenier\u00EDa en la Salud”<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">&nbsp;con motivo de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> de la Facultad de Estudios Superiores Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Inici\u00F3 explicando las aplicaciones de la Ingenier\u00EDa en Computaci\u00F3n en la vida cotidiana, una de las m\u00E1s importantes es la salud. Dio conceptos espec\u00EDficos sobre ingenier\u00EDa: conjunto de conocimientos cient\u00EDficos y tecnol\u00F3gicos para la innovaci\u00F3n, desarrollo de herramientas, t\u00E9cnicas para satisfacer las necesidades de la sociedad.&nbsp; As\u00ED mismo, proporcion\u00F3 la definici\u00F3n del \u00E1rea de la medicina, la cual estudia a los seres humanos que se encarga de la salud, el diagn\u00F3stico, tratamiento, prevenci\u00F3n de enfermedades, el arte de curar, prevenir afecciones en un ser humano, adem\u00E1s de c\u00F3mo estas dos ciencias se relacionan la una con la otra para apoyarse.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de esta correlaci\u00F3n han surgido innovaciones como pr\u00F3tesis, que requieren de ingenieros capacitados. por su esencia multidisciplinaria requiere de un protocolo completo para trabajar con poblaciones marcadas en hospitales, dado esto, los ingenieros jam\u00E1s trabajan solos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para cerrar la conferencia se le otorg\u00F3 una constancia de participaci\u00F3n por parte de Jorge Arturo L\u00F3pez, jefe de la carrera de Ingenier\u00EDa en Computaci\u00F3n, as\u00ED mismo, a las personas asistentes se les dieron 20 h de formaci\u00F3n complementaria. <\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "salud-1.gif"
+		},
+		{
+			"imagen": "salud-2.gif"
+		},
+		{
+			"imagen": "salud-3.gif"
+		}	]
+
+}

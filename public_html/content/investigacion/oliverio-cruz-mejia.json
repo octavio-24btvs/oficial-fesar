@@ -1,0 +1,17 @@
+{
+    "nombre": "Oliverio Cruz Mejia ", 
+    "grado_academico": "Doctor", 
+    "correo": [ "oliveriocruz27@aragon.unam.mx"],
+    "estudios": [
+        "Licenciatura en Ingeniería Mecánica. Instituto Politécnico Nacional.",
+        "Maestría en ingeniería en manufactura. Universidad de Syracuse, Estados Unidos.",
+        "Doctorado en investigación en operaciones. Universidad de Lancaster, Reino Unido."
+    ], 
+    "lineas_investigacion": [
+        "Investigación en Operaciones.",
+        "Cadenas de suministro."
+    ], 
+    "investigaciones": [
+        "Revisión sistemática a la literatura de drones para entrega de paquetería."
+    ]
+}

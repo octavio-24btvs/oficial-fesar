@@ -1,0 +1,14 @@
+{
+	"titulo": "Comienza a emprender",
+	"titulo_normalizado": "comienza-a-emprender",
+	"secciones": [
+		{
+			"seccion": "Relaciones Internacionales",
+			"seccion_normalizada": "relaciones-internacionales"
+		}
+	],
+	"autor":"Redacci\u00F3n",
+	"fecha":"09/11/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Administraci\u00F3n, Comercio, Negocios y Tr\u00E1fico Internacionales<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> brind\u00F3 a la comunidad aragonesa, entre otras cosas, la oportunidad de enterarse de algunas opciones para emprender de manera adecuada.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Alberto Escogido, de la incubadora FUMEC, dio algunos consejos sobre c\u00F3mo comenzar un negocio propio, lament\u00F3 que en M\u00E9xico tenemos la costumbre de castigar el error en lugar de aprender de \u00E9l y adquirir experiencia, por ello recomend\u00F3 comenzar de a poco y eventualmente ir creciendo con la pr\u00E1ctica alcanzada.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente, Julia Olivares, encargada de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Innova UNAM FES Arag\u00F3n<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, resalt\u00F3 las iniciativas de la universidad para motivar a su comunidad a emprender y explic\u00F3 la forma de trabajar en la incubadora de nuestra Facultad.<\/span><\/p>",
+	"imagenes":[{"imagen":"comienza-a-emprender-1.jpg"},{"imagen":"comienza-a-emprender-2.jpg"}]
+}

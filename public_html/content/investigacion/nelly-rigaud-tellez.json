@@ -1,0 +1,23 @@
+{
+    "nombre": "Nelly Rigaud Téllez", 
+    "grado_academico": "Doctora", 
+     "correo": [ "nellyrigaudm5@aragon.unam.mx"],
+     "imagen": true,
+    "estudios": [
+        "Licenciatura en Ingeniería Mecánica y Eléctrica. Universidad Anáhuac de México.", 
+        "Maestría en Ingeniería (Planeación). Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ingeniería de Sistemas. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Investigación en Ciencias Físico Matemáticas e Ingenierías.", 
+        "Organización y gestión de sistemas."
+    ], 
+    "investigaciones": [
+        "Pensamiento matemático, razonamiento lógico, su relación y valoración en el área de las Ciencias Físico Matemáticas y de las Ingenierías de la FES Aragón.", 
+        "Gestión de sistemas.", 
+        "Innovación.", 
+        "Modelación de sistemas.", 
+        "Método del elemento finito.", 
+        "Matemáticas – divulgación matemático."
+    ]
+}

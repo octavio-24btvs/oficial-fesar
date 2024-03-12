@@ -1,0 +1,14 @@
+{
+	"titulo": "Llenar el vac\u00EDo desde el color",
+	"titulo_normalizado": "llenar-el-vacio-desde-el-color",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Rodrigo Perea",
+	"fecha":"14/10/19",
+	"contenido":"<p class=\"ql-align-justify\"><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La inexistencia del vac\u00EDo<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, t\u00EDtulo de la primera exposici\u00F3n en solitario de Rosal\u00EDa Baca, se inaugur\u00F3 en la galer\u00EDa Diego Rivera como parte del programa Talento Aragon\u00E9s. La exposici\u00F3n cuenta con 27 piezas de diversas t\u00E9cnicas como el \u00F3leo sobre tela, mezclas de tinta, l\u00E1piz de color o pluma.&nbsp;<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para Rosal\u00EDa pintar es algo natural, una manera de plasmar sus emociones. Las pinturas nos muestran la ausencia de espacios en blanco a partir de la saturaci\u00F3n del color, la mirada y el cuerpo femenino.&nbsp;<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La artista –quien es trabajadora de nuestra Facultad desde hace ya casi 27 a\u00F1os– dice sentirse orgullosa de compartir su obra con la comunidad e invita a que m\u00E1s personas lo hagan: “es bueno que lo conozcan los dem\u00E1s, es interesante, es saber qu\u00E9 es lo que haces, qu\u00E9 es lo que piensas, qu\u00E9 es lo que sientes, qu\u00E9 es lo que te gustar\u00EDa que los dem\u00E1s conocieran de ti, y es muy gratificante, adem\u00E1s, yo estoy super agradecida con la Universidad”, comenta.<\/span><\/p>",
+	"imagenes":[{"imagen":"lenar-el-vacio-desde-el-color-1.jpg"},{"imagen":"lenar-el-vacio-desde-el-color-2.jpg"},{"imagen":"lenar-el-vacio-desde-el-color-3.jpg"},{"imagen":"lenar-el-vacio-desde-el-color-4.jpg"},{"imagen":"lenar-el-vacio-desde-el-color-5.jpg"},{"imagen":"lenar-el-vacio-desde-el-color-6.jpg"},{"imagen":"lenar-el-vacio-desde-el-color-8.jpg"},{"imagen":"lenar-el-vacio-desde-el-color-9.jpg"},{"imagen":"lenar-el-vacio-desde-el-color-10.jpg"}]
+}

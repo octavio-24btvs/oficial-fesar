@@ -1,0 +1,33 @@
+{
+	"titulo": "JID: Microtaller de LSM",
+	"titulo_normalizado": "jid-microtaller-de-lsm",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "22/02/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de la 5ta Jornada de Inclusi\u00F3n y Discapacidad, la Facultad de Estudios Superiores Arag\u00F3n, present\u00F3 el microtaller de Lengua de Se\u00F1as Mexicana (LSM), un espacio dedicado a la comunidad interesada en aprender a expresarse mediante este lenguaje.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La estudiante aragonesa de octavo semestre de la licenciatura de Pedagog\u00EDa, M\u00F3nica Castillo, fue la encargada de ense\u00F1ar a las y los aragoneses los primeros pasos de la lengua de se\u00F1as mexicana: vocabulario, saludos y presentaci\u00F3n, fueron algunos de los elementos aprendidos en este espacio.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Reconocida oficialmente desde el 10 de junio del 2005, la LSM forma parte del patrimonio de nuestro pa\u00EDs, est\u00E1 compuesta por diferentes movimientos del cuerpo y expresiones faciales que permiten a las personas con discapacidad auditiva conocer&nbsp; su entorno de una mejor manera.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Gracias a esta lengua, la comunidad mexicana con discapacidad auditiva puede satisfacer todo tipo de necesidades comunicativas, por ello, la FES Arag\u00F3n promueve su aprendizaje en la comunidad estudiantil a trav\u00E9s de talleres, actividades culturales y ponencias, donde las personas presentes aprendan, a partir de la empat\u00EDa y el respeto.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "LSM.gif"
+		},
+		{
+			"imagen": "LSM1.gif"
+		},
+		{
+			"imagen": "LSM3.gif"
+		},
+		{
+			"imagen": "LSM4.gif"
+		},
+		{
+			"imagen": "LSM5.gif"
+		},
+		{
+			"imagen": "LSM6.gif"
+		}	]
+
+}

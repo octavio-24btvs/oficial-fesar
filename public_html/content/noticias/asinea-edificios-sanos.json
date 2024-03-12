@@ -1,0 +1,14 @@
+{
+	"titulo": "ASINEA: Edificios sanos",
+	"titulo_normalizado": "asinea-edificios-sanos",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor":"Velia L\u00F3pez",
+	"fecha":"21/10/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La sostenibilidad est\u00E1 basada en la salud, la huella del carbono, la energ\u00EDa renovable, el reciclaje y la econom\u00EDa circular con el fin de lograr la disminuci\u00F3n del cambio clim\u00E1tico. Pero esto solo se lograr\u00E1 si se comienzan a crear edificios “sanos”, es decir, con cero producciones de carbono, en los cuales, desde el inicio de la construcci\u00F3n, se aprovechen bien los elementos ambientales de los que se encuentran rodeados, esto de acuerdo con lo comentado por Luis Vega, moderador del conversatorio “Eficiencia energ\u00E9tica y sustentabilidad”.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En opini\u00F3n de la maestra y ponente Juliana Gom\u00E9z, de la Consultor\u00EDa Integral en Arquitectura Bioclim\u00E1tica y Eficiencia Energ\u00E9tica, el desarrollo de la arquitectura deber\u00EDa de tener una actualizaci\u00F3n constante e innovadora en el uso de materiales, considerando el estudio del contexto ambiental para as\u00ED saber cu\u00E1les usar y obtener una construcci\u00F3n saludable.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para el profesor Carlos Alejandro Carrasco, director general en ALENER, la calidad y la sustentabilidad de las edificaciones en M\u00E9xico repercuten directamente en el bienestar y el desarrollo de las personas. Adem\u00E1s, plante\u00F3 que si una construcci\u00F3n se realiza de manera novedosa y saludable desde el inicio se reducir\u00E1 la dependencia de recursos importados.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al final, el maestro y moderador de la mesa, Gerardo Valent\u00EDn Gonz\u00E1lez, reflexion\u00F3 sobre la necesidad de analizar los objetivos y materiales de cada proyecto para minimizar el impacto ambiental, lo cual se lograr\u00E1 combinando la experiencia pr\u00E1ctica con el conocimiento acad\u00E9mico.&nbsp;<\/span><\/p>",
+	"imagenes":[{"imagen":"Edificios-sanos1.gif"},{"imagen":"Edificios-sanos2.gif"},{"imagen":"Edificios-sanos3.gif"}]
+}

@@ -1,0 +1,22 @@
+{
+    "nombre": "Xuedong Liu Sun", 
+    "grado_academico": "Doctor", 
+    "correo": [ "xuedonglui@aragon.unam.mx"],
+    "imagen": true,
+    "estudios": [
+        "Licenciatura en Economía. Renmin University of China.", 
+        "Maestría en Economía. Centro de Investigación y Docencia Económicas A.C.", 
+        "Doctorado en Economía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Métodos cuantitativos en Economía.", 
+        "Ciencias sociales."
+    ], 
+    "investigaciones": [
+        "Economía china y las perspectivas para las dos metas centenares.", 
+        "Comercio trilateral México-China-Estados Unidos y sus perspectivas ante un proceso renovado de integración regional.", 
+        "Análisis y evaluación de las políticas públicas en México, 2019- 2020.", 
+        "Análisis de los impactos de fricciones comerciales China-Estados Unidos sobre el comercio bilateral sino mexicanos para los productos electrónicos y electrodomésticos.", 
+        "Comercio bilateral del sector automotriz China-México y sus perspectivas ante la entrada del T-MEC."
+    ]
+}

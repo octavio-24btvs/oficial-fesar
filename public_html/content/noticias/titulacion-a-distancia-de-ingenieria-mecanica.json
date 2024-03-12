@@ -1,0 +1,14 @@
+{
+	"titulo": "Titulaci\u00F3n a distancia de Ingenier\u00EDa Mec\u00E1nica",
+	"titulo_normalizado": "titulacion-a-distancia-de-ingenieria-mecanica",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor":"Carmen Melendez",
+	"fecha":"07/03/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Debido a cuestiones laborales, Jos\u00E9 Casta\u00F1eda, egresado de Ingenier\u00EDa Mec\u00E1nica, no tuvo la oportunidad de realizar su examen profesional de manera presencial, por lo que la Facultad le ofreci\u00F3 la posibilidad de presentar su trabajo de titulaci\u00F3n a trav\u00E9s de una videoconferencia en Aula Magna Ing. Javier Barros Sierra.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">As\u00ED fue como present\u00F3 su tesis <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Caracterizaci\u00F3n de cortes de acero y cabezas de lat\u00F3n forjados para tanques estacionarios<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, asesorada por el &nbsp;Dr. Daniel Aldama, acad\u00E9mico de la carrera. Jos\u00E9 explic\u00F3 el proceso de elaboraci\u00F3n de su proyecto, como los materiales que utiliz\u00F3, la infraestructura y los resultado obtenidos despu\u00E9s de llevarlos a la pr\u00E1ctica.<\/span><\/p>",
+	"imagenes":[{"imagen":"titulacion-a-distancia-de-IM-2.jpg"},{"imagen":"titulacion-a-distancia-de-IM-3.jpg"},{"imagen":"titulacion-a-distancia-de-IM-4.jpg"},{"imagen":"titulacion-a-distancia-de-IM-5.jpg"}]
+}

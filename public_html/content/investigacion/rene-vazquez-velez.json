@@ -1,0 +1,16 @@
+{
+    "nombre": "René Vázquez Vélez", 
+    "grado_academico": "Licenciatura", 
+     "correo": [ "licirenearagon@hotmail.com" ],
+    "estudios": [
+        "Licenciatura en Derecho. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Procedimientos administrativos federales antes Secretarías de Estado.", 
+        "Derecho Administrativo."
+    ], 
+    "investigaciones": [
+        "Procedimientos administrativos Federales ante Secretarías de Estado.", 
+        "Derecho administrativo."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "nombre": "Ismael Díaz Rangel", 
+    "grado_academico": "Doctor", 
+     "correo": [ "ismaeldiazdir@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en  Ingeniería Mecánica Electricista área: Eléctrica Electrónica.",
+        "Maestría en Ciencias en Ingeniería de Cómputo.",
+        "Doctorado en Ciencias de la Computación."
+    ], 
+    "lineas_investigacion": [
+        "Ciencias Físico Matemáticas e Ingenierías"
+    ], 
+    "investigaciones": [
+        "Desarrollo de un sistema computacional aumentativo y alternativo de comunicación como herramienta de apoyo a personas con discapacidad motora y del habla."
+    ]
+}

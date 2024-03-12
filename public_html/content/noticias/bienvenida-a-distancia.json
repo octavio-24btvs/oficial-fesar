@@ -1,0 +1,14 @@
+{
+	"titulo": "Bienvenida a distancia",
+	"titulo_normalizado": "bienvenida-a-distancia",
+	"secciones": [
+		{
+			"seccion": "DUACyD",
+			"seccion_normalizada": "duacyd"
+		}
+	],
+	"autor":"Alberto Ochoa",
+	"fecha":"20/02/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(28, 30, 33);\">Como parte de la <\/span><span style=\"color: rgb(28, 30, 33); background-color: transparent;\">bienvenida a distancia del ciclo escolar 2021-2, el Sistema de Universidad Abierta y Educaci\u00F3n a Distancia (SUAyED) de la FES Arag\u00F3n transmiti\u00F3 distintos mensajes de presentaci\u00F3n y<\/span><span style=\"color: rgb(28, 30, 33);\"> clases muestras por medio de las plataformas Facebook y Zoom. Dichas actividades tienen como objetivo iniciar a la comunidad universitaria en la modalidad remota.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(28, 30, 33);\">Jorge Andr\u00E9s Trejo, jefe de la Divisi\u00F3n de Universidad Abierta Continua y a Distancia (DUACyD), resalt\u00F3 el privilegio de formar parte de la UNAM, cuyo fin es el de formar profesionistas con apego a la \u00E9tica y justicia. Adem\u00E1s, exalt\u00F3 la calidad de la planta docente, la cual est\u00E1 preparada para transmitir su experiencia y conocimiento.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(28, 30, 33);\">Durante la inducci\u00F3n se resaltaron las ventajas de los espacios educativos virtuales en las modalidades de: tiempo real, tiempos diferenciados y, una vez que la situaci\u00F3n actual lo permita, se incluir\u00E1 la modalidad presencial.<\/span><\/p>",
+	"imagenes":[{"imagen":"Bienvenida-1.gif"},{"imagen":"Bienvenida-2.gif"},{"imagen":"Bienvenida-3.gif"},{"imagen":"Bienvenida-4.gif"}]
+}

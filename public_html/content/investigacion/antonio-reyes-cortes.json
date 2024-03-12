@@ -1,0 +1,16 @@
+{
+    "nombre": "Antonio Reyes Cortés", 
+    "grado_academico": "Maestro", 
+     "correo": [ "antonioreyes381@aragon.unam.mx "],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Derecho. Universidad Nacional Autónoma de México.", 
+        "Maestría en Enseñanza Superior. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Derecho Internacional Público."
+    ], 
+    "investigaciones": [
+        "Actualización de apuntes de Derecho Internacional Público para la carrera de Relaciones Internacionales."
+    ]
+}

@@ -1,0 +1,54 @@
+<div class="container content">
+    <hr>
+    <div class="row encabezado">
+        <div class="col-lg-12 encabezado-titulo">
+            <i class="icono-encabezado icon-formulario-1"></i><h1> Formulario para administrativo </h1>
+        </div>
+    </div>
+    <hr> 
+    <div class="row justify-content-center lista">
+        <form ng-submit="submit()" novalidate>
+            <div class="form-group">
+                <strong> Tr&aacute;mite:</strong> <br/>
+                <label> <input type="radio" ng-model="form.tramite" name="radiotramite" value="1" required/> Registro</label><br/>
+                <label> <input type="radio" ng-model="form.tramite" name="radiotramite" value="2" required/> Resello</label><br/>
+            </div>
+            <div class="form-group">
+                <label><strong>Nombre (paterno, materno y nombres):</strong></label>
+                <input class="form-control" ng-model="form.nombre" placeholder="Nombre" type="text" required/>
+            </div>
+            <div class="form-group">
+                <label><strong> N&uacute;mero de trabajador:</strong></label>
+                <input class="form-control" ng-model="form.numero_trabajador" placeholder="  En la credencial de la UNAM se localiza este dato" type="number" required />
+            </div>
+            <div class="form-group">
+                <label><strong>Categor&iacute;a:</strong></label>
+                <input class="form-control" ng-model="form.categoria" placeholder="Introducir la categor&iacute;a del trabajador" required/> 
+            </div>
+            <div class="form-group">
+                <label><strong>Domicilio:</strong></label>
+                <textarea class="form-control" ng-model="form.domicilio" placeholder="Calle, n&uacute;mero, colonia, CP, Delegaci&oacute;n/Municipio, Estado" required></textarea>
+            </div>
+            <div class="form-group">
+                <label><strong> Telef&oacute;no particular:</strong></label>
+                <input class="form-control" ng-model="form.telefono_particular" placeholder="Telef&oacute;no particular" type="number" required number/>
+            </div>
+            <div class="form-group">
+                <label><strong>Telef&oacute;no m&oacute;vil:</strong></label>
+                <input class="form-control" ng-model="form.telefono_movil" placeholder="Telef&oacute;no m&oacute;vil" type="number" required number/>
+            </div>
+            <div class="form-group">
+                <label><strong>Correo electr&oacute;nico:</strong></label>
+                <input class="form-control" ng-model="form.correo_electronico" placeholder="Correo electr&oacute;nico" type="email" required/> 
+            </div>
+            <div class="form-group">
+                <label><strong> Mensaje: </strong></label>
+                <textarea class="form-control" ng-model="form.mensaje" placeholder="Mensaje"></textarea>
+            </div>
+
+            <button class="btn btn-success float-right ml-10 boton-radius" type="submit">Enviar</button>
+            <button class="btn btn-danger float-right boton-radius" ng-click="cancelar()" type="button">Cancelar</button>
+        </form>
+    </div>
+</div>
+

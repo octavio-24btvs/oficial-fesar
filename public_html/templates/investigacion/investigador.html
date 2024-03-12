@@ -1,0 +1,116 @@
+<style type="text/css">
+    .container {
+        font-size: 0.9rem !important;
+    }
+</style>
+<div class="container pt-4 pb-5">
+    <div class="row justify-content-md-center" style="margin-top: 15px">
+        <div class="col-12 col-md-9">
+            <div class="row">
+                <div class="col-5 col-md-3 mb-sm-3 mb-md-0">
+                    <img class="img-fluid rounded-circle"
+                        ng-src="public_html/img/investigacion/investigadores/{{investigador_normalizado}}.jpg"
+                        alt="{{investigador.nombre}}" ng-if="investigador.imagen" />
+                    <img class="img-fluid rounded-circle"
+                        ng-src="public_html/img/investigacion/investigadores/sin-foto.jpg" alt="{{investigador.nombre}}"
+                        ng-if="investigador.imagen === undefined" />
+                </div>
+                <div class="col-11 col-md-9" style="margin-top: 50px">
+                    <div class="header-investigador">
+                        <p><strong>{{investigador.grado_academico.toUpperCase()}}</strong></p>
+                        <h2 style="border-bottom: 1px solid #808080;">{{investigador.nombre}}</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-9 mt-4">
+            <div class="card mb-2">
+                <div class="card-header cursor-pointer" ng-click="showing === 1 ? showing = 0 : showing = 1">
+                    <p><strong>Contacto</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing === 1">
+                    <div ng-if="investigador.ubicacion.length > 0">
+                        <p class="m-0"><strong>Ubicación:</strong><br>
+                            <p ng-repeat="contactos in investigador.ubicacion">{{contactos}}</p>
+                    </div>
+                    <div ng-if="investigador.telefono.length > 0">
+                        <p class="m-0"><strong>Teléfono:</strong><br>
+                            <p ng-repeat="contactos in investigador.telefono">{{contactos}}</p>
+                            <p ng-repeat="contactos in investigador.telefono1">{{contactos}}</p>
+                    </div>
+                    <div ng-if="investigador.correo.length > 0">
+                        <p class="m-0"><!--<strong>Correo electr&oacute;nico:</strong><br>-->
+                            <a style="color: #007bff;" class="m-0" ng-repeat="contactos in investigador.correo" ng-href="mailto:{{contactos}}">{{contactos}}</a>
+                        </p>
+                    </div>
+                    <div ng-if="investigador.ubicacion.length === 0">
+                        Informaci&oacute;n de contactos no disponible
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-2">
+                <div class="card-header cursor-pointer" ng-click="showing === 2 ? showing = 0 : showing = 2">
+                    <p><strong>Informaci&oacute;n Acad&eacute;mica</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing === 2">
+                    <!-- <p><strong>Categor&iacute;a: </strong>Profesor de carrera asociado "C" tiempo completo interino.</p>
+                         <p><strong>Adscripci&oacute;n: </strong>Centro Tecnológico.</p>
+                         <p><strong>Formaci&oacute;n Acad&eacute;mica: </strong></p>
+                    -->
+                    <div ng-if="investigador.estudios.length > 0">
+                        <ul>
+                            <li ng-repeat="estudio in investigador.estudios">{{estudio}}</li>
+                        </ul>
+                    </div>
+                    <div ng-if="investigador.estudios.length === 0">
+                        Informaci&oacute;n Acad&eacute;mica no disponible
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-2">
+                <div class="card-header cursor-pointer" ng-click="showing === 3 ? showing = 0 : showing = 3">
+                    <p><strong>L&iacute;neas de Investigaci&oacute;n</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing === 3">
+                    <div ng-if="investigador.lineas_investigacion.length > 0">
+                        <ul>
+                            <li ng-repeat="linea_invesstigacion in investigador.lineas_investigacion">
+                                {{linea_invesstigacion}}</li>
+                        </ul>
+                    </div>
+                    <div ng-if="investigador.lineas_investigacion.length === 0">
+                        El investigador no cuenta con una linea de investigaci&oacute;n
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-2">
+                <div class="card-header cursor-pointer" ng-click="showing === 4 ? showing = 0 : showing = 4">
+                    <p><strong>Proyectos de Investigaci&oacute;n Vigentes</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing === 4">
+                    <div ng-if="investigador.investigaciones.length > 0">
+                        <ul>
+                            <li ng-repeat="investigacion in investigador.investigaciones">{{investigacion}}</li>
+                            <ul>
+                                    <li ng-repeat="investigacion in investigador.investigaciones2">{{investigacion}}</li>
+                           </ul>
+                        </ul>
+                    </div>
+                    <div ng-if="investigador.investigaciones.length === 0">
+                        El investigador no cuenta con investigaciones
+                    </div>
+                </div>
+            </div>
+            <!--            <div class="card mb-2">
+                            <div class="card-header cursor-pointer" ng-click="showing === 5 ? showing = 0 : showing = 5">
+                                <p><strong>Publicaciones</strong></p>
+                            </div>
+                            <div class="card-body" ng-show="showing === 5">
+                                <ul>
+                                    <li>"La seguridad de la informaci&oacute;n", LIMUSA, M&eacute;xico, 1998.</li>
+                                </ul>
+                            </div>
+                        </div>-->
+        </div>
+    </div>
+</div>

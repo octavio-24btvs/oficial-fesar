@@ -1,0 +1,27 @@
+{
+	"titulo": "SEMECO: Charlas sobre M\u00E9xico, econom\u00EDa y medioambiente",
+	"titulo_normalizado": "semeco-charlas-sobre-mexico-economia-y-medioambiente",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		}
+	],
+	"autor": "Rosa Francisco",
+	"fecha": "26/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Econom\u00EDa. La econom\u00EDa mexicana ante la reconfiguraci\u00F3n del nuevo orden mundial<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se llevaron a cabo las conferencias “Econom\u00EDa verde y la pol\u00EDtica medioambiental”, “La reconfiguraci\u00F3n econ\u00F3mica de los territorios del sur y sureste de M\u00E9xico” y “La recomposici\u00F3n pol\u00EDtica-econ\u00F3mica y sus efectos en M\u00E9xico”; en el Auditorio Ing. Pablo Ortiz Macedo del edificio A9 de nuestra Facultad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La primera de las conferencias mencionadas cont\u00F3 con la intervenci\u00F3n del acad\u00E9mico Jaime Llanos, quien habl\u00F3 acerca de la sostenibilidad y de c\u00F3mo varios aspectos sociales actualmente son considerados en busca de un equilibrio ambiental; explic\u00F3 que la econom\u00EDa verde pretende generar bienestar y equidad social, participando en una reducci\u00F3n significativa de riesgos ambientales y escasez ecol\u00F3gica.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Despu\u00E9s, los profesores Orlando Eleazar Moreno y Omar Rojas, as\u00ED como las docentes e investigadoras Ana Paula Montes y Guadalupe Garc\u00EDa abordaron, en la segunda conferencia, temas como los diferentes niveles de vida de las personas, en ciudades o diversas regiones a nivel mundial; las consecuencias para un pa\u00EDs debido al flujo de capital; la desigualdad econ\u00F3mica territorial que se vive en M\u00E9xico; y las mentiras en las noticias, y como en redes sociales es m\u00E1s f\u00E1cil tergiversar algunos hechos.&nbsp;&nbsp;&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente, Helios Padilla, en la tercera ponencia, se refiri\u00F3 a los efectos en el empleo formal, las exportaciones y el PIB tras la pandemia por COVID-19 en M\u00E9xico, la cual dej\u00F3 secuelas con consecuencias a\u00FAn notables, tanto econ\u00F3micas como sociales.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "semeco-charlas-sobre-mexico-economia-y-medioambiente-1.jpg"
+		},
+		{
+			"imagen": "semeco-charlas-sobre-mexico-economia-y-medioambiente-2.jpg"
+		},
+		{
+			"imagen": "semeco-charlas-sobre-mexico-economia-y-medioambiente-3.jpg"
+		},
+		{
+			"imagen": "semeco-charlas-sobre-mexico-economia-y-medioambiente-4.jpg"
+		}	]
+
+}

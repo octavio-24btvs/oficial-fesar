@@ -1,0 +1,357 @@
+{
+	"id": 1,
+	"titulo": "Ciencias F\u00EDs.-Mat. y de las Ingenier\u00EDas",
+	"icono": "icon-cfmi",
+	"noticias": [
+		{
+			"titulo":"Talento de aragoneses en el UNAMxHack",
+			"titulo_normalizado":"talento-de-aragoneses-en-el-unamxhack",
+			"autor":"Redacci\u00F3n",
+			"imagen": "talento-aragones-1.jpg",
+			"fecha":"30/10/19"
+		},
+		{
+			"titulo":"SING22: Concurso de catapultas",
+			"titulo_normalizado":"sing22-concurso-de-catapultas",
+			"autor":"Javier Cer\u00F3n",
+			"imagen": "catapultas-1.gif",
+			"fecha":"30/09/22"
+		},
+		{
+			"titulo":"Ciberconcurso de disfraces",
+			"titulo_normalizado":"ciberconcurso-de-disfraces",
+			"autor":"Erick Sol\u00EDs",
+			"imagen": "ciberconcurso-de-disfraces-1.jpg",
+			"fecha":"29/10/20"
+		},
+		{
+			"titulo":"SING22: Aprender con videojuegos",
+			"titulo_normalizado":"sing22-aprender-con-videojuegos",
+			"autor":"Elisa Jacobo",
+			"imagen": "videojuegos-1.jpg",
+			"fecha":"29/09/22"
+		},
+		{
+			"titulo":"Drones, arcades y Spiderman: la FES Arag\u00F3n participa en el Sexto Simposio de Rob\u00F3tica Educativa",
+			"titulo_normalizado":"drones-arcades-y-spiderman-la-fes-aragon-participa-en-el-sexto-simposio-de-robotica-educativa",
+			"autor":"Roberto Vazquez",
+			"imagen": "Simposio 2.jpg",
+			"fecha":"29/08/19"
+		},
+		{
+			"titulo":"XVCIMI: Sesi\u00F3n  de clausura: conocimiento y entorno",
+			"titulo_normalizado":"xvcimi-sesion--de-clausura-conocimiento-y-entorno",
+			"autor":"Elisa Jacobo",
+			"imagen": "clausura-1.jpg",
+			"fecha":"28/10/22"
+		},
+		{
+			"titulo":"SING 22: Los drones y la industria",
+			"titulo_normalizado":"sing-22-los-drones-y-la-industria",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Drones1.gif",
+			"fecha":"28/09/22"
+		},
+		{
+			"titulo":"SING22: El motor de grandes ideas",
+			"titulo_normalizado":"sing22-el-motor-de-grandes-ideas",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "tren-1.jpg",
+			"fecha":"28/09/22"
+		},
+		{
+			"titulo":"XVCIMI: Ense\u00F1anza y aprendizaje, tarea de todas y todo",
+			"titulo_normalizado":"xvcimi-ensenanza-y-aprendizaje-tarea-de-todas-y-todo",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "sesion-1.jpg",
+			"fecha":"27/10/22"
+		},
+		{
+			"titulo":"SING22: La Ingenier\u00EDa aplicada a la Salud",
+			"titulo_normalizado":"sing22-la-ingenieria-aplicada-a-la-salud",
+			"autor":"Javier Cer\u00F3n",
+			"imagen": "salud-1.gif",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"SING22: Labor de un buen hacker",
+			"titulo_normalizado":"sing22-labor-de-un-buen-hacker",
+			"autor":"Elisa Jacobo",
+			"imagen": "labor-hacker-1.jpg",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"XVCIMI: Zoques: gastronom\u00EDa y tradiciones",
+			"titulo_normalizado":"xvcimi-zoques-gastronomia-y-tradiciones",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "zoques-1.gif",
+			"fecha":"26/10/22"
+		},
+		{
+			"titulo":"XVCIMI: Laboratorio de ingenier\u00EDa en casa",
+			"titulo_normalizado":"xvcimi-laboratorio-de-ingenieria-en-casa",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "laboratorio-1.gif",
+			"fecha":"26/10/22"
+		},
+		{
+			"titulo":"SING22: As\u00ED se inaugur\u00F3 la Semana de la Ingenier\u00EDa",
+			"titulo_normalizado":"sing22-asi-se-inauguro-la-semana-de-la-ingenieria",
+			"autor":"Javier Cer\u00F3n",
+			"imagen": "inauguracion-1.gif",
+			"fecha":"26/09/22"
+		},
+		{
+			"titulo":"SING 22: Veh\u00EDculos de competencia tipo f\u00F3rmula",
+			"titulo_normalizado":"sing-22-vehiculos-de-competencia-tipo-formula",
+			"autor":"Alexis Rey",
+			"imagen": "SAE1.gif",
+			"fecha":"26/09/22"
+		},
+		{
+			"titulo":"SING 22: El futuro de la construcci\u00F3n",
+			"titulo_normalizado":"sing-22-el-futuro-de-la-construccion",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Construcción1.gif",
+			"fecha":"26/09/22"
+		},
+		{
+			"titulo":"Unix el m\u00E1s usado del mundo",
+			"titulo_normalizado":"unix-el-mas-usado-del-mundo",
+			"autor":"Javier Cer\u00F3n",
+			"imagen": "unix-1.gif",
+			"fecha":"26/09/22"
+		},
+		{
+			"titulo":"Jugar y aprender",
+			"titulo_normalizado":"jugar-y-aprender",
+			"autor":"Erik Pliego",
+			"imagen": "jugar-y-aprender-1.jpg",
+			"fecha":"26/08/20"
+		},
+		{
+			"titulo":"XVCIMI: Clase virtual y retos de pandemia",
+			"titulo_normalizado":"xvcimi-clase-virtual-y-retos-de-pandemia",
+			"autor":"Elisa Jacobo",
+			"imagen": "clases-1.gif",
+			"fecha":"25/10/22"
+		},
+		{
+			"titulo":"Arag\u00F3n se une a la Fiesta",
+			"titulo_normalizado":"aragon-se-une-a-la-fiesta",
+			"autor":"Redacci\u00F3n",
+			"imagen": "aragon-se-une-a-la-fiesta-1.jpg",
+			"fecha":"25/10/19"
+		},
+		{
+			"titulo":"Primer Ollin piada de rob\u00F3tica",
+			"titulo_normalizado":"primer-ollin-piada-de-robotica",
+			"autor":"Erik Pliego",
+			"imagen": "Ollin1.gif",
+			"fecha":"24/02/23"
+		},
+		{
+			"titulo":"Semana dedicada al mundo de la ingenier\u00EDa",
+			"titulo_normalizado":"semana-dedicada-al-mundo-de-la-ingenieria",
+			"autor":"Liliana Espinosa",
+			"imagen": "semana-dedicada-al-mundo-de-la-ingenieria-1.jpg",
+			"fecha":"23/09/19"
+		},
+		{
+			"titulo":"Laboratorios de calidad en la FES Arag\u00F3n",
+			"titulo_normalizado":"laboratorios-de-calidad-en-la-fes-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "Certificación1.gif",
+			"fecha":"23/03/22"
+		},
+		{
+			"titulo":"La UNAM compite en la CanSat anual de la AAS",
+			"titulo_normalizado":"la-unam-compite-en-la-cansat-anual-de-la-aas",
+			"autor":"Erik Pliego",
+			"imagen": "CAnsat3.gif",
+			"fecha":"22/06/23"
+		},
+		{
+			"titulo":"El compromiso social de la ingenier\u00EDa",
+			"titulo_normalizado":"el-compromiso-social-de-la-ingenieria",
+			"autor":"Ang\u00E9lica L\u00F3pez",
+			"imagen": "compromiso-1.gif",
+			"fecha":"21/09/23"
+		},
+		{
+			"titulo":"El internet de las cosas y un viaje a la india",
+			"titulo_normalizado":"el-internet-de-las-cosas-y-un-viaje-a-la-india",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Cosas1.gif",
+			"fecha":"21/09/23"
+		},
+		{
+			"titulo":"Realidad aumentada, una nueva herramienta tecnol\u00F3gica",
+			"titulo_normalizado":"realidad-aumentada-una-nueva-herramienta-tecnologica",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "RA-1.gif",
+			"fecha":"21/09/23"
+		},
+		{
+			"titulo":"Demencia y salud mental: Un vistazo al proyecto de monitoreo remoto",
+			"titulo_normalizado":"demencia-y-salud-mental-un-vistazo-al-proyecto-de-monitoreo-remoto",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Demencia1.gif",
+			"fecha":"20/09/23"
+		},
+		{
+			"titulo":"Experiencia acad\u00E9mica en la India",
+			"titulo_normalizado":"experiencia-academica-en-la-india",
+			"autor":"Oscar Rafael Cornejo Ruiz",
+			"imagen": "India1.gif",
+			"fecha":"20/09/23"
+		},
+		{
+			"titulo":"Di\u00E1logo din\u00E1mico en la Semana de la Ingenier\u00EDa: Ecuaci\u00F3n o f\u00F3rmula",
+			"titulo_normalizado":"dialogo-dinamico-en-la-semana-de-la-ingenieria-ecuacion-o-formula",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Ecuación1.gif",
+			"fecha":"19/09/23"
+		},
+		{
+			"titulo":"Semana de la Ingenier\u00EDa: sobre los sismos y qu\u00E9 hacer en caso de uno",
+			"titulo_normalizado":"semana-de-la-ingenieria-sobre-los-sismos-y-que-hacer-en-caso-de-uno",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Ingeniería1.gif",
+			"fecha":"19/09/23"
+		},
+		{
+			"titulo":"Presentaci\u00F3n de F\u00F3rmula SAE Electric",
+			"titulo_normalizado":"presentacion-de-formula-sae-electric",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "SAE1.gif",
+			"fecha":"19/08/22"
+		},
+		{
+			"titulo":"M\u00E1s all\u00E1 de la explosi\u00F3n",
+			"titulo_normalizado":"mas-alla-de-la-explosion",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "explosiones-1.gif",
+			"fecha":"18/09/23"
+		},
+		{
+			"titulo":"La importancia de emprender",
+			"titulo_normalizado":"la-importancia-de-emprender",
+			"autor":"Ang\u00E9lica L\u00F3pez",
+			"imagen": "emprender-1.gif",
+			"fecha":"18/09/23"
+		},
+		{
+			"titulo":"Del pensamiento antiguo a la Era Moderna: Geometr\u00EDa,universo y gravedad",
+			"titulo_normalizado":"del-pensamiento-antiguo-a-la-era-moderna-geometriauniverso-y-gravedad",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Gravedad1.gif",
+			"fecha":"18/09/23"
+		},
+		{
+			"titulo":"Convenio HUAWEI - FES Arag\u00F3n",
+			"titulo_normalizado":"convenio-huawei---fes-aragon",
+			"autor":"Alfredo Aguilar",
+			"imagen": "img-1.png",
+			"fecha":"16/09/18"
+		},
+		{
+			"titulo":"Pilgrim's presenta el programa Trainee",
+			"titulo_normalizado":"pilgrims-presenta-el-programa-trainee",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Pilgrim1.gif",
+			"fecha":"16/08/23"
+		},
+		{
+			"titulo":"11F: Ser mujer en las ingenier\u00EDas",
+			"titulo_normalizado":"11f-ser-mujer-en-las-ingenierias",
+			"autor":"Redacci\u00F3n",
+			"imagen": "11f-ser-mujer-en-las-ingenierias-1.jpg",
+			"fecha":"15/02/23"
+		},
+		{
+			"titulo":"Rob\u00F3tica en el proceso de ense\u00F1anza",
+			"titulo_normalizado":"robotica-en-el-proceso-de-ensenanza",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "robotica-en-los-procesos-de-enseñanza-1.jpg",
+			"fecha":"13/11/20"
+		},
+		{
+			"titulo":"Simposio de rob\u00F3tica, reinventando al mundo",
+			"titulo_normalizado":"simposio-de-robotica-reinventando-al-mundo",
+			"autor":"Erika Nejapa",
+			"imagen": "simposio-de-robotica-reinventando-al-mundo-1.jpg",
+			"fecha":"13/11/20"
+		},
+		{
+			"titulo":"Ingenier\u00EDa Civil destaca en certamen internacional de concreto",
+			"titulo_normalizado":"ingenieria-civil-destaca-en-certamen-internacional-de-concreto",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "ingenieria-civil-destaca-en-certamen-internacional-de-concreto-1.png",
+			"fecha":"13/10/18"
+		},
+		{
+			"titulo":"La ciencia las necesita",
+			"titulo_normalizado":"la-ciencia-las-necesita",
+			"autor":"Erika Nejapa",
+			"imagen": "la-ciencia-las-necesita-1.jpg",
+			"fecha":"11/02/21"
+		},
+		{
+			"titulo":"SEFI y la FES Arag\u00F3n en pro de las ingenier\u00EDas",
+			"titulo_normalizado":"sefi-y-la-fes-aragon-en-pro-de-las-ingenierias",
+			"autor":"Erik Pliego",
+			"imagen": "SEFI1.gif",
+			"fecha":"09/11/23"
+		},
+		{
+			"titulo":"Cerebros en competencia",
+			"titulo_normalizado":"cerebros-en-competencia",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "rally-1.jpg",
+			"fecha":"08/08/23"
+		},
+		{
+			"titulo":"8M: La cotidianidad de la mujer en las redes",
+			"titulo_normalizado":"8m-la-cotidianidad-de-la-mujer-en-las-redes",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "8m-la-cotidianidad-de-la-mujer-en-las-redes-1.jpg",
+			"fecha":"08/03/23"
+		},
+		{
+			"titulo":"La regi\u00F3n VIII de la ANFEI se re\u00FAne en Arag\u00F3n",
+			"titulo_normalizado":"la-region-viii-de-la-anfei-se-reune-en-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "ANFEI-1.gif",
+			"fecha":"08/02/24"
+		},
+		{
+			"titulo":"Ingenier\u00EDa, por un bienestar social",
+			"titulo_normalizado":"ingenieria-por-un-bienestar-social",
+			"autor":"Edith Granados",
+			"imagen": "ingenieria-por-un-bienestar-social-1.jpg",
+			"fecha":"07/11/18"
+		},
+		{
+			"titulo":"Ingenieros ponen a prueba veh\u00EDculos experimentales",
+			"titulo_normalizado":"ingenieros-ponen-a-prueba-vehiculos-experimentales",
+			"autor":"Luis Bocanegra",
+			"imagen": "ingenieros-ponen-a-prueba-vehiculos-experimentales-1.jpg",
+			"fecha":"07/06/19"
+		},
+		{
+			"titulo":"Nuevas mentes para el futuro de la ingenier\u00EDa",
+			"titulo_normalizado":"nuevas-mentes-para-el-futuro-de-la-ingenieria",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "cap-1.jpg",
+			"fecha":"03/03/23"
+		},
+		{
+			"titulo":"Laboratorio Electr\u00F3nico M\u00F3vil (LEM)",
+			"titulo_normalizado":"laboratorio-electronico-movil-lem",
+			"autor":"Erik Pliego",
+			"imagen": "LEM1.gif",
+			"fecha":"02/05/23"
+		}
+	]
+}

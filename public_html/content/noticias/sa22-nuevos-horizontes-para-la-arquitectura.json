@@ -1,0 +1,30 @@
+{
+	"titulo": "SA22: Nuevos horizontes para la arquitectura",
+	"titulo_normalizado": "sa22-nuevos-horizontes-para-la-arquitectura",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor": "Luis Gonz\u00E1lez",
+	"fecha": "09/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Arquitectura<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> en la Facultad de Estudios Superiores Arag\u00F3n dio inicio con la conferencia “Tecnolog\u00EDa, inteligencia artificial y el metaverso en la arquitectura: Nuevas aproximaciones y m\u00E9todos para el dise\u00F1o”, impartida por Elizabeth Fr\u00EDas, arquitecta egresada de la Universidad Iberoamericana. En la conferencia inaugural tambi\u00E9n estuvieron presentes la directora de la Divisi\u00F3n de Humanidades y Artes Luc\u00EDa Mata, adem\u00E1s de la jefa de la carrera de arquitectura Ana Mar\u00EDa Cort\u00E9s.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Fr\u00EDas comenz\u00F3 explicando la importancia de la arquitectura en la vida diaria e hizo algunas observaciones sobre su evoluci\u00F3n; desde las formas convencionales hasta las nuevas tecnolog\u00EDas. Habl\u00F3 sobre el dise\u00F1o computacional, el cual involucra algoritmos y variables; al igual que de las nuevas herramientas como las impresoras 3D, las cuales utilizan materiales como el concreto o el vidrio.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Coment\u00F3 tambi\u00E9n la manera en c\u00F3mo las Inteligencias Artificiales son de ayuda al momento de crear dise\u00F1os originales, exponiendo a la vez el temor de algunas personas de quedarse sin trabajo debido al uso de estas, pues se trata de un proceso para \"abrazar estas inteligencias y utilizarlas a nuestro favor en nuestra profesi\u00F3n\".<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para finalizar, Fr\u00EDas habl\u00F3 sobre el metaverso y las posibilidades de este, ya que deja de lado muchas limitaciones f\u00EDsicas, permitiendo socializar y trabajar en entornos digitales. As\u00ED mismo, siendo parte de una iniciativa propia, la ponente expuso un proyecto conectando el metaverso con la creaci\u00F3n de espacios m\u00E1s hegem\u00F3nicos para la comunidad <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">gamer<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, de la cual se considera parte, adem\u00E1s de mezclar ambos mundos utilizando las Inteligencias Artificiales (IA) para complementarse.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "inaugural-1.jpg"
+		},
+		{
+			"imagen": "inaugural-2.jpg"
+		},
+		{
+			"imagen": "inaugural-3.jpg"
+		},
+		{
+			"imagen": "inaugural-4.jpg"
+		},
+		{
+			"imagen": "inaugural-5.jpg"
+		}	]
+
+}

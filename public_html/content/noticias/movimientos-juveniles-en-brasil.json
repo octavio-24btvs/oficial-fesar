@@ -1,0 +1,29 @@
+{
+	"titulo": "Movimientos juveniles en Brasil",
+	"titulo_normalizado": "movimientos-juveniles-en-brasil",
+	"secciones": [
+		{
+			"seccion": "Humanidades y Artes",
+			"seccion_normalizada": "humanidades-y-artes"
+		},
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "No\u00E9 \u00C1lvarez",
+	"fecha": "15/02/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el panel magistral del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">1er. Foro Virtual de J\u00F3venes Investigadores M\u00E9xico-Brasil<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se destac\u00F3 el papel de la juventud en los diferentes movimientos sociales en el pa\u00EDs sudamericano y las relaciones que existen con nuestro entorno mexicano.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">En su participaci\u00F3n, Vinicius Seabra, investigador de la Pontificia Universidad Cat\u00F3lica (PUC) de Goi\u00E1s, se refiri\u00F3 a la mala imagen que los medios de comunicaci\u00F3n tradicionales han creado de las y los j\u00F3venes brasile\u00F1os, sin embargo, han sabido darle vuelta a la situaci\u00F3n, pues con las redes sociales, se han convertido en sujetos activos, una prueba de ello, son las protestas durante el 2013.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte, Lu\u00EDs Antonio Groppo, profesor en la Universidad Federal de Alfenas, expuso un caso de estudio donde 80 j\u00F3venes de secundaria relatan su experiencia en la formaci\u00F3n y autoformaci\u00F3n pol\u00EDtica durante 2015 y 2016 en Brasil. Dicho estudio presentado, refiere los aprendizajes escolares y sociales en torno a la discriminaci\u00F3n, los prejuicios, la cultura autoritaria, as\u00ED como la defensa y la preconfiguraci\u00F3n de los centros educativos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente, Aldimar Duarte, investigador de la PUC Goi\u00E1s, subray\u00F3 que de las escuelas se deben desprender ciertas pr\u00E1cticas culturales, las cuales tengan el objetivo de encaminar a los j\u00F3venes a repensar los movimientos sociales actuales. “Esa formaci\u00F3n cr\u00EDtica es necesaria. Hay que replantearnos qu\u00E9 educaci\u00F3n necesitamos”, asegur\u00F3.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "movimientos-juveniles-en-brasil-1.jpg"
+		},
+		{
+			"imagen": "movimientos-juveniles-en-brasil-2.jpg"
+		}
+	]
+}

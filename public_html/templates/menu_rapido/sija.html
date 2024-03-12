@@ -1,0 +1,23 @@
+<div class="container content concursos">
+    <hr>
+    <div class="row encabezado">
+        <div class="col-lg-12 encabezado-titulo">
+            <i class="icon-concurso-de-oposicion icono-encabezado"></i><h1> Subprograma de Incorporaci&oacute;n a J&oacute;venes Acad&eacute;micos </h1>
+        </div>
+    </div>
+    <hr>
+    <div class="row justify-content-center" >
+        <div class="col-8">
+            <div class="card" ng-repeat="programa in programas">
+                <div class="card-header" ng-click="selectPrograma(programa.concurso)">
+                    <p><strong>{{programa.concurso}}</strong></p>
+                </div>
+                <div class="card-body acc-pdfs" ng-show="showing === programa.concurso">
+                    <a ng-repeat="pdf in programa.pdfs" ng-href="public_html/documents/concursos/sija/{{pdf.titulo_normalizado}}.pdf" target="blank" title="{{pdf.titulo}}">
+                        {{pdf.titulo}}
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

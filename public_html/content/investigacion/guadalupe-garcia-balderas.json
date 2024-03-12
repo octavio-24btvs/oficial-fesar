@@ -1,0 +1,16 @@
+{
+    "nombre": "Guadalupe García Balderas", 
+    "grado_academico": "Doctora", 
+     "correo": [ "guadalupebalderasz8@aragon.unam.mx "     ],
+    "estudios": [
+        "Licenciada en Economía, FES Aragón, UNAM.",
+        "Maestría en Urbanismo, Facultad de Arquitectura, UNAM.",
+        "Doctorado en Urbanismo, Facultad de Arquitectura, UNAM."
+    ], 
+    "lineas_investigacion": [
+        "Ciencias Sociales."
+    ], 
+    "investigaciones": [
+        "La aplicación de herramientas metodológicas para el análisis económico urbano del Nororiente de la Zona Metropolitana de la Ciudad de México."
+    ]
+}

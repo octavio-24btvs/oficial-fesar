@@ -1,0 +1,14 @@
+{
+	"titulo": "Conocimiento para desarrollar ideas productivas",
+	"titulo_normalizado": "conocimiento-para-desarrollar-ideas-productivas",
+	"secciones": [
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor":"Redacci\u00F3n",
+	"fecha":"24/09/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Del 24 al 28 de septiembre, se llev\u00F3 a acabo la <\/span><em style=\"color: rgb(29, 33, 41); background-color: transparent;\">Semana de Ingenier\u00EDa y Emprendimiento<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> en diferentes espacios de la Facultad, donde se presentaron conferencias, exhibiciones, competencias y muchas actividades m\u00E1s.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el evento se abordaron temas de gran impacto para el pa\u00EDs; las y los estudiantes tuvieron la oportunidad de escuchar a especialistas que compartieron un panorama de los retos que encontrar\u00E1n en el \u00E1mbito profesional en \u00E1reas como el marketing, modelos de negocio, innovaci\u00F3n, competitividad y crecimiento emocional.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, la comunidad estudiantil comparti\u00F3 sus conocimientos adquiridos durante su formaci\u00F3n acad\u00E9mica en las aulas y as\u00ED alcanzar un desarrollo integral de calidad. <\/span><\/p>",
+	"imagenes":[{"imagen":"img-1.jpg"},{"imagen":"img-2.jpg"},{"imagen":"img-3.jpg"},{"imagen":"img-4.jpg"},{"imagen":"img-5.jpg"},{"imagen":"img-6.jpg"},{"imagen":"img-7.jpg"},{"imagen":"img-8.jpg"},{"imagen":"img-9.jpg"}]
+}

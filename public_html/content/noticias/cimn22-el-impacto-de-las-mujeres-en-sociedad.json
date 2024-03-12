@@ -1,0 +1,41 @@
+{
+	"titulo": "CIMN22: El impacto de las mujeres en sociedad",
+	"titulo_normalizado": "cimn22-el-impacto-de-las-mujeres-en-sociedad",
+	"secciones": [
+		{
+			"seccion": "DUACyD",
+			"seccion_normalizada": "duacyd"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "13/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La segunda mesa de exposici\u00F3n del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">4to. Congreso internacional. Mujeres y ni\u00F1as desde una doble perspectiva: G\u00E9nero y derechos humanos en el marco de los objetivos de desarrollo sostenible<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, fue moderada por Mar\u00EDa del Carmen L\u00F3pez, Coordinadora de Vinculaci\u00F3n Acad\u00E9mica en la FES Arag\u00F3n, y cont\u00F3 con la presencia de las acad\u00E9micas Pamela Saavedra, perteneciente a la ENES Morelia; Dolores del Rosario Valenzuela, especialista en G\u00E9nero por la UNAM; Lilia Monroy, maestra en estudios de g\u00E9nero por el COLMEX; y Nelly Lara, doctorada por la UNAM en Ciencias Pol\u00EDticas y Sociales, quien a lo largo de su trayectoria y como parte de sus trabajos de investigaci\u00F3n han abordado diversos temas referentes a las condiciones sociales que se experimentan desde el rol de g\u00E9nero como mujeres.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En esta presentaci\u00F3n se refirieron a las actividades en comunidades rurales para impulsar temas de la ciencia, desarrollo social, laboral, perspectiva de g\u00E9nero, entre otros. As\u00ED mismo, se enfatiz\u00F3 en la perspectiva de g\u00E9nero implementada en la carrera de Econom\u00EDa en la UNAM, derivado de los movimientos de los \u00FAltimos a\u00F1os. De igual manera, Lilia Monroy habl\u00F3 sobre el esfuerzo en Yucat\u00E1n derivado del proyecto NAME (Ni\u00F1as, Adolescentes y Mujeres Embarazadas) una red para prevenir y corregir los embarazos en j\u00F3venes ocasionados por alguna clase de violencia sexual.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, fue expuesta la difusi\u00F3n del feminismo mediante el hi hop como herramienta de alcance social, su historia, las propuestas como alternativas de visualizaci\u00F3n, as\u00ED como las exponentes que est\u00E1n posicion\u00E1ndose en esta cosmovisi\u00F3n actual.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Sociedad1.gif"
+		},
+		{
+			"imagen": "Sociedad2.gif"
+		},
+		{
+			"imagen": "Sociedad3.gif"
+		},
+		{
+			"imagen": "Sociedad4.gif"
+		},
+		{
+			"imagen": "Sociedad5.gif"
+		},
+		{
+			"imagen": "Sociedad6.gif"
+		}	]
+
+}

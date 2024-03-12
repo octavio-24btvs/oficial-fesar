@@ -1,0 +1,14 @@
+{
+	"titulo": "Huellas de la Ingenier\u00EDa Civil, aqu\u00ED y all\u00E1",
+	"titulo_normalizado": "huellas-de-la-ingenieria-civil-aqui-y-alla",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Civil",
+			"seccion_normalizada": "civil"
+		}
+	],
+	"autor":"Redacci\u00F3n",
+	"fecha":"07/11/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La exposici\u00F3n “Desarrollo de la Ingenier\u00EDa Civil en M\u00E9xico y en el Mundo”, realizada los d\u00EDas 8 y 9 de noviembre, tiene como finalidad que estudiantes de primer semestre de esta disciplina empiecen a desarrollar su capacidad de investigaci\u00F3n y se enteren de todas las posibilidades que ofrece la carrera.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Pasillo Cultural de la FES Arag\u00F3n fungi\u00F3 como lugar para presentar esta exhibici\u00F3n, donde la comunidad estudiantil expone y compara obras mexicanas de ingenier\u00EDa civil con otras de pa\u00EDses diferentes; de esta manera ponen en pr\u00E1ctica sus conocimientos, as\u00ED como su capacidad de comunicaci\u00F3n oral y escrita.<\/span><\/p>",
+	"imagenes":[{"imagen":"huellas-de-la-ingenieria-civil-aqui-y-alla-1.jpg"},{"imagen":"huellas-de-la-ingenieria-civil-aqui-y-alla-2.jpg"},{"imagen":"huellas-de-la-ingenieria-civil-aqui-y-alla-3.jpg"}]
+}

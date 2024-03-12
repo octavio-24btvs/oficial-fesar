@@ -1,0 +1,280 @@
+{
+	"id": 14,
+	"titulo": "Arquitectura",
+	"icono": "icon-arquitectura",
+	"noticias": [
+		{
+			"titulo":"Oportunidad internacional para estudiantes de Arquitectura",
+			"titulo_normalizado":"oportunidad-internacional-para-estudiantes-de-arquitectura",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "Oportunidad-Internacional-para-estudiantes-1.JPG",
+			"fecha":"31/01/19"
+		},
+		{
+			"titulo":"M\u00E1s cerca de una arquitectura de nivel",
+			"titulo_normalizado":"mas-cerca-de-una-arquitectura-de-nivel",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "Más-cerca-de-una-arquitectura-de-nivel-1.JPG",
+			"fecha":"31/01/19"
+		},
+		{
+			"titulo":"Egresado de Arquitectura gana campeonato nacional de “Kickboxing”",
+			"titulo_normalizado":"egresado-de-arquitectura-gana-campeonato-nacional-de----kickboxing---",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "egresado-de-aquitectura-gana-campeonato-nacional-de-kickboxing-1.jpg",
+			"fecha":"29/05/23"
+		},
+		{
+			"titulo":"ASINEA: Entrega de reconocimientos",
+			"titulo_normalizado":"asinea-entrega-de-reconocimientos",
+			"autor":"Rosa Francisco",
+			"imagen": "reconocimientos-asinea-1.jpg",
+			"fecha":"25/10/21"
+		},
+		{
+			"titulo":"Arquitectura ornamental en la CDMX",
+			"titulo_normalizado":"arquitectura-ornamental-en-la-cdmx",
+			"autor":"Mohamed Lomel\u00ED",
+			"imagen": "IMG_6463.png",
+			"fecha":"24/10/18"
+		},
+		{
+			"titulo":"Aragon\u00E9s reconocido por su servicio social",
+			"titulo_normalizado":"aragones-reconocido-por-su-servicio-social",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "aragones-reconocido-por-su-servicio-social-1.jpg",
+			"fecha":"24/05/23"
+		},
+		{
+			"titulo":"Cambio clim\u00E1tico y arquitectura",
+			"titulo_normalizado":"cambio-climatico-y-arquitectura",
+			"autor":"Daniel Mart\u00EDnez",
+			"imagen": "cambio-climatico-y-arquitectura-1.jpg",
+			"fecha":"23/09/21"
+		},
+		{
+			"titulo":"Sentido multidisciplinario en la arquitectura",
+			"titulo_normalizado":"sentido-multidisciplinario-en-la-arquitectura",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "sentido-multidisciplinario-en-la-arquitectura-1.jpg",
+			"fecha":"23/08/19"
+		},
+		{
+			"titulo":"ASINEA: La arquitectura desde los colegios",
+			"titulo_normalizado":"asinea-la-arquitectura-desde-los-colegios",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "desde-los-colegios-2.gif",
+			"fecha":"22/10/21"
+		},
+		{
+			"titulo":"ASINEA: La ense\u00F1anza de la arquitectura",
+			"titulo_normalizado":"asinea-la-ensenanza-de-la-arquitectura",
+			"autor":"Isa\u00EDas Hern\u00E1ndez",
+			"imagen": "La-enseñanza-1.gif",
+			"fecha":"22/10/21"
+		},
+		{
+			"titulo":"ASINEA: Clausura",
+			"titulo_normalizado":"asinea-clausura",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "Clausura1.gif",
+			"fecha":"22/10/21"
+		},
+		{
+			"titulo":"Planificaci\u00F3n de espacios y reconocimiento a proyectos arquitect\u00F3nicos",
+			"titulo_normalizado":"planificacion-de-espacios-y-reconocimiento-a-proyectos-arquitectonicos",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "planificacion-de-espacios-y-reconocimiento-a-proyectos-arquitectonicos-1.jpg",
+			"fecha":"22/08/19"
+		},
+		{
+			"titulo":"La UNAM y el INAH por la reconstrucci\u00F3n hist\u00F3rica",
+			"titulo_normalizado":"la-unam-y-el-inah-por-la-reconstruccion-historica",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "INAH1.gif",
+			"fecha":"21/11/22"
+		},
+		{
+			"titulo":"ASINEA: Los mundos de la arquitectura",
+			"titulo_normalizado":"asinea-los-mundos-de-la-arquitectura",
+			"autor":"Francisco Olivares",
+			"imagen": "los-mundos-de-la-arquitectura-1.jpg",
+			"fecha":"21/10/21"
+		},
+		{
+			"titulo":"ASINEA: Conservaci\u00F3n de patrimonio hist\u00F3rico",
+			"titulo_normalizado":"asinea-conservacion-de-patrimonio-historico",
+			"autor":"Rosa Francisco",
+			"imagen": "conservacion-de-patrimonio-historico-1.jpg",
+			"fecha":"21/10/21"
+		},
+		{
+			"titulo":"ASINEA: Edificios sanos",
+			"titulo_normalizado":"asinea-edificios-sanos",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "Edificios-sanos1.gif",
+			"fecha":"21/10/21"
+		},
+		{
+			"titulo":"Artes pl\u00E1sticas en la arquitectura",
+			"titulo_normalizado":"artes-plasticas-en-la-arquitectura",
+			"autor":"Carmen Mel\u00E9ndez",
+			"imagen": "artes-plasticas-en-la-arquitectura-1.jpg",
+			"fecha":"21/08/19"
+		},
+		{
+			"titulo":"ASINEA: Por una mejor formaci\u00F3n profesional",
+			"titulo_normalizado":"asinea-por-una-mejor-formacion-profesional",
+			"autor":"Rosa Francisco",
+			"imagen": "asinea-por-una-mejor-formacion-profesional-1.jpg",
+			"fecha":"20/10/21"
+		},
+		{
+			"titulo":"ASINEA: Una arquitectura m\u00E1s responsable",
+			"titulo_normalizado":"asinea-una-arquitectura-mas-responsable",
+			"autor":"Rosa Francisco",
+			"imagen": "una-arquitectura-mas-responsable-1.jpg",
+			"fecha":"20/10/21"
+		},
+		{
+			"titulo":"ASINEA: presentaci\u00F3n del libro Portadas religiosas",
+			"titulo_normalizado":"asinea-presentacion-del-libro-portadas-religiosas",
+			"autor":"Isa\u00EDas Hern\u00E1ndez",
+			"imagen": "Portadas-1.gif",
+			"fecha":"20/10/21"
+		},
+		{
+			"titulo":"Muro con material reciclado",
+			"titulo_normalizado":"muro-con-material-reciclado",
+			"autor":"Erik Pliego",
+			"imagen": "Muro1.gif",
+			"fecha":"20/01/22"
+		},
+		{
+			"titulo":"La transdisciplina en la arquitectura",
+			"titulo_normalizado":"la-transdisciplina-en-la-arquitectura",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "Arquitectura-CIMA-1.gif",
+			"fecha":"12/08/21"
+		},
+		{
+			"titulo":"Proyecto de capilla para Chimalhuac\u00E1n",
+			"titulo_normalizado":"proyecto-de-capilla-para-chimalhuacan",
+			"autor":"Erik Pliego",
+			"imagen": "proyecto-de-capilla-para-chimalhuacan-1.jpg",
+			"fecha":"12/03/20"
+		},
+		{
+			"titulo":"SA22: Ciudades del futuro: preocuparse hoy por el ma\u00F1ana",
+			"titulo_normalizado":"sa22-ciudades-del-futuro-preocuparse-hoy-por-el-manana",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "ciudades-del-futuro-preocuparse-hoy-por-el-manana-1.jpg",
+			"fecha":"11/11/22"
+		},
+		{
+			"titulo":"SA22: Viernes de Smash",
+			"titulo_normalizado":"sa22-viernes-de-smash",
+			"autor":"Elisa Jacobo",
+			"imagen": "smash-1.jpg",
+			"fecha":"11/11/22"
+		},
+		{
+			"titulo":"SA22: Arquitectura del futuro: empat\u00EDa y tecnolog\u00EDa",
+			"titulo_normalizado":"sa22-arquitectura-del-futuro-empatia-y-tecnologia",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "conversatorio-1.jpg",
+			"fecha":"11/11/22"
+		},
+		{
+			"titulo":"Menci\u00F3n honor\u00EDfica en certamen nacional de Arquitectura",
+			"titulo_normalizado":"mencion-honorifica-en-certamen-nacional-de-arquitectura",
+			"autor":"Aurelio Nito",
+			"imagen": "mencion-honorifica-en-certamen-nacional-de-arquitectura-1.jpg",
+			"fecha":"11/04/19"
+		},
+		{
+			"titulo":"SA22: Amor al arte en dos dimensiones",
+			"titulo_normalizado":"sa22-amor-al-arte-en-dos-dimensiones",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "de-todo-menos-1.jpg",
+			"fecha":"10/11/22"
+		},
+		{
+			"titulo":"SA22: Brochazos de protesta",
+			"titulo_normalizado":"sa22-brochazos-de-protesta",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "brochazos-1.jpg",
+			"fecha":"10/11/22"
+		},
+		{
+			"titulo":"Innovaci\u00F3n mediante la arquitectura",
+			"titulo_normalizado":"innovacion-mediante-la-arquitectura",
+			"autor":"Carmen Melendez",
+			"imagen": "IMG_6055.png",
+			"fecha":"10/10/18"
+		},
+		{
+			"titulo":"SA22: Nuevos horizontes para la arquitectura",
+			"titulo_normalizado":"sa22-nuevos-horizontes-para-la-arquitectura",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "inaugural-1.jpg",
+			"fecha":"09/11/22"
+		},
+		{
+			"titulo":"SA22: Pinceladas hacia la creaci\u00F3n",
+			"titulo_normalizado":"sa22-pinceladas-hacia-la-creacion",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "acuarela-1.jpg",
+			"fecha":"09/11/22"
+		},
+		{
+			"titulo":"SA22: Workshop, lenguaje computacional",
+			"titulo_normalizado":"sa22-workshop-lenguaje-computacional",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Work2.gif",
+			"fecha":"09/11/22"
+		},
+		{
+			"titulo":"SA22: La arquitectura al servicio de ti, de m\u00ED, de todes",
+			"titulo_normalizado":"sa22-la-arquitectura-al-servicio-de-ti-de-mi-de-todes",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "la-arquitectura-al-servicio-de-ti-de-mi-de-todes-1.jpg",
+			"fecha":"09/11/22"
+		},
+		{
+			"titulo":"Aprendizaje arquitect\u00F3nico m\u00E1s all\u00E1 de las aulas",
+			"titulo_normalizado":"aprendizaje-arquitectonico-mas-alla-de-las-aulas",
+			"autor":"Norma Cruz",
+			"imagen": "img-1.jpg",
+			"fecha":"08/08/18"
+		},
+		{
+			"titulo":"Exposici\u00F3n de trabajos arquitect\u00F3nicos",
+			"titulo_normalizado":"exposicion-de-trabajos-arquitectonicos",
+			"autor":"Alejandro Frias",
+			"imagen": "exposicion-de-trabajos-arquitectonicos-1.jpg",
+			"fecha":"06/05/19"
+		},
+		{
+			"titulo":"Comunidad docente de Arquitectura exhibe su trabajo",
+			"titulo_normalizado":"comunidad-docente-de-arquitectura-exhibe-su-trabajo",
+			"autor":"Liliana Espinosa",
+			"imagen": "mejor-preparacion-para-la-comunidad-docente-de-arquitectura-1.jpg",
+			"fecha":"04/09/19"
+		},
+		{
+			"titulo":"INFONAVIT comprometido con la sustentabilidad",
+			"titulo_normalizado":"infonavit-comprometido-con-la-sustentabilidad",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "Infonavit-comprometido-con-la-sustentabilidad-1.JPG",
+			"fecha":"01/02/19"
+		},
+		{
+			"titulo":"La estructura de una trayectoria arquitect\u00F3nica",
+			"titulo_normalizado":"la-estructura-de-una-trayectoria-arquitectonica",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "la-estructura-de-una-trayectoria-arquitectonica-1.jpg",
+			"fecha":"01/01/19"
+		}
+	]
+}

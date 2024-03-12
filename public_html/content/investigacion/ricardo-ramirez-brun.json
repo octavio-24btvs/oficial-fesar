@@ -1,0 +1,21 @@
+{
+    "nombre": "Ricardo Ramírez Brun", 
+    "grado_academico": "Doctor", 
+     "correo": [ "rbrunb@unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Economía. Universidad Nacional Autónoma de México.", 
+        "Maestría en Administración Pública. Universidad Autónoma del Estado de México.", 
+        "Doctorado en Administración Pública. Instituto de Estudios Superiores en Administración Pública."
+    ], 
+    "lineas_investigacion": [
+        "Economía en México.", 
+        "Capitalismo.", 
+        "Investigación en Ciencias Sociales.", 
+        "Investigación en Desarrollo Ambiental y Cambio Climático."
+    ], 
+    "investigaciones": [
+        "\u00BFCómo enseñar Economía? El caso de área Historia Económica de la FES Aragón UNAM.", 
+        "La crisis fiscal del Estado Mexicano. Periodo 1980 – 2020.", 
+        "Por un nuevo modelo de desarrollo para México 2018."
+    ]
+}

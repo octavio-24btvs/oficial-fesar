@@ -1,0 +1,16 @@
+{
+    "nombre": "Martha Rodríguez Ortiz", 
+    "grado_academico": "Licenciada", 
+    "correo": [ "martharodriguezroo@aragon.unam.mx"],
+    "estudios": [
+        "Licenciatura en Derecho. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Derecho del trabajo.", 
+        "Derecho social.", 
+        "Seguridad social."
+    ], 
+    "investigaciones": [
+        "Apuntes de derecho de trabajo individual."
+    ]
+}

@@ -1,0 +1,14 @@
+{
+	"titulo": "Arte y cultura para todos",
+	"titulo_normalizado": "arte-y-cultura-para-todos",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Roberto V\u00E1zquez",
+	"fecha":"08/11/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Guitarras distorsionadas, saltos en el escenario y hasta ritmos afrolatinos-fusi\u00F3n estremecieron a la FES Arag\u00F3n durante el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Festival Arte y Cultura para Todos<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> organizado por la Unidad de Extensi\u00F3n Universitaria.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La energ\u00EDa de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Rockdra <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">fue la primera en encender el escenario del Teatro Jos\u00E9 Vasconcelos, cuyos 4 integrantes no disminuyeron su nivel de entusiasmo hasta el final de la presentaci\u00F3n. Despu\u00E9s,<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> La Sonora Rinco\u00F1era <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">deleit\u00F3 a quienes asistieron con sus sonido de rock fusi\u00F3n, el cual fue comandado por Simitrio, su vocalista enmascarado. <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Interpolar <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">cerr\u00F3 la jornada, regalando a las y los asistentes discos con su m\u00E1s reciente material estrenado en mayo de este a\u00F1o.&nbsp;<\/span><\/p>",
+	"imagenes":[{"imagen":"Festival-arte-y-cultura-para-todos-01.jpg"},{"imagen":"Festival-arte-y-cultura-para-todos-02.jpg"},{"imagen":"Festival-arte-y-cultura-para-todos-03.jpg"},{"imagen":"Festival-arte-y-cultura-para-todos-04.jpg"},{"imagen":"Festival-arte-y-cultura-para-todos-05.jpg"},{"imagen":"Festival-arte-y-cultura-para-todos-06.jpg"}]
+}

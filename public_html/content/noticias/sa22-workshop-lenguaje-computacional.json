@@ -1,0 +1,27 @@
+{
+	"titulo": "SA22: Workshop, lenguaje computacional",
+	"titulo_normalizado": "sa22-workshop-lenguaje-computacional",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "09/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de la agenda de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Arquitectura<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se llev\u00F3 a cabo el primer <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">workshop <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">titulado “Lenguaje Computacional para el Dise\u00F1o de Sistemas Materiales”, presentado por la jefa de carrera, Ana Mar\u00EDa Cort\u00E9s, e impartido por Gabriel L\u00F3pez, egresado de la maestr\u00EDa en Arquitectura por la Universidad de Sonora, actualmente, arquitecto de sistemas materiales org\u00E1nicos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este curso se llevaron a cabo actividades para aprender a desarrollar el pensamiento computacional a trav\u00E9s de herramientas an\u00E1logas y digitales que se pueden aplicar a las superficies arquitect\u00F3nicas, pueden ser de materiales org\u00E1nicos o prefabricados con propiedades f\u00EDsicas diferentes.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con esta sesi\u00F3n, la comunidad estudiantil pudo aprender sobre las cualidades de los componentes y c\u00F3mo var\u00EDan dependiendo de su naturaleza. Los materiales org\u00E1nicos, por ejemplo, tienen la peculiaridad de formar diferentes patrones geom\u00E9tricos que se pueden reproducir para crear arquitectura. Para entender mejor, las y los asistentes al taller implementaron el pensamiento computacional para crear una estructura con una hoja de papel.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al finalizar se presentaron las principales variables a considerar en los procesos de optimizaci\u00F3n al crear una construcci\u00F3n y el alumnado asistente particip\u00F3 en una actividad para crear una estructura compleja con un dise\u00F1o original con papel cartulina, el cual tambi\u00E9n se reprodujo de forma \u00F3ptima en un programa computacional, mostrando as\u00ED c\u00F3mo realizar este trabajo de forma an\u00E1loga y digital.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "work1.gif"
+		},
+		{
+			"imagen": "Work2.gif"
+		},
+		{
+			"imagen": "Work3.gif"
+		},
+		{
+			"imagen": "Work4.gif"
+		}	]
+
+}

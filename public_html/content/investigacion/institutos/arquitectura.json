@@ -1,0 +1,32 @@
+{
+    "carrera": "Arquitectura", 
+    "icono": "icon-arquitectura", 
+    "investigadores": [
+        {
+            "nombre": "Enrique Jesús Díaz Barreiro y Saavedra", 
+            "nombre_normalizado": "enrique-jesus-diaz-barreiro-y-saavedra", 
+            "imagen": true
+        },
+        {
+            "nombre": "Gabriel Genaro López Camacho", 
+            "nombre_normalizado": "gabriel-genaro-lopez-camacho", 
+            "imagen": true
+        }, 
+        {
+            "nombre": "Héctor García Escorza", 
+            "nombre_normalizado": "hector-garcia-escorza", 
+            "imagen": true
+        },
+        {
+            "nombre": "Humberto Islas Ramos", 
+            "nombre_normalizado": "humberto-islas-ramos", 
+            "imagen": true
+        }, 
+         
+        {
+            "nombre": "Néstor Lugo Zaleta", 
+            "nombre_normalizado": "nestor-lugo-zaleta", 
+            "imagen": true
+        }
+    ]
+}

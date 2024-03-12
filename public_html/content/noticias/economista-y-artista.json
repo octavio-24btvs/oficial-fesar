@@ -1,0 +1,14 @@
+{
+	"titulo": "Economista y artista",
+	"titulo_normalizado": "economista-y-artista",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Alejandro Frias",
+	"fecha":"11/02/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte del programa <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Talento Aragon\u00E9s<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> – iniciativa para fomentar el desarrollo art\u00EDstico de la comunidad estudiantil– se inaugur\u00F3, el pasado 11 de febrero, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La nueva Vanguardia<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, exposici\u00F3n de pintura creada por Emmanuel Ram\u00EDrez, alumno de &nbsp;la carrera de Econom\u00EDa. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la presentaci\u00F3n, el artista explic\u00F3 que todas sus obras est\u00E1n influenciadas por los movimientos vanguardistas surgidos en los primeros a\u00F1os del siglo XX y que encuentra su inspiraci\u00F3n en temas como el tiempo, el amor, la naturaleza, el miedo, la sociedad y la infancia.<\/span><\/p>",
+	"imagenes":[{"imagen":"Economista-y-artista-1.jpg"},{"imagen":"Economista-y-artista-2.jpg"},{"imagen":"Economista-y-artista-3.jpg"},{"imagen":"Economista-y-artista-4.jpg"}]
+}

@@ -1,0 +1,148 @@
+﻿[
+    {
+        "concurso": "Octubre 14 , 2019",
+        "concurso_normalizado": "octubre_2019",
+        "fecha": "14/10/2019", 
+        "pdfs": [
+            {
+                "titulo": "Convocatoria de Profesor de Asignatura de Ciencias Físico-Matemáticas y de las Ingenierías",
+                "titulo_normalizado": "conv-asig-fis-mat-def"
+            },
+            {
+                "titulo": "Convocatoria de Profesor de Asignatura de Ciencias Sociales",
+                "titulo_normalizado": "conv-asig-cie-soc-def" 
+            },
+            {
+                "titulo": "Convocatoria de Profesor de Asignatura de Humanidades y Artes",
+                "titulo_normalizado": "conv-asig-hum-art-def"
+            }
+        ]
+    },
+    {
+        "concurso": "Septiembre 05 , 2019",
+        "concurso_normalizado": "septiembre_2019",
+        "fecha": "05/09/2019", 
+        "pdfs": [
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el área Medición e Instrumentación con adscripción al Centro Tecnológico Aragón",
+                "titulo_normalizado": "convocatoria-interino-cta" 
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el área Sistemas Productivos con adscripción a la Carrera de Ingeniería Industrial",
+                "titulo_normalizado": "convocatoria-interino-ingindustrial"
+            }
+        ]
+    },
+    {
+        "concurso": "Mayo 21 , 2018",
+        "concurso_normalizado": "mayo_2018",
+        "fecha": "21/8/2019", 
+        "pdfs": [
+            {
+                "titulo": "Profesor de Asignatura Asociado “A” definitivo, en el \u00E1rea de Ciencias Sociales.",
+                "titulo_normalizado": "conv-asig-cien-soc" 
+            },
+            {
+                "titulo": "Profesor de Asignatura “A” definitivo, en el \u00E1rea de F\u00EDsico-Matem\u00E1ticas.",
+                "titulo_normalizado": "conv-asig-fisic-mat"
+            },
+            {
+                "titulo": "Profesor de Asignatura “A” definitivo, en el \u00E1rea de Humanidades y Artes.",
+                "titulo_normalizado": "conv-asig-hum-art"
+            }
+        ]
+    },
+    {
+        "concurso": "Enero 29, 2018",
+        "concurso_normalizado": "enero_2018", 
+        "fecha": "29/1/2018", 
+        "pdfs": [
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Administraci\u00F3n Industrial, con adscripci\u00F3n a la carrera de Ingenier\u00EDa Industrial, con n\u00FAmero de plaza 77606-33",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-administracion-industrial"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Civil, con adscripci\u00F3n a la carrera de Derecho, con n\u00FAmero de plaza 77609-23",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-civil"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea de Comunicaciones, con adscripci\u00F3n a la carrera de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica, con n\u00FAmero de plaza 75393-52",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-comunicaciones"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Constitucional, con adscripci\u00F3n a la carrera de Derecho, con n\u00FAmero de plaza 77608-93",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-constitucional"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Dise\u00F1o Arquitect\u00F3nico Integral, sub\u00E1rea Expresi\u00F3n, con adscripci\u00F3n a la carrera de Arquitectura, con n\u00FAmero de plaza 23769-07",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-diseno-arquitectonico-integral"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Tratamiento de la Informaci\u00F3n, con adscripci\u00F3n a la carrera de Ingenier\u00EDa en Computaci\u00F3n, con n\u00FAmero de plaza 63622-89",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-tratamiento-de-la-informacion"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en la L\u00EDnea Eje de Investigaci\u00F3n Pedag\u00F3gica, con adscripci\u00F3n a la Carrera de Pedagog\u00EDa, con n\u00FAmero de plaza 77612-10",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-investigacion-pedagogica"
+            }
+        ]
+    },
+    {
+        "concurso": "Septiembre 04, 2017",
+        "concurso_normalizado": "septiembre_2017", 
+        "fecha": "4/9/2017", 
+        "pdfs": [
+            {
+                "titulo": "T\u00E9cnico Acad\u00E9mico Asociado “C” tiempo completo, interino, en el \u00E1rea Docencia Universitaria, con adscripci\u00F3n al Programa de Posgrado en Pedagog\u00EDa de la Divisi\u00F3n de Estudios de Posgrado e Investigaci\u00F3n, con n\u00FAmero de plaza 77614-70",
+                "titulo_normalizado": "tecnico-academico-asociado-c-tiempo-completo-interino-area-docencia-universitaria-adscripcion-programa-posgrado"
+            },
+            {
+                "titulo": "T\u00E9cnico Acad\u00E9mico Asociado “C” tiempo completo, interino, en el \u00E1rea Econom\u00EDa Urbana y Regional, con adscripci\u00F3n al Programa de Posgrado en Econom\u00EDa de la Divisi\u00F3n de Estudios de Posgrado e Investigaci\u00F3n, con n\u00FAmero de plaza 77615-00",
+                "titulo_normalizado": "tecnico-academico-asociado-c-tiempo-completo-interino-area-economia-urbana-y-regional-adscripcion-programa-posgrado"
+            },
+            {
+                "titulo": "T\u00E9cnico Acad\u00E9mico Titular “A” tiempo completo, interino, en el \u00E1rea Ingenier\u00EDa Ambiental, con adscripci\u00F3n al Centro Tecnol\u00F3gico Arag\u00F3n, con n\u00FAmero de plaza 72197-11",
+                "titulo_normalizado": "tecnico-academico-titular-a-tiempo-completo-interino-area-ingenieria-ambiental-adscripcion-centro-tecnologico-aragon"
+            }
+        ]
+    },
+    {
+        "concurso": "Agosto 28, 2017",
+        "concurso_normalizado": "agosto_2017", 
+        "fecha": "28/8/2017", 
+        "pdfs": [
+            {
+                "titulo": "Profesor de Carrera Asociado “B” tiempo completo, interino, en el \u00E1rea Metodol\u00F3gica, con adscripci\u00F3n a la Carrera de Comunicaci\u00F3n y Periodismo, con n\u00FAmero de plaza 23746-13",
+                "titulo_normalizado": "profesor-carrera-asociado-b-tiempo-completo-interino-area-metodologica-adscripcion-cyp-numero-plaza-23746-13"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Civil, con adscripci\u00F3n a la Carrera de Derecho, con n\u00FAmero de plaza 23779-04",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-civil-adscripcion-der-numero-plaza-23779-04"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Constitucional, con adscripci\u00F3n a la Carrera de Derecho, con n\u00FAmero de plaza 77607-63",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-constitucional-adscripcion-der-numero-plaza-77607-63"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Desarrollo Integral de Proyectos, sub\u00E1rea Dise\u00F1o Integral, con adscripci\u00F3n a la Carrera de Dise\u00F1o Industrial, con n\u00FAmero de plaza 77611-80",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-desarrollo-integral-proyectos-subarea-diseno-integral-adscripcion-carrera-dis-ind-numero-plaza-77611-80"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Electr\u00F3nica, con adscripci\u00F3n a la Carrera de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica, con n\u00FAmero de plaza 23772-94",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-electronica-adscripcion-iee-numero-plaza-23772-94"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Estructuras, con adscripci\u00F3n a la Carrera de Ingenier\u00EDa Civil, con n\u00FAmero de plaza 77605-03",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-estructuras-adscripcion-ici-numero-plaza-77605-03"
+            },
+            {
+                "titulo": "Profesor de Carrera Asociado “C” tiempo completo, interino, en el \u00E1rea Programaci\u00F3n e Ingenier\u00EDa de Software, con adscripci\u00F3n a la Carrera de Ingenier\u00EDa en Computaci\u00F3n, con n\u00FAmero de plaza 77604-73",
+                "titulo_normalizado": "profesor-carrera-asociado-c-tiempo-completo-interino-area-programacion-e-ingenieria-software-adscripcion-ico-numero-plaza-77604-73"
+            },
+            {
+                "titulo": "T\u00E9cnico Acad\u00E9mico Asociado “C” tiempo completo, interino, en el \u00E1rea Arquitectura de Computadoras, con adscripci\u00F3n al Centro de Apoyo Extracurricular de la Carrera de Ingenier\u00EDa en Computaci\u00F3n, n\u00FAmero de plaza 77613-40",
+                "titulo_normalizado": "tecnico-academico-asociado-c-tiempo-completo-interino-area-arquitectura-computadoras-adscripcion-cae-de-ico-numero-plaza-77613-40"
+            }
+        ]
+    }
+]

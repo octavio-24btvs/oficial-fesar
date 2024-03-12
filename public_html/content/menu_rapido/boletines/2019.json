@@ -1,0 +1,32 @@
+[
+	{
+		"nombre": "Bolet\u00EDn de enero-febrero",
+		"nombre_normalizado":"boletines/2019/boletin-enero-febrero-2019.pdf"
+
+	},
+        {
+		"nombre": "Bolet\u00EDn de mayo",
+		"nombre_normalizado":"boletines/2019/boletin-mayo-2019.pdf"
+
+	},
+	{
+		"nombre": "Bolet\u00EDn de julio-agosto",
+		"nombre_normalizado":"boletines/2019/boletin-julio-agosto-2019.pdf"
+
+	},
+	{
+		"nombre": "Bolet\u00EDn de septiembre",
+		"nombre_normalizado":"boletines/2019/boletin-septiembre-2019.pdf"
+
+	},
+	{
+		"nombre": "Bolet\u00EDn de octubre",
+		"nombre_normalizado":"boletines/2019/boletin-octubre-2019.pdf"
+
+	},
+	{
+		"nombre": "Bolet\u00EDn de noviembre-diciembre",
+		"nombre_normalizado":"boletines/2019/boletin-noviembre-diciembre-2019.pdf"
+
+	}
+]

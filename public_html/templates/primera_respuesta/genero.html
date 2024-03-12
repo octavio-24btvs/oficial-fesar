@@ -1,0 +1,475 @@
+<div id="image-modal" class="image-modal" ng-show="modal">
+    <div class="close-image-modal d-block" ng-click="modal = false">&times;</div>
+    <a ng-href="{{image_source}}" download title="Descarga la imagen"> <i
+            class="fas fa-download fs-20 download-image-modal"></i></a>
+    <img class="image-modal-content img-fluid" ng-src="{{image_source}}" alt="{{image_alt}}" />
+    <div id="image-modal-caption">
+    </div>
+</div>
+<div class="container content">
+    <hr>
+    <div class="row pleca-secciones">
+        <div class="col-lg-12 secciones">
+            <i class="icono-secciones icon-genero"></i>
+            <h1>G&eacute;nero</h1>
+        </div>
+    </div>
+    <hr>
+    <div class="row justify-content-center ">
+        <div class="col-12 col-lg-10 menu-rapido">
+            <ul class="nav d-flex justify-content-center">
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 0" title="Inicio">
+                        Inicio
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 1" title="Infografías">
+                        Infografías
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 3" title="Videos">
+                        Videos
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" target="_blank" href="#!/seccion/genero" title="Noticias">
+                        Noticias
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 4" title="Contacto">
+                        Contacto
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div ng-show="showing === 0">
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <div id="jssor_1"
+                    style="position:relative;margin:0 auto;top:0px;left:0px;width:895px;height:300px;overflow:hidden;visibility:hidden;margin: 10px 0 10px -15px;">
+                    <!-- Loading Screen -->
+                    <div data-u="loading" class="jssorl-009-spin"
+                        style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
+                        <!--<img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="../svg/loading/static-svg/spin.svg" />-->
+                    </div>
+                    <div data-u="slides"
+                        style="cursor:default;position:relative;top:0px;left:0px;width:895px;height:300px;overflow:hidden;">
+                        <div ng-repeat="imagen in banners">
+                            <a ng-href="{{imagen.hipervinculo}}" title="{{imagen.descripcion}}"
+                                ng-show="imagen.hipervinculo !== ''" target="_blank">
+                                <img data-u="image" ng-src="public_html/img/primera_respuesta/genero/{{imagen.imagen}}"
+                                    alt="{{imagen.descripcion}}" />
+                            </a>
+                            <a ng-show="imagen.hipervinculo === ''" ng-click="change()">
+                                <img data-u="image" ng-src="public_html/img/primera_respuesta/genero/{{imagen.imagen}}"
+                                    alt="{{imagen.descripcion}}" />
+                            </a>
+                        </div>
+                    </div>
+                    <div data-u="navigator" class="jssorb032" style="position:absolute;bottom:12px;right:12px;"
+                        data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
+                        <div data-u="prototype" class="i" style="width:16px;height:16px;">
+                            <svg viewBox="0 0 16000 16000"
+                                style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                                <circle class="b" cx="8000" cy="8000" r="5800"></circle>
+                            </svg>
+                        </div>
+                    </div>
+                    <div data-u="arrowleft" class="jssora051" style="width:65px;height:65px;top:0px;left:25px;"
+                        data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
+                        <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                            <polyline class="a" points="11040,1920 4960,8000 11040,14080 "></polyline>
+                        </svg>
+                    </div>
+                    <div data-u="arrowright" class="jssora051" style="width:65px;height:65px;top:0px;right:25px;"
+                        data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
+                        <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                            <polyline class="a" points="4960,1920 11040,8000 4960,14080 "></polyline>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>Descargas</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row justify-content-center pb-3">
+            <div class="col-12 col-lg-8" style="padding-left: 0px;">
+                <a class="boton-registro btn btn-secondary btn-sm boton-header"
+                    href="public_html/documents/genero/ruta-de-atencion.pdf" target="_blank"
+                    title="Ruta de atención">Ruta de atención</a>
+                <a class="boton-registro btn btn-secondary btn-sm boton-header"
+                    href="public_html/documents/genero/acuerdos.pdf" target="_blank" title="Acuerdo">Acuerdo</a>
+                <a class="boton-registro btn btn-secondary btn-sm boton-header"
+                    href="public_html/documents/genero/lineamientos.pdf" target="_blank"
+                    title="Lineamientos">Lineamientos</a>
+                <a class="boton-registro btn btn-secondary btn-sm boton-header"
+                    href="https://coordinaciongenero.unam.mx/ruta-atencion-violencia-genero/" target="_blank"
+                    title="Protocolo">Protocolo</a>
+                <a class="boton-registro btn btn-secondary btn-sm boton-header"
+                    href="http://www.abogadogeneral.unam.mx:6060/legislacion/view/1" target="_blank"
+                    title="Estatuto Genera">Estatuto General</a>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>Estrategias</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row align-items-start justify-content-center">
+            <div class="col-3 col-lg-1 pb-3" style="padding-left: 0px;padding-right: 0px;">
+                <img class="img-fluid" src="public_html/img/primera_respuesta/genero/fundamento.svg" alt="fundamento"
+                    style="height: 70%;padding-left: 20px;">
+            </div>
+            <div class="col-12 col-lg-9 pb-3" style="padding-left: 0px;padding-left: 15px">
+                <p class="pb-3">En marzo de 2011, el Consejo Universitario creó la Comisión Especial de Equidad de
+                    Género, la cual
+                    dicta los lineamientos de conducta sobre los que debe actuar la Universidad y su comunidad en
+                    materia de género. También ha diseñado un Protocolo para la Atención de Casos de Violencia de Género
+                    en la UNAM, con ello busca establecer la respuesta institucional a un problema que aún persiste en
+                    la comunidad y al que debemos hacerle frente.</p>
+                <p class="pb-3">Nuestra FES también trabaja desde los rubros preventivo y de respuesta inmediata; en el
+                    Plan de
+                    Desarrollo de esta gestión se establecen acciones para la igualdad de género, tales como la difusión
+                    de la normatividad y la sensibilización de género para docentes, trabajadores y estudiantes. En 2018
+                    fue creada la Comisión de Género, su finalidad es crear un cuerpo colegiado de especialistas que
+                    definan las acciones institucionales en la consecución de igualdad y no violencia de género. Entre
+                    las acciones principales se encuentran:</p>
+                    <div class="pb-3 column">
+                            <ul>
+                                <li>El Programa Multidisciplinario de Estudios de Género.</li>
+                                <li>En los dos últimos años se han llevado a cabo más de 150 actividades con tópicos importantes en
+                                    materia de género, derechos humanos, acoso, diversidad y equidad: conferencias, coloquios,
+                                    pláticas, talleres, módulos informativos, obras de teatro, entre otros.</li>
+                                <li>En colaboración con el Centro de Investigaciones y Estudios de Género (CIEG) se han impartido
+                                    talleres en temas como sensibilización, discriminación y violencia de género en la UNAM para
+                                    personal académico-administrativo, así como comunidad estudiantil.</li>
+                                <li>Apoyados por la Unidad para la Atención y Seguimiento de Denuncias (UNAD) se realizan jornadas
+                                    informativas periódicamente para brindar asesoría jurídica y atención a los integrantes de la
+                                    comunidad universitaria que hayan presenciado o sido afectadas por alguna conducta de agravio
+                                    violatoria de la normatividad universitaria.</li>
+                                <li>Fue creada la campaña #TodxsSomosUNAM como una política afirmativa que pretende visibilizar y
+                                    acentuar el contenido sobre Género, Feminismo y protocolos de acción. Esta campaña aparece en
+                                    los medios impresos y redes sociales de la FES.</li>
+                                <li>Se han articulado las convocatorias para la formación de personas orientadoras conforme al
+                                    acuerdo rectoral.</li>
+                                <li>Se ha trabajado con otras dependencias hacia el fortalecimiento del compromiso institucional
+                                    para generar estrategias que permitan prácticas para lograr la equidad de género.</li>
+                                <li>Se ha asistido a diversos eventos y actividades en la materia.</li>
+                            </ul>
+                        </div>
+            </div>
+            <div class="col-12 col-lg-10">
+                <p class="pb-3">Derivado de las acciones implementadas por la universidad para erradicar la violencia de
+                    género y garantizar una mejor conducción en la atención de los casos, el pasado 7 de agosto de 2020,
+                    el Consejo Universitario aprobó el Estatuto de la Defensoría de los Derechos Universitarios,
+                    Igualdad y Atención de la Violencia de Género, con lo cual se establece como la instancia
+                    primordial, encargada de la instrumentación de las quejas relacionadas con violencia de género.</p>
+                <p class="pb-3">Dicho acuerdo de creación, contiene disposiciones que regirán en la atención de los
+                    asuntos de violencia de género. Conoce más… <a style="color: #007bff;" target="_blank"
+                        href="https://www.defensoria.unam.mx/">Defensoría UNAM</a></p>
+                <p class="pb-3">La DDUUIAVG cuenta con psicólogas y abogadas expertas en la materia que escuchan,
+                    orientan y asesoran a todas aquellas personas que deseen presentar su queja. En todos los casos, la
+                    Defensoría se encarga de que la autoridad informe a la persona que formalizó la queja, el avance del
+                    asunto hasta el término del procedimiento.</p>
+                <p class="pb-3">A través del Acuerdo rectoral del 02 de marzo de 2020, se creó la Coordinación para la
+                    Igualdad de Género, de cuyas funciones, se desprende, la de diseñar e instrumental, de manera
+                    conjunta, acciones estratégicas orientadas a la prevención de la violencia de género. También, tiene
+                    la encomienda de transversalizar las políticas institucionales de género de la UNAM que requieren de
+                    un sustento en sus estatutos, normas y reglamentos que la rigen; por lo que se encuentra realizando
+                    los análisis documentales y consultas a los diferentes sectores y entidades, para proponer con
+                    sustentación las modificaciones necesarias a la oficina de la abogacía general y colaborar con esta
+                    instancia en la elaboración de nuevas reglamentaciones en las que se solicite la perspectiva de
+                    género, para posteriormente someterlas a revisión a la Comisión de Legislación del Consejo
+                    Universitario para su consideración y en su caso aprobación. Conoce más… <a style="color: #007bff;"
+                        target="_blank" href="https://coordinaciongenero.unam.mx/">Coordinación para la Igualdad de
+                        Género UNAM</a></p>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>Estadísticas</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-10 col-sm-5 col-lg-5 pt-2 pb-2">
+                <a target="_blank" href="public_html/img/primera_respuesta/genero/2.jpeg"
+                    title="Históricos de casos presentados">
+                    <img class="img-fluid" src="public_html/img/primera_respuesta/genero/2.jpeg"
+                        alt="Históricos de casos presentados" />
+                </a>
+            </div>
+            <div class="col-10 col-sm-5 col-lg-5 pt-2 pb-2">
+                <a target="_blank" href="public_html/img/primera_respuesta/genero/1.jpeg" title="Sanciones">
+                    <img class="img-fluid" src="public_html/img/primera_respuesta/genero/1.jpeg" alt="Sanciones" />
+                </a>
+            </div>
+            <div class="col-10 pt-3">
+                <p style="
+                text-align: center;
+            ">Actualizado al inicio de cada semestre.</p>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>Preguntas Frecuentes</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-3 col-lg-1" style="padding-left: 0px;padding-right: 0px;">
+                <img class="img-fluid" src="public_html/img/comision-local-de-seguridad/preguntas.svg" alt="fundamento"
+                    style="height: 70%;padding-left: 20px;">
+            </div>
+            <div class="col-12 col-lg-9" style="padding-left: 0px;">
+                <ul>
+                    <li>
+                        <p>¿Qué es una Persona Orientadora Comunitaria (POC´s)?</p>
+                        <p>Son promotoras universitarias comunitarias de igualdad sustantiva, la prevención y
+                            erradicación de la violencia de género.
+                        </p>
+                    </li>
+                    <li>
+                        <p>¿Cuáles son las funciones de la POC´s?</p>
+                        <p>Fungen como puente de comunicación directa con la comunidad universitaria.</p>
+                        <p>Te escuchan para orientar, informar, guiar y canalizar a las instancias institucionales donde
+                            podrás presentar una queja en materia de género.</p>
+                    </li>
+                    <li>
+                        <p>¿Quiénes pueden solicitar este tipo de apoyo?</p>
+                        <p>Personas que consideren estar en alguna situación de violencia o terceras personas que tengan
+                            conocimiento directo sobre dichos actos contra la normatividad universitaria.</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>Ligas de interés</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-3 col-sm-2 col-lg-2 liga-de-interes">
+                <a target="_blank" href="https://cieg.unam.mx/" title="CIEG">
+                    <img class="img-fluid" src="public_html/img/ligas/cieg.jpg" alt="CIEG" />
+                </a>
+            </div>
+            <div class="col-3 col-sm-2 col-lg-2 liga-de-interes">
+                <a target="_blank" href="https://coordinaciongenero.unam.mx/personas-orientadoras-comunitarias/"
+                    title="Igualdad de género">
+                    <img class="img-fluid" src="public_html/img/ligas/igualdad-de-genero.jpg"
+                        alt="Igualdad de género" />
+                </a>
+            </div>
+            <div class="col-3 col-sm-2 col-lg-2 liga-de-interes">
+                <a target="_blank" href="https://www.defensoria.unam.mx/" title="HeForShe">
+                    <img class="img-fluid" src="public_html/img/ligas/dduiavg.jpg" alt="HeForShe" />
+                </a>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 1">
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>{{genero.valor_unam.titulo}}</h2>
+                <hr />
+            </div>
+        </div>
+        <div ng-if="genero.valor_unam.imagenes.length > 0">
+            <div class="row justify-content-center">
+                <div class="col-12 mb-15 col-md-8"
+                    ng-class="genero.valor_unam.imagenes_secundarias.length === 0 ? 'offset-md-3' : ''">
+                    <div class="col-12 owl-carousel owl-theme contenedor-imagen" style="z-index: 0;margin-top: 8px;">
+                        <div class="item conte-img carousel-portal-docente"
+                            ng-repeat="imagen in genero.valor_unam.imagenes">
+                            <a ng-click="showModal(imagen, genero.valor_unam.titulo_normalizado)" title="Show Image">
+                                <img class="img-fluid image"
+                                    ng-src="public_html/img/primera_respuesta/genero/{{genero.valor_unam.titulo_normalizado}}/{{imagen.imagen}}.jpg"
+                                    alt="{{imagen.alt}}" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div ng-show="genero.valor_unam.imagenes_secundarias.length > 0" class="col-12 col-md-6 mt-3">
+                    <h5>M&aacute;s Infograf&iacute;as</h5>
+                    <ul>
+                        <li ng-repeat="imagen in genero.valor_unam.imagenes_secundarias"><a href=""
+                                title="{{imagen.titulo}}"
+                                ng-click="showModal(imagen, genero.valor_unam.titulo_normalizado)">{{imagen.titulo}}</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div ng-show="valor_unam.imagenes_secundarias.length > 0" class="col-12 col-md-6 mt-3">
+                <h5>M&aacute;s Infograf&iacute;as</h5>
+                <ul>
+                    <li ng-repeat="imagen in valor_unam.imagenes_secundarias"><a ng-click="showModalSecundarias($index)"
+                            href="" title="{{imagen.titulo}}">{{imagen.titulo}}</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 2">
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>#{{genero.equidad_fes.titulo}}</h2>
+                <hr />
+            </div>
+        </div>
+        <div ng-if="genero.equidad_fes.imagenes.length > 0">
+            <div class="row justify-content-center">
+                <div class="col-12 mb-15 col-md-8"
+                    ng-class="genero.equidad_fes.imagenes_secundarias.length === 0 ? 'offset-md-3' : ''">
+                    <div class=" col-12 owl-carousel owl-theme contenedor-imagen" style="z-index: 0;margin-top: 8px;">
+                        <div class="item conte-img carousel-portal-docente"
+                            ng-repeat="imagen in genero.equidad_fes.imagenes">
+                            <a ng-click="showModal(imagen, genero.equidad_fes.titulo_normalizado)" title="Show Image">
+                                <img class="img-fluid image"
+                                    ng-src="public_html/img/primera_respuesta/genero/{{genero.equidad_fes.titulo_normalizado}}/{{imagen.imagen}}.jpg"
+                                    alt="{{imagen.alt}}" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div ng-show="genero.equidad_fes.imagenes_secundarias.length > 0" class="col-12 col-md-6 mt-3">
+                    <h5>M&aacute;s Infograf&iacute;as</h5>
+                    <ul>
+                        <li ng-repeat="imagen in genero.equidad_fes.imagenes_secundarias"><a href=""
+                                title="{{imagen.titulo}}"
+                                ng-click="showModal(imagen, genero.equidad_fes.titulo_normalizado)">{{imagen.titulo}}</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 3">
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>Videos</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row justify-content-center galeria mt-3">
+            <div class="col-12 col-lg-10">
+                <div class="row">
+                    <div class="col-12 col-md-6 mt-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <video width="400" poster="public_html/img/primera_respuesta/genero/video-genero.jpg"
+                                src="public_html/img/primera_respuesta/genero/genero.mov" controls>
+                            </video>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 mt-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <video width="400" poster="public_html/img/primera_respuesta/genero/defensoria.jpg"
+                                src="public_html/img/primera_respuesta/genero/derechos-universitarios.mov" controls>
+                            </video>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 mt-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nqYX1PX3UQ0"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 mt-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MQQAr6EshUk"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 mt-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hkPdY5jymEs"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 mt-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YDnz9bCl2EQ"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 mt-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bHh5bv8xULU"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 mt-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tS8Ryjj7-ys"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 mt-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RMcZ7ONHO1E"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 mt-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ixC752hfYBs"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 4">
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-9">
+                <h2>Personas orientadoras en la FES Aragón</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-12 col-sm-12 col-md-9">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-4 mt-4 mb-4">
+                        <p class="text-center">Brenda Paola Méndez Romero</p>
+                        <img class="rounded-circle img-responsable d-flex mx-auto"
+                            src="public_html/img/primera_respuesta/genero/brenda-paola-mendez-romero.jpg"
+                            alt="Brenda Paola Méndez Romero">
+                        <div class="text-center">
+                            <small><i class="icon-whatsapp"></i>55 5067 2470</small>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-4 mt-4 mb-4">
+                        <p class="text-center">Berenice Cano Santos</p>
+                        <img class="rounded-circle img-responsable d-flex mx-auto"
+                            src="public_html/img/primera_respuesta/genero/berenice-cano-santos.jpg"
+                            alt="Berenice Cano Santos">
+                        <div class="text-center">
+                            <small><i class="icon-whatsapp"></i>55 2920 7904</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-4 mt-4 mb-4">
+                        <p class="text-center">Gloria Enríquez Marín</p>
+                        <img class="rounded-circle img-responsable d-flex mx-auto"
+                            src="public_html/img/primera_respuesta/genero/gloria-enriquez-marin.jpg"
+                            alt="Gloria Enríquez Martín">
+                        <div class="text-center">
+                            <small><i class="icon-whatsapp"></i>55 8581 0453</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

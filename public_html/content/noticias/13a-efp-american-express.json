@@ -1,0 +1,33 @@
+{
+	"titulo": "13a EFP: American Express",
+	"titulo_normalizado": "13a-efp-american-express",
+	"secciones": [
+		{
+			"seccion": "Bolsa de Trabajo",
+			"seccion_normalizada": "bolsa-de-trabajo"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "23/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades desarrolladas por el departamento de Bolsa de Trabajo de la FES Arag\u00F3n, se llev\u00F3 a cabo la d\u00E9cimo tercer edici\u00F3n de Expo Futuro Profesional, en el que American Express Company (AMEX), una instituci\u00F3n de banca m\u00FAltiple, particip\u00F3 por primera vez con una sesi\u00F3n donde explic\u00F3 los diferentes servicios bancarios de la empresa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las personas presentadoras; Lilia Trejo, del departamento de Bolsa de Trabajo de la FES Arag\u00F3n; Diana Gutierrez y Jos\u00E9 Antonio Reyes, de los distintos departamentos de AMEX, se dedicaron a explicar las diferentes vacantes en \u00E1reas como ventas, servicio al cliente, tecnolog\u00EDa, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">marketing<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, finanzas, comercio, viajes y riesgos adem\u00E1s de los beneficios que se otorgan al trabajar con ellos; como un sueldo base, prestaciones variadas, crecimiento laboral, vacaciones y seguro m\u00E9dico.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de esta sesi\u00F3n tambi\u00E9n se expusieron aspectos destacables de su ambiente laboral: el acompa\u00F1amiento y apoyo que brinda AMEX como equipo de trabajo, adem\u00E1s de explicar cada uno de las tareas que realizan los diferentes departamentos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente la sesi\u00F3n concluy\u00F3 con una ronda de preguntas y respuestas con las cuales se enfatiz\u00F3 la inclusividad de esta empresa para cualquier carrera, adem\u00E1s, destacaron su ambiente de cero tolerancia a la discriminaci\u00F3n de todo tipo.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "AMEX1.gif"
+		},
+		{
+			"imagen": "AMEX2.gif"
+		},
+		{
+			"imagen": "AMEX3.gif"
+		},
+		{
+			"imagen": "AMEX4.gif"
+		},
+		{
+			"imagen": "AMEX5.gif"
+		},
+		{
+			"imagen": "AMEX6.gif"
+		}	]
+
+}

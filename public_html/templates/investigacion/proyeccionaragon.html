@@ -1,0 +1,364 @@
+<style>
+  .menu-rapido li a:hover {
+    box-shadow: inset 0 -0.35em rgba(109 203 140);
+  }
+
+  @media only screen and (min-width: 600px) {
+    .nav-link {
+      text-align: center;
+    }
+
+    .proyeccionaragon {
+      right: 30px;
+      position: relative;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .nav-link {
+      text-align: center;
+    }
+  }
+</style>
+<div class="container content" ng-init="showing = 0" walkway-boot="">
+  <div class="row" style="padding-top: 10px">
+    <div class="col-lg-12" style="padding: 0px">
+      <img class="img-fluid" src="public_html/img/investigacion/proyeccionaragon/proyeccionaragon1.png"
+        alt="#ProyecciónAragón" />
+    </div>
+  </div>
+  <div class="row justify-content-center" style="padding-top: 10px; padding-bottom: 20px">
+    <div class="col-12 col-lg-12 menu-rapido">
+      <ul class="nav d-flex justify-content-center">
+        <li class="nav-item animated zoomIn">
+          <a class="nav-link active" ng-click="showing = 0" title="Inicio">
+            Inicio
+          </a>
+        </li>
+        <li class="nav-item animated zoomIn">
+          <a class="nav-link active" ng-click="showing = 1" title="Centro de Investigación Multidisciplinaria Aragón">
+            Centro de Investigación Multidisciplinaria Aragón
+          </a>
+        </li>
+        <li class="nav-item animated zoomIn">
+          <a class="nav-link active" ng-click="showing = 2" title="Centro Tecnológico Aragón">
+            Centro Tecnológico Aragón
+          </a>
+        </li>
+        <li class="nav-item animated zoomIn">
+          <a class="nav-link active" ng-click="showing = 3" title="L&iacute;nea de tiempo">
+            Posgrado
+          </a>
+        </li>
+        <li class="nav-item animated zoomIn">
+          <a class="nav-link active" ng-click="showing = 4" title="L&iacute;nea de tiempo">
+            Proyectos de investigación
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="main-45" ng-show="showing === 0">
+    <div class="row justify-content-center align-items-center pt-5 pb-5 portafolio">
+      <!--  <div class="col-12 col-md-4 col-lg-4">
+       <svg version="1.1" id="Capa_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="0px" y="0px" width="100%" height="100%" viewBox="0 0 236 140.9" enable-background="new 0 0 236 140.9"
+          xml:space="preserve">
+          <path fill="#D8D2BE"
+            d="M704.9-73.2c0.1,0,0.2,0.1,0.2,0.2c0,0.1-0.1,0.2-0.2,0.2c-0.1,0-0.2-0.1-0.2-0.2  C704.6-73.2,704.7-73.2,704.9-73.2z"
+            class="svg-elem-1"></path>
+          <path fill="#D8D2BE"
+            d="M706.2-72.3c0,0.1-0.1,0.2-0.2,0.2c-0.1,0-0.2-0.1-0.2-0.2c0-0.2,0.1-0.2,0.2-0.2  C706.2-72.5,706.3-72.4,706.2-72.3z"
+            class="svg-elem-2"></path>
+          <g>
+            <g>
+              <path fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10"
+                d="M133.6,39.6c0-2-0.6-3.8-1.6-5.5    c-2.5-4-6.1-5.7-10.7-5.7c-15.6,0-31.3,0-46.9,0c-0.4,0-0.8,0-1.3,0c-4.8,0.3-8.2,2.8-10.2,7.2c-0.4,0.9-0.6,2-0.9,3    c0,13.9,0,27.9,0,41.8c0.2,0.7,0.4,1.4,0.6,2.1c1.7,5,6,8.1,11.6,8.1c13.1,0,26.3,0,39.4,0c3,0,6,0.1,9,0c6-0.2,11-5.2,11.1-11.2    C133.6,66.2,133.6,52.9,133.6,39.6z"
+                class="svg-elem-3"></path>
+              <path fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10"
+                d="M174.1,35.3c0-2.5-1.8-3.6-3.9-2.3    c-8.4,4.9-16.7,9.9-25.1,14.8c-1.1,0.6-1.6,1.5-1.6,2.7c0,4.4,0,8.9,0,13.3c0,1.1,0.4,1.9,1.3,2.5c8.4,6.5,16.8,13,25.2,19.5    c0.4,0.3,0.8,0.6,1.3,0.7c1.6,0.4,2.8-0.8,2.8-2.6c0-8.1,0-16.2,0-24.3C174.1,51.5,174.1,43.4,174.1,35.3z"
+                class="svg-elem-4"></path>
+            </g>
+          </g>
+          <g>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M48.1,107.6h-2.5l-0.6,2.6h2v2h-2.5l-0.6,2.7   H42l0.6-2.7h-2.9l-0.6,2.7h-2.1l0.6-2.7H35v-2h2.9l0.6-2.6H36v-2h2.9l0.5-2.6h2.1l-0.5,2.6H44l0.5-2.6h2.1l-0.5,2.6h2V107.6z    M43,110.2l0.6-2.6h-2.9l-0.6,2.6H43z"
+              class="svg-elem-5"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M57.7,109.2c-0.3,0.4-0.7,0.6-1.3,0.8   c-0.6,0.2-1.2,0.3-1.9,0.3h-1.9v4.5h-2.3v-11.2h4.1c1.3,0,2.3,0.3,3,1s1.1,1.4,1.1,2.3C58.5,107.8,58.2,108.6,57.7,109.2z    M52.6,108.7h1.9c0.6,0,1-0.1,1.3-0.4c0.3-0.3,0.5-0.7,0.5-1.2s-0.2-0.9-0.5-1.2c-0.3-0.3-0.7-0.4-1.3-0.4h-1.9V108.7z"
+              class="svg-elem-6"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M62.5,106v1.6c0.6-1.1,1.5-1.7,2.6-1.7v2.3   h-0.6c-0.7,0-1.2,0.2-1.5,0.5c-0.3,0.3-0.5,0.9-0.5,1.7v4.5h-2.3V106H62.5z"
+              class="svg-elem-7"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M67.4,113.7c-0.9-0.8-1.3-2-1.3-3.3   s0.4-2.5,1.3-3.3c0.9-0.8,2-1.3,3.3-1.3c1.3,0,2.4,0.4,3.3,1.3c0.9,0.8,1.3,1.9,1.3,3.3s-0.4,2.5-1.3,3.3c-0.9,0.8-2,1.3-3.3,1.3   C69.4,115,68.3,114.6,67.4,113.7z M70.7,113.1c0.6,0,1.2-0.2,1.6-0.7c0.5-0.5,0.7-1.1,0.7-2c0-0.9-0.2-1.5-0.7-2   c-0.5-0.5-1-0.7-1.6-0.7s-1.2,0.2-1.6,0.7c-0.4,0.5-0.7,1.1-0.7,2c0,0.9,0.2,1.5,0.7,2C69.5,112.9,70,113.1,70.7,113.1z"
+              class="svg-elem-8"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M79.5,114.7L76,106h2.5l2.3,6.3l2.4-6.3h2.4   L80,119.1h-2.4L79.5,114.7z" class="svg-elem-9"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M90.7,115c-1.3,0-2.4-0.4-3.2-1.3   c-0.8-0.8-1.2-2-1.2-3.3s0.4-2.5,1.2-3.3c0.8-0.8,1.9-1.2,3.2-1.2c1.3,0,2.4,0.4,3.2,1.2c0.8,0.8,1.3,1.9,1.3,3.2   c0,0.3,0,0.6-0.1,0.9h-6.5c0.1,0.6,0.3,1,0.6,1.4c0.4,0.4,0.9,0.5,1.4,0.5c0.8,0,1.4-0.3,1.7-1h2.4c-0.3,0.8-0.8,1.5-1.5,2.1   C92.6,114.7,91.7,115,90.7,115z M92.2,108.3c-0.4-0.4-0.9-0.5-1.5-0.5c-0.6,0-1,0.2-1.4,0.5c-0.4,0.4-0.6,0.8-0.7,1.4h4.2   C92.8,109.1,92.6,108.6,92.2,108.3z"
+              class="svg-elem-10"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M97.5,113.8c-0.8-0.8-1.2-1.9-1.2-3.3   s0.4-2.5,1.2-3.3c0.8-0.8,1.9-1.3,3.2-1.3c1.1,0,2,0.3,2.7,0.8c0.7,0.5,1.2,1.3,1.5,2.2h-2.4c-0.3-0.7-0.9-1.1-1.7-1.1   c-0.7,0-1.2,0.2-1.5,0.7c-0.4,0.5-0.6,1.1-0.6,2c0,0.8,0.2,1.5,0.6,2s0.9,0.7,1.5,0.7c0.9,0,1.4-0.4,1.7-1.1h2.4   c-0.3,0.9-0.8,1.7-1.5,2.2c-0.7,0.5-1.6,0.8-2.7,0.8C99.4,115,98.4,114.6,97.5,113.8z"
+              class="svg-elem-11"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M107.2,113.8c-0.8-0.8-1.2-1.9-1.2-3.3   s0.4-2.5,1.2-3.3c0.8-0.8,1.9-1.3,3.2-1.3c1.1,0,2,0.3,2.7,0.8c0.7,0.5,1.2,1.3,1.5,2.2h-2.4c-0.3-0.7-0.9-1.1-1.7-1.1   c-0.7,0-1.2,0.2-1.5,0.7c-0.4,0.5-0.6,1.1-0.6,2c0,0.8,0.2,1.5,0.6,2s0.9,0.7,1.5,0.7c0.9,0,1.4-0.4,1.7-1.1h2.4   c-0.3,0.9-0.8,1.7-1.5,2.2c-0.7,0.5-1.6,0.8-2.7,0.8C109.1,115,108,114.6,107.2,113.8z"
+              class="svg-elem-12"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M118.8,103.7c0,0.4-0.1,0.7-0.4,1   c-0.3,0.3-0.6,0.4-1,0.4s-0.7-0.1-1-0.4c-0.3-0.3-0.4-0.6-0.4-1s0.1-0.7,0.4-1c0.3-0.3,0.6-0.4,1-0.4s0.7,0.1,1,0.4   C118.6,103,118.8,103.3,118.8,103.7z M116.3,114.9V106h2.3v8.9H116.3z"
+              class="svg-elem-13"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M121.6,113.7c-0.9-0.8-1.3-2-1.3-3.3   s0.4-2.5,1.3-3.3c0.9-0.8,2-1.3,3.3-1.3c1.3,0,2.4,0.4,3.3,1.3c0.9,0.8,1.3,1.9,1.3,3.3s-0.4,2.5-1.3,3.3c-0.9,0.8-2,1.3-3.3,1.3   C123.6,115,122.5,114.6,121.6,113.7z M124.9,113.1c0.6,0,1.2-0.2,1.6-0.7c0.5-0.5,0.7-1.1,0.7-2c0-0.9-0.2-1.5-0.7-2   c-0.5-0.5-1-0.7-1.6-0.7s-1.2,0.2-1.6,0.7c-0.4,0.5-0.7,1.1-0.7,2c0,0.9,0.2,1.5,0.7,2C123.7,112.9,124.3,113.1,124.9,113.1z    M123,103.7l3.7-1.9v1.8l-3.7,1.7V103.7z"
+              class="svg-elem-14"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M133.6,106v1.3c0.6-1,1.5-1.5,2.8-1.5   c1,0,1.9,0.3,2.5,1c0.6,0.7,1,1.6,1,2.8v5.2h-2.3V110c0-0.7-0.2-1.2-0.5-1.6c-0.4-0.4-0.8-0.6-1.4-0.6c-0.6,0-1.1,0.2-1.5,0.6   c-0.4,0.4-0.5,0.9-0.5,1.6v4.9h-2.3V106H133.6z"
+              class="svg-elem-15"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M149.5,114.9l-0.7-2.1h-4.4l-0.7,2.1h-2.4   l4-11.3h2.7l4,11.3H149.5z M145,111h3.2l-1.6-4.7L145,111z"
+              class="svg-elem-16"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M155.8,106v1.6c0.6-1.1,1.5-1.7,2.6-1.7v2.3   h-0.6c-0.7,0-1.2,0.2-1.5,0.5c-0.3,0.3-0.5,0.9-0.5,1.7v4.5h-2.3V106H155.8z"
+              class="svg-elem-17"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M160.6,113.7c-0.8-0.9-1.2-2-1.2-3.3   s0.4-2.4,1.2-3.3c0.8-0.9,1.8-1.3,3-1.3s2.2,0.5,2.8,1.5V106h2.3v8.9h-2.3v-1.5c-0.7,1.1-1.6,1.6-2.8,1.6S161.4,114.6,160.6,113.7z    M165.7,112.3c0.5-0.5,0.7-1.1,0.7-1.9c0-0.8-0.2-1.5-0.7-1.9c-0.5-0.5-1-0.7-1.7-0.7c-0.6,0-1.2,0.2-1.7,0.7   c-0.5,0.5-0.7,1.1-0.7,1.9c0,0.8,0.2,1.5,0.7,1.9c0.5,0.5,1,0.7,1.7,0.7S165.2,112.8,165.7,112.3z"
+              class="svg-elem-18"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M171.6,113.7c-0.8-0.9-1.2-2-1.2-3.3   s0.4-2.4,1.2-3.3c0.8-0.9,1.8-1.3,3-1.3s2.2,0.5,2.8,1.5V106h2.3v9c0,1.3-0.4,2.3-1.1,3.1c-0.8,0.8-1.8,1.2-3.2,1.2   c-1.4,0-2.4-0.3-3.2-0.8s-1.3-1.4-1.4-2.4h2.2c0.1,0.4,0.4,0.7,0.8,0.9c0.4,0.2,0.9,0.3,1.5,0.3c0.6,0,1.1-0.2,1.5-0.6   c0.4-0.4,0.6-1,0.6-1.8v-1.6c-0.7,1.1-1.6,1.6-2.8,1.6S172.4,114.6,171.6,113.7z M176.8,112.3c0.5-0.5,0.7-1.1,0.7-1.9   c0-0.8-0.2-1.5-0.7-1.9c-0.5-0.5-1-0.7-1.7-0.7c-0.6,0-1.2,0.2-1.7,0.7c-0.5,0.5-0.7,1.1-0.7,1.9c0,0.8,0.2,1.5,0.7,1.9   c0.5,0.5,1,0.7,1.7,0.7S176.3,112.8,176.8,112.3z"
+              class="svg-elem-19"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M182.8,113.7c-0.9-0.8-1.3-2-1.3-3.3   s0.4-2.5,1.3-3.3c0.9-0.8,2-1.3,3.3-1.3c1.3,0,2.4,0.4,3.3,1.3c0.9,0.8,1.3,1.9,1.3,3.3s-0.4,2.5-1.3,3.3c-0.9,0.8-2,1.3-3.3,1.3   C184.8,115,183.7,114.6,182.8,113.7z M186.1,113.1c0.6,0,1.2-0.2,1.6-0.7c0.5-0.5,0.7-1.1,0.7-2c0-0.9-0.2-1.5-0.7-2   c-0.5-0.5-1-0.7-1.6-0.7s-1.2,0.2-1.6,0.7c-0.4,0.5-0.7,1.1-0.7,2c0,0.9,0.2,1.5,0.7,2C184.9,112.9,185.5,113.1,186.1,113.1z    M184.2,103.7l3.7-1.9v1.8l-3.7,1.7V103.7z"
+              class="svg-elem-20"></path>
+            <path fill="#039303" stroke="#039303" stroke-width="0.5" stroke-miterlimit="10"
+              d="M194.8,106v1.3c0.6-1,1.5-1.5,2.8-1.5   c1,0,1.9,0.3,2.5,1c0.6,0.7,1,1.6,1,2.8v5.2h-2.3V110c0-0.7-0.2-1.2-0.5-1.6c-0.4-0.4-0.8-0.6-1.4-0.6c-0.6,0-1.1,0.2-1.5,0.6   c-0.4,0.4-0.5,0.9-0.5,1.6v4.9h-2.3V106H194.8z"
+              class="svg-elem-21"></path>
+          </g>
+          <polygon id="XMLID_8_" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10"
+            points="109.3,78.1 109.3,79.2 95.3,81.4   84.2,79 84.2,78.1 95.3,80.3 " class="svg-elem-22"></polygon>
+          <polygon id="XMLID_7_" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10"
+            points="102.5,40.2 105.4,76.9 102.7,77.2   100.8,41.5 " class="svg-elem-23"></polygon>
+          <polygon id="XMLID_6_" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10"
+            points="100.3,38.3 98.9,39.7 99.3,77.6   101.7,77.2 " class="svg-elem-24"></polygon>
+          <polygon id="XMLID_5_" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10"
+            points="98.2,44.3 97.7,44.3 98,77.2   98.7,76.4 " class="svg-elem-25"></polygon>
+          <polygon id="XMLID_4_" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10"
+            points="97.1,38.9 95.9,37.7 95.3,78.4   97.1,77.2 " class="svg-elem-26"></polygon>
+          <polygon id="XMLID_3_" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10"
+            points="94.8,44.3 95.3,44.3 94.6,76.7   93.9,77.2 " class="svg-elem-27"></polygon>
+          <polygon id="XMLID_2_" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10"
+            points="92.7,39.1 94.3,40.2 92.8,77.6   90,77.9 " class="svg-elem-28"></polygon>
+          <polygon id="XMLID_1_" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10"
+            points="91.7,42 91,42.7 88.1,77.6 88.9,77.2   " class="svg-elem-29"></polygon>
+        </svg>
+      </div>-->
+      <div class="col-12 col-md-6">
+        <p>
+          Al ser la investigación una de las actividades sustantivas de la
+          Universidad, la FES Aragón realiza una importante labor para impulsar
+          la generación de nuevos saberes y soluciones a las necesidades
+          educativas, humanísticas, científicas, tecnológicas y sociales del
+          país. En esta sección podrás encontrar cápsulas con información
+          relevante sobre los proyectos de investigación llevados a cabo por
+          docentes y estudiantes de diversas áreas de la Facultad.
+        </p>
+      </div>
+      <div class="col-12 col-lg-3 galeria pt-4">
+        <a class="contenedor-imagen mb-3" target="_blank"
+        href="#!/seccion/proyeccion-aragon"><img
+                class="justify-content-center img-fluid " alt="Noticias"
+                src="public_html/img/noticias/seccion-de-noticias.png"></a>
+    </div>
+    </div>
+  </div>
+  <div class="main-45 pt-4 pb-4" ng-show="showing === 1">
+    <div class="row justify-content-center align-items-center pt-2 pb-2">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1m_gfBu8JzA" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_Dv29xUgn8s" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center pt-2 pb-2">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ue7JGuDsU3U" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bZ68iRy9fCE" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center pt-2 pb-2">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8Mc6zba96o4" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/myo_tQLw7m0" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center pt-2 pb-2">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zLQHnMquplU" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/b2owPeTA4Tg" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center" style="padding-top: 25px">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xH-8L6vPQKc" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vwe6HyQ8BG0" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center" style="padding-top: 25px">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/aHGEwwlYY5Q" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+        <div class="col-12 col-lg-5 pt-2 pb-2">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/c16_2bOLbeQ" frameborder="0"
+              allowfullscreen></iframe>
+          </div>
+        </div>
+    </div>
+    <div class="row justify-content-center" style="padding-top: 25px">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/clUaW9PiOqs" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main-45 pt-4 pb-4" ng-show="showing === 2">
+    <div class="row justify-content-center align-items-center pt-2 pb-2">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vYjo4KlEorw" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/W7J3tJKdcxc" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center pt-2 pb-2">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MkAWFhcSzbE" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xwBfec9EI_Q" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center pt-2 pb-2">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-W7M1tZhL7g" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WecHx1jgIDA" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center pt-2 pb-2">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-d2Q3eC7vQc" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jiagwrfnoac" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main-45 pt-4 pb-4" ng-show="showing === 3">
+    <div class="row justify-content-center align-items-center pt-2 pb-2">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tcKRAIpVvcQ" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y-BFyiKvKhA" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main-45 pt-4 pb-4" ng-show="showing === 4">
+    <div class="row justify-content-center align-items-center pt-2 pb-2">
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ooWHRAWJXB0" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-12 col-lg-5 pt-2 pb-2">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qTEVo-TI9bc" frameborder="0"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+<script>
+  setTimeout(() => {
+    const svg = document.querySelector('svg');
+    svg.classList.add('active');
+  }, 300);
+</script>

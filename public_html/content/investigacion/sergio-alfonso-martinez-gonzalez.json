@@ -1,0 +1,22 @@
+{
+    "nombre": "Sergio Alfonso Martínez González", 
+    "grado_academico": "Maestro en Ciencias  e Ingeniería (Ambientales), UAM/Azcapotzalco.",
+    "ubicacion": ["Laboratorio de Ingeniería Ambiental del Centro Tecnológico Aragón."],
+     "telefono": [ "55 5623 0960"],
+     "telefono1": [ "55 5623 0961 (Directo)"],
+     "correo": [ "sergiomartinezl5@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Ingeniería Química, Facultad de Química de la Universidad Nacional Autónoma de México.",
+        "Maestría en Ciencias e Ingeniería Ambiental, la UAM Azcapotzalco."
+    ], 
+    "lineas_investigacion": [
+        "Prevención y control de la contaminación del agua y suelo.",
+        "Sustentabilidad. Desarrollo de ecotecnologías.",
+        "Desarrollo de TIC’s y TAC’s para la enseñanza de la sustentabilidad en Ingeniería Civil."
+    ], 
+    "investigaciones": [
+        "Co-responsable del Proyecto PAPIME PE106022 Aplicación de situaciones de enseñanza con base en TIC y sistemas interactivos de respuesta, para fomentar el aprendizaje activo en asignaturas del área ambiental para la carrera de Ingeniería Civil.",
+        "Análisis y evaluación de concentraciones de contaminantes atmosféricos obtenidos de la estación meteorológica ubicada en el Centro Tecnológico y operada por la Secretaría del Medio Ambiente de la CDMX (SEDEMA)."
+    ]
+}

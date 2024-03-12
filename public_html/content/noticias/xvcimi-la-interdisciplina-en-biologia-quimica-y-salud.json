@@ -1,0 +1,34 @@
+{
+	"titulo": "XVCIMI: La interdisciplina en biolog\u00EDa, qu\u00EDmica y salud",
+	"titulo_normalizado": "xvcimi-la-interdisciplina-en-biologia-quimica-y-salud",
+	"secciones": [
+		{
+			"seccion": "CIMA",
+			"seccion_normalizada": "cima"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Tiar\u00E9 Rodr\u00EDguez",
+	"fecha": "27/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">XV Congreso Internacional Multidisciplinario de Investigaci\u00F3n<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> present\u00F3 su d\u00E9cima mesa de discusi\u00F3n con la moderaci\u00F3n de Sergio Alfonso Mart\u00EDnez, profesor de la Facultad. El evento estuvo conformado por seis ponencias las cuales abordaron temas de biolog\u00EDa, qu\u00EDmica y salud.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Miembros de la Universidad Aut\u00F3noma de Sinaloa empezaron con la pl\u00E1tica “Determinaci\u00F3n de pangenoma y core-genoma mediante herramientas bioinform\u00E1ticas basado en secuencias y anotaciones de genomas procariotas”. Se continu\u00F3 con “Diversidad de Macrodactylus (Coleoptera: Melolonthidae) en cultivos de ma\u00EDz (Zea mays L.) en Zaragoza, Puebla, M\u00E9xico” por parte del Instituto Tecnol\u00F3gico Superior de Zacapoaxtla, la siguiente fue “Determinaci\u00F3n de las relaciones molares \u00F3ptimas pl\u00E1smido: p\u00E9ptido cariof\u00EDlico: quitos\u00E1n para el ensamblaje de nanopart\u00EDculas para terapia g\u00E9nica” de la FES Cuautitl\u00E1n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mientras que la ponencia por parte de FES Zaragoza fue “Microfiltraci\u00F3n de selladores de fosetas y fisuras empleando diferentes t\u00E9cnicas de colocaci\u00F3n”, seguido de “Paladaciclos pinza-NNC basados en ligantes arilhidrazona-tiazol como precursores catal\u00EDticos en el acoplamiento Suzuki-Miyuara asistido por irradiaci\u00F3n infrarroja” de la FES Cuautitl\u00E1n y, para concluir, se present\u00F3 la ponencia “Evaluaci\u00F3n del efecto desinfectante de un agregado mineral natural sobre microorganismos de inter\u00E9s sanitario presentes en aguas residuales municipales” por miembros de la Facultad de Qu\u00EDmica.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "interdis1.gif"
+		},
+		{
+			"imagen": "Interdis2.gif"
+		},
+		{
+			"imagen": "Interdis3.gif"
+		},
+		{
+			"imagen": "Interdis4.gif"
+		},
+		{
+			"imagen": "Interdis5.gif"
+		}	]
+
+}

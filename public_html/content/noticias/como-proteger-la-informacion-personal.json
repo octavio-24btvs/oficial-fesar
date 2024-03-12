@@ -1,0 +1,30 @@
+{
+	"titulo": "C\u00F3mo proteger la informaci\u00F3n personal",
+	"titulo_normalizado": "como-proteger-la-informacion-personal",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Leslie Mart\u00EDnez",
+	"fecha": "28/04/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se llev\u00F3 a cabo del 26 al 28 de abril el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Curso Regional: Seguridad de la Informaci\u00F3n y Protecci\u00F3n de Datos Personales<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, coordinado por la Unidad de Transparencia de la Facultad de Estudios Superiores Arag\u00F3n. En las conferencias que se realizaron a lo largo de tres d\u00EDas, participaron Lorena Pichardo, Jes\u00FAs Hern\u00E1ndez y el director de la FES, Fernando Chagolla. Se cont\u00F3 con la presencia de la Escuela Nacional Preparatoria 3 \"Justo Sierra\", 2 \"Erasmo Castellanos Quinto\", 9 \"Pedro de Alba\" y 7 \"Ezequiel A. Ch\u00E1vez\" y del Colegio de Ciencias y Humanidades Vallejo y Oriente, as\u00ED como de la Facultad de Estudios Superiores Zaragoza.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El director dio la bienvenida y agradeci\u00F3 la presencia de las y los alumnos, y los expertos en el tema. Las participaciones de Pichardo abarcaron avances tecnol\u00F3gicos y la importancia del control de la informaci\u00F3n que se publica; los Derechos de Acceso, Rectificaci\u00F3n, Cancelaci\u00F3n y Oposici\u00F3n (ARCO) y c\u00F3mo solicitarlos en la Unidad de Transparencia; sobre la relaci\u00F3n de sujetos obligados y personas f\u00EDsicas o jur\u00EDdicas, tambi\u00E9n sobre el an\u00E1lisis de riesgos, tipos de amenazas intencionales y no intencionales. Asimismo, expuso el Documento de Seguridad de Datos Personales, instrumento con las medidas de para que la informaci\u00F3n sea confiable, \u00EDntegra y est\u00E9 disponible.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte, Hern\u00E1ndez explic\u00F3 qu\u00E9 es la seguridad inform\u00E1tica, los activos valiosos y f\u00EDsicos: familia, propiedades e informaci\u00F3n, siendo esta \u00FAltima el foco de la exposici\u00F3n; dio recomendaciones para evitar cada tipo de ataque contra los documentos. Habl\u00F3 acerca de est\u00E1ndares, sistema de gesti\u00F3n de seguridad de la informaci\u00F3n y&nbsp; <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">frameworks<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">; sobre las certificaciones m\u00E1s importantes, requisitos para acceder a ellas, y un poco acerca de contenidos y utilidades de cada una de ellas. La conferencia finaliz\u00F3 con la resoluci\u00F3n de dudas del p\u00FAblico, adem\u00E1s, se le agradeci\u00F3 a las y los presentes por la atenci\u00F3n y participaci\u00F3n.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "seguridad-1.JPG"
+		},
+		{
+			"imagen": "seguridad-2.JPG"
+		},
+		{
+			"imagen": "seguridad-3.JPG"
+		},
+		{
+			"imagen": "seguridad-4.JPG"
+		},
+		{
+			"imagen": "seguridad-5.jpg"
+		}	]
+
+}

@@ -1,0 +1,14 @@
+{
+	"titulo": "Celebrando con deporte",
+	"titulo_normalizado": "celebrando-con-deporte",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Gabriel P\u00E1ez",
+	"fecha":"12/02/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con el fin de promover la pr\u00E1ctica del deporte y la actividad f\u00EDsica y dada la cercan\u00EDa del D\u00EDa del Amor y la Amistad, la Unidad de Extensi\u00F3n Universitaria de nuestra Facultad invit\u00F3 a la comunidad aragonesa a participar en los “Juegos de la Amistad”, evento donde se realizaron diferentes competencias por pareja y en equipos.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Entre las actividades que la comunidad pudo disfrutar se encontraban: carreras de velocidad, basquetbol, voleibol de playa, tocho bandera y tanda de penaltis. Al t\u00E9rmino de cada din\u00E1mica los competidores recibieron una constancia por su esfuerzo.<\/span><\/p>",
+	"imagenes":[{"imagen":"Celebrando-con-deporte-1.jpg"},{"imagen":"Celebrando-con-deporte-2.jpg"},{"imagen":"Celebrando-con-deporte-3.jpg"},{"imagen":"Celebrando-con-deporte-4.jpg"},{"imagen":"Celebrando-con-deporte-5.jpg"}]
+}

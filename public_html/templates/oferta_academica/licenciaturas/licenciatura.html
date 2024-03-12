@@ -1,0 +1,196 @@
+<div class="image-modal" ng-show="modal">
+    <div class="close-image-modal d-block cursor-pointer" ng-click="modal = false">&times;</div>
+    <img class="image-modal-content img-fluid" ng-src="{{image_source}}" alt="Im&aacute;gen" />
+    <div id="image-modal-caption"></div>
+</div>
+<div class="container content fs-12">
+    <div class="row pleca-secciones">
+        <div class="col-lg-12 secciones">
+            <hr>
+            <i ng-class="carrera.icono"></i><h1 class="mw-50">{{carrera.titulo}}</h1>
+             <a class="float-right boton-registro btn btn-secondary btn-sm" ng-if="suayed" href="https://plataformaeducativa.aragon.unam.mx/" target="_blank" title="Plataforma Acad&eacute;mica" style="
+             margin-top: 27px !important;">Plataforma Acad&eacute;mica</a>
+            <a class="float-right boton-registro btn btn-secondary btn-sm" ng-if="suayed" href="https://sites.google.com/aragon.unam.mx/plataformas-suayed/inicio" target="_blank" title="Ayuda en línea" style="
+            margin-top: 27px !important;">Ayuda en línea</a>
+            <hr />
+        </div>
+        <div class="col-12 px-md-0 pb-3" ng-if="carrera.titulacion">
+            <a ng-href="{{carrera.titulacion.link}}"
+               target="_blank" 
+               title="Titulaci&oacute;n {{carrera.titulo}}">
+                <img class="img-fluid" 
+                     ng-src="public_html/img/oferta_academica/banner/{{carrera.titulacion.carrera}}/{{carrera.titulacion.imagen}}"
+                     alt="Titulaci&oacute;n {{carrera.titulo}}" />
+            </a>
+        </div>
+    </div>
+<div class="row mt-3">
+    <div class="col-sm-12 col-md-3 col-lg-3 menu-carreras">
+        <ul class="side-menu list-group text-left">
+            <li class="list-group-item list-group-item-action" ng-repeat="boton in carrera.botones" ng-class="showing == $index ? 'active' : 'boton-oferta'" ng-click="carrera.secciones[$index].tipo == 'pdf' ? '' : setShowing($index)"><a ng-if="carrera.secciones[$index].tipo == 'pdf'" ng-href="{{carrera.secciones[$index].texto}}" target="_blank">{{boton}}</a><span ng-if="carrera.secciones[$index].tipo != 'pdf'">{{boton}}</span></li>
+        </ul>
+    </div>
+    <div class="col-sm-12 col-md-9 col-lg-9">
+        <div class="content">
+            <div ng-repeat="seccion in carrera.secciones" ng-show="showing === $index">
+                <div ng-if="seccion.tipo == 'html'" ng-bind-html="seccion.texto | to_trusted"></div>
+                <div ng-if="seccion.imagenes.length > 0"
+                     class="col-12 owl-carousel owl-theme contenedor-imagen" style="z-index: 0;margin-top: 8px;">
+                    <div class="item conte-img carousel-portal-docente" ng-repeat="imagen in seccion.imagenes">
+                        <a ng-if="imagen.tipo_hipervinculo === 'modal'" ng-click="showModal(imagen.hipervinculo)" title="Mostrar im&aacute;gen completa">
+                            <img class="img-fluid image"
+                                 ng-src="public_html/img/oferta_academica/{{imagen.imagen}}"
+                                 alt="Im&aacute;gen" />
+                        </a>
+                        <a ng-if="imagen.tipo_hipervinculo === 'pdf'" ng-href="public_html/documents/licenciaturas/{{imagen.hipervinculo}}" target="_blank" title="Mostrar documento">
+                            <img class="img-fluid image"
+                                 ng-src="public_html/img/oferta_academica/{{imagen.imagen}}"
+                                 alt="Im&aacute;gen" />
+                        </a>
+                        <a ng-if="imagen.tipo_hipervinculo === 'link'" ng-href="{{imagen.hipervinculo}}" target="_blank" title="Ir a p&aacute;gina">
+                            <img class="img-fluid image"
+                                 ng-src="public_html/img/oferta_academica/{{imagen.imagen}}"
+                                 alt="Im&aacute;gen" />
+                        </a>
+                    </div>
+                </div>
+                <div ng-if="seccion.acordeon.length > 0">
+                    <div class="card" ng-repeat="acordeon in seccion.acordeon">
+                        <div class="card-header cursor-pointer" ng-click="acordeon_showing === acordeon.titulo ? acordeon_showing = '0' : acordeon_showing = acordeon.titulo">
+                            <a style="font-size: 13px;" ng-href="{{acordeon.link}}" target="_blank" title="{{acordeon.titulo}}" ng-if="acordeon.link">
+                                <strong>{{acordeon.titulo}}</strong>
+                            </a>
+                            <p ng-if="!acordeon.link"><strong>{{acordeon.titulo}}</strong></p>
+                        </div>
+                        <div class="card-body" ng-show="acordeon_showing === acordeon.titulo && !acordeon.link">
+                            <div ng-bind-html='acordeon.texto | to_trusted'></div>
+                        </div>
+                    </div>
+                </div>
+                <div ng-if="seccion.tipo == 'acordeon'">
+                    <div class="card" ng-repeat="acordeon in seccion.texto">
+                        <div class="card-header cursor-pointer" ng-click="acordeon_showing === acordeon.titulo ? acordeon_showing = '0' : acordeon_showing = acordeon.titulo">
+                            <p><strong>{{acordeon.titulo}}</strong></p>
+                        </div>
+                        <div class="card-body" ng-show="acordeon_showing === acordeon.titulo">
+                            <div ng-bind-html='acordeon.texto | to_trusted'></div>
+                        </div>
+                    </div>
+                </div>
+                <div ng-if="seccion.html_button1.length > 0" ng-bind-html="seccion.html_button1 | to_trusted"></div>
+                <div ng-if="seccion.acordeon1.length > 0">
+                    <div class="card" ng-repeat="acordeon1 in seccion.acordeon1">
+                        <div class="card-header cursor-pointer" ng-click="acordeon1_showing === acordeon1.titulo ? acordeon1_showing = '9' : acordeon1_showing = acordeon1.titulo">
+                            <a style="font-size: 13px;" ng-href="{{acordeon1.link}}" target="_blank" title="{{acordeon1.titulo}}" ng-if="acordeon1.link">
+                                <strong>{{acordeon1.titulo}}</strong>
+                            </a>
+                            <p ng-if="!acordeon1.link"><strong>{{acordeon1.titulo}}</strong></p>
+                        </div>
+                        <div class="card-body" ng-show="acordeon1_showing === acordeon1.titulo && !acordeon1.link">
+                            <div ng-bind-html='acordeon1.texto | to_trusted'></div>
+                        </div>
+                    </div>
+                </div>
+                <div ng-if="seccion.tipo == 'acordeon1'">
+                    <div class="card" ng-repeat="acordeon1 in seccion.texto">
+                        <div class="card-header cursor-pointer" ng-click="acordeon1_showing === acordeon1.titulo ? acordeon1_showing = '9' : acordeon1_showing = acordeon1.titulo">
+                            <p><strong>{{acordeon1.titulo}}</strong></p>
+                        </div>
+                        <div class="card-body" ng-show="acordeon1_showing === acordeon1.titulo">
+                            <div ng-bind-html='acordeon1.texto | to_trusted'></div>
+                        </div>
+                    </div>
+                </div>
+                <div ng-if="seccion.html_button2.length> 0" ng-bind-html="seccion.html_button2 | to_trusted"></div>
+                <div ng-if="seccion.acordeon2.length > 0">
+                        <div class="card" ng-repeat="acordeon2 in seccion.acordeon2">
+                            <div class="card-header cursor-pointer" ng-click="acordeon2_showing === acordeon2.titulo ? acordeon2_showing = '8' : acordeon2_showing = acordeon2.titulo">
+                                <a style="font-size: 13px;" ng-href="{{acordeon2.link}}" target="_blank" title="{{acordeon2.titulo}}" ng-if="acordeon2.link">
+                                    <strong>{{acordeon2.titulo}}</strong>
+                                </a>
+                                <p ng-if="!acordeon2.link"><strong>{{acordeon2.titulo}}</strong></p>
+                            </div>
+                            <div class="card-body" ng-show="acordeon2_showing === acordeon2.titulo && !acordeon2.link">
+                                <div ng-bind-html='acordeon2.texto | to_trusted'></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div ng-if="seccion.tipo == 'acordeon2'">
+                        <div class="card" ng-repeat="acordeon2 in seccion.texto">
+                            <div class="card-header cursor-pointer" ng-click="acordeon2_showing === acordeon2.titulo ? acordeon2_showing = '8' : acordeon2_showing = acordeon2.titulo">
+                                <p><strong>{{acordeon2.titulo}}</strong></p>
+                            </div>
+                            <div class="card-body" ng-show="acordeon2_showing === acordeon2.titulo">
+                                <div ng-bind-html='acordeon2.texto | to_trusted'></div>
+                            </div>
+                        </div>
+                    </div>
+                <div ng-if="seccion.tipo == 'reconocimientos'">
+                    <div class="card" ng-if="seccion.texto.reconocimiento_docentes">
+                        <div class="card-header cursor-pointer" ng-click="(reconocimientos_showing === '2' ? reconocimientos_showing = '0' : reconocimientos_showing = '2')">
+                            <p><strong>Reconocimientos de estudiantes y docentes</strong></p>
+                        </div>
+                        <div class="card-body" ng-if="reconocimientos_showing === '2'">
+                            <div ng-bind-html='seccion.texto.reconocimiento_docentes | to_trusted'></div>
+                        </div>
+                    </div>
+                    <div class="card" ng-if="seccion.texto.reconocimiento_alumnos">
+                        <div class="card-header cursor-pointer" ng-click="(reconocimientos_showing === '3' ? reconocimientos_showing = '0' : reconocimientos_showing = '3')">
+                            <p><strong>Proyectos acad&eacute;micos estudiantiles</strong></p>
+                        </div>
+                        <div class="card-body" ng-show="reconocimientos_showing === '3'">
+                            <div ng-bind-html='seccion.texto.reconocimiento_alumnos | to_trusted'></div>
+                        </div>
+                    </div>
+                </div>
+                <div ng-if="seccion.tipo == 'contacto'">
+                    <h2 class="pb-3">Contacto</h2>
+                    <div class="row pleca portafolio">
+                        <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 text-left encargados-licenciaturas" ng-show="seccion.texto.foto_jefe_de_carrera !== ''">
+                            <h3 ng-show="seccion.texto.genero_jefe_carrera === '0' && !ri">Jefe de Carrera</h3>
+                            <h3 ng-show="seccion.texto.genero_jefe_carrera === '0' && ri">Encargado de Carrera</h3>
+                            <h3 ng-show="seccion.texto.genero_jefe_carrera === '1'">Jefa de Carrera</h3>
+                            <div>
+                                <p class="fs-13" ng-bind-html="seccion.texto.jefe_carrera | to_trusted"></p>
+                            </div>
+                            <img class="justify-content-center rounded-circle img-responsable" ng-src="{{seccion.texto.foto_jefe_de_carrera}}" alt="Jefe de carrera"/>
+                        </div>
+                        <div class="col-12 col-sm-12 col-md-3 col-lg-4 col-xl-3 mr-4 text-left encargados-licenciaturas sec-tec" ng-if="seccion.texto.secretario_tecnico !== ''">
+                            <h3 ng-show="seccion.texto.genero_secretario_tecnico == '0' && !suayed">Secretario T&eacute;cnico</h3>
+                            <h3 ng-show="seccion.texto.genero_secretario_tecnico == '1' && !suayed">Secretaria T&eacute;cnica</h3>
+                            <!-- Jefe de Secci&oacute;n Acad&eacute;mica Jefa de Secci&oacute;n Acad&eacute;mica -->
+                            <h3 ng-show="seccion.texto.genero_secretario_tecnico == '0' && suayed">Secretario T&eacute;cnico</h3>
+                            <h3 ng-show="seccion.texto.genero_secretario_tecnico == '1' && suayed">Secretaria T&eacute;cnica</h3>
+                            <!-- fin -->
+                            <p class="fs-13" ng-bind-html="seccion.texto.secretario_tecnico | to_trusted"></p>
+                            <img class="justify-content-center rounded-circle img-responsable" ng-show="seccion.texto.foto_secretario_tecnico" ng-src="{{seccion.texto.foto_secretario_tecnico}}" alt="Secretario t&eacute;cnico"/>
+                        </div>
+                        <div class="col-12 col-lg-4" ng-if="seccion.texto.secretarios_tecnicos">
+                            <div ng-repeat="secretario in seccion.texto.secretarios_tecnicos">
+                                <h3 ng-show="secretario.genero_secretario_tecnico == '0'">Secretario T&eacute;cnico</h3>
+                                <h3 ng-show="secretario.genero_secretario_tecnico == '1'">Secretaria T&eacute;cnica</h3>
+                                <p class="fs-13">{{secretario.secretario_tecnico}}</p>
+                                <img class="justify-content-center rounded-circle img-responsable" ng-show="secretario.foto_secretario_tecnico" ng-src="{{secretario.foto_secretario_tecnico}}" alt="Secretario t&eacute;cnico"/>
+                            </div>
+                        </div>
+                        <div class="contacto col-12 galeria" ng-class="(seccion.texto.foto_jefe_de_carrera !== '' && seccion.texto.secretario_Tecnico !== '') ? 'col-lg-4' : 'col-lg-4'" >
+                            <h3> Horario </h3>
+                            <p>{{seccion.texto.horario}}</p>
+                            <h3> Tel&eacute;fono(s)</h3>
+                            <p class="m-0">{{seccion.texto.telefonos}}</p>
+                            <p>{{seccion.texto.extension}}</p>
+                            <h3>Correo electr&oacute;nico</h3>
+                            <p class="m-0"><a class="link-a" ng-href="mailto:{{seccion.texto.correo_electronico}}" title="correo-electronico">{{seccion.texto.correo_electronico}}</a></p>
+                            <p class="fs-12"><a class="link-a" ng-href="mailto:{{seccion.texto.correo_electronico_st}}" title="correo-electronico">{{seccion.texto.correo_electronico_st}}</a></p>
+                            <p class="m-0" ><strong>&iexcl;&Uacute;nete a nuestro Facebook!</strong></p>
+                            <a target="_blank" ng-href="{{seccion.texto.facebook}}" title="facebook"><i class="icon-facebook-official facebook-becas"></i></a>
+                            <a class="contenedor-imagen" target="_blank" ng-href="{{seccion.texto.noticias}}" title="Noticias"><img class="justify-content-center img-fluid " alt="Noticias" src="public_html/img/noticias/seccion-de-noticias.png"></a>
+                        </div>
+                    </div>
+                </div>
+                <div ng-if="seccion.html_button.length > 0" ng-bind-html="seccion.html_button | to_trusted"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

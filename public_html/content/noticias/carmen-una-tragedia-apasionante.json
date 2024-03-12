@@ -1,0 +1,14 @@
+{
+	"titulo": "Carmen, una tragedia apasionante",
+	"titulo_normalizado": "carmen-una-tragedia-apasionante",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		}
+	],
+	"autor":"Aurelio Nito",
+	"fecha":"06/03/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con m\u00FAsica original de <\/span><span style=\"color: rgb(0, 0, 0);\">Rodion Shchedrin y la versi\u00F3n coreograf\u00EDa del cubano Alberto Alonso,<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> la obra <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Carmen<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> –interpretada por la Compa\u00F1\u00EDa de Nacional de Danza del INBA– <\/span><span style=\"color: rgb(0, 0, 0);\">fue presentada en <\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">el Teatro Jos\u00E9 Vasconcelos de nuestra Facultad.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta pieza danc\u00EDstica cuenta la historia de Carmen –encarnada por la <\/span><span style=\"color: rgb(0, 0, 0);\">primera bailarina Mayuko Nihei–, una mujer libre y apasionada que se relaciona amorosamente con diferentes hombres. La puesta en escena logr\u00F3 cautivar a toda la comunidad universitaria y externa que asisti\u00F3 a alguna de las dos funciones ofrecidas el 6 de marzo.<\/span><\/p>",
+	"imagenes":[{"imagen":"Carmen-una-tragedia-apasionante-2.jpg"},{"imagen":"Carmen-una-tragedia-apasionante-1.jpg"},{"imagen":"Carmen-una-tragedia-apasionante-3.jpg"},{"imagen":"Carmen-una-tragedia-apasionante-4.jpg"},{"imagen":"Carmen-una-tragedia-apasionante-6.jpg"},{"imagen":"Carmen-una-tragedia-apasionante-7.jpg"},{"imagen":"Carmen-una-tragedia-apasionante-8.jpg"},{"imagen":"Carmen-una-tragedia-apasionante-9.jpg"},{"imagen":"Carmen-una-tragedia-apasionante-10.jpg"},{"imagen":"Carmen-una-tragedia-apasionante-11.jpg"},{"imagen":"Carmen-una-tragedia-apasionante-12.jpg"}]
+}

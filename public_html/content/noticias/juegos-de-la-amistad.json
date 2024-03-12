@@ -1,0 +1,14 @@
+{
+	"titulo": "Juegos de la Amistad",
+	"titulo_normalizado": "juegos-de-la-amistad",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Redacci\u00F3n",
+	"fecha":"11/02/20",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En los <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Juegos de la Amistad<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">2020-II<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> la comunidad aragonesa participa en parejas o equipos mixtos en distintas disciplinas deportivas y recreativas pasando un momento de distracci\u00F3n y&nbsp; sana competencia.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Coordinaci\u00F3n de Actividades Deportivas y Recreativas de la FES Arag\u00F3n aprovecha la ocasi\u00F3n para mostrar a la comunidad universitaria algunas de las actividades que ofrece.&nbsp;<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El evento forma parte de las din\u00E1micas organizadas por nuestra Facultad para celebrar el D\u00EDa del Amor y la Amistad. Las y los aragoneses compitieron en disciplinas como en futbol 7, tiro de penaltis, carrera de una milla, ajedrez y voleibol de playa.<\/span><\/p>",
+	"imagenes":[{"imagen":"dia-del-amor-y-juegos-de-la-amistad-1.jpg"},{"imagen":"dia-del-amor-y-juegos-de-la-amistad-2.jpg"},{"imagen":"dia-del-amor-y-juegos-de-la-amistad-3.jpg"},{"imagen":"dia-del-amor-y-juegos-de-la-amistad-4.jpg"},{"imagen":"dia-del-amor-y-juegos-de-la-amistad-5.jpg"},{"imagen":"dia-del-amor-y-juegos-de-la-amistad-6.jpg"},{"imagen":"dia-del-amor-y-juegos-de-la-amistad-7.jpg"}]
+}

@@ -1,0 +1,56 @@
+{
+	"id": 35,
+	"titulo": "Prevenci\u00F3n y Seguridad Universitaria",
+	"icono": "icon-protecion-civil",
+	"noticias": [
+		{
+			"titulo":"Listos para actuar",
+			"titulo_normalizado":"listos-para-actuar",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "primer-respondiente-1 (1).jpg",
+			"fecha":"23/06/23"
+		},
+		{
+			"titulo":"Prevenci\u00F3n para nuestra protecci\u00F3n",
+			"titulo_normalizado":"prevencion-para-nuestra-proteccion",
+			"autor":"Marisol Gonz\u00E1lez",
+			"imagen": "img-1.jpg",
+			"fecha":"22/08/18"
+		},
+		{
+			"titulo":"La FES Arag\u00F3n participa en el primer Macrosimulacro 2020",
+			"titulo_normalizado":"la-fes-aragon-participa-en-el-primer-macrosimulacro-2020",
+			"autor":"Redacci\u00F3n",
+			"imagen": "fes-aragon-participa-en-el-primer-macrosimulacro-1.jpg",
+			"fecha":"20/01/20"
+		},
+		{
+			"titulo":"Primeros auxilios al rescate",
+			"titulo_normalizado":"primeros-auxilios-al-rescate",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "rescate-1.jpg",
+			"fecha":"16/06/23"
+		},
+		{
+			"titulo":"Salvando vidas con conocimiento",
+			"titulo_normalizado":"salvando-vidas-con-conocimiento",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "primer-respondiente-1.jpg",
+			"fecha":"12/06/23"
+		},
+		{
+			"titulo":"Prepar\u00E1ndonos para saber actuar ante una cat\u00E1strofe",
+			"titulo_normalizado":"preparandonos-para-saber-actuar-ante-una-catastrofe",
+			"autor":"Yamileth Reza",
+			"imagen": "preparandonos-para-saber-actuar-ante-una-catastrofe-1.jpg",
+			"fecha":"11/09/19"
+		},
+		{
+			"titulo":"Primera Feria Universitaria de Protecci\u00F3n Civil",
+			"titulo_normalizado":"primera-feria-universitaria-de-proteccion-civil",
+			"autor":"Thalia Ortega",
+			"imagen": "primera-feria-universitaria-1 (1).jpg",
+			"fecha":"06/12/19"
+		}
+	]
+}

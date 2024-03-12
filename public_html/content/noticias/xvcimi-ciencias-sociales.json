@@ -1,0 +1,34 @@
+{
+	"titulo": "XVCIMI: Ciencias sociales",
+	"titulo_normalizado": "xvcimi-ciencias-sociales",
+	"secciones": [
+		{
+			"seccion": "Ciencias Sociales",
+			"seccion_normalizada": "ciencias-sociales"
+		},
+		{
+			"seccion": "CIMA",
+			"seccion_normalizada": "cima"
+		}
+	],
+	"autor": "Tiar\u00E9 Rodr\u00EDguez",
+	"fecha": "25/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Teniendo como moderador a Edgar Gabriel Lara, jefe de carrera de Comunicaci\u00F3n y Periodismo, se llev\u00F3 a cabo la s\u00E9ptima sesi\u00F3n del<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> XV Congreso Internacional Multidisciplinario de Investigaci\u00F3n, donde se <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">abordaron investigaciones sobre ciencias sociales.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La primera ponencia fue “Comunicaci\u00F3n pol\u00EDtica en la primera mitad del sexenio: AMLO vs los medios y periodistas cr\u00EDticos de la 4T”, de Hugo S\u00E1nchez Gudi\u00F1o, doctor en ciencias pol\u00EDticas por la FCPyS y docente aragon\u00E9s. En ella se habl\u00F3 de c\u00F3mo en M\u00E9xico no existe un periodismo profesional, independiente o \u00E9tico. En la siguiente conferencia, “Socializaci\u00F3n pol\u00EDtica y formaci\u00F3n de la opini\u00F3n p\u00FAblica”, Mary Kriss Parra, maestra en Ciencias Pol\u00EDticas, propuso una forma distinta de estudiar la opini\u00F3n p\u00FAblica por medio de la socializaci\u00F3n pol\u00EDtica.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mientras que en “Estudios cr\u00EDticos sobre la pol\u00EDtica econ\u00F3mica en M\u00E9xico en el siglo XXI”, Yamil D\u00EDaz y Helios Padilla plantearon la importancia de estudiar los ciclos econ\u00F3micos en M\u00E9xico, esto para anticipar las pol\u00EDticas econ\u00F3micas. Sigui\u00F3 la ponencia de “El caso de los cr\u00EDmenes en Ciudad Ju\u00E1rez: un libro referente”, por el acad\u00E9mico aragon\u00E9s, Edgar Ernesto Li\u00F1\u00E1n, doctor en Literatura Iberoamericana por la UNAM, en ella habl\u00F3 sobre los cr\u00EDmenes y su origen en una sociedad permeada de violencia. La \u00FAltima ponencia, “Representaciones sociales de la participaci\u00F3n ciudadana en las elecciones en M\u00E9xico”, fue dada por Manuel Ram\u00EDrez Mercado, soci\u00F3logo de&nbsp; la FES Arag\u00F3n.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "IMG-20221101-WA0012.jpg"
+		},
+		{
+			"imagen": "IMG-20221101-WA0013.jpg"
+		},
+		{
+			"imagen": "IMG-20221101-WA0014.jpg"
+		},
+		{
+			"imagen": "IMG-20221101-WA0015.jpg"
+		},
+		{
+			"imagen": "IMG-20221101-WA0016.jpg"
+		}	]
+
+}

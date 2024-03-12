@@ -1,0 +1,35 @@
+{
+	"titulo": "SING 22: Los drones y la industria",
+	"titulo_normalizado": "sing-22-los-drones-y-la-industria",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería Industrial",
+			"seccion_normalizada": "industrial"
+		},
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor": "Tiar\u00E9 Rodr\u00EDguez",
+	"fecha": "28/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La FES Arag\u00F3n y la Divisi\u00F3n de las Ciencias Fisicomatem\u00E1ticas y de las Ingenier\u00EDas, a trav\u00E9s de la carrera de Ingenier\u00EDa Mec\u00E1nica, como parte de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, tuvieron la conferencia denominada “Drones y la industria 4.0”, la cual cont\u00F3 con la participaci\u00F3n de Daniela Contreras, jefa del laboratorio L1; Susana Campos y Daniel L\u00F3pez, ingenieras e ingeniero de Arag\u00F3n.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el evento el ponente, Jos\u00E9 Ra\u00FAl Riojas, ingeniero en sistemas, t\u00E9cnico superior en mecatr\u00F3nica y actualmente cursando la maestr\u00EDa en Inteligencia artificial, comparti\u00F3 su experiencia adquirida trabajando cerca de 10 a\u00F1os en el sector de los drones.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Revis\u00F3 la evoluci\u00F3n de la industria de los drones, los modelos existentes y caracter\u00EDsticas propias de cada uno de ellos. Estas herramientas son de gran ayuda en diversos sectores. Por ejemplo, en el \u00E1mbito de la construcci\u00F3n se usan para hacer fotogrametr\u00EDa, supliendo im\u00E1genes satelitales que no captan muchos detalles.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Desde su punto de vista, las y los ponentes opinan que la industria va a crecer, por lo tanto, las personas profesionistas pr\u00F3ximas a entrar a este \u00E1mbito, tanto en el rubro de la informaci\u00F3n, conectividad, programaci\u00F3n y dem\u00E1s, pueden ayudar a impulsar su desarrollo. El ponente Riojas visualiza nuevas posibilidades del uso de drones, facilitando as\u00ED las tareas propias de cada industria.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Drones1.gif"
+		},
+		{
+			"imagen": "Drones2.gif"
+		},
+		{
+			"imagen": "Drones3.gif"
+		},
+		{
+			"imagen": "Drones4.gif"
+		}	]
+
+}

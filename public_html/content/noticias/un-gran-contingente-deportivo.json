@@ -1,0 +1,14 @@
+{
+	"titulo": "Un gran contingente deportivo",
+	"titulo_normalizado": "un-gran-contingente-deportivo",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		}
+	],
+	"autor":"Daniela Reyes",
+	"fecha":"24/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El 24 de abril, en las canchas de Front\u00F3n Cerrado de Ciudad Universitaria, se llev\u00F3 a cabo la ceremonia de abanderamiento para el contingente puma que nos representar\u00E1 en la Universiada, Olimpiada y Paralimpiada nacionales, as\u00ED como en el Campeonato Juvenil 2019.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La alumna Mariana Palacio, de la Facultad de Econom\u00EDa y jugadora de Voleibol de sala, fue la encargada de dar el discurso para las y los 320 atletas que representar\u00E1n a la UNAM en estas competencias. Durante su participaci\u00F3n, expres\u00F3 que el deporte ayuda a entender que si fallamos, corregimos; si nos duele, aliviamos; si enfurecemos, nos calmamos. “El deporte nos ayuda a creer en nosotros mismos”, expres\u00F3.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte, el rector Enrique Graue coment\u00F3 que este tipo de eventos permiten a la comunidad universitaria estar mejor preparada en un futuro incierto. A su vez, Fernando Macedo, director de la FES Arag\u00F3n, dedic\u00F3 unas palabras de motivaci\u00F3n para las y los 19 estudiantes de nuestra Facultad; les dese\u00F3 mucho \u00E9xito y les invit\u00F3 a mostrar satisfacci\u00F3n con su desempe\u00F1o. <\/span><\/p>",
+	"imagenes":[{"imagen":"un-gran-contingente-deportivo-1.jpg"},{"imagen":"un-gran-contingente-deportivo-2.jpg"},{"imagen":"un-gran-contingente-deportivo-3.jpg"},{"imagen":"un-gran-contingente-deportivo-4.jpg"},{"imagen":"un-gran-contingente-deportivo-6.jpg"},{"imagen":"un-gran-contingente-deportivo-8.jpg"}]
+}

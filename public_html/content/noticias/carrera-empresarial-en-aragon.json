@@ -1,0 +1,27 @@
+{
+	"titulo": "Carrera empresarial en Arag\u00F3n",
+	"titulo_normalizado": "carrera-empresarial-en-aragon",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Eléctrica Electrónica",
+			"seccion_normalizada": "electrica-electronica"
+		}
+	],
+	"autor": "Cynthia V\u00E1zquez",
+	"fecha": "29/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5);\">Se llev\u00F3 a cabo la ponencia magistral “Carrera Empresarial” organizada por Carlos V\u00E9lez, socio fundador de Refratechnik M\u00E9xico y acad\u00E9mico de la carrera de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica; la cual cont\u00F3 con la participaci\u00F3n de Alexis Sampedro, Secretario Acad\u00E9mico; Maetzin Mojica, estudiante de octavo semestre y moderadora del evento; Jorge Romero, aragon\u00E9s y servidor social de Telecomunicaciones de M\u00E9xico (TELECOMM); Alejandro Flores y Carlos Cort\u00E9s alumnos de la carrera; y como invitado especial Juan Bernal, experto en negociaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5);\">Despu\u00E9s de las palabras inaugurales por parte de Mojica, Jorge Romero continu\u00F3 con el evento hablando acerca de su<\/span><span style=\"color: rgb(5, 5, 5); background-color: transparent;\"> servicio social; explic\u00F3 el proceso del tr\u00E1mite y los requisitos para efectuarlo, se refiri\u00F3 a su estancia en TELECOMM como una gran oportunidad para adquirir experiencia. Posteriormente, se dio paso a la presentaci\u00F3n del proyecto “Desarrollo de un instrumento electr\u00F3nico de un sistema aerop\u00F3nico para cultivos de pimiento morr\u00F3n controlado por Bluetooth que integra la tarjeta de desarrollo ESP32 usando material reciclado” desarrollado en el Centro Tecnol\u00F3gico Arag\u00F3n; a cargo de Alejandro Flores y Carlos Cort\u00E9s, quienes explicaron a detalle el desarrollo de su proyecto y las ventajas de emplear la aeropon\u00EDa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5); background-color: transparent;\">Acto seguido, Alexis Sampedro dirigi\u00F3 a los presentes un mensaje motivador donde mencion\u00F3 las estad\u00EDsticas de personas tituladas de la carrera, les record\u00F3 el nivel de excelencia de la UNAM&nbsp; frente al mundo con la finalidad de motivarlos a continuar estudiando y retribuir a la sociedad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5); background-color: transparent;\">Asimismo, V\u00E9lez retom\u00F3 la ponencia brindando a los asistentes algunos consejos que con base en su trayectoria como empresario ha logrado acumular. En el cl\u00EDmax del evento se hizo presente Juan Ber<\/span><span style=\"color: rgb(5, 5, 5);\">nal, experto en negociaci\u00F3n, quien comparti\u00F3 su gratitud por ser colega y aprendiz del l\u00EDder de negocios. El evento finaliz\u00F3 con una ronda de preguntas de parte del p\u00FAblico hacia los panelistas, adem\u00E1s de la entrega de algunos obsequios para los participantes.&nbsp;&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "carrera-empresarial-1.jpg"
+		},
+		{
+			"imagen": "carrera-empresarial-2.jpg"
+		},
+		{
+			"imagen": "carrera-empresarial-3.jpg"
+		},
+		{
+			"imagen": "carrera-empresarial-4.jpg"
+		}	]
+
+}

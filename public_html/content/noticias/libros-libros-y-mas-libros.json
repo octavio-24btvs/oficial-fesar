@@ -1,0 +1,14 @@
+{
+	"titulo": "Libros, libros y m\u00E1s libros",
+	"titulo_normalizado": "libros-libros-y-mas-libros",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		}
+	],
+	"autor":"Daniela D\u00EDaz",
+	"fecha":"23/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Diferentes textos –novelas, cuentos, poes\u00EDa y hasta historietas de superh\u00E9roes– con diversas tem\u00E1ticas y autores, entre ellos Edgar Allan Poe, Federico Gamboa, Mario Vargas Llosa, Isaac Asimov y Jean Paul Sartre, entre otros, estuvieron disponibles en la primera Subasta de Libros de la FES Arag\u00F3n.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con el apoyo del equipo de subasta de la Plaza de la Santa Veracruz, se llev\u00F3 a cabo el evento en la Explanada Central. Todas las subastas iniciaron desde cero pesos y los precios de las pujas oscilaron entre 15 –el que se vendi\u00F3 m\u00E1s barato– y 240 pesos –el costo m\u00E1s elevado–. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En esta primera edici\u00F3n, la participaci\u00F3n de la comunidad universitaria fue muy buena, pues se ofertaron 400 libros, aproximadamente. <\/span><\/p>",
+	"imagenes":[{"imagen":"libros-libros-y-mas-libros-1.jpg"},{"imagen":"libros-libros-y-mas-libros-2.jpg"},{"imagen":"libros-libros-y-mas-libros-3.jpg"},{"imagen":"libros-libros-y-mas-libros-4.jpg"},{"imagen":"libros-libros-y-mas-libros-5.jpg"},{"imagen":"libros-libros-y-mas-libros-6.jpg"},{"imagen":"libros-libros-y-mas-libros-7.jpg"},{"imagen":"libros-libros-y-mas-libros-8.jpg"},{"imagen":"libros-libros-y-mas-libros-9.jpg"}]
+}

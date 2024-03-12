@@ -1,0 +1,36 @@
+{
+	"titulo": "Feria SACUDE 2023",
+	"titulo_normalizado": "feria-sacude-2023",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Leslie Mart\u00EDnez",
+	"fecha": "23/03/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se llev\u00F3 a cabo la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Feria Salud, Cultura y Deporte (SACUDE) 2023 <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">en el Foro M\u00F3vil de la FES Arag\u00F3n y las \u00E1reas a su alrededor; en ella participaron instituciones del municipio de Nezahualc\u00F3yotl y adem\u00E1s cont\u00F3 con la presencia de alumnas, alumnos y docentes de la FES Iztacala.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las actividades, conferencias y concursos se realizaron con la intenci\u00F3n de promover la salud f\u00EDsica y mental del alumnado, por lo que fueron desarrollados en <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">stands<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> donde se abordaron temas como la sexualidad y la erradicaci\u00F3n de la violencia de g\u00E9nero.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los participantes fueron Mexfam, organizaci\u00F3n enfocada en mejorar la calidad de informaci\u00F3n y educaci\u00F3n sexual de las personas que viven en zonas rurales o urbano-marginadas; Be the Match, instituci\u00F3n que se dedica a brindar ayuda a pacientes con enfermedades en la sangre; la Fundaci\u00F3n de Investigaciones Sociales (FISAC), la Facultad de Medicina UNAM, y la FES Iztacala; adem\u00E1s de la marca de preservativos FullSen, el DIF Nezahualc\u00F3yotl, el Centro de Integraci\u00F3n Juvenil Unidad Gustavo A. Madero, la Defensor\u00EDa Universitaria y el Instituto Mexicano del Seguro Social (IMSS).<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Del mismo modo, se llevaron a cabo conferencias como \"La pr\u00E1ctica musical como estilo de vida saludable: efecto Mozart\", esta cont\u00F3 con las ponencias de los profesores Salvador Alcal\u00E1 y Josu\u00E9 Urquiza, en la cual hablaron sobre el impacto de la m\u00FAsica en el desarrollo de una persona, as\u00ED como la musicoterapia y las formas de emplearla.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la Feria tambi\u00E9n se realizaron actividades deportivas y juegos como ajedrez gigante, circuitos, competencias de jalar de cuerda, talleres de origami y defensa personal.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La salud f\u00EDsica y mental es importante para el pleno desarrollo de las personas; por ello en la FES Arag\u00F3n se realizan este tipo de actividades para procurar que la comunidad aragonesa tenga a su alcance toda la informaci\u00F3n necesaria para cumplir esta meta.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "sacude-1.jpg"
+		},
+		{
+			"imagen": "sacude-2.jpg"
+		},
+		{
+			"imagen": "sacude-3.jpg"
+		},
+		{
+			"imagen": "sacude-4.jpg"
+		},
+		{
+			"imagen": "sacude-5.jpg"
+		},
+		{
+			"imagen": "sacude-6.jpg"
+		},
+		{
+			"imagen": "sacude-7.jpg"
+		}	]
+
+}

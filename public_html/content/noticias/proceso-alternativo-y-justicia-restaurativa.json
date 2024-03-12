@@ -1,0 +1,34 @@
+{
+	"titulo": "Proceso alternativo y Justicia restaurativa",
+	"titulo_normalizado": "proceso-alternativo-y-justicia-restaurativa",
+	"secciones": [
+		{
+			"seccion": "Servicios a la Comunidad",
+			"seccion_normalizada": "servicios-a-la-comunidad"
+		},
+		{
+			"seccion": "UNAM",
+			"seccion_normalizada": "unam"
+		}
+	],
+	"autor": "Kenia Brodman",
+	"fecha": "25/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">El departamento de Servicios a la Comunidad FES Arag\u00F3n llev\u00F3 a cabo el conversatorio “<\/span><span style=\"color: rgb(60, 64, 67); background-color: transparent;\">Procedimientos alternativos y la justicia restaurativa<\/span><span style=\"color: rgb(60, 64, 67);\">” dentro de la instituci\u00F3n educativa, con la participaci\u00F3n de Andrea Valdivia y Aldo Alejandro Mej\u00EDa, ambos integrantes de la Defensor\u00EDa de los Derechos Universitarios, UNAM; bajo la moderaci\u00F3n del profesor aragon\u00E9s Roberto Miranda y la jefa del departamento Berenice Cano.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">Como primera instancia, Mej\u00EDa explic\u00F3 que la justicia restaurativa es un “proceso sanador” cuyo objetivo es reparar el da\u00F1o causado a la v\u00EDctima, en cambio la justicia retributiva castiga al involucrado y responde a qu\u00E9 norma se infringi\u00F3, qui\u00E9n es la persona culpable y cu\u00E1l es el castigo. La primera de ellas se puede aplicar en el \u00E1mbito penal, civil, laboral, violencia de g\u00E9nero y derechos universitarios, por mencionar algunos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">En esa v\u00EDa, aprobado por el Consejo Universitario en su Sesi\u00F3n Ordinaria del 8 de septiembre de 2021, se establece que en casos de violencia de g\u00E9nero, la Defensor\u00EDa es la \u00FAnica instancia con la facultad de desarrollar un procedimiento alternativo, el cual debe implementarse con enfoque de justicia restaurativa, la cual buscar\u00E1 el aprendizaje para evitar la repetici\u00F3n de la conducta.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">Valdivia abord\u00F3 los procedimientos alternativos, los cuales se basan en los principios de voluntariedad, confidencialidad, buena fe y flexibilidad. Dentro de estos surgen dos alternativas, si hay condiciones o no para el di\u00E1logo entre el agresor y la v\u00EDctima; mismo que puede ser a trav\u00E9s de videollamadas, cartas, audios o de manera presencial.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "justicia1.gif"
+		},
+		{
+			"imagen": "justicia2.gif"
+		},
+		{
+			"imagen": "justicia3.gif"
+		},
+		{
+			"imagen": "Justicia4.gif"
+		},
+		{
+			"imagen": "justicia5.gif"
+		}	]
+
+}

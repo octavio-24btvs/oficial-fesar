@@ -1,0 +1,259 @@
+{
+	"id": 58,
+	"titulo": "Deportivas",
+	"icono": "icon-actividades-deportivas",
+	"noticias": [
+		{
+			"titulo":"25N: Body Combat por y para todas",
+			"titulo_normalizado":"25n-body-combat-por-y-para-todas",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "BODYCOMBAT-1.jpg",
+			"fecha":"30/11/22"
+		},
+		{
+			"titulo":"Lupita “Dinamita” Torres orgullo de Arag\u00F3n",
+			"titulo_normalizado":"lupita----dinamita----torres-orgullo-de-aragon",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Box-1.gif",
+			"fecha":"30/08/23"
+		},
+		{
+			"titulo":"Torneo del pavo 2022",
+			"titulo_normalizado":"torneo-del-pavo-2022",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Pavo1.gif",
+			"fecha":"28/11/22"
+		},
+		{
+			"titulo":"Primera carrera a campo traviesa en la Facultad",
+			"titulo_normalizado":"primera-carrera-a-campo-traviesa-en-la-facultad",
+			"autor":"Marisol Gonz\u00E1lez",
+			"imagen": "Img-1.jpg",
+			"fecha":"28/09/18"
+		},
+		{
+			"titulo":"Encuentros Deportivos 5-F",
+			"titulo_normalizado":"encuentros-deportivos-5-f",
+			"autor":"Alejandro Trujillo",
+			"imagen": "5-f.gif",
+			"fecha":"28/03/23"
+		},
+		{
+			"titulo":"As\u00ED fue el Reto 45",
+			"titulo_normalizado":"asi-fue-el-reto-45",
+			"autor":"Alberto Ochoa",
+			"imagen": "Reto-45-1.gif",
+			"fecha":"27/02/21"
+		},
+		{
+			"titulo":"Con una carrera, Arag\u00F3n se compromete con la salud f\u00EDsica",
+			"titulo_normalizado":"con-una-carrera-aragon-se-compromete-con-la-salud-fisica",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "con-una-carrera-aragon-se-compromete-con-la-salud-fisica-1.jpg",
+			"fecha":"26/11/22"
+		},
+		{
+			"titulo":"Feroz partido en la final femenil",
+			"titulo_normalizado":"feroz-partido-en-la-final-femenil",
+			"autor":"Erik Pliego",
+			"imagen": "feroz-partid-en-la-final-femenil-1.jpg",
+			"fecha":"26/11/19"
+		},
+		{
+			"titulo":"Hasta la meta",
+			"titulo_normalizado":"hasta-la-meta",
+			"autor":"Adri\u00E1n Reyes",
+			"imagen": "hasta-la-meta-1.jpg",
+			"fecha":"26/09/19"
+		},
+		{
+			"titulo":"Torneo de Dodgeball",
+			"titulo_normalizado":"torneo-de-dodgeball",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Quemados4.gif",
+			"fecha":"26/04/23"
+		},
+		{
+			"titulo":"Orgullos aragoneses: Charla deportiva con exalumnado",
+			"titulo_normalizado":"orgullos-aragoneses-charla-deportiva-con-exalumnado",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "Charlas.gif",
+			"fecha":"25/06/21"
+		},
+		{
+			"titulo":"Un gran contingente deportivo",
+			"titulo_normalizado":"un-gran-contingente-deportivo",
+			"autor":"Daniela Reyes",
+			"imagen": "un-gran-contingente-deportivo-1.jpg",
+			"fecha":"24/04/19"
+		},
+		{
+			"titulo":"Carrera a Campo Traviesa 2023",
+			"titulo_normalizado":"carrera-a-campo-traviesa-2023",
+			"autor":"Oscar Rafael Cornejo Ruiz",
+			"imagen": "Campo1.gif",
+			"fecha":"23/09/23"
+		},
+		{
+			"titulo":"Regresan las competencias deportivas a las FES",
+			"titulo_normalizado":"regresan-las-competencias-deportivas-a-las-fes",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "regresan-las-competencias-deportivas-a-las-fes-1.jpg",
+			"fecha":"23/08/22"
+		},
+		{
+			"titulo":"Atleta aragonesa destacada a nivel profesional",
+			"titulo_normalizado":"atleta-aragonesa-destacada-a-nivel-profesional",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "atleta-aragonesa-destacada-a-nivel-profesional-1.jpg",
+			"fecha":"23/05/19"
+		},
+		{
+			"titulo":"Aragoneses destacan en los 5-F",
+			"titulo_normalizado":"aragoneses-destacan-en-los-5-f",
+			"autor":"Beatriz Calva",
+			"imagen": "deportivos-1.jpg",
+			"fecha":"21/04/23"
+		},
+		{
+			"titulo":"La FES Arag\u00F3n celebra el d\u00EDa internacional del deporte universitario",
+			"titulo_normalizado":"la-fes-aragon-celebra-el-dia-internacional-del-deporte-universitario",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Caminata.gif",
+			"fecha":"20/09/23"
+		},
+		{
+			"titulo":"Reconocen a participantes del Curso de Verano FES Arag\u00F3n 2022",
+			"titulo_normalizado":"reconocen-a-participantes-del-curso-de-verano-fes-aragon-2022",
+			"autor":"Diego Flores",
+			"imagen": "reconocen-a-participantes-del-curso-de-verano-fes-aragon-2022-1.jpg",
+			"fecha":"20/08/22"
+		},
+		{
+			"titulo":"Copa de voleibol Arag\u00F3n",
+			"titulo_normalizado":"copa-de-voleibol-aragon",
+			"autor":"Brenda Alaniz",
+			"imagen": "copa-de-voleibol-aragon-1.jpg",
+			"fecha":"18/06/22"
+		},
+		{
+			"titulo":"Apertura del futbol r\u00E1pido",
+			"titulo_normalizado":"apertura-del-futbol-rapido",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "Apertura.gif",
+			"fecha":"17/08/23"
+		},
+		{
+			"titulo":"Torneo de la amistad",
+			"titulo_normalizado":"torneo-de-la-amistad",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Torneo1.gif",
+			"fecha":"15/02/23"
+		},
+		{
+			"titulo":"Deporteando: Celebraci\u00F3n del D\u00EDa del charro",
+			"titulo_normalizado":"deporteando-celebracion-del-dia-del-charro",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "Charro1.gif",
+			"fecha":"14/09/21"
+		},
+		{
+			"titulo":"Deporteando FES Arag\u00F3n",
+			"titulo_normalizado":"deporteando-fes-aragon",
+			"autor":"Francisco Olivares",
+			"imagen": "Deporteando1.gif",
+			"fecha":"14/05/21"
+		},
+		{
+			"titulo":"Equipo de flag gana en Juegos Universitarios",
+			"titulo_normalizado":"equipo-de-flag-gana-en-juegos-universitarios",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "equipo-de-flag-gana-en-juegos-universitarios-1.jpg",
+			"fecha":"13/12/21"
+		},
+		{
+			"titulo":"Cinco kil\u00F3metros de disciplina",
+			"titulo_normalizado":"cinco-kilometros-de-disciplina",
+			"autor":"Erik Pliego",
+			"imagen": "Cinco_kilómetros_de_disciplina_1.jpg",
+			"fecha":"13/12/19"
+		},
+		{
+			"titulo":"Encuentro de deportistas con Joaqu\u00EDn Beltr\u00E1n",
+			"titulo_normalizado":"encuentro-de-deportistas-con-joaquin-beltran",
+			"autor":"Laura Garc\u00EDa",
+			"imagen": "encuentro-de-deportistas-con-joaquin-beltran-1.jpg",
+			"fecha":"13/11/18"
+		},
+		{
+			"titulo":"Verano de aprendizaje en la FES Arag\u00F3n",
+			"titulo_normalizado":"verano-de-aprendizaje-en-la-fes-aragon",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "Verano2.gif",
+			"fecha":"12/08/23"
+		},
+		{
+			"titulo":"8M: Primera taekwondo\u00EDna galardonada",
+			"titulo_normalizado":"8m-primera-taekwondoina-galardonada",
+			"autor":"Valeria Hern\u00E1ndez",
+			"imagen": "Taekwando-1.gif",
+			"fecha":"11/03/21"
+		},
+		{
+			"titulo":"Lo mejor del deporte aragon\u00E9s",
+			"titulo_normalizado":"lo-mejor-del-deporte-aragones",
+			"autor":"Erik Pliego",
+			"imagen": "Deporte-FES-2.gif",
+			"fecha":"10/12/20"
+		},
+		{
+			"titulo":"Reconocimiento a la disciplina y perseverancia",
+			"titulo_normalizado":"reconocimiento-a-la-disciplina-y-perseverancia",
+			"autor":"Erik Pliego",
+			"imagen": "Reconocimiento_a_la_disciplina_y_perseverancia_1.jpg",
+			"fecha":"06/12/19"
+		},
+		{
+			"titulo":"Clase de zumba con causa",
+			"titulo_normalizado":"clase-de-zumba-con-causa",
+			"autor":"Yutsil Hern\u00E1ndez",
+			"imagen": "clase-de-zumba-con-causa-1.jpg",
+			"fecha":"06/11/18"
+		},
+		{
+			"titulo":"Fomentar el deporte y la competencia en 5-F",
+			"titulo_normalizado":"fomentar-el-deporte-y-la-competencia-en-5-f",
+			"autor":"Carmen Mel\u00E9ndez y Edith Granados",
+			"imagen": "fomentar-el-deporte-y-la-competencia-en-5-f-1.jpg",
+			"fecha":"06/04/19"
+		},
+		{
+			"titulo":"Carrera Extrema de la FES Arag\u00F3n",
+			"titulo_normalizado":"carrera-extrema-de-la-fes-aragon",
+			"autor":"Luis Rodr\u00EDguez",
+			"imagen": "carrera-extrema-de-la-fes-aragon-1.jpg",
+			"fecha":"06/04/19"
+		},
+		{
+			"titulo":"Director felicita a deportistas",
+			"titulo_normalizado":"director-felicita-a-deportistas",
+			"autor":"Alejandro Frias",
+			"imagen": "director-felicita-a-deportistas-3.jpg",
+			"fecha":"04/04/19"
+		},
+		{
+			"titulo":"Mitos y realidades del ejercicio",
+			"titulo_normalizado":"mitos-y-realidades-del-ejercicio",
+			"autor":"Kenia Brodman",
+			"imagen": "Deporteando1.gif",
+			"fecha":"04/02/22"
+		},
+		{
+			"titulo":"Juntas del CONDDE en Arag\u00F3n",
+			"titulo_normalizado":"juntas-del-condde-en-aragon",
+			"autor":"Alison Vargas",
+			"imagen": "juntas-del-CONDDE-1.png",
+			"fecha":"03/12/18"
+		}
+	]
+}

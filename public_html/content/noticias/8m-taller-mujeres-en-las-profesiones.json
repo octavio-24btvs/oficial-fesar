@@ -1,0 +1,41 @@
+{
+	"titulo": "8M: Taller Mujeres en las profesiones",
+	"titulo_normalizado": "8m-taller-mujeres-en-las-profesiones",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		},
+		{
+			"seccion": "Ingeniería Eléctrica Electrónica",
+			"seccion_normalizada": "electrica-electronica"
+		},
+		{
+			"seccion": "Pedagogía",
+			"seccion_normalizada": "pedagogia"
+		}
+	],
+	"autor": "Johana Mart\u00EDnez",
+	"fecha": "11/03/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con motivo del D\u00EDa Internacional de la Mujer, la carrera de Ingenier\u00EDa El\u00E9ctrica-electr\u00F3nica realiz\u00F3 el taller “Mujeres en las profesiones”, impartido por Susana Corona, pedagoga y docente en diversas ingenier\u00EDas de la Facultad.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El evento se centr\u00F3 en la representaci\u00F3n de la mujer en el \u00E1mbito profesional, pues anteriormente ten\u00EDan que buscar lugares concretos donde pudieran desempe\u00F1arse, es decir, las “profesiones para mujeres”; lo cual ha cambiado en nuestros d\u00EDas. Asimismo, destac\u00F3 que la carrera de formaci\u00F3n docente tiene la mayor participaci\u00F3n de mujeres profesionistas, mientras que las ingenier\u00EDas de veh\u00EDculos de motor o barcos tienen solo el 1 %. “Estamos rompiendo el paradigma porque somos mujeres en las profesiones”, mencion\u00F3 Corona como respuesta a este cambio generacional.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En relaci\u00F3n con eso, present\u00F3 dos videos cuyo objetivo fue recalcar la lucha de las mujeres a lo largo de la historia, as\u00ED como la libertad de profesi\u00F3n y lo significativo de tener un proyecto de vida.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, remarc\u00F3 la importancia de cuestionarse \u00BFPor qu\u00E9 estudiar una profesi\u00F3n?, \u00BFPara qu\u00E9 trabajar?, \u00BFQu\u00E9 piensas de ti?, \u00BFCu\u00E1les son tus metas?, pues la mayor\u00EDa de las veces la formaci\u00F3n acad\u00E9mica se sigue porque es algo que se tiene que hacer, y no por gusto o como algo consciente. <\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Taller1.gif"
+		},
+		{
+			"imagen": "Taller2.gif"
+		},
+		{
+			"imagen": "Taller3.gif"
+		},
+		{
+			"imagen": "Taller4.gif"
+		},
+		{
+			"imagen": "Taller5.gif"
+		},
+		{
+			"imagen": "Taller6.gif"
+		}	]
+
+}

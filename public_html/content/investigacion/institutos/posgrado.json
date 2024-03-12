@@ -1,0 +1,33 @@
+{
+    "carrera": "CIMA Posgrado", 
+    "icono": "icon-posgrados", 
+    "investigadores": [
+        {
+            "nombre": "Antonio Carrillo Avelar", 
+            "nombre_normalizado": "antonio-carrillo-avelar"
+        },
+        {
+            "nombre": "Elías Polanco Braga", 
+            "nombre_normalizado": "elias-polanco-braga",
+            "imagen": true
+        }, 
+        {
+            "nombre": "Emilio Aguilar Rodríguez", 
+            "nombre_normalizado": "emilio-aguilar-rodriguez"
+        },
+        {
+            "nombre": "José Luis Martínez Marca", 
+            "nombre_normalizado": "jose-luis-martinez-marca"
+        }, 
+        {
+            "nombre": "Xuedong Liu Sun", 
+            "nombre_normalizado": "xuedong-liu-sun",
+            "imagen": true
+        },
+        {
+            "nombre": "Yamil Omar Jorge Díaz Bustos", 
+            "nombre_normalizado": "yamil-omar-jorge-diaz-bustos"
+        } 
+        
+    ]
+}

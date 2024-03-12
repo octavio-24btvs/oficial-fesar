@@ -1,0 +1,34 @@
+{
+	"titulo": "Laboratorios de calidad en la FES Arag\u00F3n",
+	"titulo_normalizado": "laboratorios-de-calidad-en-la-fes-aragon",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "23/03/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El director de la Facultad de Estudios Superiores Arag\u00F3n, Fernando Macedo, recibi\u00F3, en el auditorio de la DUACyD, la certificaci\u00F3n ISO 9001:2015 para los laboratorios L-1, L-2, L-3, L-4 y el Centro de Apoyo Extracurricular. Con este documento se avala el nivel de excelencia de estas \u00E1reas en cuanto a la satisfacci\u00F3n y confianza de las personas usuarias; protecci\u00F3n y cuidado del medio ambiente; y calidad tanto de sus productos como de sus servicios.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la ceremonia estuvieron presentes Flor M\u00F3nica Guti\u00E9rrez, coordinadora de Gesti\u00F3n para la Calidad de la Investigaci\u00F3n de la UNAM; Gustavo Cuahut\u00E9moc Ruiz, responsable del Sistema de Gesti\u00F3n de la Calidad FESAR; Roberto Vargas, director de Certificaci\u00F3n Mexicana S.A.; y Daviel Beltr\u00E1n, jefe de Secci\u00F3n Acad\u00E9mica de la Divisi\u00F3n de las Ciencias F\u00EDsico-Matem\u00E1ticas y de las Ingenier\u00EDas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En su participaci\u00F3n, Guti\u00E9rrez mencion\u00F3 los laboratorios aragoneses exaltando con ello el nivel educativo de las instalaciones y el personal; adem\u00E1s elogi\u00F3 la labor de nuestra comunidad por continuar las actividades durante la pandemia. Por su parte, Vargas felicit\u00F3 el trabajo en equipo empleado en Arag\u00F3n para convertirse en una instituci\u00F3n ejemplar de formaci\u00F3n estudiantil.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, Macedo agradeci\u00F3 los comentarios de ambos personajes, as\u00ED como el esfuerzo empleado por quienes hicieron que este logro fuera posible, sorteando para ellos retos inesperados. Posteriormente, se uni\u00F3 al p\u00FAblico con el fin de celebrar una Goya y concluir la ceremonia.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Certificación1.gif"
+		},
+		{
+			"imagen": "Certificación2.gif"
+		},
+		{
+			"imagen": "Certificación3.gif"
+		},
+		{
+			"imagen": "Certificación4.gif"
+		},
+		{
+			"imagen": "Certificación5.gif"
+		}	]
+
+}

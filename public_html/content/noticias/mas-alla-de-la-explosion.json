@@ -1,0 +1,34 @@
+{
+	"titulo": "M\u00E1s all\u00E1 de la explosi\u00F3n",
+	"titulo_normalizado": "mas-alla-de-la-explosion",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería Civil",
+			"seccion_normalizada": "civil"
+		}
+	],
+	"autor": "Jorge Narv\u00E1ez",
+	"fecha": "18/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con motivo de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se llev\u00F3 a cabo la conferencia “Mec\u00E1nica de la fractura en rocas por explosivos y m\u00E9todos de estimaci\u00F3n de da\u00F1os” en el auditorio Hermila Galindo A1 de la Facultad de Estudios Superiores Arag\u00F3n, cont\u00F3 con la presencia de Jes\u00FAs S\u00E1nchez, profesor de esta Facultad quien dio la bienvenida a las y los asistentes.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El jefe del Laboratorio L4 de Ingenier\u00EDa Civil, Miguel Hern\u00E1ndez ofreci\u00F3 un breve resumen sobre la trayectoria del ponente, Hazel Fernando Gonz\u00E1lez, especialista del Departamento de Mec\u00E1nica de Rocas de la Comisi\u00F3n Federal de Electricidad (CFE), quien comparti\u00F3 su conocimiento en el tema.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Gonz\u00E1lez expuso ampliamente las complejidades de las excavaciones con explosivos. En su charla, destac\u00F3 la inmensa energ\u00EDa liberada durante las explosiones y la forma en que estas pueden afectar a las rocas, causando diferentes fracturas y fisuras.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tambi\u00E9n resalt\u00F3 las t\u00E9cnicas correctas e incorrectas de llevar a cabo detonaciones, junto con los riesgos inherentes que deben ser considerados. Adem\u00E1s, explor\u00F3 los diversos procesos de detonaci\u00F3n y la amplia variedad de explosivos disponibles en la industria.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "explosiones-1.gif"
+		},
+		{
+			"imagen": "explosiones-2.gif"
+		},
+		{
+			"imagen": "explosiones-3.gif"
+		},
+		{
+			"imagen": "explosiones-4.gif"
+		},
+		{
+			"imagen": "explosiones-5.gif"
+		}	]
+
+}

@@ -1,0 +1,28 @@
+{
+	"titulo": "Noche de trova en Arag\u00F3n",
+	"titulo_normalizado": "noche-de-trova-en-aragon",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Leslie Mart\u00EDnez",
+	"fecha": "17/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La FES Arag\u00F3n recibi\u00F3 al grupo de trova m\u00E1s querido de la Facultad, conformado por Josu\u00E9 Urquiza, Ricardo Escamilla, Jos\u00E9 \u00C1ngel, Marco Antonio Aguilar y Jacobo; El sensacional Arag\u00F3n se present\u00F3 a las seis de la tarde en el Pasillo Cultural.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La agrupaci\u00F3n inici\u00F3 con un par de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">covers<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> de canciones populares del g\u00E9nero, entre los cuales se destacan autores como Pedro Guerra y Silvio Rodr\u00EDguez. Del mismo modo, los vocalistas principales: Urquiza y Escamilla presentaron obras de su autor\u00EDa como <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Qu\u00E9date <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tu luz<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, dedicadas con amor a sus familias, quienes estuvieron presentes en el evento.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En palabras de Urquiza, este tipo de eventos ayudan a la difusi\u00F3n cultural y es importante que la comunidad aragonesa se atreva a darse el espacio y la oportunidad de explorar otro tipo de alternativas musicales, distintas a las del mercado, pues ya todo es electr\u00F3nico o creado con computadora.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la actualidad, Urquiza se dedica a impartir un taller de orquesta de guitarra; sin embargo, la agrupaci\u00F3n ya lleva diez a\u00F1os siendo parte de la FES Arag\u00F3n, antes como estudiantes y ahora como profesores.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La principal raz\u00F3n detr\u00E1s de su apoyo y constantes presentaciones dentro de las instalaciones es que consideran a la m\u00FAsica de trova como perdurable y quieren invitar a la comunidad a disfrutar junto con ellos de sus creaciones.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "trova-1.jpg"
+		},
+		{
+			"imagen": "trova-2.jpg"
+		},
+		{
+			"imagen": "trova-3.jpg"
+		}	]
+
+}

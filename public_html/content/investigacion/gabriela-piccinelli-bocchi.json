@@ -1,0 +1,18 @@
+{
+    "nombre": "Gabriela Piccinelli Bocchi", 
+    "grado_academico": "Doctora", 
+     "correo": [ "itzamna@unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Ingeniería Física. Universidad Autónoma Metropolitana.", 
+        "Maestría en Ciencias (Física). Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ciencias (Física). Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Estudios ambientales.", 
+        "Cosmología.", 
+        "Campos Magnéticos."
+    ], 
+    "investigaciones": [
+        "Comportamiento de la materia en condiciones extremas en el universo."
+    ]
+}

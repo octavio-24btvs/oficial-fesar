@@ -1,0 +1,163 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfiles",
+        "Plan de estudios",
+        "Titulaci\u00F3n",
+        "Acreditaci\u00F3n",
+        "Contacto"
+    ],
+    "titulo": "Ingenier\u00EDa Mec\u00E1nica",
+    "icono": "icono-secciones icon-ingenieria-mecanica",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de Bienvenida</h2><p>La Licenciatura de Ingenier\u00EDa Mec\u00E1nica tiene un papel sumamente importante en la satisfacci\u00F3n de las necesidades de la sociedad, lo que hace de ella un detonante en la transformaci\u00F3n y evoluci\u00F3n de la misma a lo largo de la historia. Por ello, la comunidad profesional en Ingeniería busca constantemente la transformaci\u00F3n de su entorno mediante acciones sobre la naturaleza, en funci\u00F3n de su conocimiento, aptitudes y actitudes, a trav\u00E9s de un enfoque sustentable.<\/p><p>La Carrera de Ingenier\u00EDa Mec\u00E1nica en la FES Arag\u00F3n comenz\u00F3 su historia en el a\u00F1o 2008. A lo largo de estos a\u00F1os el esfuerzo de nuestra comunidad docente y de los servicios institucionales han permitido formar de manera integral a m\u00E1s de 10 generaciones de profesionistas en esta disciplina.<\/p>",
+            "imagenes": [
+                {
+                    "imagen": "mecanica/carrusel/certificado-de-acreditacion-2019-2024.jpg", 
+                    "tipo_hipervinculo": "pdf", 
+                    "hipervinculo": "mecanica/constancia-de-acreditacion.pdf"
+                },
+                {
+                    "imagen": "mecanica/carrusel/iso-9001-2015.jpg",
+                    "tipo_hipervinculo": "pdf",
+                    "hipervinculo": "mecanica/certificacion-lab.pdf"
+                },
+                {
+                    "imagen": "mecanica/carrusel/taller-de-integracion-de-conocimientos.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "mecanica/carrusel/img-completa/taller-de-integracion-de-conocimientos.jpg"
+                },
+                {
+                    "imagen": "mecanica/carrusel/rankin-del-universal.jpg",
+                    "tipo_hipervinculo": "link",
+                    "hipervinculo": "https://interactivo.eluniversal.com.mx/2019/mejores-universidades/?fbclid=IwAR34YEQ2gegenYoeaJEkau8f_Wd9MQcKVW7hcgS0wsComxXs3QRCTW4jxws#page/62"
+                },
+                {
+                    "imagen": "mecanica/carrusel/tania-maria-robles-hernandez.jpg",
+                    "tipo_hipervinculo": "link",
+                    "hipervinculo": "http://www.unamglobal.unam.mx/?p=52555"
+                },
+                {
+                    "imagen": "mecanica/carrusel/mision-a-marte.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "mecanica/carrusel/img-completa/mision-a-marte.jpg"
+                },
+                {
+                    "imagen": "mecanica/carrusel/estudiantes-de-la-fes-aragon-ganan-torneo-de-robotica.jpg",
+                    "tipo_hipervinculo": "link",
+                    "hipervinculo": "http://www.gaceta.unam.mx/estudiantes-de-la-fes-aragon-ganan-en-torneo-de-robotica/"
+                },
+                {
+                    "imagen": "mecanica/carrusel/torneo-robotica.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "mecanica/carrusel/img-completa/torneo-robotica.jpg"
+                }
+                
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row mb-3\"><div class=\"col-12\"><h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><div class=\"row galeria justify-content-center align-items-center\"><div class=\"col-12 col-lg-6\"><div class=\"embed-responsive embed-responsive-16by9\" style=\"border-radius: 15px;\"> <iframe class=\"embed-responsive-item\" src=\"https:\/\/www.youtube.com\/embed\/_qbS0cHL2kM\" frameborder=\"0\" allowfullscreen><\/iframe><\/div><\/div><div class=\"col-12 col-lg-4\"><button type=\"button\" class=\"btn boton-registro btn-group-sm\" data-toggle=\"modal\" data-target=\"#modalobjetivo\">Objetivo</button><div class=\"modal fade\" id=\"modalobjetivo\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Objetivo</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>El objetivo de la Licenciatura de Ingenier\u00EDa Mec\u00E1nica es formar profesionistas de alto nivel, capaces de incrementar la productividad, usando como herramienta la integraci\u00F3n de tecnolog\u00EDa a los medios productivos. Lo anterior mediante el dise\u00F1o, construcci\u00F3n, selecci\u00F3n, instalaci\u00F3n, operaci\u00F3n y mantenimiento de equipos y sistemas mec\u00E1nicos. Con ello se busca el mejor aprovechamiento de diversos tipos de energ\u00EDa, basado en el conocimiento de las propiedades de los materiales y de las necesidades sociales. Además, se busca que nuestra comunidad profesional sea capaz de administrar adecuadamente los recursos existentes e innovar y desarrollar nuevas tecnolog\u00EDas.<\/p></div></div></div></div><br/><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalMision\">Misi\u00F3n</button><div class=\"modal fade\" id=\"modalMision\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Misi\u00F3n</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>Formar integralmente profesionales en el \u00E1rea de la Ingenier\u00CDa Mec\u00E1nica, acordes con las necesidades, principios y valores de la sociedad y con un compromiso con el desarrollo tecnol\u00F3gico sustentable del pa\u00CDs.</p></div></div></div></div><br><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalVision\">Visi\u00F3n</button><div class=\"modal fade\" id=\"modalVision\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Visi\u00F3n</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>La Licenciatura en Ingenier\u00CDa Mec\u00E1nica ser\u00E1 un referente de excelencia en la formaci\u00F3n de una comunidad profesional competitiva a nivel internacional, comprometida con el desarrollo del pa\u00CDs y de la sociedad, y con un enfoque de sustentabilidad y respeto al medio ambiente.</p></div></div></div></div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"pb-4 ml-3\">Perfiles (Plan 2008)<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Perfil de ingreso",
+                    "texto": "<p>La comunidad aspirante deber\u00E1 contar con:</p> <ul><li>conocimientos s\u00F3lidos de f\u00CDsica, qu\u00CDmica y matem\u00E1ticas;<\/li><li>aptitud para detectar, definir y aplicar el razonamiento cient\u00CDfico al estudio y la soluci\u00F3n de problemas pr\u00E1cticos, en el campo de la f\u00CDsica y en especial de la mec\u00E1nica;<\/li><li>capacidad para dirigir el trabajo en equipo;<\/li><li>habilidad en el manejo de diferentes f\u00F3rmulas y lenguajes de computaci\u00F3n;<\/li><li>inventiva y creatividad;<\/li><li>actitud responsable, positiva y emprendedora, a fin de realizar con seguridad y confianza sus labores;<\/li><li>lectura y comprensi\u00F3n del idioma inglés.<\/li><\/ul>"
+                },
+                {
+                    "titulo": "Perfil de egreso",
+                    "texto": "<p>La comunidad estudiantil de la carrera de Ingenier\u00CDa Mec\u00E1nica tendr\u00E1 conocimientos de ciencias exactas, administrativas y de la ingenier\u00CDa para desarrollarse en las \u00E1reas de dise\u00F1o de sistemas, dispositivos electromec\u00E1nicos, selecci\u00F3n y an\u00E1lisis de fallas en los materiales, procesos térmicos y de fluidos, as\u00CD como la manufactura de maquinaria industrial. Esta formaci\u00F3n le permitir\u00E1 participar activamente en las diversas ramas de la ingenier\u00CDa y responder a las necesidades productivas y de servicios que requiere la sociedad.</p><p>Nuestra comunidad egresada desempe\u00F1a un papel importante en el desarrollo de la econom\u00CDa. Fortalece la micro, peque\u00F1a y mediana empresa mediante el dise\u00F1o de dispositivos, productos y tecnolog\u00CDa, el estudio de las nuevas técnicas de manufactura, an\u00E1lisis energéticos, as\u00CD como la capacitaci\u00F3n y la administraci\u00F3n.</p><p>También contar\u00E1 con conocimientos que le permitir\u00E1n emprender estudios de posgrado que lo mantendr\u00E1n actualizado con respecto a los constantes avances en las técnicas y tecnolog\u00CDas de esta disciplina.</p>"
+                },
+                {
+                    "titulo": "Objetivos educacionales",
+                    "texto": "<p>La comunidad egresada de la Licenciatura en Ingeniería Mecánica:</p><ol><li class=\"ql-align-justify\">ser\u00E1 capaz de dise\u00F1ar, administrar y\/o mejorar sistemas, equipos y dispositivos, ya sea mec\u00E1nicos o electromec\u00E1nicos, as\u00ED como procesos t\u00E9rmicos y de manufactura, en las \u00E1reas de especialidad: Dise\u00F1o, Manufactura, Termoenerg\u00EDa, Mecatr\u00F3nica y Biomec\u00E1nica.<\/li><li class=\"ql-align-justify\">dise\u00F1ar\u00E1 y desarrollar\u00E1 proyectos en su campo de especializaci\u00F3n apoyado de las TIC´s y de equipo especializado.<\/li><li class=\"ql-align-justify\">se integrar\u00E1 con \u00E9xito en equipos interdisciplinarios y multidisciplinarios, tanto en el sector p\u00FAblico como en el privado.<\/li><li class=\"ql-align-justify\">ser\u00E1 capaz de aplicar el juicio ingenieril para dar soluciones integrales \u00E9ticas y con responsabilidad social.<\/li><li class=\"ql-align-justify\">ampliar\u00E1 sus conocimientos al participar en actividades de actualizaci\u00F3n a trav\u00E9s de cursos, especializaciones, diplomados y\/o estudios de posgrado.<\/li><\/ol><p class=\"ql-align-justify\"><br><\/p>"
+                },
+                {
+                    "titulo": "Atributos de egreso",
+                    "texto": "<p>Estos son un conjunto de resultados evaluables; representan el potencial de nuestros egresados en la adquisici\u00F3n de las competencias o capacidades para ejercer la pr\u00E1ctica de la ingenier\u00CDa mec\u00E1nica a un nivel apropiado.</p><br>La comunidad estudiantil de la Licenciatura en Ingenier\u00EDa Mecanica:<ol class=\"alpha-numeric-list\"><li>identifica, formula y resuelve problemas de ingenier\u00CDa, aplicando los principios de ingenier\u00CDa, ciencias y matem\u00E1ticas.</li><li>aplica, analiza y sintetiza procesos de dise\u00F1o de ingenier\u00CDa que resulten en proyectos que cumplen las necesidades especificadas.</li><li>desarrolla y conduce experimentaci\u00F3n adecuada; analiza e interpreta datos y utiliza el juicio ingenieril para establecer conclusiones.</li><li>se comunica efectivamente de forma oral y escrita con diferentes audiencias y empleando los distintos medios a su alcance.</li><li>reconoce sus responsabilidades éticas y profesionales en situaciones relevantes para la ingenier\u00CDa y realiza juicios informados que deben considerar el impacto de las soluciones de ingenier\u00CDa en los contextos global, econ\u00F3mico, ambiental y social.</li><li>reconoce la necesidad permanente de conocimiento adicional y tiene la habilidad para localizar, evaluar, integrar y aplicar este conocimiento adecuadamente.</li><li>trabaja de manera efectiva en equipos disciplinarios o multidisciplinarios que establecen objetivos y metas, planean tareas, cumplen fechas l\u00CDmite, analizan riesgos e incertidumbre y eval\u00FAan resultados.<br/><br/><a class=\"btn boton-registro\" href=\"public_html/documents/licenciaturas/mecanica/mapeo-de-los-atributo-de-egreso.pdf\" target=\"_blank\" title=\"Mapeo de los Atributos de Egreso\">Mapeo de los Atributos de Egreso</a></li></ol>"
+                }
+            ],
+            "html_button1": "<h2 class=\"pt-4 pb-4 ml-3\">Perfiles (Plan 2021)<\/h2>",
+            "acordeon2": [
+                {
+                    "titulo": "Perfil de ingreso",
+                    "texto": "<p>Para que la comunidad aspirante logre iniciar con éxito su formación profesional, es deseable que posea:<\/p><p><strong>Conocimientos a nivel bachillerato en:<\/strong><\/p><ul><li>Matemáticas.<\/li><li>Física.<\/li><li>Química.<\/li><li>Computación.<\/li><\/ul><p><strong>Habilidades<\/strong><\/p><ul><li>Comunicación oral y escrita en el idioma español.<\/li><li>Análisis y resolución de problemas concretos.<\/li><li>Comprensión de leyes y principios de fenómenos físicos.<\/li><li>Investigación sobre temas específicos.<\/li><li>Manejo de herramientas computacionales.<\/li><li>Pensamiento creativo.<\/li><li>Adaptabilidad a diversas situaciones.<\/li><\/ul><p><strong>Actitudes<\/strong><\/p><ul><li>Confianza y seguridad en sí mismo.<\/li><li>Determinación para lograr sus metas.<\/li><li>Compromiso con sus obligaciones.<\/li><li>Trabajo constante y organizado.<\/li><li>Comunicación asertiva.<\/li><li>Toma de decisiones.<\/li><li>Curiosidad por la investigación y el conocimiento.<\/li><li>Honestidad.<\/li><\/ul><p><strong>Aptitudes<\/strong><\/p><ul><li>Adaptación social.<\/li><li>Capacidad crítica y autocrítica.<\/li><li>Disposición para el trabajo en equipo.<\/li><\/ul>"
+                },
+                {
+                    "titulo": "Perfil de egreso",
+                    "texto": "<p>La comunidad estudiantil de la Licenciatura en Ingeniería Mecánica adquirirá y desarrollará los siguientes conocimientos, habilidades, actitudes, aptitudes y valores.<\/p><p><strong>Conocimientos<\/strong><\/p><ul><li>En ciencias exactas, matemáticas, administración e ingeniería, permitiéndole desarrollar su actividad profesional en el diseño y rediseño de sistemas y dispositivos, así como la selección y análisis de fallas en los mismos y en los procesos térmicos y de fluidos.<\/li><li>Teóricos generales en todos los campos de materiales de la ingeniería mecánica para la solución de problemas reales.<\/li><li>En dibujo técnico, manejo de software CAD/CAM, lenguajes y equipos de cómputo, permitiéndole un íntegro desempeño profesional.<\/li><\/ul><p><strong>Habilidades o Aptitudes<\/strong><\/p><ul><li>Capacidad para analizar, diseñar, construir, seleccionar, instalar, operar, mantener y mejorar equipos y sistemas mecánicos, electromecánicos, térmicos y de manufactura.<\/li><li>Administrar y mejorar los procesos de manufactura.<\/li><li>Planear, diseñar, desarrollar y evaluar proyectos innovadores, atendiendo a las necesidades de producción, mantenimiento, manejo de recursos y diseño de productos.<\/li><li>Aplicar sus conocimientos básicos en economía, administración y contabilidad en el manejo de sistemas productivos.<\/li><li>Utilizar el ingenio y la creatividad de tal manera que estos le permitan tomar decisiones para resolver problemas durante la práctica de su profesión.<\/li><li>Comprender textos en idioma inglés.<\/li><\/ul><p><strong>Actitudes<\/strong><\/p><ul><li>Confianza en su preparación académica.<\/li><li>Capacidad para participar en grupos de trabajo multidisciplinarios e interdisciplinarios.<\/li><li>Consciente de la problemática nacional, basada en el conocimiento de la realidad del país a nivel global.<\/li><li>Mentalidad estratégica frente a la competitividad internacional.<\/li><li>Actitud emprendedora, de liderazgo y humanista.<\/li><li>Vocación de servicio profesional.<\/li><li>Interés por la cultura y el deporte.<\/li><\/ul><p><strong>Valores<\/strong><\/p><ul><li>Responsable individual y socialmente; procurando proteger el medio ambiente.<\/li><li>Innovación al utilizar su conocimiento para la creación de productos, servicios y procesos enfocados en la atención de las necesidades nacionales.<\/li><li>Honestidad en el ámbito académico, docente y profesional; actuará con transparencia y sinceridad, conservando congruencia entre lo que dice y hace.<\/li><li>Compromiso con el bienestar general de las personas y la sociedad en todas sus dimensiones.<\/li><li>Autonomía en su actuar.<\/li><li>Interés en su constante actualización, mantendrá afán por el saber respecto a los constantes avances en la disciplina, así como de los contextos a nivel nacional e internacional durante su vida profesional.<\/li><li>Respeto con la libertad de pensamiento y la perspectiva de género.<\/li><\/ul>"
+                },
+                {
+                    "titulo": "Objetivos educacionales",
+                    "texto": "<p><strong>La comunidad egresada de la Licenciatura en Ingeniería Mecánica:<\/strong><\/p><table class=\"table table-striped\"><tbody><tr><td>OE1</td><td>Diseña, desarrolla o implementa proyectos sustentables con enfoque inclusivo de acuerdo con su área de especialización.</td></tr><tr><td>OE2</td><td>En su ejercicio profesional emplea tecnologías de vanguardia para el desarrollo y gestión de proyectos en el campo de la ingeniería mecánica.</td></tr><tr><td>OE3</td><td>Lidera o participa en equipos multidisciplinarios e interdisciplinarios con enfoque de género para la gestión de proyectos y recursos, empleando la comunicación efectiva y el trabajo colaborativo para el logro de resultados., tanto en el sector público como en el privado</td></tr><tr><td>OE4</td><td>Son profesionales éticos y responsables al momento de tomar decisiones garantizando el cumplimento de los derechos fundamentales de la sociedad y el medio ambiente.</td></tr><tr><td>OE5</td><td>Continúa con su desarrollo profesional a través de programas formativos en diferentes niveles y formatos para mantenerse actualizado con los avances tecnológicos, las buenas prácticas y las habilidades relevantes en su campo de acción.</td></tr></tbody></table>"
+                },
+                {
+                    "titulo": "Atributos de egreso",
+                    "texto": "<p><strong>La comunidad egresada de la Licenciatura en Ingeniería Mecánica:<\/strong><\/p><table class=\"table table-striped\"><tbody><tr><td>A1</td><td>Integrar los conocimientos teóricos y prácticos de las  ciencias básicas e ingeniería, en la solución de problemas de ingeniería relacionados con equipos y sistemas mecánicos, electromecánicos, de manufactura y térmicos.</td></tr><tr><td>A2</td><td>Analizar con enfoque holístico y sostenible problemas de ingeniería utilizando los principios de las ciencias básicas y de la ingeniería, así como fuentes de consulta confiables que permitan generar conclusiones fundamentadas.</td></tr><tr><td>A3</td><td>Diseñar de manera innovadora, soluciones integrales a problemas de producción, mantenimiento, manejo de recursos y diseño de productos de ingeniería de acuerdo con las necesidades identificadas.</td></tr><tr><td>A4</td><td>Aplicar diferentes metodologías en el desarrollo de proyectos de ingeniería o investigación, considerando aspectos emergentes, con la finalidad de proporcionar conclusiones válidas.</td></tr><tr><td>A5</td><td>Adoptar y adaptar metodologías, recursos ingenieriles, herramientas tecnológicas y TI, según las necesidades, para la solución de problemas de Ingeniería Mecánica.</td></tr><tr><td>A6</td><td>Evaluar los riesgos e impactos que pudieran generarse en el entorno al solucionar problemas de ingeniería desde una perspectiva sustentable y sostenible.</td></tr><tr><td>A7</td><td>Emplear los principios ético-profesionales de la ingeniería con enfoque incluyente y de diversidad en los distintos escenarios donde se desenvuelve, cumpliendo los marcos normativos necesarios.</td></tr><tr><td>A8</td><td>Desempeñar eficazmente su rol en equipos multidisciplinarios e interdisciplinarios de acuerdo con las diversas necesidades y modalidades de trabajo.</td></tr><tr><td>A9</td><td>Emplear de manera efectiva la comunicación en la presentación y desarrollo de: propuestas, acuerdos, proyectos y resultados, tomando en cuenta la inclusión y la diversidad de las audiencias.</td></tr><tr><td>A10</td><td>Gestionar los diferentes recursos inherentes a proyectos de ingeniería para la mejora de la productividad, asumiendo su responsabilidad dentro de equipos de trabajo especializados o multidisciplinarios.</td></tr><tr><td>A11</td><td>Se incorpora en experiencias formativas, adaptándose al contexto actual y las tendencias tecnológicas que contribuyen a su aprendizaje integral, a través de una selección crítica y autónoma de conocimientos, con la finalidad de coadyuvar en su actividad profesional.</td></tr></tbody></table>"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Aspectos generales<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Requisitos de ingreso",
+                    "link": "public_html/documents/licenciaturas/mecanica/requisitos-ingreso.pdf",
+                    "texto": "<ul><li><a href=\"public_html/documents/licenciaturas/mecanica/requisitos-ingreso.pdf\" target=\"_blank\">Requisitos de ingreso</a></li></ul>"
+                },
+                {
+                    "titulo": "Requisitos de egreso",
+                    "texto":"<p>La persona estudiante deberá acreditar el total de las asignaturas incluidas en el plan de estudios y aprobar créditos al 100 %</P>"                
+                },
+                {
+                    "titulo": "Normatividad",
+                    "link": "public_html/documents/licenciaturas/mecanica/normatividad.pdf",
+                    "texto": "<ul><li><a href=\"public_html/documents/licenciaturas/mecanica/normatividad.pdf\"target=\"_blank\">Normatividad</a> </li></ul>"
+                },
+                {
+                    "titulo": "Requisitos de permanencia",
+                    "link": "public_html/documents/licenciaturas/mecanica/requisitos-de-permanencia.pdf",
+                    "texto": "<ul><li><a href=\"public_html/documents/licenciaturas/mecanica/requisitos-de-permanencia.pdf\"target=\"_blank\">Requisitos de permanencia</a></li></ul>"
+                },
+                {
+                    "titulo": "Duraci\u00F3n de los estudios, total de créditos, asignaturas y pensum académico",
+                    "texto": "<p>Este plan de estudios tiene una duración de 9 semestres, cuenta con un total de 431 créditos, distribuidos en 53 asignaturas. Posee 5 módulos de preespecialización: diseño, manufactura, termoenergía, mecatrónica y biomecánica.<\/p>"
+                }
+            ],
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro\" href=\"public_html/documents/licenciaturas/mecanica/mapa-curricular-2008.pdf\" title=\"Malla Curricular (2008)\" target=\"_blank\">Malla Curricular (2008)<\/a><a class=\"btn boton-registro\" href=\"public_html/documents/licenciaturas/mecanica/mapa-curricular-2021.pdf\" title=\"Malla Curricular (2021)\" target=\"_blank\">Malla Curricular (2021)<\/a><\/div>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/mecanica-titulacion"
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row justify-content-center\"><h2 class=\"col-12\">Acreditación</h2><p class=\"col-12\">Actualmente, la Licenciatura en Ingeniería Mecánica se encuentra acreditada por el CACEI bajo el marco de referencia 2018 en un contexto internacional, lo cual permite avalar la calidad del mismo, representando una oportunidad de crecimiento para toda la comunidad de la Licenciatura.<\/p><div class=\"col-12\"><a class=\"btn boton-registro\" href=\"public_html/documents/licenciaturas/mecanica/constancia-de-acreditacion.pdf\" target=\"_blank\" title=\"Servicios Escolares\">Certificado de Acreditaci\u00F3n 2019-2024</a></div></div>"
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Joel Garc\u00EDa Z\u00E1rraga",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/mecanica/joel-garcia-zarraga.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Gustavo Cuauhtémoc Ruiz Cerezo ",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/mecanica/gustavo-cuauhtemoc-ruiz-cerezo.jpg ",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 9:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30802 y 30841",
+                "correo_electronico": "mecanica@aragon.unam.mx",
+                "correo_electronico_st": "st.mecanica@aragon.unam.mx",
+                "facebook": "https://www.facebook.com/FESAragon.mecanica/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/mecanica"
+            }
+        }
+    ]
+}

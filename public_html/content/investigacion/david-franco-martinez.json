@@ -1,0 +1,20 @@
+{
+    "nombre": "David Franco Martínez", 
+    "grado_academico": "Maestro en Ingeniería, UNAM.", 
+    "ubicacion": [ "Laboratorio de Diagnóstico Energético del Centro Tecnológico Aragón."],
+     "telefono": [ "55 5623 0965" ],
+     "correo": [ "davidfrancoi3@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Ingeniería Energética Opción en Procesos y Uso Eficiente, UAM.",
+        "Maestría en Ingeniería Energética, Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Diagnóstico:",
+        "Y ahorro de energía.",
+        "De consumo de energía térmica: generadores y líneas de distribución de vapor, hornos, compresores de aire, sistemas de refrigeración. ",
+        "De consumo de energía eléctrica: control de la demanda de energía eléctrica, iluminación, detección de la red eléctrica y consumo de electricidad."
+    ], 
+    "investigaciones": [
+        "PE109720. Desarrollo de material didáctico sobre ciclos termodinámicos para apoyo de las asignaturas de termodinámica, máquinas térmicas, plantas termodinámicas y sistemas de ahorro de energía de la carrera de Ingeniería Mecánica. (Conclusión 2021)"
+    ]
+}

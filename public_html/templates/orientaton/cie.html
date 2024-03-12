@@ -1,0 +1,424 @@
+<style>
+        .mainmenu li i {
+        font-size: 25px;
+        position: absolute;
+        margin-left: -30px;
+        margin-top: -1px;
+        color: #fff;
+        }
+        .mainmenu li span {
+        position: relative;
+        float: left;
+        font-size: 12px;
+        color: #000;
+    }
+    .mainmenu li {
+        float: left;
+        display: block;
+        padding: 5px;
+        cursor: pointer;
+    }
+    .nav-link {
+        display: block;
+        padding: .5rem .5rem;
+        padding-top: 0.5rem;
+        padding-right: 0.5rem;
+        padding-bottom: 0.5rem;
+        padding-left: 0.5rem;
+    }
+    .lema{
+        text-align: justify;
+        color: #255880;
+    }
+    .img-fluid{
+        border-radius: 15px;
+    }
+    .container .yout {
+        font-size: 36px;
+    }
+    .icono-secciones{
+    color: #255981;
+    }
+    @media screen and (max-width: 454px) {
+    .mainmenu li {
+        width: 44%;
+        padding: 0px;
+        text-align: left;
+    }
+    .lema{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+       
+    }
+    .boton-header {
+         margin-top: 0px !important;
+         margin-bottom: 16px;
+    }
+    .icono-secciones {
+        font-size: 50px;
+        width: 20%;
+        /* color: #599e35;*/
+    }
+    .seccion{
+        border-bottom: 2px solid #d2ae6c;
+        padding-bottom: 0px;
+    }
+    hr {
+        background-color: #255880;
+    }
+    
+    .botones .btn-cat {
+      border: 1px solid #d3af6d;
+      color: red;
+    }
+    
+    .botones .btn-cat .icon {
+        position: relative;
+        top: 12px;
+        font-size: 50px;
+        margin: 0px auto 0px;
+        text-align: center;
+    }
+    
+    
+    .botones .btn-cat p{
+        font-size: 13px;
+        text-align: center;
+    }
+    .botones .btn-cat a{
+        color: #255981;
+      }
+    
+    .botones .btn-cat:hover{
+      background-color: #255981;
+    }
+    
+    .botones .btn-cat a:hover {
+        color: #fff;
+    }
+    </style> 
+    <div class="container content servicios-escolares-ac">
+            <hr>
+            <div class="row pleca-secciones">
+                <div class="col-lg-12 secciones">
+                    <i class="icono-secciones icon-ciencias-sociales" style="position: relative;top: 9px;"></i><h1>CIENCIAS SOCIALES</h1>
+                </div>
+            </div>
+            <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+                <div class="col-12 col-md-10 secciones" style="margin-bottom: 10px;">
+            <div class="seccion"><i class="icono-secciones icon-comunicacion-y-peridismo"></i><h1 class="mw-50 ng-binding">COMUNICACIÓN Y PERIODISMO</h1></div>
+            </div>
+            <div class="col-12 col-md-5">
+                    <img class="img-fluid" src="public_html/img/orientaton-unam/comunicacionyperiodismo.jpg" alt="COMUNICACIÓN Y PERIODISMO">
+                </div>
+            <div class="col-12 col-md-5" style="padding-top: 20px">
+                 <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-comunicacion.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 1 ? card_selected = 0 : card_selected = 1)">
+                            Perfil de ingreso
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 1">
+                        <p>La comunidad egresada de la licenciatura en Sociología obtendrá diversos conocimientos, desarrollará habilidades, aptitudes y actitudes que le permitan comprender, analizar, explicar y proponer alternativas en cuanto a lo social.</p>
+
+                        <p>Al concluir su formación, el egresado:</p>
+                        <ul>
+                            <li>tendrá una formación teórico-metodológica consistente, actual e interdisciplinaria, sin priorizar el manejo o uso de una sola propuesta;</li>
+                            <li>tendrá los conocimientos adecuados para sustentar sus evaluaciones analíticas sobre temas de actualidad en los medios impresos;</li>
+                            <li>conocerá ampliamente las causas políticas, económicas y sociales del fenómeno de transición democrática en el contexto nacional y regional;</li>
+                            <li>será capaz de identificar temáticas de investigación desde la perspectiva sociológica;</li>
+                            <li>tendrá habilidad para el ejercicio de la investigación (teórico y técnico) a fin de explicar cualitativa y cuantitativamente el surgimiento y desarrollo de los nuevos fenómenos sociales;</li>
+                            <li>tendrá habilidad para contribuir por medio de sus conocimientos profesionales a evaluar las tendencias de los procesos políticos y sociales.</li>
+                        </ul>
+                        </div>
+                 </div>
+                 <div class="card mb-2">
+                        <div class="card-header" ng-click="(card_selected === 2 ? card_selected = 0 : card_selected = 2)">
+                            Perfil de egreso
+                        </div>
+                        <div class="card-body" ng-show="card_selected === 2">
+                            <p><strong>Perfil de egreso</strong></p>
+                           <p>Al finalizar la licenciatura en Comunicación y Periodismo, la comunidad egresada contará con las siguientes características:</p>
+                           <ul>
+                               <li>tendrá conocimiento amplio de la gramática y ortografía del español;</li>
+                               <li>manejará la teoría de la Comunicación;</li>
+                               <li>reconocerá y aplicará los diversos géneros periodísticos;</li>
+                               <li>aplicará los métodos y técnicas de investigación en Comunicación;</li>
+                               <li>creará a través de la producción multimedia diferentes productos mediáticos (impresos, radio, televisión, medios digitales);</li>
+                               <li>elaborará estrategias de campañas de propaganda, relaciones públicas y publicidad;</li>
+                               <li>demostrará una amplia apreciación de las artes, con énfasis en literatura y cinematografía, por su carácter narrativo;</li>
+                               <li>conocerá la historia y marco legal de los medios de comunicación y de la práctica periodística;</li>
+                               <li>aplicará los valores éticos en el ejercicio del periodismo y de la comunicación;</li>
+                               <li>reconocerá los problemas políticos, económicos y socioculturales contemporáneos;</li>
+                               <li>contará con un amplio panorama de la historia de México;</li>
+                               <li>conocerá y comprenderá la dinámica de los medios y globalización.</li>
+                           </ul>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center" style="padding-top: 25px;">
+                <div class="col-12 col-md-5 secciones">
+                    <div class="seccion"><i class="icono-secciones icon-youtube yout"></i><h1 class="mw-50 ng-binding">¡Checa nuestro video!</h1></div>
+                 </div>
+                 <div class="col-12 col-md-5">
+                    <div class="embed-responsive embed-responsive-16by9" style="padding-top: 20px; border-radius: 15px;">
+                        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/w_Vwcz93sR4" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+                <div class="col-12 col-md-10 secciones" style="margin-bottom: 10px;">
+            <div class="seccion"><i class="icono-secciones icon-derecho"></i><h1 class="mw-50 ng-binding">DERECHO</h1></div>
+            </div>
+            <div class="col-12 col-md-5">
+                    <img class="img-fluid" src="public_html/img/orientaton-unam/derecho.jpg" alt="DERECHO">
+                </div>
+            <div class="col-12 col-md-5" style="padding-top: 20px">
+                 <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-derecho.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 3 ? card_selected = 0 : card_selected = 3)">
+                            Perfil de ingreso
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 3">
+                        <p>tendrá habilidad para contribuir por medio de sus conocimientos profesionales a evaluar las tendencias de los procesos políticos y sociales.</p>
+                        <ul>
+                            <li>Conocimientos de cultura general, historia universal, historia de México, nociones de Derecho Positivo Mexicano, técnicas de investigación, conocimientos elementales de latín, conocimientos elementales de ética y deontología.</li>
+                            <li>Aptitudes y habilidades como capacidad de pensamiento abstracto y de análisis, capacidad de síntesis, capacidad persuasiva conciliatoria, habilidad para interrelacionarse con otras personas, sentido de organización y capacidad para cuestionar, adquirir conocimientos inherentes al desarrollo del país.</li>
+                            <li>Actitudes como: interés constante por el estudio, actuar con decoro y respeto, disciplina, respeto por la dignidad humana, responsabilidad y discreción, cuidado en su persona, participación en el proceso de interacción, deseo de superación, interés por la profesión, dedicación, actitud crítica y dialéctica.</li>
+                        </ul>
+                     </div>
+                 </div>
+                 <div class="card mb-2">
+                        <div class="card-header" ng-click="(card_selected === 4 ? card_selected = 0 : card_selected = 4)">
+                                Perfil de egreso
+                        </div>
+                        <div class="card-body" ng-show="card_selected === 4">
+                           <p>La comunidad egresada reunirá las siguientes características:</p>
+                           <ul>
+                               <li>Contará con conocimientos como noción universal del Derecho y los conceptos jurídicos fundamentales, principios generales de la normatividad positiva del país, conocimiento del Derecho en sus fuentes y en sus ramas, conocimiento general sobre los aspectos socioeconómicos que influyen en el Derecho.</li>
+                               <li>Comprenderá los ideales de justicia, moral, libertad, dignidad y solidaridad, que se encuentran en el thelos del Derecho.</li>
+                               <li>Contar con la preespecialización en diversas orientaciones del Derecho como: Civil, Penal, Constitucional, Mercantil, Internacional o Fiscal, Nociones de los recursos y Necesidades nacionales.</li>
+                           </ul>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center" style="padding-top: 25px;">
+                <div class="col-12 col-md-5 secciones">
+                    <div class="seccion"><i class="icono-secciones icon-youtube yout"></i><h1 class="mw-50 ng-binding">¡Checa nuestro video!</h1></div>
+                 </div>
+                 <div class="col-12 col-md-5">
+                    <div class="embed-responsive embed-responsive-16by9" style="padding-top: 20px; border-radius: 15px;">
+                        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/eouayqaBTWM" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-10 secciones" style="margin-bottom: 10px;">
+            <div class="seccion"><i class="icono-secciones icon-economia"></i><h1 class="mw-50 ng-binding">ECONOMÍA</h1></div>
+            </div>
+            <div class="col-12 col-md-5">
+                    <img class="img-fluid" src="public_html/img/orientaton-unam/economia.jpg" alt="ECONOMÍA">
+            </div>
+            <div class="col-12 col-md-5" style="padding-top: 20px">
+                 <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-economia.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 5 ? card_selected = 0 : card_selected = 5)">
+                            Perfil de ingreso
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 5">
+                        <p>La comunidad aspirante deberá contar con:</p>
+                        <ul>
+                            <li>sensibilidad frente a los problemas económicos, políticos, sociales y sus repercusiones;</li>
+                            <li>habilidades para dirigir, organizar y planear;</li>
+                            <li>conocimientos sólidos principalmente en matemáticas, además en historia universal, historia de México, geografía de México, geografía universal, así como nociones de metodología de la investigación.</li>
+                        </ul>
+                     </div>
+                 </div>
+                 <div class="card mb-2">
+                        <div class="card-header" ng-click="(card_selected === 6 ? card_selected = 0 : card_selected = 6)">
+                                Perfil de egreso
+                        </div>
+                        <div class="card-body" ng-show="card_selected === 6">
+                            <p>La comunidad egresada de esta licenciatura tendrá la capacidad de:</p>
+                            <ul>
+                                <li>analizar y diseñar programas de inversiones públicas y privadas para crear nuevas fuentes de trabajo;</li>
+                                <li>analizar los problemas de empleo y contribuir a su solución;</li>
+                                <li>definir estrategias para el abasto de materias primas para las industrias, y para la gestión de servicios públicos y asistenciales.</li>
+                            </ul>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center" style="padding-top: 25px;">
+                <div class="col-12 col-md-5 secciones">
+                    <div class="seccion"><i class="icono-secciones icon-youtube yout"></i><h1 class="mw-50 ng-binding">¡Checa nuestro video!</h1></div>
+                 </div>
+                 <div class="col-12 col-md-5">
+                    <div class="embed-responsive embed-responsive-16by9" style="padding-top: 20px; border-radius: 15px;">
+                        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/g4p34TbLhtk" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+                <div class="col-12 col-md-10 secciones" style="margin-bottom: 10px;">
+            <div class="seccion"><i class="icono-secciones icon-planificacion-para-el-desarrollo-agropecuario"></i><h1 class="mw-50 ng-binding">PLANIFICACIÓN PARA EL DESARROLLO AGROPECUARIO</h1></div>
+            </div>
+            <div class="col-12 col-md-5">
+                    <img class="img-fluid" src="public_html/img/orientaton-unam/planificacionparaeldesarrolloagropecuario.jpg" alt="PLANIFICACIÓN PARA EL DESARROLLO AGROPECUARIO">
+            </div>
+            <div class="col-12 col-md-5" style="padding-top: 20px">
+                <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-planificacion.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 7 ? card_selected = 0 : card_selected = 7)">
+                            Perfil de ingreso
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 7">
+                        <p>Es deseable que la comunidad aspirante a esta licenciatura, así como a la opción Técnico Profesional en Formulación y Evaluación de Proyectos Agropecuarios tengan:</p>
+                        <ul>
+                            <ul>
+                                <li>interés por las actividades y problemáticas del campo mexicano;</li>
+                                <li>capacidad para adaptarse a ambientes naturales y sociales distintos y diversos;</li>
+                                <li>habilidad para investigar, organizar, sistematizar información y promover iniciativas en busca del bien común de la población rural;</li>
+                                <li>creatividad y productividad para la búsqueda de soluciones.</li>
+                            </ul>
+                        </ul>
+                        </div>
+                 </div>
+                 <div class="card mb-2">
+                        <div class="card-header" ng-click="(card_selected === 8 ? card_selected = 0 : card_selected = 8)">
+                                Perfil de egreso
+                        </div>
+                        <div class="card-body" ng-show="card_selected === 8">
+                            <p>La comunidad egresada de la licenciatura en Planificación para el Desarrollo Agropecuario podrá integrar y conjugar los aspectos económicos, financieros, sociales, organizacionales, técnicos, ambientales y espaciales del desarrollo nacional, local y la unidad económica rural para la elaboración de diagnósticos y la formulación de propuestas de solución a problemas del medio rural.</p>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center" style="padding-top: 25px;">
+                <div class="col-12 col-md-5 secciones">
+                    <div class="seccion"><i class="icono-secciones icon-youtube yout"></i><h1 class="mw-50 ng-binding">¡Checa nuestro video!</h1></div>
+                 </div>
+                 <div class="col-12 col-md-5">
+                    <div class="embed-responsive embed-responsive-16by9" style="padding-top: 20px; border-radius: 15px;">
+                        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/O0_o5UV4WbM" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-10 secciones" style="margin-bottom: 10px;">
+            <div class="seccion"><i class="icono-secciones icon-relaciones-internacionales"></i><h1 class="mw-50 ng-binding">RELACIONES INTERNACIONALES</h1></div>
+            </div>
+            <div class="col-12 col-md-5">
+                    <img class="img-fluid" src="public_html/img/orientaton-unam/relacionesinternacionales.jpg" alt="RELACIONES INTERNACIONALES">
+            </div>
+            <div class="col-12 col-md-5" style="padding-top: 20px">
+                <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-rrii.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 9 ? card_selected = 0 : card_selected = 9)">
+                            Perfil de ingreso
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 9">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante a la licenciatura en Relaciones Internacionales debe tener las siguientes características:</p>
+                        <ul>
+                            <li>habilidad para el manejo de la política, la economía, la historia y la geografía;</li>
+                            <li>poseer conocimientos acerca de los acontecimientos nacionales e internacionales;</li>
+                            <li>gusto por la investigación;</li>
+                            <li>facilidad para relacionarse;</li>
+                            <li>disponibilidad para trabajar en el ámbito internacional;</li>
+                            <li>interés por los procesos políticos y socioeconómicos de carácter internacional;</li>
+                            <li>habilidades para los idiomas extranjeros;</li>
+                            <li>buen manejo de lenguaje oral y escrito.</li>
+                        </ul>
+                        </div>
+                 </div>
+                 <div class="card mb-2">
+                        <div class="card-header" ng-click="(card_selected === 10 ? card_selected = 0 : card_selected = 10)">
+                                Perfil de egreso
+                        </div>
+                        <div class="card-body" ng-show="card_selected === 10">
+                           <p>La comunidad egresada de la licenciatura en Relaciones Internacionales será capaz de:</p>
+                           <ul>
+                               <li>comprender factores políticos, históricos, económicos, sociales y culturales desarrollando una perspectiva global para analizar y resolver problemas de carácter mundial;</li>
+                               <li>diagnosticar la esencia de un conflicto internacional con objeto de sugerir las medidas pertinentes para su solución o los escenarios posibles de sus resultados;</li>
+                               <li>analizar el contexto político internacional y nacional, así como diseñar estudios de carácter prospectivo;</li>
+                               <li>desarrollar habilidades en el área de negociaciones diplomáticas dentro y fuera del país, con base en el conocimiento de las diversas culturas de negocios;</li>
+                               <li>desarrollar proyectos de comercialización estratégica en el exterior.</li>
+                           </ul>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center" style="padding-top: 25px;">
+                <div class="col-12 col-md-5 secciones">
+                    <div class="seccion"><i class="icono-secciones icon-youtube yout"></i><h1 class="mw-50 ng-binding">¡Checa nuestro video!</h1></div>
+                 </div>
+                 <div class="col-12 col-md-5">
+                    <div class="embed-responsive embed-responsive-16by9" style="padding-top: 20px; border-radius: 15px;">
+                        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/1bH4aCZguxk" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+                <div class="col-12 col-md-10 secciones" style="margin-bottom: 10px;">
+            <div class="seccion"><i class="icono-secciones icon-sociologia"></i><h1 class="mw-50 ng-binding">SOCIOLOGÍA</h1></div>
+            </div>
+            <div class="col-12 col-md-5">
+                    <img class="img-fluid" src="public_html/img/orientaton-unam/sociologia.jpg" alt="SOCIOLOGÍA">
+            </div>
+            <div class="col-12 col-md-5" style="padding-top: 20px">
+              <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-sociologia.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+              
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 11 ? card_selected = 0 : card_selected = 11)">
+                            Perfil de ingreso
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 11">
+                        <ul>
+                            <li>inquietud por el conocimiento y el análisis de los problemas sociales, así como creatividad para proponer alternativas viables de solución de los mismos;</li>
+                            <li>interés por la lectura, el análisis de textos y capacidad para expresarse en forma oral y escrita;</li>
+                            <li>deseos de estudiar otros idiomas y conocer otras culturas;</li>
+                            <li>gusto por la investigación de campo, bibliohemerográfica y todo aquello que coadyuve a una formación intelectual sólida.</li>
+                        </ul>
+                        </div>
+                 </div>
+                 <div class="card mb-2">
+                        <div class="card-header" ng-click="(card_selected === 12 ? card_selected = 0 : card_selected = 12)">
+                                Perfil de egreso
+                        </div>
+                        <div class="card-body" ng-show="card_selected === 12">
+                           <p>La comunidad egresada de la licenciatura en Sociología obtendrá diversos conocimientos, desarrollará habilidades, aptitudes y actitudes que le permitan comprender, analizar, explicar y proponer alternativas en cuanto a lo social.</p>
+                           <p>Al concluir su formación, el egresado:</p>
+                           <ul>
+                               <li>tendrá una formación teórico-metodológica consistente, actual e interdisciplinaria, sin priorizar el manejo o uso de una sola propuesta;</li>
+                               <li>tendrá los conocimientos adecuados para sustentar sus evaluaciones analíticas sobre temas de actualidad en los medios impresos;</li>
+                               <li>conocerá ampliamente las causas políticas, económicas y sociales del fenómeno de transición democrática en el contexto nacional y regional;</li>
+                               <li>será capaz de identificar temáticas de investigación desde la perspectiva sociológica;</li>
+                               <li>tendrá habilidad para el ejercicio de la investigación (teórico y técnico) a fin de explicar cualitativa y cuantitativamente el surgimiento y desarrollo de los nuevos fenómenos sociales;</li>
+                               <li>tendrá habilidad para contribuir por medio de sus conocimientos profesionales a evaluar las tendencias de los procesos políticos y sociales.</li>
+                           </ul>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center" style="padding-top: 25px;">
+                <div class="col-12 col-md-5 secciones">
+                    <div class="seccion"><i class="icono-secciones icon-youtube yout"></i><h1 class="mw-50 ng-binding">¡Checa nuestro video!</h1></div>
+                 </div>
+                 <div class="col-12 col-md-5">
+                    <div class="embed-responsive embed-responsive-16by9" style="padding-top: 20px; border-radius: 15px;">
+                        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/7Q8q5dEmlN8" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        <hr> 
+    </div>

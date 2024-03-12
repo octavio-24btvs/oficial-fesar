@@ -1,0 +1,33 @@
+{
+	"titulo": "SA22: Brochazos de protesta",
+	"titulo_normalizado": "sa22-brochazos-de-protesta",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor": "Luis Gonz\u00E1lez",
+	"fecha": "10/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Arquitectura<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, tuvo lugar la pinta colectiva con la tem\u00E1tica \"Mujeres que se revolucionan\", cont\u00F3 con la participaci\u00F3n de cuarenta alumnos y alumnas de la carrera y fue coordinada por la docente Esmeralda \u00C1vila; asimismo la jefa de carrera, Ana Cort\u00E9s estuvo presente.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El mural conformado por dos pliegos de papel kraft, comenz\u00F3 a ser pintado por las y los participantes con pintura blanca, creando un fondo para despu\u00E9s agregar formas con <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">stencils<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y pintura en aerosol. Posteriormente, se fueron colocando recortes de algunas mujeres reconocidas a trav\u00E9s de la historia, as\u00ED como frases c\u00E9lebres de estas, adem\u00E1s de algunas otras expresiones representativas del tema principal de la pinta, destac\u00E1ndose: \"Mal de ojo al patriarcado\", \"No recordamos d\u00EDas, recordamos momentos\", \"Juntas llegaremos m\u00E1s lejos\", entre otras.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">\u00C1vila aclar\u00F3 que la idea principal del mural fue integrar a la comunidad estudiantil, y no se trataba de un evento separatista, pues el principal motivo era incluir frases negativas y positivas sobre la infraestructura y el recorrido urbano de los alumnos y alumnas. Adem\u00E1s, mencion\u00F3 la participaci\u00F3n del colectivo Mujeres Arquitectas Organizadas (MAO) perteneciente a la facultad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte, Cort\u00E9s, hizo menci\u00F3n de la motivaci\u00F3n principal de esta muestra gr\u00E1fica, la cual era incorporar un espacio espec\u00EDfico para fomentar la expresi\u00F3n de las y los alumnos. \"Creemos que estas actividades son muy necesarias para que se conozcan entre ellos y les sirva como un foro art\u00EDstico\" agreg\u00F3, adem\u00E1s de destacar dicha caracter\u00EDstica en la formaci\u00F3n de profesionales en arquitectura.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "brochazos-1.jpg"
+		},
+		{
+			"imagen": "brochazos-2.jpg"
+		},
+		{
+			"imagen": "brochazos-3.jpg"
+		},
+		{
+			"imagen": "brochazos-4.jpg"
+		},
+		{
+			"imagen": "brochazos-5.jpg"
+		},
+		{
+			"imagen": "brochazos-6.jpg"
+		}	]
+
+}

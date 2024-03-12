@@ -1,0 +1,20 @@
+{
+    "nombre": "Enrique Jesús Díaz Barreiro y Saavedra", 
+    "grado_academico": "Maestro", 
+     "correo": [ "eddbarsa@unam.mx"     ],
+     "correo2": [ "jesusysaavedraf7@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Arquitectura. Universidad Autónoma de México.", 
+        "Maestría en Pedagogía con la orientación en Docencia universitaria por la FES Aragón-UNAM."
+    ], 
+    "lineas_investigacion": [
+        "Diseño y composición en Arquitectura.", 
+        "Investigación Educativa.", 
+        "Procesos de aprendizaje del diseño arquitectónico."
+    ], 
+    "investigaciones": [
+        "\"El programa arquitectónico. Sustento teórico de un proyecto arquitectónico y de un edificio para su análisis posocupacional\".", 
+        "\"La enseñanza y el aprendizaje del diseño arquitectónico\"."
+    ]
+}

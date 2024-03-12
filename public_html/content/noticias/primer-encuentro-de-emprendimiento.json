@@ -1,0 +1,43 @@
+{
+	"titulo": "Primer encuentro de emprendimiento",
+	"titulo_normalizado": "primer-encuentro-de-emprendimiento",
+	"secciones": [
+		{
+			"seccion": "CTA",
+			"seccion_normalizada": "cta"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "19/06/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En las instalaciones de la Facultad de Estudios Superiores (FES) Zaragoza se llev\u00F3 a cabo el Primer Encuentro Interfes sobre Emprendimiento, el cual reuni\u00F3 a las Facultades de Arag\u00F3n, Zaragoza, Acatl\u00E1n, Cuautitl\u00E1n e Iztacala y sus respectivas incubadoras de empresas para compartir con el p\u00FAblico asistente los logros conseguidos.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para inaugurar el evento asistieron los directores Fernando Macedo, de Arag\u00F3n; Manuel Mart\u00EDnez, de Acatl\u00E1n; y Vicente J. Hernand\u00E9z de Zaragoza; adem\u00E1s de contar con la participaci\u00F3n de Jorge V\u00E1zquez, coordinador de Vinculaci\u00F3n y Transferencia Tecnol\u00F3gica de la UNAM, y la moderaci\u00F3n de Rosalva Rangel, gerente de InnovaUNAM unidad Zaragoza. As\u00ED como otras personalidades que se encontraban en el p\u00FAblico, entre ellas el director del Centro Tecnol\u00F3gico Arag\u00F3n, Jacinto Cort\u00E9s.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tras la inauguraci\u00F3n, el ex director de Zaragoza, Benny Weiss, di\u00F3 una breve conferencia donde comparti\u00F3 su experiencia generando convenios y alianzas estrat\u00E9gicas con el sector privado y p\u00FAblico para el crecimiento de la Facultad. Acto seguido, se organiz\u00F3 la mesa con gerentes de las incubadoras de empresas y responsables de emprendimiento de las multidisciplinarias Zaragoza, Arag\u00F3n, (Julia Olivares), Acatl\u00E1n (Ver\u00F3nica Maldonado), Cuautitl\u00E1n (Miguel \u00C1ngel Moreno) e Iztacala (Arlette Lop\u00E9z); en ella expusieron los logros de sus respectivas unidades.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Posteriormente, el investigador de Iztacala, Andr\u00E9s Arag\u00F3n, comparti\u00F3 el desarrollo de un proyecto, desde la investigaci\u00F3n cient\u00EDfica hasta la comercializaci\u00F3n del mismo. Y, tras un breve receso, Olivares present\u00F3 el taller titulado&nbsp;“Dise\u00F1ando tu modelo de negocio”.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El encuentro continuar\u00E1 el d\u00EDa 20 de junio, pero se planea repetir la experiencia pr\u00F3ximamente en cada una de las Facultades para que la comunidad universitaria conozca los beneficios del emprendimiento y puedan llevar a cabo sus propuestas de negocios.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "InnovaFES1.gif"
+		},
+		{
+			"imagen": "InnovaFES2.gif"
+		},
+		{
+			"imagen": "InnovaFES3.gif"
+		},
+		{
+			"imagen": "InnovaFES5.gif"
+		},
+		{
+			"imagen": "InnovaFES6.gif"
+		},
+		{
+			"imagen": "InnovaFES7.gif"
+		},
+		{
+			"imagen": "InnovaFES8.gif"
+		},
+		{
+			"imagen": "InnovaFES4.gif"
+		}	]
+
+}

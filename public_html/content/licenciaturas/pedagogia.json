@@ -1,0 +1,76 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Plan de estudios",
+        "Mapa curricular",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Reconocimientos y proyectos",
+        "Contacto"
+    ],
+    "titulo": "Pedagog\u00EDa",
+    "icono": "icono-secciones icon-pedagogia",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El ingresar a esta Instituci\u00F3n provoca emociones como: satisfacci\u00F3n, orgullo, incertidumbre, curiosidad e inter\u00E9s; cualquiera que sea tu sentir, queremos darte la bienvenida y hacer que te sientas parte de esta comunidad universitaria.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tenemos el objetivo de apoyarte en la realizaci\u00F3n de tus metas y cumplir con tus expectativas acad\u00E9micas para tu formaci\u00F3n profesional, a partir de este momento eres parte de la licenciatura en Pedagog\u00EDa de la FES Arag\u00F3n, aprovecha la oferta acad\u00E9mica, cultural y deportiva que te ofrece la Facultad, siente orgullo de unirte a la comunidad aragonesa.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La carrera de Pedagog\u00EDa forma profesionistas capaces de realizar su pr\u00E1ctica a partir del an\u00E1lisis cr\u00EDtico y reflexivo de la realidad educativa, con base en fundamentos te\u00F3rico-metodol\u00F3gicos y t\u00E9cnicos de la disciplina, mediante un proceso de formaci\u00F3n profesional que promueve el desarrollo integral incorporando conocimientos, aptitudes y habilidades que permiten explicar fen\u00F3menos educativos. Cabe destacar que la comunidad profesional en Pedagog\u00EDa desarrolla un inter\u00E9s por la cultura como elemento enriquecedor de su formaci\u00F3n personal y profesional a trav\u00E9s de pr\u00E1cticas reflexivas y creativas que le permitan explicar y proponer soluciones a problem\u00E1ticas de la educaci\u00F3n.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad aspirante deber\u00E1 desarrollar su aprendizaje a partir del h\u00E1bito por la lectura, el pensamiento abstracto y la capacidad de an\u00E1lisis y s\u00EDntesis. \u00C9sto le permitir\u00E1 integrar conocimientos, aptitudes y habilidades necesarias para explicar los fen\u00F3menos educativos desde una perspectiva pedag\u00F3gica. De igual forma, tendr\u00E1 que realizar pr\u00E1cticas reflexivas y creativas que le ayuden a generar una postura ante la realidad educativa.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad egresada de la licenciatura en Pedagog\u00EDa ser\u00E1 capaz de: dise\u00F1ar, ejecutar y evaluar proyectos acad\u00E9micos, de capacitaci\u00F3n y actualizaci\u00F3n laboral;<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Explicar y proponer soluciones a problemas educativos concretos en nuestra sociedad.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Dar asesor\u00EDas pedag\u00F3gicas en investigaciones y estudios con respecto a los distintos niveles y modalidades de la pr\u00E1ctica educativa.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/pedagogia/plan-de-estudios-pedagogia.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/pedagogia/mapa-pedagogia.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/pedagogia/programas-pedagogia.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/pedagogia/pedagogia-titulacion.pdf"
+        },
+        {
+            "tipo": "reconocimientos",
+            "texto": {
+                "reconocimiento_docentes": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La carrera de Pedagog\u00EDa es pionera en la acreditaci\u00F3n de los programas acad\u00E9micos de formaci\u00F3n profesional a nivel superior. Actualmente, cuenta con una reacreditaci\u00F3n vigente hasta el 2020 por parte del Comit\u00E9 para la Evaluaci\u00F3n de Programas de Pedagog\u00EDa y Educaci\u00F3n A.C., organismo acreditador reconocido por el Consejo para la Acreditaci\u00F3n de la Educaci\u00F3n Superior (COPAES); esto representa un logro y otorga certeza acad\u00E9mica como programa de calidad educativa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, estudiantes han formado parte del Programa de Movilidad Estudiantil Internacional y Nacional, adquiriendo experiencias para enriquecer su formaci\u00F3n acad\u00E9mica. Un claro ejemplo es Sandra Karen Cadena Mart\u00EDnez, egresada de FES Arag\u00F3n, quien desarroll\u00F3 una aplicaci\u00F3n para diagnosticar la dislexia dentro de un grupo de trabajo multidisciplinario.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La planta docente cuenta con personal acad\u00E9mico que han sido distinguidos y galardonados con premios por su labor acad\u00E9mica, contribuci\u00F3n a la docencia e investigaci\u00F3n. Adem\u00E1s, contamos con especialistas que han publicado y participado como ponentes a nivel nacional e internacional, cuyas l\u00EDneas de investigaci\u00F3n son: el desarrollo del campo curricular, historia de la educaci\u00F3n, pol\u00EDticas y educaci\u00F3n superior, educaci\u00F3n intercultural y problemas de aprendizaje. <\/span><\/p>",
+                "reconocimiento_alumnos": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Pedagog\u00EDa cuenta con los siguientes programas de apoyo a la formaci\u00F3n, orientados a distintos \u00E1mbitos de la intervenci\u00F3n pedag\u00F3gica y el desarrollo profesional:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">pr\u00E1cticas profesionales y vinculaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">apoyo comunitario a la educaci\u00F3n de adultos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">tutorial amigos de la FES Arag\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">atenci\u00F3n y servicio para la orientaci\u00F3n integral y multidisciplinaria;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">investigaci\u00F3n en estudios de g\u00E9nero, sexualidad y educaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">formaci\u00F3n docente del estudiante en la FES Arag\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">atenci\u00F3n psicopedag\u00F3gica.<\/span><\/li><\/ul><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Todos los programas fueron creados a partir de la iniciativa de docentes de la carrera en colaboraci\u00F3n con estudiantes. Estos espacios de formaci\u00F3n favorecen al desarrollo disciplinar te\u00F3rico, pr\u00E1ctico y profesional de la comunidad estudiantil de diferentes semestres, ya sea como servicio social, voluntariado o pr\u00E1cticas profesionales.<\/span><\/p>"
+            }
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Mónica Rubio",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/pedagogia/monica-leticia-rubio-jimenez.jpg",
+                "genero_jefe_carrera": "1",
+                "secretario_tecnico": "Crispín Ramírez",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/pedagogia/crispin-ramirez.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30822 y 30850",
+                "correo_electronico": "pedagogia@aragon.unam.mx",
+                "correo_electronico_st": "st.pedagogia@aragon.unam.mx",
+                "facebook": "https:\/\/www.facebook.com\/Pedagog%C3%ADa-FES-Arag%C3%B3n-1838986313063825\/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/pedagogia"
+                
+            }
+        }
+    ]
+}

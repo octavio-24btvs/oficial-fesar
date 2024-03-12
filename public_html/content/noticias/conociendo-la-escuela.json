@@ -1,0 +1,14 @@
+{
+	"titulo": "Conociendo la escuela",
+	"titulo_normalizado": "conociendo-la-escuela",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor":"Erik Pliego",
+	"fecha":"12/10/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Desde temprano, estudiantes de los primeros semestres de la carrera de Derecho se empezaron a reunir en la FES Arag\u00F3n para conocer por primera vez las instalaciones de su escuela y recoger su credencial de estudiante, la cual los identifica como parte de la comunidad aragonesa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para hacer m\u00E1s amenos los recorridos y mantener las medidas de prevenci\u00F3n sanitaria, el estudiantado fue citado en diferentes horarios con el fin de crear grupos de entre 20 y 30 personas, las cuales pudieron recorrer los pasillos y las verdes jardineras, adem\u00E1s de aprovechar para tomar unas cuantas fotos a los edificios que componen la infraestructura.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cada grupo de alumnas y alumnos fue guiado por los lugares m\u00E1s emblem\u00E1ticos de la Facultad, como el Teatro Jos\u00E9 Vasconcelos, la Plaza del Estudiante, las Torres, la escultura <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Puerta de Man\u00FA<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y el edificio de DUACyD; al mismo tiempo, personal acad\u00E9mico y de la jefatura de carrera explicaban la historia y los detalles de estos, as\u00ED como las actividades extracurriculares y los servicios que nuestra instituci\u00F3n ofrece a su comunidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Todas las carreras tendr\u00E1n su oportunidad de participar en estos recorridos; mientras tanto, es importante seguir cuid\u00E1ndonos y, cuando llegu\u00E9 el momento, atender las indicaciones de las personas encargadas, ellas mantendr\u00E1n las medidas de seguridad para que tu estancia en este, tu segundo hogar, sea lo m\u00E1s placentera posible.&nbsp;&nbsp;<\/span><\/p>",
+	"imagenes":[{"imagen":"fes1.gif"},{"imagen":"fes2.gif"},{"imagen":"FES3.gif"},{"imagen":"FES4.gif"},{"imagen":"fes5.gif"},{"imagen":"FES6.gif"},{"imagen":"FES7.gif"},{"imagen":"FES8.gif"}]
+}

@@ -1,0 +1,105 @@
+{
+    "titulo":"PorSalud",
+    "imagenes": [
+        {
+            "imagen": "alimentos-que-requieren-especial-cuidado",
+            "alt":"Alimentos que requieren especial cuidado"
+        },
+        {
+            "imagen": "beneficios-del-agua",
+            "alt":"Beneficios del agua"
+        },
+        {
+            "imagen": "burnout",
+            "alt":"Burnout"
+        },
+        {
+            "imagen": "depresion",
+            "alt":"Depresi\u00F3n"
+        },
+        {
+            "imagen": "dia-concentracion",
+            "formato":"gif",
+            "alt":"D\u00EDa de la concentraci\u00F3n"
+        },
+        {
+            "imagen": "dia-contra-la-hepatitis",
+            "alt":"D\u00EDa contra la hepatitis"
+        },
+        {
+            "imagen": "dia-nutricion",
+            "alt":"D\u00EDa de la nutrici\u00F3n"
+        },
+        {
+            "imagen": "dia-tuberculosis",
+            "alt":"D\u00EDa de la tuberculosis"
+        },
+        {
+            "imagen": "dia-yoga",
+            "formato":"gif",
+            "alt":"D\u00EDa del yoga"
+        },
+        {
+            "imagen": "evita-productos-ultraporcesados",
+            "alt":"Evita productos ultraprocesados"
+        },
+        {
+            "imagen": "febrero-mes-de-la-salud-del-hombre",
+            "alt":"Febrero, mes de la salud del hombre"
+        },
+        {
+            "imagen": "guajolocombo",
+            "alt":"Guajolocombo"
+        },
+        {
+            "imagen": "parkinson",
+            "alt":"Parkinson"
+        },
+        {
+            "imagen": "tips-para-dormir",
+            "alt":"Tips para dormir"
+        },
+        {
+            "imagen": "vih-sida",
+            "alt":"VIH sida"
+        }
+    ],
+    "pdfs": [
+        {
+            "titulo": "Cr\u00F3nica de un estresado",
+            "pdf": "cronica-de-un-estresado"
+        },
+        {
+            "titulo": "Del plato a la boca...",
+            "pdf": "del-plato-a-la-boca"
+        },
+        {
+            "titulo": "S\u00EDntomas del estr\u00E9s y c\u00F3mo detectarlos",
+            "pdf": "estres-y-como-detectarlo"
+        },
+        {
+            "titulo": "Hablar de bienestar",
+            "pdf": "hablar-de-bienestar"
+        },
+        {
+            "titulo": "La importancia de las vacunas",
+            "pdf": "la-importancia-de-las-vacunas"
+        },
+        {
+            "titulo": "Perfil del estudiante de la FES Arag\u00F3n",
+            "pdf": "perfil-del-estudiante"
+        },
+        {
+            "titulo": "¿Qu\u00E9 le pasa a tu cuerpo cuando bebes alcohol?",
+            "pdf": "que-le-pasa-a-tu-cuerpo-cuando-bebes-alcohol"
+        },
+        {
+            "titulo": "¿Qu\u00E9 nos ense\u00F1a el deporte?",
+            "pdf": "que-nos-ensena-el-deporte"
+        },
+        {
+            "titulo": "Y t\u00FA, ¿sabes c\u00F3mo identificar una bebida adulterada?",
+            "pdf": "sabes-como-identificar-una-bebida-adulterada"
+        }
+    ]
+}

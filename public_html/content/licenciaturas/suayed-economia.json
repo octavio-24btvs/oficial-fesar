@@ -1,0 +1,61 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Mapa curricular",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Contacto"
+    ],
+    "titulo": "Econom\u00EDa SUAyED",
+    "icono": "icono-secciones icon-economia-suayed",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Estudiantes que ingresan al Sistema Universidad Abierta y Educaci\u00F3n a Distancia de la Facultad de Estudios Superiores Arag\u00F3n: les damos la m\u00E1s cordial bienvenida a \u00E9sta, su Universidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A partir de hoy forman parte de una Instituci\u00F3n llena de historia, extraordinaria por su prestigio, desarrollo, evoluci\u00F3n y un gran compromiso social. Nuestra Escuela est\u00E1 dise\u00F1ada para servir a nuestro pa\u00EDs, formando profesionistas \u00E9ticos y justos, con profesores \u00E1vidos de transmitir su experiencia y con investigaciones que propongan ofrecer soluciones acorde a nuestra realidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Aprovechen el privilegio que significa la posibilidad de ingresar a la UNAM y realicen su mayor esfuerzo para responder al compromiso con nuestra sociedad.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la Licenciatura en Econom\u00EDa se estudian, eval\u00FAan y analizan los fen\u00F3menos econ\u00F3micos de M\u00E9xico a trav\u00E9s de los procesos de producci\u00F3n, distribuci\u00F3n&nbsp;y consumo de bienes y servicios, en un contexto tanto nacional como internacional, con la finalidad de proponer soluciones a los problemas que nuestra sociedad enfrenta.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Adem\u00E1s, en ella se investiga c\u00F3mo ocurre la generaci\u00F3n y reproducci\u00F3n misma del valor y las formas de su distribuci\u00F3n social. Tambi\u00E9n, es responsable de dise\u00F1ar e instrumentar modelos econ\u00F3micos con el fin de recomendar, en lo particular y colectivamente, acciones para el mejor empleo de los recursos productivos y la \u00F3ptima distribuci\u00F3n del ingreso de la sociedad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Licenciatura en Econom\u00EDa del SUAyED Arag\u00F3n, es reconocida por su acreditada calidad acad\u00E9mica.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">De esta forma, el egresado de la licenciatura en Econom\u00EDa tendr\u00E1 los conocimientos te\u00F3ricos y pr\u00E1cticos para formular y proponer soluciones a los problemas econ\u00F3micos a partir de la comprensi\u00F3n y an\u00E1lisis de los procesos de producci\u00F3n y distribuci\u00F3n de los mercados, a trav\u00E9s de una construcci\u00F3n pedag\u00F3gica interdisciplinaria y multidisciplinaria, mediante una modalidad educativa flexible e innovadora, mediante el uso de las Tecnolog\u00EDas de la Informaci\u00F3n y Comunicaci\u00F3n (TIC).<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El estudiante que desee inscribirse al plan de estudios de la licenciatura en Econom\u00EDa de la FES Arag\u00F3n debe tener: habilidad en el manejo de los m\u00E9todos cuantitativos, disposici\u00F3n para trabajar en grupo, alta disposici\u00F3n para la lectura y sensibilidad para orientar su inter\u00E9s por los problemas nacionales.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El estudiante de nuevo ingreso, por tanto, debe tener conocimientos de \u00E1lgebra, \u00E1lgebra lineal, c\u00E1lculo diferencial e integral, matem\u00E1ticas financieras, estad\u00EDstica, historia universal y de M\u00E9xico, buena redacci\u00F3n y ortograf\u00EDa, geograf\u00EDa f\u00EDsica y humana adem\u00E1s de principios b\u00E1sicos de contabilidad.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El egresado de la Licenciatura en Econom\u00EDa tendr\u00E1 una s\u00F3lida formaci\u00F3n te\u00F3rica, diversificada y actualizada, de tal manera que sea capaz de discernir entre las diferentes corrientes de pensamiento econ\u00F3mico, comprender la g\u00E9nesis de cada una de ellas y su contexto hist\u00F3rico, as\u00ED como su aplicaci\u00F3n tanto a los hechos macroecon\u00F3micos como a los microecon\u00F3micos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tendr\u00E1 un suficiente manejo de m\u00E9todos y t\u00E9cnicas de investigaci\u00F3n y capacidad de abstracci\u00F3n, puesto que la labor de investigaci\u00F3n es un elemento indispensable para su desarrollo profesional.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se caracterizar\u00E1 por un adecuado conocimiento de los m\u00E9todos cuantitativos reconoci\u00E9ndolos como una parte fundamental de su formaci\u00F3n b\u00E1sica.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Conocer\u00E1 la Historia Econ\u00F3mica, lo que le permitir\u00E1 entender, analizar y realizar la prospecci\u00F3n de los cambios y la evoluci\u00F3n de la realidad econ\u00F3mica tanto nacional como internacional.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dispondr\u00E1 de conocimientos te\u00F3ricos que le otorguen capacidades para comprender y dise\u00F1ar modelos de pol\u00EDtica econ\u00F3mica correspondientes con la realidad econ\u00F3mica nacional y su prospecci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Estar\u00E1 dotado de un bagaje tecnol\u00F3gico que vincule las t\u00E9cnicas e instrumentos m\u00E1s usuales, importantes y avanzados en la actualidad para el an\u00E1lisis econ\u00F3mico. Asimismo tendr\u00E1 un conocimiento adecuado de la Administraci\u00F3n, el Derecho, la Computaci\u00F3n y el manejo suficiente de un segundo idioma para completar su formaci\u00F3n. Todo lo cual, sin duda, le proporcionar\u00E1 un nivel razonable de competitividad en el mercado de trabajo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por todo lo anterior, el egresado de la Licenciatura en Econom\u00EDa se encontrar\u00E1 altamente capacitado para ejecutar an\u00E1lisis econ\u00F3mico, an\u00E1lisis financiero y llevar a cabo labores de organizaci\u00F3n, planeaci\u00F3n, direcci\u00F3n y coordinaci\u00F3n de las diferentes actividades vinculadas con la aplicaci\u00F3n de la ciencia econ\u00F3mica.<\/span><\/p>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/economia-sua/mapa-economia-sua.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/economia-sua/programas-economia-sua.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/economia-sua/economia-suayed-titulacion.pdf"
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Omar Alejandro Coutiño Pérez",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/suayed-economia/omar-alejandro-coutinno-perez.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Luis Alberto Arenas Reyes",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/suayed-economia/luis-arenas.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h, s\u00E1bado de 09:00 a 14:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 83013",
+                "correo_electronico": "suayed.atencion@aragon.unam.mx",
+                "facebook": "https:\/\/www.facebook.com\/FESAragon.suayed\/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/suayed"
+            }
+        }
+    ]
+}

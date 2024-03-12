@@ -1,0 +1,73 @@
+﻿{
+    "titulo": "EquidadFES",
+    "titulo_normalizado": "equidadfes",
+    "imagenes": [
+        {
+            "imagen": "consentimiento",
+            "alt": "Consentimiento"
+        },
+        {
+            "imagen": "diversidad-sexual",
+            "alt": "Diversidad sexual"
+        },
+        {
+            "imagen": "el-patriarcado-tambien-afecta-al-hombre",
+            "alt": "El patriarcado tambi\u00E9n afecta al hombre"
+        },
+        {
+            "imagen": "estereotipos-de-genero",
+            "alt": "Estereotipos de g\u00E9nero"
+        },
+        {
+            "imagen": "genero-y-sexo",
+            "alt": "G\u00E9nero y sexo"
+        }
+    ],
+    "imagenes_secundarias": [
+        {
+            "titulo": "Aborto",
+            "secundaria": true,
+            "imagen": "aborto"
+        },
+        {
+            "titulo": "Asexualidad",
+            "secundaria": true,
+            "imagen": "asexualidad"
+        },
+        {
+            "titulo": "Mansplaining",
+            "secundaria": true,
+            "imagen": "mansplaining"
+        },
+        {
+            "titulo": "Amor Rom\u00E1ntico",
+            "secundaria": true,
+            "imagen": "mitos-amor-romantico"
+        },
+        {
+            "titulo": "No Binario",
+            "secundaria": true,
+            "imagen": "no-binario"
+        },
+        {
+            "titulo": "Sexting",
+            "secundaria": true,
+            "imagen": "nudes"
+        },
+        {
+            "titulo": "Patriarcado",
+            "secundaria": true,
+            "imagen": "patriarcado"
+        },
+        {
+            "titulo": "Reconocimiento Legal de G\u00E9nero",
+            "secundaria": true,
+            "imagen": "reconocimiento-legal-de-genero"
+        },
+        {
+            "titulo": "Sororidad",
+            "secundaria": true,
+            "imagen": "sororidad"
+        }
+    ]
+}

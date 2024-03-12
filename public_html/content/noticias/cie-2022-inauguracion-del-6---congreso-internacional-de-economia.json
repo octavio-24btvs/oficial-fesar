@@ -1,0 +1,31 @@
+{
+	"titulo": "CIE 2022: Inauguraci\u00F3n del 6.° Congreso Internacional de Econom\u00EDa",
+	"titulo_normalizado": "cie-2022-inauguracion-del-6---congreso-internacional-de-economia",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		},
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "22/08/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con la intenci\u00F3n de reconocer y ahondar en las premisas de b\u00FAsqueda de alternativas para desarrollo y sostenibilidad que sean viables de forma nacional e internacional, la FES Arag\u00F3n, en conjunto con la Divisi\u00F3n de Estudios de Posgrado e Investigaci\u00F3n, organizaron este evento completamente virtual.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Entre las y los invitados a esta inauguraci\u00F3n se encontraron la jefa de posgrado de la Facultad y presidenta del congreso, Mar\u00EDa Elena Jim\u00E9nez, quien di\u00F3 el discurso inicial en representaci\u00F3n del director, Fernando Macedo; Ignacio Perottini, coordinador del Posgrado de Econom\u00EDa en la UNAM; Hern\u00E1n Botta, director de la facultad de derecho en la Universidad del Rosario, entre otros acad\u00E9micos conocedores del tema.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Parte de lo expuesto en estas ponencias abordar\u00E1 temas sobre el contexto actual econ\u00F3mico y la comprensi\u00F3n de su la relaci\u00F3n con el entorno; como la inflaci\u00F3n global y generalizada de los pa\u00EDses, as\u00ED como el incremento en las tasas de inter\u00E9s en las principales econom\u00EDas, lo cu\u00E1l impacta en las naciones en v\u00EDas de desarrollo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">As\u00ED mismo, ser\u00E1 expuesta la econom\u00EDa desde un panorama marxista, el cual pudiera explicar los ingresos de la clase trabajadora con un control de inflaci\u00F3n, con el fin de evitar efectos disruptivos entre quienes poseen un bajo poder adquisitivo.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Alternativas1.gif"
+		},
+		{
+			"imagen": "Alternativas2.gif"
+		},
+		{
+			"imagen": "Alternativas3.gif"
+		},
+		{
+			"imagen": "Alternativas4.gif"
+		}	]
+
+}

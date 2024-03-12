@@ -1,0 +1,266 @@
+{
+	"id": 18,
+	"titulo": "SUAyED",
+	"icono": "icon-suayed",
+	"noticias": [
+		{
+			"titulo":"Arag\u00F3n y Acatl\u00E1n, unidas por la escena internacional",
+			"titulo_normalizado":"aragon-y-acatlan-unidas-por-la-escena-internacional",
+			"autor":"Miguel Palacios",
+			"imagen": "RR-II-1.jpg",
+			"fecha":"31/03/22"
+		},
+		{
+			"titulo":"Profesor de la SUAyED recibe premio a la excelencia acad\u00E9mica",
+			"titulo_normalizado":"profesor-de-la-suayed-recibe-premio-a-la-excelencia-academica",
+			"autor":"Erik Pliego",
+			"imagen": "PRemio5.gif",
+			"fecha":"30/10/23"
+		},
+		{
+			"titulo":"Bienvenida a la generaci\u00F3n 2022-2 del SUAyED",
+			"titulo_normalizado":"bienvenida-a-la-generacion-2022-2-del-suayed",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "bienvenida-suayed-1.jpg",
+			"fecha":"29/01/22"
+		},
+		{
+			"titulo":"En busca de la recuperaci\u00F3n econ\u00F3mica",
+			"titulo_normalizado":"en-busca-de-la-recuperacion-economica",
+			"autor":"Rosa Francisco",
+			"imagen": "en-busca-de-la-recuperacion-economica-1.jpg",
+			"fecha":"25/08/21"
+		},
+		{
+			"titulo":"Derecho SUA tras el sello de excelencia KIV",
+			"titulo_normalizado":"derecho-sua-tras-el-sello-de-excelencia-kiv",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "derecho-sua-tras-el-sello-de-excelencia-kiv-1.jpg",
+			"fecha":"23/11/21"
+		},
+		{
+			"titulo":"\u00A1Feliz Aniversario SUAyED!",
+			"titulo_normalizado":"feliz-aniversario-suayed",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "suayed1.gif",
+			"fecha":"23/03/22"
+		},
+		{
+			"titulo":"Contra la desigualdad y pobreza",
+			"titulo_normalizado":"contra-la-desigualdad-y-pobreza",
+			"autor":"Brenda Martinez",
+			"imagen": "reflexiones-contra-la-desigualdad-y-pobreza-1.jpg",
+			"fecha":"22/05/21"
+		},
+		{
+			"titulo":"La contabilidad social, beneficios y aportaciones",
+			"titulo_normalizado":"la-contabilidad-social-beneficios-y-aportaciones",
+			"autor":"Norma Mora",
+			"imagen": "la-contabilidad-social-beneficios-y-aportaciones-1.jpg",
+			"fecha":"22/05/21"
+		},
+		{
+			"titulo":"Harvard y su m\u00E9todo de negociaci\u00F3n",
+			"titulo_normalizado":"harvard-y-su-metodo-de-negociacion",
+			"autor":"Rosa Francisco",
+			"imagen": "harvard-y-su-metodo-de negociacion-1.jpg",
+			"fecha":"22/05/21"
+		},
+		{
+			"titulo":"SUAyED cierra celebraci\u00F3n con \u00F3pera y cine",
+			"titulo_normalizado":"suayed-cierra-celebracion-con-opera-y-cine",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "suayed-cierra-celebracion-con-opera-y-cine-1.jpg",
+			"fecha":"22/04/22"
+		},
+		{
+			"titulo":"Inicia proceso de reacreditaci\u00F3n RRII SUAyED",
+			"titulo_normalizado":"inicia-proceso-de-reacreditacion-rrii-suayed",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Enseñanza1.gif",
+			"fecha":"21/06/22"
+		},
+		{
+			"titulo":"Elaboraci\u00F3n de productos de software",
+			"titulo_normalizado":"elaboracion-de-productos-de-software",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "software1.gif",
+			"fecha":"21/05/21"
+		},
+		{
+			"titulo":"Retos para las oficinas de proyectos gubernamentales",
+			"titulo_normalizado":"retos-para-las-oficinas-de-proyectos-gubernamentales",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "retos-oficinas-proyectos-gubernamentales-1.jpg",
+			"fecha":"21/05/21"
+		},
+		{
+			"titulo":"El valor de un proyecto",
+			"titulo_normalizado":"el-valor-de-un-proyecto",
+			"autor":"Redacci\u00F3n",
+			"imagen": "el-valor-de-un-proyecto-1.jpg",
+			"fecha":"21/05/21"
+		},
+		{
+			"titulo":"Protecci\u00F3n de datos personales",
+			"titulo_normalizado":"proteccion-de-datos-personales",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "proteccion-de-datos-personales-1.jpg",
+			"fecha":"21/05/21"
+		},
+		{
+			"titulo":"Los proyectos p\u00FAblicos en busca de la igualdad social",
+			"titulo_normalizado":"los-proyectos-publicos-en-busca-de-la-igualdad-social",
+			"autor":"Norma Mora",
+			"imagen": "quienes1.gif",
+			"fecha":"21/05/21"
+		},
+		{
+			"titulo":"Agilismo en las TIC",
+			"titulo_normalizado":"agilismo-en-las-tic",
+			"autor":"Rosa Francisco",
+			"imagen": "agilismo-en-las-tic-1.jpg",
+			"fecha":"20/05/21"
+		},
+		{
+			"titulo":"La \u00E9tica y su importancia para el mundo laboral",
+			"titulo_normalizado":"la-etica-y-su-importancia-para-el-mundo-laboral",
+			"autor":"Sashel Gonz\u00E1lez",
+			"imagen": "etica-importancia-mundo-laboral-1.jpg",
+			"fecha":"20/05/21"
+		},
+		{
+			"titulo":"M\u00E9todos en la direcci\u00F3n de proyectos",
+			"titulo_normalizado":"metodos-en-la-direccion-de-proyectos",
+			"autor":"Velia Andrey L\u00F3pez",
+			"imagen": "metodos-1.gif",
+			"fecha":"20/05/21"
+		},
+		{
+			"titulo":"Liderazgo con \u00E9tica",
+			"titulo_normalizado":"liderazgo-con-etica",
+			"autor":"Redacci\u00F3n",
+			"imagen": "liderazgo-con-etica-1.jpg",
+			"fecha":"20/05/21"
+		},
+		{
+			"titulo":"Nueva generaci\u00F3n, SUAyED",
+			"titulo_normalizado":"nueva-generacion-suayed",
+			"autor":"Valeria Hern\u00E1ndez",
+			"imagen": "Nueva-generación-1.gif",
+			"fecha":"18/02/21"
+		},
+		{
+			"titulo":"Centenario de Jos\u00E9 Saramago",
+			"titulo_normalizado":"centenario-de-jose-saramago",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Saramago1.gif",
+			"fecha":"16/11/22"
+		},
+		{
+			"titulo":"CIMN22: Roles de g\u00E9nero dentro de la crisis planetaria",
+			"titulo_normalizado":"cimn22-roles-de-genero-dentro-de-la-crisis-planetaria",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "roles-de-genero-dentro-de-la-crisis-planetaria-1.jpg",
+			"fecha":"14/10/22"
+		},
+		{
+			"titulo":"CIMN22: Avanzan esfuerzos para garantizar los derechos de todes",
+			"titulo_normalizado":"cimn22-avanzan-esfuerzos-para-garantizar-los-derechos-de-todes",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "esfuerzos-para-garantizar-los-derechos-de-todes-1.jpg",
+			"fecha":"14/10/22"
+		},
+		{
+			"titulo":"CIMN22: Cuidados durante la pandemia",
+			"titulo_normalizado":"cimn22-cuidados-durante-la-pandemia",
+			"autor":"Edna Reyes",
+			"imagen": "cuidados-durante-la-pandemia-1.jpg",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"Despojo a los pueblos originarios",
+			"titulo_normalizado":"despojo-a-los-pueblos-originarios",
+			"autor":"Rosa Francisco",
+			"imagen": "despojo-a-los-pueblos-originarios-1.jpg",
+			"fecha":"13/09/21"
+		},
+		{
+			"titulo":"11F: Por un estudio igualitario",
+			"titulo_normalizado":"11f-por-un-estudio-igualitario",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "11f-por-un-estudio-igualitario-1.jpg",
+			"fecha":"13/02/23"
+		},
+		{
+			"titulo":"Entrega de diplomas a generaci\u00F3n del SUAyED",
+			"titulo_normalizado":"entrega-de-diplomas-a-generacion-del-suayed",
+			"autor":"Sara Ignacio",
+			"imagen": "entrega-de-diplomas-a-generacion-del-suayed-1.png",
+			"fecha":"11/10/18"
+		},
+		{
+			"titulo":"Derecho SUAyED busca sello iberoamericano de calidad",
+			"titulo_normalizado":"derecho-suayed-busca-sello-iberoamericano-de-calidad",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "derecho-suayed-busca-sello-iberoamericano-de-calidad-1.jpg",
+			"fecha":"09/03/22"
+		},
+		{
+			"titulo":"8M: la mujer en la econom\u00EDa y sociedad",
+			"titulo_normalizado":"8m-la-mujer-en-la-economia-y-sociedad",
+			"autor":"Kenia Brodman",
+			"imagen": "8Meconomía1.gif",
+			"fecha":"08/03/22"
+		},
+		{
+			"titulo":"8M: Los retos de la mujer",
+			"titulo_normalizado":"8m-los-retos-de-la-mujer",
+			"autor":"Alberto Ochoa",
+			"imagen": "Los-retos-de-la-mujer1.gif",
+			"fecha":"08/03/21"
+		},
+		{
+			"titulo":"Cuidados comunitarios: un di\u00E1logo transformador",
+			"titulo_normalizado":"cuidados-comunitarios-un-dialogo-transformador",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Comunitarios2.gif",
+			"fecha":"05/10/23"
+		},
+		{
+			"titulo":"Festejos entre deporte e inteligencia artificial",
+			"titulo_normalizado":"festejos-entre-deporte-e-inteligencia-artificial",
+			"autor":"Beatriz Calva",
+			"imagen": "sua-1.jpg",
+			"fecha":"04/03/23"
+		},
+		{
+			"titulo":"Nuevo lugar para el conocimiento",
+			"titulo_normalizado":"nuevo-lugar-para-el-conocimiento",
+			"autor":"Cristian Reyes",
+			"imagen": "Nuevo_lugar_para_el_conocimiento1.jpg",
+			"fecha":"04/02/20"
+		},
+		{
+			"titulo":"Reflexiones sobre los cuidados",
+			"titulo_normalizado":"reflexiones-sobre-los-cuidados",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Cuidados1.gif",
+			"fecha":"03/10/23"
+		},
+		{
+			"titulo":"Bienvenida generaci\u00F3n SUAyED  2020-1",
+			"titulo_normalizado":"bienvenida-generacion-suayed--2020-1",
+			"autor":"Adri\u00E1n Reyes",
+			"imagen": "bienvenida-generacion-suayed-2020-1-1.jpg",
+			"fecha":"03/08/19"
+		},
+		{
+			"titulo":"Acreditaci\u00F3n de Econom\u00EDa SUAyED",
+			"titulo_normalizado":"acreditacion-de-economia-suayed",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "acreditacion-economia-suayed-1.jpg",
+			"fecha":"02/12/22"
+		}
+	]
+}

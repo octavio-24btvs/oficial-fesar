@@ -1,0 +1,39 @@
+{
+	"titulo": "Cerebros en competencia",
+	"titulo_normalizado": "cerebros-en-competencia",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		}
+	],
+	"autor": "Jorge Narv\u00E1ez",
+	"fecha": "08/08/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte del<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Programa de Inducci\u00F3n e Integraci\u00F3n del Alumnado de Nuevo Ingreso y Trayectorias Escolares (PIIANITE)<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se llev\u00F3 a cabo en la Facultad de Estudios Superiores Arag\u00F3n el “Rally Matem\u00E1tico” de la Divisi\u00F3n de las Ciencias F\u00EDsico-Matem\u00E1ticas y de las Ingenier\u00EDas, fue organizado en conjunto con&nbsp; la FES Cuautitl\u00E1n y el Colegio de Ciencias y Humanidades de los planteles, Vallejo, Azcapotzalco y Oriente.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la presentaci\u00F3n, Mario Sosa, jefe de la Divisi\u00F3n pronunci\u00F3 algunas palabras en agradecimiento a los participantes, adem\u00E1s Nelly Rigaud, profesora de Ingenier\u00EDa Industrial y Coordinadora de la Divisi\u00F3n habl\u00F3 sobre lo peculiar de las actividades “Podemos decir que esta es la primera vez que se realiza un evento interinstitucional de naturaleza l\u00FAdica en la FES Arag\u00F3n”, explic\u00F3 la acad\u00E9mica.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">rally<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> estuvo distribuido en ocho m\u00F3dulos dentro de las instalaciones de la Facultad, donde las y los nuevos aragoneses organizados en equipos de cinco integrantes, pusieron a prueba sus habilidades y destreza matem\u00E1ticas para resolver problemas y acumular puntos. De manera competitiva, a cada grupo se le presentaron distintos retos como Tangram, el Juego de la oca, Laberinto num\u00E9rico, Domin\u00F3, Cuadrado de Arqu\u00EDmedes, entre otros.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al finalizar el evento, el equipo con m\u00E1s puntos acumulados fue el equipo de “Los Ingeniosos”, con 32 puntos, seguido por “Bob el constructor” y “Los Mazapanes” con el segundo y tercer lugar respectivamente.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "rally-1.jpg"
+		},
+		{
+			"imagen": "rally-2.jpg"
+		},
+		{
+			"imagen": "rally-3.jpg"
+		},
+		{
+			"imagen": "rally-4.jpg"
+		},
+		{
+			"imagen": "rally-5.jpg"
+		},
+		{
+			"imagen": "rally-6.jpg"
+		},
+		{
+			"imagen": "rally-7.jpg"
+		},
+		{
+			"imagen": "rally-8.jpg"
+		}	]
+
+}

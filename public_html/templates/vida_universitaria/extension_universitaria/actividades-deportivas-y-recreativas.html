@@ -1,0 +1,465 @@
+<!-- Actividades Deportivas y Recreativas -->
+<div class="container content" ng-init="showing = '0'">
+    <hr>
+    <div class="row pleca-secciones">
+        <div class="col-lg-12 secciones">
+            <i class="icono-secciones icon-actividades-deportivas" style="position: relative;top: 8px;"></i>
+            <h1 class="mw-50">Actividades Deportivas y Recreativas </h1>
+            <a class="float-right boton-registro btn btn-secondary btn-sm boton-header"
+                href="https://cedco2.aragon.unam.mx/Extunideportiva/public/" target="_blank"
+                title="Actividades deportivas y recreativas">Inscripci&oacute;n actividades deportivas</a>
+        </div>
+    </div>
+    <hr>
+    <div class="row mt-3">
+        <div class="col-sm-12 col-md-3 col-lg-3 menu-carreras">
+            <ul class="side-menu list-group text-left">
+                <li class="list-group-item list-group-item-action" ng-class="showing === '0' ? 'active' : ''"
+                    ng-click="showing = '0'">Inicio</li>
+                <li class="list-group-item list-group-item-action" ng-class="showing === '1' ? 'active' : ''"
+                    ng-click="showing = '1'">Espacios deportivos</li>
+                <li class="list-group-item list-group-item-action" ng-class="showing === '2' ? 'active' : ''"
+                    ng-click="showing = '2'">Disciplinas y programas deportivos y recreativos</li>
+                <li class="list-group-item list-group-item-action" ng-class="showing === '3' ? 'active' : ''"
+                    ng-click="showing = '3'">Requisitos y procedimiento para solicitar los servicios</li>
+                <li class="list-group-item list-group-item-action" ng-class="showing === '4' ? 'active' : ''"
+                    ng-click="showing = '4'">Preguntas frecuentes</li>
+                <li class="list-group-item list-group-item-action" ng-class="showing === '5' ? 'active' : ''"
+                    ng-click="showing = '5'">Contacto</li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-9 col-lg-9">
+            <div class="content">
+                <div class="tab-pane" ng-show="showing === '0'">
+                    <h2>Presentaci&oacute;n</h2>
+                    <p>El objetivo de esta Coordinaci&oacute;n es ofrecer y promover entre la comunidad universitaria de
+                        la FES Arag&oacute;n una serie de actividades complementarias a su formaci&oacute;n
+                        acad&eacute;mica, y as&iacute; fomentar una ben&eacute;fica cultura deportiva y de buenos
+                        h&aacute;bitos que incidan de manera positiva en su desarrollo humano. Adem&aacute;s, buscamos
+                        proveer de las herramientas y espacios necesarios para la integraci&oacute;n de las personas en
+                        el deporte competitivo.</p>
+                    <p>La Coordinaci&oacute;n Deportiva de la FES Arag&oacute;n funciona con base en tres ejes
+                        fundamentales que son: </p>
+                    <ul>
+                        <li>Cultura f&iacute;sica, activaci&oacute;n, recreaci&oacute;n y deporte formativo. </li>
+                        <li>Deporte competitivo. </li>
+                        <li>Escuela del Deporte </li>
+                    </ul>
+                    <p>La FES Arag&oacute;n cuenta con una oferta de actividades y disciplinas variadas, que se pueden
+                        practicar de manera recreativa, formativa o a trav&eacute;s de la participaci&oacute;n activa en
+                        un equipo representativo de la Facultad: </p>
+                    <div class="pb-3 column">
+                        <ul>
+                            <li>Ajedrez</li>
+                            <li>Atletismo</li>
+                            <li>Bádminton</li>
+                            <li>Baile fitness (zumba)</li>
+                            <li>Básquetbol</li>
+                            <li>Béisbol</li>
+                            <li>Calistenia y crossfit</li>
+                            <li>Entrenamiento funcional</li>
+                            <li>Fútbol 7</li>
+                            <li>Fútbol asociación</li>
+                            <li>Fútbol rápido</li>
+                            <li>Gimnasia</li>
+                            <li>Gimnasio de pesas</li>
+                            <li>Karate do</li>
+                            <li>Luchas asociadas</li>
+                            <li>Montañismo</li>
+                            <li>Porras y animación</li>
+                            <li>Rugby</li>
+                            <li>Taekwondo</li>
+                            <li>Tenis de mesa</li>
+                            <li>Tocho bandera</li>
+                            <li>Voleibol Sala</li>
+                            <li>Club de juegos de mesa</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="tab-pane" ng-show="showing === '1'">
+                    <h2>Espacios deportivos</h2>
+                    <p>La Facultad de Estudios Superiores Arag&oacute;n cuenta con las siguientes instalaciones
+                        deportivas:</p>
+
+                    <ul>
+                        <li>1 Gimnasio multidisciplinario dividido en tres espacios: un gimnasio de pesas y dos salones
+                            multidisciplinarios para la pr&aacute;ctica de diferentes disciplinas deportivas </li>
+                        <li>1 Gimnasio de parquet </li>
+                        <li>1 Gimnasio de barras, al aire libre </li>
+                        <li>6 Canchas multidisciplinarias al aire libre para la pr&aacute;ctica de basquetbol, futbol y
+                            voleibol </li>
+                        <li>1 Cancha de voleibol playa </li>
+                        <li>2 Canchas de futbol r&aacute;pido </li>
+                        <li>1 Campo anexo </li>
+                        <li>1 Pista de atletismo </li>
+                        <li>1 Campo de futbol asociaci&oacute;n </li>
+                        <li>1 Cancha de futbol 7 </li>
+                        <li>1 Campo de beisbol </li>
+                        <li>Vestidores, regaderas y sanitarios en el gimnasio multidisciplinario </li>
+                        <li>Vestidores y sanitarios en el gimnasio de parquet </li>
+                    </ul>
+                </div>
+
+                <div class="tab-pane" ng-show="showing === '2'">
+                    <h2>Disciplinas y programas deportivos y recreativos</h2>
+                    <p>Contamos con diversas disciplinas que se pueden practicar de manera recreativa o a trav&eacute;s
+                        de la participaci&oacute;n activa en un equipo representativo de esta Facultad.</p>
+                    <div class="table-responsive-sm pb-3">
+                        <table class="table table-striped texto-pleca fs-13 text-left">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th scope="col">Disciplina</th>
+                                    <th scope="col">Lugar de entranamiento</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Ajedrez</td>
+                                    <td>Carpa de ajedrez, frente al gimnasio de pesas</td>
+                                </tr>
+                                <tr>
+                                    <td>Atletismo</td>
+                                    <td>Pista de atletismo</td>
+                                </tr>
+                                <tr>
+                                    <td>Bádminton</td>
+                                    <td>Gimnasio de parquet</td>
+                                </tr>
+                                <tr>
+                                    <td>Baile fitness (zumba)</td>
+                                    <td> Gimnasio multidisciplinario, salón 1</td>
+                                </tr>
+                                <tr>
+                                    <td>Básquetbol</td>
+                                    <td>Gimnasio de parquet</td>
+                                </tr>
+                                <tr>
+                                    <td>Béisbol</td>
+                                    <td>Campo de beisbol</td>
+                                </tr>
+                                <tr>
+                                    <td>Calistenia y Crossfit</td>
+                                    <td>Gimnasio al aire libre</td>
+                                </tr>
+                                <tr>
+                                    <td>Entrenamiento funcional</td>
+                                    <td>Gimnasio multidisciplinario, sal&oacute;n 2</td>
+                                </tr>
+                                <tr>
+                                    <td>F&uacute;tbol 7</td>
+                                    <td>Cancha de f&uacute;tbol 7</td>
+                                </tr>
+                                <tr>
+                                    <td>F&uacute;tbol asociaci&oacute;n</td>
+                                    <td>Campo de f&uacute;tbol</td>
+                                </tr>
+                                <tr>
+                                    <td>F&uacute;tbol r&aacute;pido</td>
+                                    <td>Cancha de f&uacute;tbol r&aacute;pido</td>
+                                </tr>
+                                <tr>
+                                    <td>Gimnasia</td>
+                                    <td>Gimnasio multidisciplinario, salón 1</td>
+                                </tr>
+                                <tr>
+                                    <td>Gimnasio de pesas</td>
+                                    <td>Gimnasio de pesas</td>
+                                </tr>
+                                <tr>
+                                    <td>Karate do</td>
+                                    <td>Gimnasio de pesas, salones</td>
+                                </tr>
+                                <tr>
+                                    <td>Luchas asociadas</td>
+                                    <td>Gimnasio multidisciplinario, sal&oacute;n 2</td>
+                                </tr>
+                                <tr>
+                                    <td>Monta&ntilde;ismo</td>
+                                    <td>Áreas deportivas</td>
+                                </tr>
+                                <tr>
+                                    <td>Porras y animaci&oacute;n</td>
+                                    <td>Gimnasio multidisciplinario, salón 1</td>
+                                </tr>
+                                <tr>
+                                    <td>Rugby</td>
+                                    <td>Campo anexo</td>
+                                </tr>
+                                <tr>
+                                    <td>Taekwondo</td>
+                                    <td>Gimnasio multidisciplinario</td>
+                                </tr>
+                                <tr>
+                                    <td>Tenis de mesa</td>
+                                    <td>Gimnasio de parquet</td>
+                                </tr>
+                                <tr>
+                                    <td>Tocho bandera</td>
+                                    <td>Campo anexo</td>
+                                </tr>
+                                <tr>
+                                    <td>Voleibol sala</td>
+                                    <td>Gimnasio de parquet</td>
+                                </tr>
+                                <tr>
+                                    <td>Club de juegos de mesa</td>
+                                    <td>Carpa de juegos de mesa, &aacute;rea deportiva</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <hr>
+                    <div class="table-responsive-sm pt-3">
+                        <table class="table table-striped texto-pleca fs-13 text-left">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th scope="col">Programa</th>
+                                    <th scope="col">Descripci&oacute;n</th>
+                                    <th scope="col">Lugar y Horario</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Diverpuma</td>
+                                    <td>Es un concepto lúdico-recreativo, que fomenta la integración y cohesión de
+                                        grupos, a través de divertidas dinámicas que fortalecen los canales de
+                                        comunicación entre estudiantes y personal académico, y que ayudan en la mejora
+                                        del desempeño individual y grupal.</td>
+                                    <td>Instalaciones deportivas
+                                        <hr>
+                                        Se da de acuerdo a solicitud en la Coordinación Deportiva para agendar día y
+                                        hora
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Deporteca y Ludoteca</td>
+                                    <td>La deporteca y ludoteca son un concepto en el que estudiantes tienen la
+                                        posibilidad de solicitar, en calidad de préstamo, material lúdico y deportivo
+                                        con el propósito de emplear su tiempo libre activándose físicamente y realizando
+                                        actividades recreativas y deportivas.</td>
+                                    <td>Coordinaci&oacute;n Deportiva
+                                        <hr>
+                                        De lunes a viernes de 8:00 a 19:00 h
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Espacio Puma de Activaci&oacute;n F&iacute;sica</td>
+                                    <td>Es un concepto con actividades lúdicas, predeportivas y de activación física,
+                                        para emplear de manera positiva el tiempo libre y brindar diversión y relajación
+                                        además de fortalecer el compañerismo.</td>
+                                    <td>Instalaciones deportivas
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Escuela del Deporte de la FES Arag&oacute;n (menores de edad)</td>
+                                    <td>La Escuela del Deporte de la FES Aragón está dirigida a niños de 6 a 17 años de
+                                        edad de la comunidad aledaña a la FES Aragón, ofrece opciones deportivas que
+                                        contribuyen a su desarrollo integral para fomentar una vida sana y buenos
+                                        hábitos.</td>
+                                    <td>
+                                        <ul>
+                                            <li>Ajedrez
+                                                <p class="m-0 text-left">En línea</p>
+                                                <p class="m-0 text-left">Martes y jueves de 16:30 a 18:30 h</p>
+                                                <p class="text-left">Sábados de 9:00 a 10:30h</p>
+                                            </li>
+                                            <li>Básquetbol
+                                                <p class="m-0 text-left">Gimnasio de parquet y canchas al aire libre</p>
+                                                <p class="text-left">Martes y jueves de 16:30 a 18:30 h</p>
+                                            </li>
+                                            <li>Béisbol
+                                                <p class="m-0 text-left">Campo de béisbol</p>
+                                                <p class="text-left">Martes y jueves de 16:30 a 18:30 h</p>
+                                            </li>
+                                            <li>Fútbol
+                                                <p class="m-0 text-left">Cancha de fútbol rápido</p>
+                                                <p class="text-left">Martes y jueves de 16:00 a 18:30 h</p>
+                                            </li>
+                                            <li>Gimnasia y porras
+                                                <p class="m-0 text-left">Salón 2 del gimnasio multidisciplinario</p>
+                                                <p class="text-left">Martes y jueves de 16:30 a 18:00 h</p>
+                                            </li>
+                                            <li>Taekwondo
+                                                <p class="m-0 text-left">Salón 1 del gimnasio multidisciplinario</p>
+                                                <p class="text-left">Martes, jueves y viernes de 16:30 a 20:00 h</p>
+                                            </li>
+                                            <li>Tochito bandera
+                                                <p class="m-0 text-left">Cancha de fútbol 7</p>
+                                                <p class="text-left">Martes y jueves de 16:00 a 18:00 h</p>
+                                            </li>
+                                            <li>Voleibol
+                                                <p class="m-0 text-left">Gimnasio de parquet y canchas al aire libre</p>
+                                                <p class="text-left">Martes y jueves de 16:00 a 18:00 h</p>
+                                            </li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="tab-pane" ng-show="showing === '3'">
+                    <h2>Requisitos y procedimiento para solicitar los servicios</h2>
+                    <p>Para la pr&aacute;ctica de las disciplinas deportivas y el uso del gimnasio de pesas, es
+                        necesario realizar el tr&aacute;mite de inscripci&oacute;n a las actividades deportivas.</p>
+                    <p>La inscripci&oacute;n se realiza directamente en la plataforma de Extensi&oacute;n Universitaria
+                        en <a style="color: #0069d9;" href="https://bit.ly/3fpKM4q" target="_blank">este sitio web</a>.
+                    </p>
+                    <p>El procedimiento de inscripci&oacute;n es publicado al inicio de cada semestre en la <a
+                            style="color: #0069d9;" href="https://www.facebook.com/FESAragon.extension?mibextid=ZbWKwL"
+                            target="_blank">p&aacute;gina de Facebook Extensi&oacute;n Universitaria FES
+                            Arag&oacute;n</a>.</p>
+
+                    <ol>
+                        <li>Requisitos:
+                            <ul>
+                                <li>Credencial UNAM o INE</li>
+                                <li>Tira de materias o comprobante de inscripci&oacute;n del semestre en curso</li>
+                                <li>Certificado m&eacute;dico original no mayor a 3 meses</li>
+                                <li>Comprobante de seguro m&eacute;dico (IMSS, ISSSTE, etc&eacute;tera)</li>
+                            </ul>
+                        </li>
+
+                        <li>Aportaci&oacute;n al semestre:
+                            <ul>
+                                <li>Comunidad universitaria vigente $95.00</li>
+                                <li>Exalumnos $300.00</li>
+                                <p>Acudir a las cajas de la FES Arag&oacute;n, ubicadas en el edificio de la Unidad de
+                                    Extensi&oacute;n Universitaria, en la entrada de Bosques de Arag&oacute;n, de lunes
+                                    a viernes en horarios de atenci&oacute;n de 10:00 a 13:00 h y de 16:00 a 19:00 h.
+                                </p>
+                            </ul>
+                        </li>
+                    </ol>
+                </div>
+                <div class="tab-pane" ng-show="showing === '4'">
+                    <h2>Preguntas frecuentes</h2>
+                    <ol>
+                        <li>&iquest;C&oacute;mo puedo inscribirme a las actividades deportivas?
+                            <p>Mantente al tanto de la convocatoria y publicaciones en nuestra <a
+                                    style="color: #0069d9;"
+                                    href="https://www.facebook.com/FESAragon.extension?mibextid=ZbWKwL"
+                                    target="_blank">p&aacute;gina de Facebook Extensi&oacute;n Universitaria FES
+                                    Arag&oacute;n</a> para conocer el procedimiento de inscripci&oacute;n y los eventos
+                                que tenemos a lo largo del semestre.</p>
+                        </li>
+                        <li>&iquest;Necesito experiencia en alg&uacute;n deporte para inscribirme?
+                            <p>No necesitas contar con experiencia para inscribirte. En el caso de que ya seas
+                                practicante experimentada o experimentado, la o el entrenador lo tomar&aacute; en cuenta
+                                para continuar con tu desarrollo deportivo.</p>
+                        </li>
+                        <li>&iquest;Cu&aacute;les son las actividades deportivas que se ofertan en la FES Arag&oacute;n?
+                            <p>Para la comunidad universitaria:</p>
+                            <p>Atletismo, b&aacute;dminton, basquetbol, beisbol, calistenia, club de ajedrez, club de
+                                juegos de mesa, crossfit, entrenamiento funcional, futbol 7, futbol asociaci&oacute;n,
+                                futbol r&aacute;pido, futbol 7, fisicoculturismo (gimnasio de pesas), gimnasia, karate
+                                do, lucha ol&iacute;mpica, montañismo, porras y grupos de animaci&oacute;n, rugby,
+                                taekwondo, tenis de mesa, tocho bandera, voleibol sala y zumba.</p>
+                            <p>Actividades para la comunidad externa adulta:</p>
+                            <p>Entrenamiento funcional, gimnasio de pesas y taekwondo. El costo de estas actividades es
+                                de $290.00 mensuales. Para la inscripci&oacute;n a estas actividades, favor de verificar
+                                la disponibilidad en la Coordinaci&oacute;n Deportiva o en el correo electr&oacute;nico
+                                <a class="link-a" href="mailto:deportivas.contacto@aragon.unam.mx"
+                                    title="correo-electronico">deportivas.contacto@aragon.unam.mx</a> antes de realizar
+                                el pago de inscripción.</p>
+                            <p>Actividades infantiles y juveniles de entre 5 y 17 años:</p>
+                            <p>Ajedrez, basquetbol, gimnasia, futbol y taekwondo. Para mayores informes e inscripciones
+                                te esperamos en la Coordinaci&oacute;n de Actividades Deportivas y Recreativas los
+                                d&iacute;as martes y jueves de las 16:00 a 20:00 h, o a trav&eacute;s de los siguientes
+                                medios digitales:
+                                <ul>WhatsApp 55 5474 4687</ul>
+                                <ul>Correo electr&oacute;nico <a class="link-a"
+                                        href="mailto:deportivas.escueladeldeporte@aragon.unam.mx"
+                                        title="correo-electronico">deportivas.escueladeldeporte@aragon.unam.mx</a></ul>
+                        </li>
+                        <li>&iquest;Con qu&eacute; instalaciones deportivas cuenta la FES Arag&oacute;n?
+                            <ul>1 Gimnasio multidisciplinario dividido en tres espacios: 1 gimnasio de pesas y 2 salones
+                                multidisciplinarios para la pr&aacute;ctica de diferentes disciplinas deportivas</ul>
+                            <ul>1 Gimnasio de parquet</ul>
+                            <ul>1 Gimnasio y barras al aire libre</ul>
+                            <ul>6 Canchas multidisciplinarias al aire libre para la pr&aacute;ctica de basquetbol,
+                                futbol y voleibol</ul>
+                            <ul>1 Cancha de voleibol playa</ul>
+                            <ul>2 Canchas de futbol r&aacute;pido</ul>
+                            <ul>1 Campo anexo</ul>
+                            <ul>1 Pista de atletismo</ul>
+                            <ul>1 Campo de futbol asociaci&oacute;n</ul>
+                            <ul>1 Cancha de futbol 7</ul>
+                            <ul>1 Campo de beisbol</ul>
+                            <ul>Vestidores, regaderas y sanitarios en el gimnasio multidisciplinario</ul>
+                            <ul>Vestidores y sanitarios en el gimnasio de parquet</ul>
+                        </li>
+                        <li>&iquest;Cu&aacute;les son los horarios de las actividades deportivas?
+                            <p>Para mayores informes consulta la pestaña "Disciplinas y programas deportivos y
+                                recreativos" de este sitio.</p>
+                        </li>
+                        <li>&iquest;Tienen alg&uacute;n costo las actividades deportivas?
+                            <p>El monto de inscripci&oacute;n semestral por cada disciplina deportiva es de $95.00 para
+                                la comunidad universitaria vigente.</p>
+                        </li>
+                        <li>&iquest;Hay actividades para personas externas o ajenas a la universidad?
+                            <p>Para la comunidad externa adulta contamos con las disciplinas de entrenamiento funcional,
+                                taekwondo y gimnasio de pesas. El costo es de $290.00 mensuales. Para la
+                                inscripci&oacute;n a estas actividades favor de verificar la disponibilidad en la
+                                Coordinaci&oacute;n Deportiva o en el correo electr&oacute;nico <a class="link-a"
+                                    href="mailto:deportivas.contacto@aragon.unam.mx"
+                                    title="correo-electronico">deportivas.contacto@aragon.unam.mx</a> antes de realizar
+                                el pago de inscripci&oacute;n.</p>
+                            <p>Para la comunidad infantil y juvenil de entre 5 y 17 años contamos con las disciplinas de
+                                ajedrez, basquetbol, gimnasia, futbol y taekwondo. Para mayores informes e inscripciones
+                                te esperamos en la Coordinaci&oacute;n de Actividades Deportivas y Recreativas los
+                                d&iacute;as martes y jueves de las 16:00 a 20:00 h, o a trav&eacute;s de los siguientes
+                                medios digitales:</p>
+                            <ul>WhatsApp 55 5474 4687</ul>
+                            <ul>Correo electr&oacute;nico <a class="link-a"
+                                    href="mailto:deportivas.escueladeldeporte@aragon.unam.mx"
+                                    title="correo-electronico">deportivas.escueladeldeporte@aragon.unam.mx</a></ul>
+                        </li>
+                        <li>&iquest;Cu&aacute;les son los horarios de atenci&oacute;n de la Coordinaci&oacute;n
+                            Deportiva?
+                            <p>La Coordinaci&oacute;n de Actividades Deportivas y Recreativas de la FES Arag&oacute;n
+                                brinda atenci&oacute;n de las 8:00 a las 20:00 h de lunes a viernes.</p>
+                            <p>Los d&iacute;as s&aacute;bado se brinda atenci&oacute;n a trav&eacute;s de los
+                                entrenadores en el gimnasio de pesas y en el &aacute;rea de pr&eacute;stamo de material
+                                l&uacute;dico-deportivo de las 9:00 a las 14:00 h en las canchas multidisciplinarias al
+                                aire libre de basquetbol, futbol y voleibol.</p>
+                        </li>
+                    </ol>
+                </div>
+                <div class="tab-pane" ng-show="showing === '5'">
+                    <h2>Contacto</h2>
+                    <div class="row pleca">
+                        <div class="col-12 col-lg-4 text-left encargados-licenciaturas">
+                            <h3>Responsable</h3>
+                            <p class="texto-pleca nombre-responsable">Carlos Octavio Cruz Valencia</p>
+                            <img class="d-flex justify-content-center rounded-circle img-responsable"
+                                src="public_html/img/vida_universitaria/extension_universitaria/responsable-deportivas.jpg"
+                                alt="Carlos Octavio Cruz Valencia" />
+                        </div>
+                        <div class="col-12 col-lg-4 contacto portafolio">
+                            <h3> Horario </h3>
+                            <p>De lunes a viernes de 8:00 a 20:00 h, s&aacute;bados de 9:00 a 14:00 h</p>
+                            <h3> Tel&eacute;fono(s) </h3>
+                            <p style="margin-bottom: 0px;">55 5623 0222</p>
+                            <p>Ext. 31035</p>
+                            <h3> Correo electr&oacute;nico</h3>
+                            <p class="fs-12"><a class="link-a" href="mailto:deportivas.contacto@aragon.unam.mx"
+                                    title="correo-electronico">deportivas.contacto@aragon.unam.mx</a></p>
+                            <h3>¡&Uacute;nete a nuestro Facebook!</h3>
+                            <a target="_blank"
+                                href="https://www.facebook.com/Extensi%C3%B3n-Universitaria-FES-Arag%C3%B3n-178855336172055/"
+                                class="icon-facebook-official facebook-becas" title="Facebook"> </a>
+                            <div class="galeria">
+                                <a class="contenedor-imagen " target="_blank" href="#!/seccion/deportivas"><img
+                                        class="justify-content-center img-fluid " alt="Noticias"
+                                        src="public_html/img/noticias/seccion-de-noticias.png"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div> <!-- fin de Actividades Deportivas y Recreativas -->

@@ -1,0 +1,19 @@
+{
+    "nombre": "Erika Saldaña Pérez", 
+    "grado_academico": "Doctora", 
+     "correo": [ "erikasaldanap3@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Pedagogía. Universidad Nacional Autónoma de México.", 
+        "Maestría en Pedagogía. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Teoría Psicoanalítica. Colegio Lacaniano."
+    ], 
+    "lineas_investigacion": [
+        "Formación profesional del pedagogo y Currículum.", 
+        "Política educativa y globalización en la educación superior.", 
+        "Filosofía educativa y teoría psicoanalítica."
+    ], 
+    "investigaciones": [
+        "La formación profesional del pedagogo en la sociedad del conocimiento, de la información y del aprendizaje. "
+    ]
+}

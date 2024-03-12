@@ -1,0 +1,31 @@
+{
+	"titulo": "Salvando vidas con conocimiento",
+	"titulo_normalizado": "salvando-vidas-con-conocimiento",
+	"secciones": [
+		{
+			"seccion": "Prevención y Seguridad Universitaria",
+			"seccion_normalizada": "prevencion-y-seguridad-universitaria"
+		},
+		{
+			"seccion": "Servicios a la Comunidad",
+			"seccion_normalizada": "servicios-a-la-comunidad"
+		}
+	],
+	"autor": "Jorge Narv\u00E1ez",
+	"fecha": "12/06/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los departamentos de Prevenci\u00F3n y Seguridad Universitaria y Servicios a la Comunidad de la Facultad de Estudios Superiores Arag\u00F3n, en colaboraci\u00F3n con la Brigada de Respuesta a Emergencias (BREM) de la FES Zaragoza, impartieron la primera parte del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Curso Primer Respondiente<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> en el Teatro Auditorio Jos\u00E9 Vasconcelos.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El director de la Facultad, Fernando Macedo, dio las palabras de bienvenida al evento, explic\u00F3 la importancia del curso<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">dentro del contexto universitario. Adem\u00E1s, record\u00F3 algunos ejemplos de la vida cotidiana donde es necesario aplicar dicho conocimiento.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La actividad fue impartida por Mar\u00EDa de Jes\u00FAs L\u00F3pez, encargada de capacitaci\u00F3n en la BREM, quien inform\u00F3 a las y los asistentes acerca de los distintos tipos de riesgos y emergencias m\u00E1s comunes trat\u00E1ndose de la salud de una persona como desmayos, convulsiones, infartos, etc\u00E9tera. Uno de los principales puntos es evaluar la situaci\u00F3n con la finalidad de saber si la ayuda es suficiente, o si no pone en riesgo la propia integridad. Tambi\u00E9n se explicaron los primeros pasos: verificar si la o el lesionado est\u00E1 consciente, valorar su dolor o padecimiento y pedir a otra persona que llame al n\u00FAmero de emergencias 911.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las y los participantes tuvieron la oportunidad de realizar ejercicios de simulaci\u00F3n dentro del Auditorio, lo cual les permiti\u00F3 aplicar las maniobras adecuadas en tiempo real. Este enfoque pr\u00E1ctico foment\u00F3 la confianza y la preparaci\u00F3n necesarias para actuar de manera r\u00E1pida y efectiva en situaciones de emergencia. Al final, se dot\u00F3 de informaci\u00F3n adicional sobre otras situaciones de riesgo como casos de hipoglucemia, hiperglucemia, embolia, intoxicaci\u00F3n et\u00EDlica, etc\u00E9tera. Ser un primer respondiente no solo se trata de contar con habilidades t\u00E9cnicas, sino tambi\u00E9n de tener el valor y estar dispuesto a ayudar.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "primer-respondiente-1.jpg"
+		},
+		{
+			"imagen": "primer-respondiente-2.jpg"
+		},
+		{
+			"imagen": "primer-respondiente-3.jpg"
+		},
+		{
+			"imagen": "primer-respondiente-4.jpg"
+		}	]
+
+}

@@ -1,0 +1,34 @@
+{
+	"titulo": "Semana de la Ingenier\u00EDa: sobre los sismos y qu\u00E9 hacer en caso de uno",
+	"titulo_normalizado": "semana-de-la-ingenieria-sobre-los-sismos-y-que-hacer-en-caso-de-uno",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería Civil",
+			"seccion_normalizada": "civil"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "19/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(32, 33, 36);\">Conmemorando el macrosimulacro nacional que se lleva acabo cada 19 de septiembre, la Facultad de Estudios Superiores Arag\u00F3n celebr\u00F3 durante la Semana de la Ingenier\u00EDa la conferencia: “Inspecci\u00F3n Post s\u00EDsmica Evaluaci\u00F3n R\u00E1pida”, una pl\u00E1tica por parte de la carrera de Ingenier\u00EDa Civil, para conocer la relaci\u00F3n entre M\u00E9xico y los sismos.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(32, 33, 36);\">Para esta presentaci\u00F3n, Juan Carlos Ortiz, jefe de la carrera de Ingenier\u00EDa Civil, exhort\u00F3 a todas las y los ingenieros de nuestra Facultad a involucrarse en mayor medida para saber c\u00F3mo reaccionar ante un sismo. Durante la conferencia explic\u00F3 qu\u00E9 provoca los sismos, desde extracciones desmedidas de agua, gas o petr\u00F3leo las cuales generan fallas geol\u00F3gicas, as\u00ED como el movimiento de las placas tect\u00F3nicas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(32, 33, 36);\">Las y los ingenieros tambi\u00E9n aprendieron c\u00F3mo funciona la alerta s\u00EDsmica y, de igual manera, conocieron los procesos para llevar a cabo una correcta revisi\u00F3n post s\u00EDsmica de edificios, para identificar posibles fallas y riesgos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(32, 33, 36);\">Al final, Juan Carlos Ortiz le record\u00F3 a la comunidad estudiantil aprovechar todas las conferencias de la Semana de la Ingenier\u00EDa, pues a trav\u00E9s de ellas se logra un mayor aprendizaje y retroalimentaci\u00F3n.&nbsp;&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Ingeniería1.gif"
+		},
+		{
+			"imagen": "Ingeniería2.gif"
+		},
+		{
+			"imagen": "Ingeniería3.gif"
+		},
+		{
+			"imagen": "Ingeniería4.gif"
+		},
+		{
+			"imagen": "Ingeniería5.gif"
+		}	]
+
+}

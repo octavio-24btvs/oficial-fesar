@@ -1,0 +1,18 @@
+{
+    "nombre": "Patricia Díaz Pérez", 
+    "grado_academico": "Maestra", 
+     "correo": [ "patriciadiazdip@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Diseño Industrial. ENEP Aragón. Universidad Nacional Autónoma de México. ",
+        "Maestría en arquitectura. FES Aragón y Facultad de Arquitectura. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Educación: los conceptos teóricos, metodológicos y prácticas que se construyen en la subárea de diseño integral de proyectos de la carrera de Diseño Industrial en FES Aragón."
+    ], 
+    "investigaciones": [
+        "Análisis y evaluación de los conceptos de Diseño como reflejo del proceso, el resultado y sus propósitos.", 
+        "Investigación multidisciplinaria sobre Diseño Sustentable y su enseñanza en Diseño Industrial.",
+        "PAPIME: Gestión de una articulación educativa que promueva la enseñanza y generación de diseños sustentables con apoyo de TIC No. 108220."
+    ]
+}

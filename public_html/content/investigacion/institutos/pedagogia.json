@@ -1,0 +1,42 @@
+{
+    "carrera": "Pedagogía", 
+    "icono": "icon-pedagogia", 
+    "investigadores": [
+        {
+            "nombre": "Alberto Rodríguez", 
+            "nombre_normalizado": "alberto-rodriguez"
+        },
+          
+        {
+            "nombre": "Arturo Víctor Montiel Martínez", 
+            "nombre_normalizado": "arturo-victor-montiel-martinez", 
+            "imagen": true
+        },
+        {
+            "nombre": "Erika Saldaña Pérez", 
+            "nombre_normalizado": "erika-saldana-perez", 
+            "imagen": true
+        },
+        {
+            "nombre": "Jesús Escamilla Salazar", 
+            "nombre_normalizado": "jesus-escamilla-salazar", 
+            "imagen": true
+        },
+        {
+            "nombre": "Lucero Argott Cisneros", 
+            "nombre_normalizado": "lucero-argott-cisneros", 
+            "imagen": true
+        },
+        {
+            "nombre": "María Elena Jiménez Zaldivar", 
+            "nombre_normalizado": "maria-elena-jimenez-zaldivar", 
+            "imagen": true
+        },
+        {
+            "nombre": "Mónica Morales Barrera", 
+            "nombre_normalizado": "monica-morales-barrera",
+            "imagen": true
+        } 
+        
+    ]
+}

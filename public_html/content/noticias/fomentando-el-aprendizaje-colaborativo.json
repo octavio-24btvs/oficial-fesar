@@ -1,0 +1,34 @@
+{
+	"titulo": "Fomentando el aprendizaje colaborativo",
+	"titulo_normalizado": "fomentando-el-aprendizaje-colaborativo",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Tutorías",
+			"seccion_normalizada": "tutorias"
+		}
+	],
+	"autor": "Jorge Narv\u00E1ez",
+	"fecha": "31/08/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En una emotiva ceremonia, la comunidad acad\u00E9mica de la Universidad Nacional Aut\u00F3noma de M\u00E9xico (UNAM) se reuni\u00F3 para dar inicio al <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tercer Encuentro de Tutor\u00EDas Inter Facultades de Estudios Superiores<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Tuvo lugar en el auditorio de la Divisi\u00F3n de Universidad Abierta, Continua y a Distancia (DUACyD) de la Facultad de Estudios Superiores Arag\u00F3n, asimismo, cont\u00F3 con la distinguida presencia de destacados l\u00EDderes educativos y profesionales.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Entre las personas invitadas se encontraron Leonardo Lomel\u00ED, Secretario General de la UNAM; Ignacio Pe\u00F1alosa, Secretario General Acad\u00E9mico en representaci\u00F3n de Mar\u00EDa del Coro Arizmendi, directora de la FES Iztacala; Manuel Mart\u00EDnez, director de la FES Acatl\u00E1n; David Quintanar, director de la FES Cuautitl\u00E1n; Vicente Hern\u00E1ndez, director de la FES Zaragoza; y Sara Cruz, referente acad\u00E9mico del Sistema Institucional de Tutor\u00EDa y fundadora del Seminario Permanente de Tutor\u00EDa; y Fernando Macedo, director de la FES Arag\u00F3n presidiendo el evento.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La apertura del encuentro, inaugurada por Leonardo Lomel\u00ED, fue marcada por mensajes de bienvenida y agradecimiento por parte de los directores de las Facultades, quienes enfatizaron la importancia de las tutor\u00EDas en el desarrollo acad\u00E9mico de los estudiantes.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La reuni\u00F3n tambi\u00E9n sirvi\u00F3 como plataforma para celebrar la continuaci\u00F3n del Programa Institucional de Tutor\u00EDas (PIT), destacando su relevancia en la formaci\u00F3n integral de las y los estudiantes, as\u00ED como su contribuci\u00F3n al \u00E9xito acad\u00E9mico. Las y los l\u00EDderes educativos presentes reiteraron su compromiso con la excelencia educativa y el apoyo constante al estudiantado en su camino hacia la vida profesional.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tercer Encuentro de Tutor\u00EDas Inter Facultades de Estudios Superiores<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> promete ser un espacio de aprendizaje colaborativo, intercambio de experiencias y fortalecimiento de la comunidad acad\u00E9mica de la UNAM. <\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "fomentando-1.gif"
+		},
+		{
+			"imagen": "fomentando-2.gif"
+		},
+		{
+			"imagen": "fomentando-3.gif"
+		},
+		{
+			"imagen": "fomentando-4.gif"
+		},
+		{
+			"imagen": "fomentando-5.gif"
+		}	]
+
+}

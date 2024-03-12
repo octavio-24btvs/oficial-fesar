@@ -1,0 +1,37 @@
+{
+	"titulo": "SING 22: Veh\u00EDculos de competencia tipo f\u00F3rmula",
+	"titulo_normalizado": "sing-22-vehiculos-de-competencia-tipo-formula",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "26/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5);\">Con la participaci\u00F3n del jefe de carrera en Ingenier\u00EDa Mec\u00E1nica, Joel Garc\u00EDa, as\u00ED como el secretario de la carrera, Gustavo Ru\u00EDz, fue presentado el proyecto de trabajo estudiantil de la FES Arag\u00F3n para la temporada 2023 en la F\u00F3rmula SAE (FI), la cual es una competencia a nivel internacional.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5);\">N\u00E9stor Ruiz, capit\u00E1n del equipo, dio una introducci\u00F3n<\/span><span style=\"color: rgb(5, 5, 5); background-color: transparent;\"> del trabajo que desarrollan en la carrera y la competencia SAE, as\u00ED como una explicaci\u00F3n tanto de la composici\u00F3n del equipo de trabajo como de las pruebas que desarrollan en el proyecto.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5);\">Por su parte, Braulio Andiano, capit\u00E1n de Din\u00E1mica en el equipo, mencion\u00F3 los componentes dentro del auto, la implementaci\u00F3n de algunos mecanismos, el uso de herramientas y los principios neces<\/span><span style=\"color: rgb(5, 5, 5); background-color: transparent;\">arios que permiten el funcionamiento \u00F3ptimo del veh\u00EDculo y aseguran la integridad del piloto.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5); background-color: transparent;\">De igual forma, fue mencionada en esta exposici\u00F3n la importancia de la relaci\u00F3n y comunicaci\u00F3n con el conductor, pues es de vital importancia el conocimiento de los elementos mec\u00E1nicos junto con la experiencia del pilo<\/span><span style=\"color: rgb(5, 5, 5);\">to.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "SAE1.gif"
+		},
+		{
+			"imagen": "SAE2.gif"
+		},
+		{
+			"imagen": "SAE3.gif"
+		},
+		{
+			"imagen": "SAE4.gif"
+		},
+		{
+			"imagen": "SAE5.gif"
+		},
+		{
+			"imagen": "SAE6.gif"
+		}	]
+
+}

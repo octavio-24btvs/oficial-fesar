@@ -1,0 +1,14 @@
+{
+	"titulo": "BIM hacia la construcci\u00F3n 4.0",
+	"titulo_normalizado": "bim-hacia-la-construccion-40",
+	"secciones": [
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor":"Redacci\u00F3n",
+	"fecha":"30/10/18",
+	"contenido":"<p class=\"ql-align-justify\"><em style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">Building Information Modeling (BIM)<\/em><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> es un software de modelado virtual 3D para organizar informaci\u00F3n en una base de datos sobre la estructura de un edificio que se va a construir. Est\u00E1 conformado por elementos inteligentes que fungen de prototipo digital: muros, puertas, ventanas y pilares, entre otros;<\/span><em style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> <\/em><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">adem\u00E1s de contener informaci\u00F3n arquitect\u00F3nica, los modelos <\/span><em style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">BIM <\/em><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">poseen datos relevantes sobre ingenier\u00EDa, como la estructura interna. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">Es importante que la comunidad estudiantil de las ingenier\u00EDas de la FES Arag\u00F3n se actualicen en este tema, por tal motivo se llev\u00F3 a cabo la jornada de conferencias <\/span><em style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">BIM hacia la construcci\u00F3n 4.0<\/em><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">, donde especialistas resolvieron sus dudas sobre este software. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">Juan Carlos Garza<\/span><em style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> <\/em><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">de <\/span><em style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">The BIM Group <\/em><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">explic\u00F3 que esta herramienta proporciona soluciones de dise\u00F1o innovadoras a las necesidades en proyectos comerciales, institucionales y residenciales en muchos pa\u00EDses, pensando en futuros sostenibles.<\/span><\/p>",
+	"imagenes":[{"imagen":"bim-hacia-la-construcción-40-1.png"},{"imagen":"bim-hacia-la-construcción-40-2.png"},{"imagen":"bim-hacia-la-construcción-40-3.png"}]
+}

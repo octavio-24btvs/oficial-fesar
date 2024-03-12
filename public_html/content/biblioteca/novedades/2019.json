@@ -1,0 +1,15 @@
+[
+	{
+		"nombre": "Junio de 2019",
+		"nombre_normalizado":"novedades/2019/2019.06.pdf"
+
+	},
+	{
+		"nombre": "Julio de 2019",
+		"nombre_normalizado":"novedades/2019/2019.07.pdf"
+	},
+	{
+		"nombre": "Agosto de 2019",
+		"nombre_normalizado":"novedades/2019/2019.08.pdf"
+	}
+]

@@ -1,0 +1,41 @@
+{
+    "titulo": "Reporte octubre 2023", 
+    "titulo_normalizado": "reporte-oct-2023", 
+    "imagenes": [
+        {
+            "imagen": "1recorridos",
+            "alt": "Recorridos con estudiantes y docentes"
+        },
+        {
+            "imagen": "2recorridos",
+            "alt": "Recorridos con estudiantes y docentes"
+        },
+        {
+            "imagen": "3recorridos",
+            "alt": "Recorridos con estudiantes y docentes"
+        },
+        {
+            "imagen": "4recorridos",
+            "alt": "Recorridos con estudiantes y docentes"
+        }, {
+            "imagen": "5recorridos",
+            "alt": "Recorridos con estudiantes y docentes"
+        },
+        {
+            "imagen": "7recorridos",
+            "alt": "Recorridos con estudiantes y docentes"
+        },
+        {
+            "imagen": "8recorridos",
+            "alt": "Recorridos con estudiantes y docentes"
+        },
+        {
+            "imagen": "9recorridos",
+            "alt": "Recorridos con estudiantes y docentes"
+        },
+        {
+            "imagen": "10recorridos",
+            "alt": "Recorridos con estudiantes y docentes"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "titulo": "DUACyD", 
+    "subtitulo": "Comit\u00E9 Acad\u00E9mico del CLe", 
+    "tipo": "de la sesi\u00F3n ordinaria", 
+    "icono": "icon-duacyd", 
+    "anios": 
+            [
+                {
+                    "anio": "2018"
+                },
+                {
+                    "anio": "2019"
+                },
+                {
+                    "anio": "2020"
+                }
+            ]
+}

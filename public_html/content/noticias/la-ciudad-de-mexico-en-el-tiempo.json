@@ -1,0 +1,14 @@
+{
+	"titulo": "La Ciudad de M\u00E9xico en el tiempo",
+	"titulo_normalizado": "la-ciudad-de-mexico-en-el-tiempo",
+	"secciones": [
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor":"Daniela D\u00EDaz",
+	"fecha":"19/10/18",
+	"contenido":"<p class=\"ql-align-justify\">El investigador Rodrigo Hidalgo y el fot\u00F3grafo Gabriel Barajas presentaron una conferencia al estudiantado de la carrera de Arquitectura, en la cual a trav\u00E9s de im\u00E1genes capturadas por el lente de la c\u00E1mara mostraron la evoluci\u00F3n de la metr\u00F3poli y su expansi\u00F3n territorial. De esta manera, dejaron claro el papel multidisciplinario de la arquitectura. <\/p><p class=\"ql-align-justify\">Los cambios de percepci\u00F3n de la zona fueron evidentes, puesto que anteriormente era m\u00E1s un espacio para descanso. Al llegar gente de otros lugares, comenz\u00F3 a cambiar la perspectiva y convertirse en una ciudad con un ritmo de vida acelerado, dejando atr\u00E1s la tranquilidad, comentaron los ponentes durante el \u00FAltimo evento de la Exposici\u00F3n de Arquitectura Mexicana.<\/p>",
+	"imagenes":[{"imagen":"IMG_8688.png"},{"imagen":"IMG_8692.png"},{"imagen":"IMG_8694.png"},{"imagen":"IMG_8695.png"},{"imagen":"IMG_8701.png"},{"imagen":"IMG_8705.png"},{"imagen":"IMG_8708.jpg"}]
+}

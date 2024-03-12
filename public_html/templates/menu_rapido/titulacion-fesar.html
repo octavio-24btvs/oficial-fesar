@@ -1,0 +1,37 @@
+<div class="container content">
+    <hr>
+    <div class="row pleca-secciones">
+        <div class="col-lg-12 secciones">
+            <i class="icono-secciones icon-titulacion-05"></i> <h1>&nbsp; Titulaci&oacute;n FESAR </h1>
+            <hr>
+            <input class="form-control" type="text" placeholder="Busca tu licenciatura" ng-model="searchText"/>
+        </div>
+    </div>
+    <div class="row align-items-center" style="margin-bottom: 15px;">
+        <div class="col-12" ng-repeat="carrera in carreras | filter:searchText">
+            <hr>
+            <h2>{{carrera.area}}</h2>
+            <hr>
+            <table class="table table-striped texto-pleca fs-13">
+                <thead class="thead-dark text-center">
+                    <tr>
+                        <th>Licenciatura</th>
+                        <th>Formas de titulaci&oacute;n</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="licenciatura in carrera.licenciaturas | filter:searchText">
+                        <td style="width:70%;">
+                            <i class="{{licenciatura.icono}}" style="font-size:30px;"></i> {{licenciatura.nombre}}
+                        </td>
+                        <td class="text-center" style="width:70%;">
+                           <a ng-href="public_html/documents/licenciaturas/{{licenciatura.pdf}}" target="_blank">  <i class="fa fa-file-pdf"></i></a>
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

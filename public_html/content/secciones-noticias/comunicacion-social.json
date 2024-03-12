@@ -1,0 +1,56 @@
+{
+	"id": 41,
+	"titulo": "Comunicaci\u00F3n Social",
+	"icono": "icon-comunicacion-social",
+	"noticias": [
+		{
+			"titulo":"Gobernador de Guerrero, orgullosamente aragon\u00E9s",
+			"titulo_normalizado":"gobernador-de-guerrero-orgullosamente-aragones",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "gobernador-de-guerrero-orgullosamente-aragones-2.jpg",
+			"fecha":"30/05/19"
+		},
+		{
+			"titulo":"Rafael Guerra, un aragon\u00E9s ejemplar",
+			"titulo_normalizado":"rafael-guerra-un-aragones-ejemplar",
+			"autor":"Luis Bocanegra",
+			"imagen": "mujeres-fundamentales-para-el-desarrollo-economico-1.jpg",
+			"fecha":"29/04/19"
+		},
+		{
+			"titulo":"Julieta Fierro presente en Arag\u00F3n",
+			"titulo_normalizado":"julieta-fierro-presente-en-aragon",
+			"autor":"Edith Granados",
+			"imagen": "img-1.jpg",
+			"fecha":"26/08/18"
+		},
+		{
+			"titulo":"90 minutos con… Pepe Segarra",
+			"titulo_normalizado":"90-minutos-con----pepe-segarra",
+			"autor":"Redacci\u00F3n",
+			"imagen": "90-minutos-con----pepe-segarra-1.jpg",
+			"fecha":"25/11/18"
+		},
+		{
+			"titulo":"So\u00F1ar en grande: Tenoch Huerta",
+			"titulo_normalizado":"sonar-en-grande-tenoch-huerta",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "sonar-en-grande-tenoch-huerta-1.jpg",
+			"fecha":"25/03/19"
+		},
+		{
+			"titulo":"Bodas, amor y diversi\u00F3n",
+			"titulo_normalizado":"bodas-amor-y-diversion",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "bodas-amor-y-diversion-1.jpg",
+			"fecha":"14/02/19"
+		},
+		{
+			"titulo":"Nuevo a\u00F1o, nuevas oportunidades",
+			"titulo_normalizado":"nuevo-ano-nuevas-oportunidades",
+			"autor":"Redacci\u00F3n",
+			"imagen": "nuevo-nuevas-oportunidades-1.jpg",
+			"fecha":"07/01/19"
+		}
+	]
+}

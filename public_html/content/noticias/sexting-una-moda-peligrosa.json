@@ -1,0 +1,14 @@
+{
+	"titulo": "Sexting, una moda peligrosa",
+	"titulo_normalizado": "sexting-una-moda-peligrosa",
+	"secciones": [
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor":"Israel Ram\u00EDrez",
+	"fecha":"21/09/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con el avance de las tecnolog\u00EDas y el uso cada vez mayor de las redes sociales, ha crecido la pr\u00E1ctica del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">sexting<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">: enviar mensajes con contenido er\u00F3tico entre las personas. De esta manera, Berenice Cano Santos, coordinadora de Servicios a la Comunidad, y Jon\u00E1s Gir\u00F3n del R\u00EDo, profesor de Derecho de la FES Arag\u00F3n, ofrecieron la conferencia<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> SEXTING… una moda peligrosa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta actividad no es il\u00EDcita, ya que el intercambio del material es consensuado entre quienes participan, pero su difusi\u00F3n s\u00ED lo es, debido a la violaci\u00F3n de la intimidad de la persona. En caso de tener alg\u00FAn problema de esta \u00EDndole se puede acudir a la Defensor\u00EDa de los Derechos Universitarios o consultar a la Polic\u00EDa Cibern\u00E9tica para que la denuncia proceda de manera legal, informaron. <\/span><\/p>",
+	"imagenes":[{"imagen":"img-1.jpg"},{"imagen":"img-2.jpg"}]
+}

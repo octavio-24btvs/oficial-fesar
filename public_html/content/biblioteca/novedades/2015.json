@@ -1,0 +1,47 @@
+[
+	
+	{
+		"nombre":"Febrero de 2015",
+		"nombre_normalizado":"novedades/2015/2015.02.pdf"
+	},
+	{
+		"nombre":"Marzo de 2015",
+		"nombre_normalizado":"novedades/2015/2015.03.pdf"
+	},
+	{
+		"nombre":"Abril de 2015",
+		"nombre_normalizado":"novedades/2015/2015.04.pdf"
+	},
+	{
+		"nombre":"Mayo de 2015",
+		"nombre_normalizado":"novedades/2015/2015.05.pdf"
+	},
+        {
+		"nombre":"Junio de 2015",
+		"nombre_normalizado":"novedades/2015/2015.06.pdf"
+	},
+	{
+		"nombre":"Julio de 2015",
+		"nombre_normalizado":"novedades/2015/2015.07.pdf"
+	},
+	{
+		"nombre":"Agosto de 2015",
+		"nombre_normalizado":"novedades/2015/2015.08.pdf"
+	},
+	{
+		"nombre":"septiembre de 2015",
+		"nombre_normalizado":"novedades/2015/2015.09.pdf"
+	},
+	{
+		"nombre":"Octubre de 2015",
+		"nombre_normalizado":"novedades/2015/2015.10.pdf"
+	},
+	{
+		"nombre":"Noviembre de 2015",
+		"nombre_normalizado":"novedades/2015/2015.11.pdf"
+	},
+        {
+		"nombre":"Diciembre de 2015",
+		"nombre_normalizado":"novedades/2015/2015.12.pdf"
+	}
+]

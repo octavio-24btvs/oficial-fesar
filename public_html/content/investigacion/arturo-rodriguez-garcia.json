@@ -1,0 +1,18 @@
+{
+    "nombre": "Arturo Rodríguez García", 
+    "grado_academico": "Doctor", 
+     "correo": [ "arturorodriguez35@aragon.unam.mx"     ],
+    "imagen": true,
+    "estudios": [
+        "Ingeniería en Computación. FES Aragón, UNAM.",
+        "Maestría en Ciencias. Posgrado en Ciencia e Ingeniería de la Computación, UNAM.",
+        "Doctorado en Ciencias. Posgrado en Ciencia e Ingeniería de la Computación, UNAM."
+    ], 
+    "lineas_investigacion": [
+        "Robótica.", 
+        "Inteligencia artificial."
+    ], 
+    "investigaciones": [
+        "Aplicación de modelos matemáticos en la identificación y descripción automática de personas mediante biométricos suaves."
+    ]
+}

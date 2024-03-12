@@ -1,0 +1,28 @@
+{
+    "imagenes": [
+        {
+            "imagen": "ejercicio-presupuestal-30-septiembre-2018.png", 
+            "alt": "Ejercicio Presupestal al 30 de septiembre de 2018"
+        }, 
+        {
+            "imagen": "ejercicio-de-ingreso-estraordinario-30-septiembre-2018.png", 
+            "alt": "Ejercido de Ingresos Extraordinarios al 30 de septiembre de 2018"
+        }, 
+        {
+            "imagen": "ejercicio-presupuestal-30-junio-2018.png", 
+            "alt": "Ejercicio Presupestal al 30 de junio de 2018"
+        }, 
+        {
+            "imagen": "ejercicio-ingreso-30-junio-2018.png", 
+            "alt": "Ejercido de Ingresos Extraordinarios al 30 de junio de 2018"
+        }, 
+        {
+            "imagen": "presupuesto-ejercicio-enero-marzo-2018.png", 
+            "alt": "Presupuesto Ejercido enero a marzo 2018"
+        }, 
+        {
+            "imagen": "ejercicio-ingreso-extraordinarios-enero-marzo-2018.png", 
+            "alt": "Ejercido de Ingresos Extraordinarios enero a marzo 2018"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "nombre": "Alberto Rodríguez", 
+    "grado_academico": "Doctor", 
+    "correo": [ "albertorodriguezroa@aragon.unam.mx"],
+    "estudios": [
+        "Licenciatura en Historia. Universidad Nacional Autónoma de México.", 
+        "Maestría en Enseñanza Superior. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Pedagogía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Historia de la educación."
+    ], 
+    "investigaciones": [
+        "La educación nacionalista en México.", 
+        "Las escuelas y talleres de educación artística (danza, música y versada) en Tlacotalpan, Veracruz. Pasado y presente de una tradición."
+    ]
+}

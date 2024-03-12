@@ -1,0 +1,14 @@
+{
+	"titulo": "El poder de las ciberguerras",
+	"titulo_normalizado": "el-poder-de-las-ciberguerras",
+	"secciones": [
+		{
+			"seccion": "Relaciones Internacionales",
+			"seccion_normalizada": "relaciones-internacionales"
+		}
+	],
+	"autor":"Adriana Hinojosa",
+	"fecha":"15/12/20",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En esta novena entrega de “En voz de tus profesores”, donde docentes de la carrera de Relaciones Internacionales aborda un tema de coyuntura internacional, el Mtro. Juan Daniel Garay Salda\u00F1a, profesor de Relaciones M\u00E9xico-Estados Unidos y Administraci\u00F3n Internacional, entre otras, nos habla sobre las ciberguerras.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5);\">La definici\u00F3n de ciberguerra, en palabras del profesor, es “Una conflagraci\u00F3n de car\u00E1cter no convencional entre estados con participaci\u00F3n de agentes no estatales, estas constituyen una guerra no declarada de car\u00E1cter h\u00EDbrido al combinar elementos de un conflicto b\u00E9lico cl\u00E1sico y, por otro lado, un conflicto de car\u00E1cter virtual”.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5);\">Entre sus caracter\u00EDsticas principales encontramos que su campo de batalla no es un espacio geogr\u00E1fico, sino el ciberespacio; los actores principales son estados, organizaciones internacionales gubernamentales y <\/span><em style=\"color: rgb(5, 5, 5);\">hackers<\/em><span style=\"color: rgb(5, 5, 5);\">; como armas usan virus; d\u00EDas cero y atribuciones de los ataques pueden camuflar el origen del mismo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(5, 5, 5);\">Los casos de ciberguerra son muy recientes en la actualidad, podr\u00EDamos ubicar el 2007 como punto de partida con una guerra entre Rusia y Estonia, en donde los rusos lanzan un ataque cibern\u00E9tico que tuvo un impacto del 1.7 en el PIB de la econom\u00EDa de su rival al atacar p\u00E1ginas del gobierno. Otro caso muy importante se dio entre Rusia y Estados Unidos, en las elecciones de 2016, donde se acus\u00F3 a los rusos de atacar la campa\u00F1a de Hilary Clinton en alianza con Donald Trump, revelando los correos de Clinton y ataques electorales en distintos estados.<\/span><\/p>",
+	"imagenes":[{"imagen":"Ciberguerra.gif"},{"imagen":"Ciberguerra-2.gif"},{"imagen":"Ciberguerra-3.gif"}]
+}

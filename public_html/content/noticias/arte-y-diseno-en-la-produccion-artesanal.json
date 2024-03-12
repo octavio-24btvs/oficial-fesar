@@ -1,0 +1,31 @@
+{
+	"titulo": "Arte y dise\u00F1o en la producci\u00F3n artesanal",
+	"titulo_normalizado": "arte-y-diseno-en-la-produccion-artesanal",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "22/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este Primer Congreso Internacional de Artesan\u00EDas, se llev\u00F3 a cabo el seminario “Voces, saberes y haceres. Nuevas formas de pensamiento” el cu\u00E1l fue transmitido v\u00EDa Zoom gracias a la organizaci\u00F3n conjunta de la FES Arag\u00F3n, la Facultad de Artes y Dise\u00F1o de la UNAM y la C\u00E1tedra Extraordinaria Francisco Toledo. En ella presentaron a artesanas y artesanos, adem\u00E1s de personal docente experto en en el tema; como Alma Mart\u00EDnez, Karla P\u00E9rez, Mar\u00EDa P\u00E9rez, Alejandro Vera y \u00C1ngela Dotor, quien particip\u00F3 desde Colombia.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los temas abordados en este congreso fueron variados, sin embargo, los m\u00E1s resaltables se enfocaron a los procesos y adaptaciones que han tenido las artesan\u00EDas, con una previa introducci\u00F3n a la trayectoria de cada una de las personas invitadas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Otro de los temas fue el de la competencia desleal y la apropiaci\u00F3n de las autor\u00EDas por parte de otros artesanos y de las industrias tanto nacionales como extranjeras, desplegando un abaratamiento del trabajo hecho a mano, lo cual da pie a una situaci\u00F3n desfavorable para quienes se dedican a la elaboraci\u00F3n de estas piezas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Es importante reconocer la labor de estas personas, as\u00ED como apreciar el trabajo que en cada una de sus obras se encuentra plasmado, dando el lugar que merecen en nuestra sociedad y cultura.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Artesanal1.gif"
+		},
+		{
+			"imagen": "Artesanal2.gif"
+		},
+		{
+			"imagen": "Artesanal3.gif"
+		},
+		{
+			"imagen": "Artesanal4.gif"
+		}	]
+
+}

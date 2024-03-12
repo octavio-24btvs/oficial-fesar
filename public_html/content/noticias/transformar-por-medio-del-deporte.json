@@ -1,0 +1,14 @@
+{
+	"titulo": "Transformar por medio del deporte",
+	"titulo_normalizado": "transformar-por-medio-del-deporte",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor":"Thalia Ortega",
+	"fecha":"12/03/20",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El tercer d\u00EDa de actividades de la jornada -<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Roles + Igualdad<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> inici\u00F3 con estudios gratuitos de papanicolaou y un <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">rally <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">l\u00FAdico sobre g\u00E9nero en el cual las aragonesas se pusieron a prueba sus conocimientos.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por la tarde, la doctora Claudia Ivette Pedraza ofreci\u00F3 una conferencia titulada “G\u00E9nero y Deporte”. En esta exposici\u00F3n, la especialista explic\u00F3 c\u00F3mo los medios e instituciones deportivas han creado un estereotipo en torno a la mujer que la posiciona como un mero objeto visual. Lo anterior ha promovido la desigualdad, discriminaci\u00F3n y violencias en contra de las deportistas, as\u00ED como una invisibilizaci\u00F3n de los m\u00E9ritos femeninos.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para ella es indispensable cambiar los enfoques y el lenguaje en el \u00E1mbito deportivo puesto que a las mujeres deportistas se les juzga en tanto el deporte es considerado como un espacio de la masculinidad y contin\u00FAa existiendo una resistencia a la inclusi\u00F3n femenina.<\/span><\/p>",
+	"imagenes":[{"imagen":"transformar-por-medio-del-deporte-1.jpg"},{"imagen":"transformar-por-medio-del-deporte-2.jpg"},{"imagen":"transformar-por-medio-del-deporte-3.jpg"},{"imagen":"transformar-por-medio-del-deporte-4.jpg"},{"imagen":"transformar-por-medio-del-deporte-5.jpg"},{"imagen":"transformar-por-medio-del-deporte-6.jpg"}]
+}

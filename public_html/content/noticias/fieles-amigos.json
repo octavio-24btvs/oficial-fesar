@@ -1,0 +1,14 @@
+{
+	"titulo": "Fieles amigos",
+	"titulo_normalizado": "fieles-amigos",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Francisco Olivares",
+	"fecha":"13/10/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Sistema Universitario de Lectura Universo de Letras, a trav\u00E9s de su programa multidisciplinario de servicio social&nbsp; <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Islas de la Lectura<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, present\u00F3 la charla literaria “Caninos del mundo, un\u00EDos; literatura perrona (o perruna)”, transmitida por la Unidad de Extensi\u00F3n Universitaria de nuestra Facultad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este evento, los universitarios Alejandro Zepeda, Omar Luj\u00E1n y Jennifer Olvera realizaron diferentes din\u00E1micas con un enfoque comunitario. Para iniciar, los ponentes hablaron sobre la importancia que tienen los perritos en la sociedad, expusieron una a breve historia sobre esta especie, sus diferentes razas, incluso c\u00F3mo han quedado plasmados en el arte.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Posteriormente, se efectu\u00F3 una actividad de escritura, la cual consisti\u00F3 en simular ser un canino y describir, desde esa perspectiva, un d\u00EDa com\u00FAn. Tras leer los textos de la comunidad participante, Zepeda, Luj\u00E1n y Olvera hicieron una reflexi\u00F3n en torno a los problemas que enfrentan estos animalitos, con el objetivo de plantear soluciones.<\/span><\/p><p><br><\/p>",
+	"imagenes":[{"imagen":"fieles-amigos-1.jpg"},{"imagen":"fieles-amigos-2.jpg"},{"imagen":"fieles-amigos-3.jpg"}]
+}

@@ -1,0 +1,126 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfiles",
+        "Plan de estudios",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Sistema de Gestión de Organización Educativa",
+        "Contacto"
+    ],
+    "titulo": "Ingenier\u00EDa Industrial",
+    "icono": "icono-secciones icon-ingenieria-industrial",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Bienvenidos</h2><p>¡Saludos y bienvenido(a) a la emocionante travesía de la Ingeniería Industrial en la Facultad de Estudios Superiores Aragón! Nos llena de alegría darte la bienvenida a esta nueva etapa, donde te integras a la comunidad universitaria más grande de México.</p><p>En nuestra carrera, descubrirás técnicas y metodologías que no solo se enfocan en la eficiencia de procesos, sino que también buscan la integración armoniosa de personas, activos y organizaciones. Este enfoque integral te permitirá contribuir al desarrollo de procesos más eficientes y sistemas más productivos, marcando la diferencia en el mundo de la ingeniería.</p><p>Es un orgullo destacar que nuestro programa académico cuenta con la prestigiosa acreditación internacional otorgada por el Consejo de Acreditación de la Enseñanza de la Ingeniería (CACEI). Además, nuestros laboratorios están certificados bajo la norma ISO-9001:2015, garantizando un ambiente propicio para tu desarrollo académico y profesional.</p><p>Te damos la bienvenida a la familia aragonesa, donde encontrarás un cálido apoyo y las herramientas necesarias para forjar tu camino hacia el éxito. Estamos emocionados de compartir contigo esta fascinante travesía educativa y confiamos en que encontrarás en nuestra comunidad el respaldo necesario para alcanzar tus metas. ¡Bienvenido(a) a bordo.</p><p>Estamos ansiosos por ser parte de tu crecimiento y éxito. ¡Adelante hacia un futuro lleno de logros!</p><br>",
+            "imagenes": [
+                {
+                    "imagen": "industrial/carrusel/1.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/1.jpg"
+                },
+                {
+                    "imagen": "industrial/carrusel/2.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/2.jpg"
+                },
+                {
+                    "imagen": "industrial/carrusel/3.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/3.jpg"
+                },
+                {
+                    "imagen": "industrial/carrusel/4.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/4.jpg"
+                },
+                {
+                    "imagen": "industrial/carrusel/5.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/5.jpg"
+                }
+                ,
+                {
+                    "imagen": "industrial/carrusel/6.jpg", 
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "industrial/carrusel/img-completa/6.jpg"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row mb-3\"><div class=\"col-12\"><h2 class=\"pb-2\">Presentaci\u00F3n<\/h2><div class=\"row galeria justify-content-center align-items-center\"><div class=\"col-12 col-lg-6\"><div class=\"embed-responsive embed-responsive-16by9\" style=\"border-radius: 15px;\"> <iframe class=\"embed-responsive-item\" src=\"https:\/\/www.youtube.com\/embed\/N_8D3063w4k\" frameborder=\"0\" allowfullscreen><\/iframe><\/div><\/div><div class=\"col-12 col-lg-4\"><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalMision\">Misi\u00F3n</button><div class=\"modal fade\" id=\"modalMision\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Misi\u00F3n</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>Desarrollar y formar profesionales de la ingeniería industrial que sean líderes emprendedores con conocimientos, habilidades y actitudes, capaces de analizar, diagnosticar y solucionar situaciones en sistemas productivos de bienes y servicios, con un pensamiento analítico, crítico y sistémico, contribuyendo a mejorar la productividad y competitividad de organizaciones, a partir de la adecuada planeación y toma de decisiones en administración, producción, logística y calidad, en el contexto nacional e internacional, respetando el medio ambiente.</p></div></div></div></div><br><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalVision\">Visi\u00F3n</button><div class=\"modal fade\" id=\"modalVision\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Visi\u00F3n</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>La licenciatura de Ingeniería Industrial impartida en la FES Aragón-UNAM será un modelo educativo relevante para su contexto nacional e internacional en la enseñanza de la ingeniería, por la calidad de sus docentes, sus líneas de investigación y el reconocimiento de la sociedad y sus pares académicos y profesionales.</p><p>Su comunidad egresada será identificada por su ética profesional, efectividad, competitividad, identidad aragonesa y por ser agentes de cambio en el desarrollo de los sistemas de bienes y servicios.</p></div></div></div></div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3 pb-2\">Perfiles<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Perfil de ingreso",
+                    "texto": "<p>La/El aspirante interesado/a en ingresar a la licenciatura ende Ingeniería Industrial de la FESAR, deberá ser egresado de la Escuela Nacional Preparatoria (ENP), de la Escuela Nacional Colegio de Ciencias y Humanidades (ENCCH), o bien de otros programas de Educación Media Superior. Es conveniente que haya cursado el Área de las Ciencias Físico Matemáticas y de las Ingenierías en la ENP, o el conjunto de asignaturas relacionadas con estos campos de conocimiento en la ENCCH o en otras Instituciones de Educación Media Superior. En todos los casos el perfil de ingreso deseable incluye los siguientes conocimientos, habilidades, actitudes y valores:<p><p>Conocimientos generales</p><ul><li>De Matemáticas;</li><li>De Cálculo Diferencial e Integral;</li><li>De Estadística y Probabilidad; y</li><li>De Física.</li></ul><p>Habilidades</p><ul><li>Ser crítico y observador;</li><li>Facilidad de comunicación; y</li><li>Liderazgo.</li></ul><p>Actitudes</p><ul><li>Ser creativo e innovador;</li><li>Con iniciativa; y</li><li>Gusto por el trabajo en equipo.</li></ul><p>Valores</p><ul><li>Ser responsable;</li><li>Honesto; y</li><li>Perseverante.</li></ul>"
+                },
+                {
+                    "titulo": "Perfil de egreso",
+                    "texto": "<p>Los(as) egresados(as) de la licenciatura de Ingeniería Industrial de la FESAR:</p><ul><li>Serán profesionistas con un alto grado de consciencia social, capaces de adaptarse a los constantes cambios en la sociedad y en el entorno en el cual se desarrollen.</li><li>Contarán con los conocimientos de ciencias exactas y habilidades numéricas, gestión de recursos, y metodologías para la solución de problemas y mejora de procesos; así como con los criterios necesarios para ejercer la ingeniería en ambientes sanos, donde la equidad y perspectiva de género, la comunicación efectiva y el trabajo en equipo sean fundamentales en el desarrollo de sus actividades personales y profesionales.</li><li>Desarrollaran su creatividad que les permita generar soluciones con pensamiento analítico y sistémico.</li><li>Serán capaces de desarrollar, medir, diseñar, conducir, analizar, y mejorar los procesos productivos y administrativos en la transformación de bienes y servicios.</li><li>Se desarrollarán personal y profesionalmente con ética, respeto a los Derechos Humanos y al medioambiente, tolerancia e integridad.</li><li>Serán lideres capaces de dirigir, integrar, adaptarse desenvolverse y comunicarse exitosamente en equipos multidisciplinarios de trabajo.</li><li>Se conducirán con ética profesional en su desarrollo laboral.</li><li>Continuaran el desarrollo de sus capacidades mediante la actualización profesional, a través de cursos de especialización, diplomados o estudios de posgrado.</li></ul>"
+                }
+            ],
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center pt-2\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/oferta_academica/ingenieria-industrial/objetivos-educacionales.pdf\" title=\"Objetivos educacionales\" target=\"_blank\">Objetivos educacionales<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/oferta_academica/ingenieria-industrial/atributos-de-egreso.pdf\" title=\"Atributos de egreso\" target=\"_blank\">Atributos de egreso<\/a><\/div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3 pb-2\">Aspectos generales<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Requisitos de ingreso",
+                    "texto": "<ol type=\"a\"><li>Para los(as) estudiantes de los planteles pertenecientes a la Escuela Nacional Preparatoria y al Colegio de Ciencias y Humanidades se requiere hacer efectivo el trámite de Pase Reglamentado cumpliendo los requisitos de la convocatoria anual.</li><li>Para la comunidad externa se requiere ser aceptado mediante concurso de selección, el cual comprende una prueba escrita, la convocatoria se publica año con año en los medios de la Universidad.</li></ol><p class=\"link-act\">Adicionalmente, dentro del Reglamento General de Inscripciones se comprenden modalidades alternativas de ingreso entre las que se encuentran: segunda carrera o carrera simultánea. Los detalles de estas modalidades, del pase reglamentado y del concurso de selección se publican y actualizan anualmente en el portal de Admisión a Licenciatura de la UNAM: <a target=\"_blank\" href=\"https://www.dgae.unam.mx/admision_licenciatura/\" title=\"Portal de Admisión a Licenciatura\">https://www.dgae.unam.mx/admision_licenciatura/</a></p>"
+                },
+                {
+                    "titulo": "Requisitos de permanencia",
+                    "texto": "<p class=\"ql-align-justify\"><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Los límites de tiempo para estar inscrito en la Universidad con los beneficios de todos los servicios educativos y extracurriculares, serán del 50% adicional a la duración del plan de estudios.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0);\">La comunidad estudiantil que no termine sus estudios en los plazos señalados no será reinscrita y únicamente conservará el derecho a acreditar las materias faltantes por medio de exámenes extraordinarios.<\/span><\/p>"
+                },
+                {
+                    "titulo": "Normatividad",
+                    "texto": "<ul><li><a href=\"public_html/documents/licenciaturas/industrial/normatividad.pdf\"target=\"_blank\">Normatividad</a> </li></ul>"
+                },
+                {
+                    "titulo": "Duraci\u00F3n",
+                    "texto": "<p>El plan de estudios propuesto para la licenciatura de Ingeniería Industrial de la FESAR tiene una duración de 9 semestres; con una totalidad de 47 asignaturas, de las cuales 42 son obligatorias y 5 optativas. Con un total de créditos de 400, de los cuales 360 corresponden a asignaturas obligatorias y 40 a asignaturas optativas. Con un total de 3,392 horas como pensum académico</p>"
+                }
+                ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/industrial/programas-ing-industrial-1313.pdf\" title=\"Programas (1313)\" target=\"_blank\">Programas (1313)<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/industrial/programas-ing-industrial-2195.pdf\" title=\"Programas (2195)\" target=\"_blank\">Programas (2195)<\/a><\/div>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/industrial-titulacion"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Sistema de Gestión de Organización Educativa (SGOE)</h2><p><strong>Alcance</strong></p><p>La Jefatura de Carrera de Ingeniería Industrial (JCIID) de la FESAR, adopta el SGOE con la finalidad de demostrar la capacidad de controlar los procesos académicos-administrativos para la formación de ingenieros industriales. Estos procesos determinan la aceptación de los servicios denotados para la misma.</p><p>Por lo que el objeto del Sistema de Gestión de Organización Educativa (SGOE), comprende como productos educativos los entornos físicos, virtuales y los materiales didácticos, y como servicios educativos, las actividades académicas-administrativas y los procesos que contribuyen a asegurar la educación de calidad y mejora continua para la formación de ingenieros industriales, cumpliendo con los requisitos ISO 21001:2018 y otros aplicables y realizando acciones que superen las expectativas de las partes interesadas.</p><p><strong>Política de calidad</strong></p><p>La Jefatura de Carrera de Ingeniería industrial tiene el compromiso de contribuir a la formación de ingenieros e ingenieras industriales en concordancia con el perfil egreso y el perfil profesional para satisfacer las necesidades y expectativas de las partes interesadas relevantes, propiciando, gestionando y generando acciones encaminadas a la óptima distribución de recursos materiales e intelectuales adecuados y necesarios para llevar a cabo el proceso enseñanza-aprendizaje, el desarrollo científico y técnico, teniendo como prioridad el profesionalismo del personal académico-administrativo, la mejora continua de los procesos, la calidad, el buen trato hacia la comunidad, el cumplimiento de los requisitos aplicables y la responsabilidad social.</p>",
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center pt-2\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/oferta_academica/ingenieria-industrial/codigo-de-etica.pdf\" title=\"Código de ética\" target=\"_blank\">Código de ética<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/oferta_academica/ingenieria-industrial/diagrama-de-interaccion-sgoe.pdf\" title=\"Diagrama de interacción SGOE\" target=\"_blank\">Diagrama de interacción SGOE<\/a><\/div>"
+
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Noé Ávila Esquivel",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/industrial/noe-avila-esquivel.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Mariela Vianey Rivero Picazo",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/industrial/mariela-vianey-rivero-picazo.jpg",
+                "genero_secretario_tecnico": "1",
+                "horario": "De lunes a viernes de 9:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30870 y 30927",
+                "correo_electronico": "industrial@aragon.unam.mx",
+                "correo_electronico_st": "st.industrial@aragon.unam.mx",
+                "facebook": "https://www.facebook.com/FESAragon.industrial/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/industrial"
+            }
+        }
+    ]
+}

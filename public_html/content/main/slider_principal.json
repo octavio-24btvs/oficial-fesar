@@ -1,0 +1,64 @@
+﻿[          
+ 
+    {
+    "imagen": "proceso-de-elecciones.png",
+    "descripcion": "Proceso de Elecciones",
+    "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/proceso-de-elecciones"
+    },
+    {
+        "imagen": "cursos-profocap.png",
+        "descripcion": "Cursos PROFOCAP",
+        "hipervinculo": "public_html/documents/slider_principal/cursos-profocap.pdf"
+        },
+    {
+        "imagen": "convocatoria-reconocimiento-sni.png",
+        "descripcion": "Convocatoria para el Reconocimiento en el sistema nacional de investigadoras e investigadores 2024",
+        "hipervinculo": "https://aragon.unam.mx/fes-aragon/#!/sni"
+    },
+    {
+        "imagen": "convocatoria-nombramiento-renombramiento-espacios.png",
+        "descripcion": "Convocatoria para el nombramiento o renombramiento de espacios en la Facultad de Estudios Superiores Aragón, con nombres de mujeres destacadas",
+        "hipervinculo": "public_html/documents/slider_principal/convocatoria-nombramiento-renombramiento-espacios.pdf"
+    },
+    {
+        "imagen": "cimi2024.png",
+        "descripcion": "XVII Congreso Internacional Multidisciplinario de Investigación",
+        "hipervinculo": "https://aragon.unam.mx/fes-aragon/#!/cimi2024"
+    },
+    {
+        "imagen": "censoseconomicos2024.png",
+        "descripcion": "Censos Económicos 2024",
+        "hipervinculo": "https://censoseconomicos2024.mx/"
+    },
+    {
+        "imagen": "listado_docente.jpg",
+        "descripcion": "Listado de Profesoras y Profesores de Excelencia con base en la percepción del estudiante en la práctica docente",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/listados-de-profesores"
+    },
+    {
+        "imagen": "catalogo-dgapa-2024.png",
+        "descripcion": "Catálogo de cursos DGAPA 2024",
+        "hipervinculo": "public_html/documents/slider_principal/catalogo-dgapa-2024.pdf"
+    },
+    {
+        "imagen": "convocatoria-pepasig-2024II.png",
+        "descripcion": "Convocatoria PEPASIG 2024-II",
+        "hipervinculo": "public_html/documents/slider_principal/convocatoria-pepasig-2024I.pdf"
+    },    
+    {
+        "imagen": "posgrados.png",
+        "descripcion": "Convocatoria de Ingreso a Programas de Posgrado",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/convocatorias-de-posgrado"
+    },
+    {
+        "imagen": "reporte-octubre.png",
+        "descripcion": "Programa Preventivo de Fumigación",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/reporte-oct-2023"
+    },
+    {
+        "imagen": "tren-de-alimentos.jpg",
+        "descripcion": "Tren de alimentos",
+        "hipervinculo": ""
+
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "nombre": "Gabriella Piccinelli Bocchi", 
+    "grado_academico": "Doctora en Ciencias (Física), UNAM.", 
+    "ubicacion": [ "Laboratorio de Estudios Ambientales del Centro Tecnológico Aragón."],
+    "correo": [ "gabriellapiccinelli30@aragon.unam.mx"],
+    "imagen": true,
+    "estudios": [
+        "Licenciatura en Ingeniería Física, Universidad Nacional Autónoma de México.", 
+        "Maestría en Ciencias (Física), Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ciencias (Física), Universidad Nacional Autónoma de México. "
+    ], 
+    "lineas_investigacion": [
+        "Estudios ambientales y Comportamiento de la materia en condiciones extremas."
+    ], 
+    "investigaciones": [
+        "PAPIIT IN120620 Perturbaciones cosmológicas en modelos de inflación que incorporan invariantes de curvatura o derivadas de los campos escalares a órdenes superiores."
+    ]
+}

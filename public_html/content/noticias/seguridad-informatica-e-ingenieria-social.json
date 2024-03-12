@@ -1,0 +1,14 @@
+{
+	"titulo": "Seguridad inform\u00E1tica e ingenier\u00EDa social",
+	"titulo_normalizado": "seguridad-informatica-e-ingenieria-social",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		}
+	],
+	"autor":"Julio G\u00F3mez",
+	"fecha":"05/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la conferencia “\u00BFSeguridad digital 3.0?”–realizada dentro de la Semana de la Comunicaci\u00F3n de la FES Arag\u00F3n– Vladimir Arteaga, editor en temas de tecnolog\u00EDa, videojuegos y tendencias en Televisa Radio, abord\u00F3 el concepto de “ingenier\u00EDa social” que defini\u00F3 como el uso de los datos –de una persona o grupos de personas– que est\u00E1n disponibles en internet y trabajar un perfil o estrategia para vulnerarlos. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"><span class=\"ql-cursor\">﻿<\/span>Alert\u00F3 sobre algunos h\u00E1bitos que pueden exponernos a\u00FAn m\u00E1s, tales como instalar programas <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">crackeados<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> o los juegos y test en Facebook. Sin embargo, se\u00F1al\u00F3 que el acceso a esta informaci\u00F3n tambi\u00E9n puede ser aprovechada por parte de los medios de comunicaci\u00F3n, blogs, canales multimedia, etc\u00E9tera, para generar mejor contenido en las redes sociales.<\/span><\/p>",
+	"imagenes":[{"imagen":"seguridad-informatica-e-ingenieria-social-1.jpg"},{"imagen":"seguridad-informatica-e-ingenieria-social-2.jpg"},{"imagen":"seguridad-informatica-e-ingenieria-social-4.jpg"}]
+}

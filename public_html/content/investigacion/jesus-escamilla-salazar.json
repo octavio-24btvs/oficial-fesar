@@ -1,0 +1,19 @@
+{
+    "nombre": "Jesús Escamilla Salazar", 
+    "grado_academico": "Doctor", 
+     "correo": [ "jesusesc@unam.mx"],
+     "correo2": [ "jesusescamillaeas@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Lic. En Pedagogía. Facultad de Estudios Superiores Aragón. Universidad Nacional Autónoma de México.",
+        "Mtro. En Enseñanza Superior. Facultad de Estudios Superiores Aragón. Universidad Nacional Autónoma de México.",
+        "Doctor en Pedagogía. Facultad de Estudios Superiores Aragón. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Investigación en Humanidades.", 
+        "Investigación Educativa."
+    ], 
+    "investigaciones": [
+        "La enseñanza de la investigación pedagógica en la carrera de Pedagogía de la FES Aragón."
+    ]
+}

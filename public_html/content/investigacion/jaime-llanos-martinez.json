@@ -1,0 +1,23 @@
+{
+    "nombre": "Jaime Llanos Martínez", 
+    "grado_academico": "Doctor", 
+     "correo": [ " jaimellanosf8@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Economía. Universidad Nacional Autónoma de México.", 
+        "Maestría en Administración de Empresas. Universidad Chapultepec.", 
+        "Doctorado en Economía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Pobreza y Subdesarrollo en el campo Mexicano.", 
+        "Sistema Financiero en México.", 
+        "Investigación en Ciencias Sociales.", 
+        "Investigación Educativa.", 
+        "Investigación en Desarrollo Ambiental y Cambio Climático."
+    ], 
+    "investigaciones": [
+        "Economía Verde. Organismos Internacionales que promueven la sostenibilidad.", 
+        "Micro financiamiento y Banca Social. Aportaciones al combate a la pobreza y a la desigualdad social.", 
+        "Educación superior y sostenibilidad. Estructura del sistema educativo y alcances en los proyectos de sostenibilidad."
+    ]
+}

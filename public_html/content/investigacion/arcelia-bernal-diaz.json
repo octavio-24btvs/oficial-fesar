@@ -1,0 +1,20 @@
+{
+    "nombre": "Arcelia Bernal Díaz", 
+    "grado_academico": "Maestra", 
+     "correo": [ "arceliabernal83@aragon.unam.mx"],
+    "imagen": true,
+    "estudios": [
+        "Licenciatura en Ingeniería en Computación. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Hardware.", 
+        "Investigación en Ciencias Físico Matemáticas e Ingenierías.", 
+        "Investigación en Competitividad e Innovación."
+    ], 
+    "investigaciones": [
+        "Diseño de Tecnologías para el Aprendizaje de la lectoescritura en niños con Discapacidad Intelectual.", 
+        "Implementación de prácticas de laboratorio para la materia de Radiación y Propagación.", 
+        "Prácticas de mecatrónica."
+    ]
+}

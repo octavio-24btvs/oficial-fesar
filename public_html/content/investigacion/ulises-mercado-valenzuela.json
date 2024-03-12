@@ -1,0 +1,17 @@
+{
+    "nombre": "Ulises Mercado Valenzuela", 
+    "grado_academico": "Doctor", 
+     "correo": [ "ulisesmercadoh1@aragon.unam.mx"     ], 
+    "estudios": [
+        "Ingeniería Mecánica Eléctrica (Área: Ingeniería Industrial). Universidad Nacional Autónoma de México.",
+        "Maestría en Ingeniería con especialidad en Investigación de Operaciones División de Estudios de Posgrado de la Facultad de Ingeniería UNAM",
+        "Doctorado en Dirección de Organizaciones. Universidad del Distrito Federal, Campus Santa María."
+    ], 
+    "lineas_investigacion": [
+        "Investigación en las Ciencias Físico Matemáticas e Ingenierías.", 
+        "Investigación en Manufactura y Tecnología"
+    ], 
+    "investigaciones": [
+        "Administración de operaciones y cadena de suministro."
+    ]
+}

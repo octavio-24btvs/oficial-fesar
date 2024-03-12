@@ -1,0 +1,21 @@
+{
+	"titulo": "SING22: Matem\u00E1ticas aplicadas: del papel a la realidad",
+	"titulo_normalizado": "sing22-matematicas-aplicadas-del-papel-a-la-realidad",
+	"secciones": [
+		{
+			"seccion": "Ingeniería en Computación",
+			"seccion_normalizada": "ingenieria-en-computacion"
+		}
+	],
+	"autor": "Ana Mart\u00EDnez",
+	"fecha": "28/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Arturo Rodr\u00EDguez, profesor en la carrera de Ingenier\u00EDa en Computaci\u00F3n, particip\u00F3 en la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de las Ingenier\u00EDas<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> con la pl\u00E1tica “Aplicaciones de Matem\u00E1ticas Discretas en Inteligencia Artificial y Rob\u00F3tica”, charlando acerca de los proyectos para ense\u00F1ar la practicidad de las matem\u00E1ticas, en el auditorio del Centro Tecnol\u00F3gico Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con la adaptaci\u00F3n de las matem\u00E1ticas discretas, resalt\u00F3 la posibilidad de crear sistemas expertos en androides para reemplazar a un especialista humano, como un m\u00E9dico. “Tratamos de que estos proyectos se conecten de forma transversal con las asignaturas que tenemos de programaci\u00F3n. Entonces, cada caso pr\u00E1ctico est\u00E1 dise\u00F1ado de modo que involucra el caso matem\u00E1tico, involucra una actividad de programaci\u00F3n y muestra al alumno de forma clara qu\u00E9 aplicaci\u00F3n se le puede dar”, dijo Rodr\u00EDguez.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Expuso el caso de la planeaci\u00F3n de un robot para la preservaci\u00F3n de la vaquita marina. Esta innovaci\u00F3n se present\u00F3 en el Ocean Hackathon 2020<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">y obtuvo un tercer lugar, dejando en claro la importancia de que lo aprendido en el sal\u00F3n de clases tiene un fin en el desarrollo profesional del estudiantado.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El profesor invit\u00F3 a las y los universitarios interesados a acercarse al Centro de Investigaci\u00F3n Multidisciplinaria Arag\u00F3n (CIMA) donde se encuentran a disposici\u00F3n ocho robots para poner en pr\u00E1ctica estos conocimientos. Esta iniciativa ha dado buenos resultados al superar las expectativas de lo esperado por parte de las y los universitarios, asegur\u00F3.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "aplicaciones-matematicas-1.jpg"
+		},
+		{
+			"imagen": "aplicaciones-matematicas-2.jpg"
+		}	]
+
+}

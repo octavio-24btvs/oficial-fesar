@@ -1,0 +1,27 @@
+[
+	{
+		"nombre": "Enero de 2018",
+		"nombre_normalizado":"novedades/2018/2018.01.pdf"
+
+	},
+	{
+		"nombre":"Febrero de 2018",
+		"nombre_normalizado":"novedades/2018/2018.02.pdf"
+	},
+	{
+		"nombre":"Abril de 2018",
+		"nombre_normalizado":"novedades/2018/2018.03.pdf"
+	},
+	{
+		"nombre":"Abril de 2018 (2)",
+		"nombre_normalizado":"novedades/2018/2018.04.pdf"
+	},
+        {
+		"nombre":"Mayo de 2018",
+		"nombre_normalizado":"novedades/2018/2018.05.pdf"
+	},
+	{
+		"nombre":"Junio de 2018",
+		"nombre_normalizado":"novedades/2018/2018.06.pdf"
+	}
+]

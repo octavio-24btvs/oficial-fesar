@@ -1,0 +1,32 @@
+{
+	"titulo": "XVCIMI: La independencia intelectual",
+	"titulo_normalizado": "xvcimi-la-independencia-intelectual",
+	"secciones": [
+		{
+			"seccion": "Ciencias Sociales",
+			"seccion_normalizada": "ciencias-sociales"
+		},
+		{
+			"seccion": "CIMA",
+			"seccion_normalizada": "cima"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Tiar\u00E9 Rodr\u00EDguez",
+	"fecha": "26/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la Facultad de Estudios Superiores Arag\u00F3n se llev\u00F3 a cabo la presentaci\u00F3n del libro: <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La independencia intelectual de los universitarios como factor estrat\u00E9gico del siglo XX<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">I cuya autor\u00EDa corresponde a Maricarmen Gonz\u00E1lez, Jes\u00FAs Heraclio Del R\u00EDo, Mayra Elizondo, Rub\u00E9n Romero, V\u00EDctor Manuel Rangel, Mayra Lorena D\u00EDaz y Mar\u00EDa Guadalupe Veytia.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dicha presentaci\u00F3n fue presidida por Elvia Gardu\u00F1o, doctora en pedagog\u00EDa por la UNAM, mientras que Miguel \u00C1ngel de la Calleja, quien estudi\u00F3 Lengua y Literaturas Hisp\u00E1nicas en la Facultad de Estudios Superiores Acatl\u00E1n, realiz\u00F3 unos comentarios sobre la obra.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La publicaci\u00F3n busca describir los elementos que necesitan converger, como aptitudes y entorno, para promover en una persona la independencia intelectual, una virtud sumamente deseada ya que el conocimiento es la moneda de cambio en el mundo globalizado.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Detr\u00E1s de la realizaci\u00F3n de este libro est\u00E1 el proyecto PAPIME con el objetivo de generar conocimiento, pensamiento cr\u00EDtico y una transformaci\u00F3n personal, cultural y social. Para esto, describe la base de la investigaci\u00F3n cient\u00EDfica social y humanista. La obra est\u00E1 dirigida a estudiantes, directivos, profesores, investigadores, directores de tesis ya que su quehacer diario se puede apoyar en esta obra.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Independencia1.gif"
+		},
+		{
+			"imagen": "Independencia2.gif"
+		},
+		{
+			"imagen": "Independencia3.gif"
+		}	]
+
+}

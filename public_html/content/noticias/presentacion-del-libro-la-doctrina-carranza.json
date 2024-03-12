@@ -1,0 +1,14 @@
+{
+	"titulo": "Presentaci\u00F3n del libro La Doctrina Carranza",
+	"titulo_normalizado": "presentacion-del-libro-la-doctrina-carranza",
+	"secciones": [
+		{
+			"seccion": "Relaciones Internacionales",
+			"seccion_normalizada": "relaciones-internacionales"
+		}
+	],
+	"autor":"Alejandro Frias",
+	"fecha":"28/03/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para Rosa Gayt\u00E1n, internacionalista de la Facultad de Ciencias Pol\u00EDticas y Sociales de la UNAM, resulta importante conocer la historia para poder comprender la actualidad; por ello, present\u00F3 su libro <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Doctrina Carranza<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> d<\/span><span style=\"color: rgb(0, 0, 0);\">urante el <\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">XV Foro de Pol\u00EDtica Exterior realizado en la FES Arag\u00F3n.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como comentaristas de la obra estuvieron presentes el embajador Benito Andi\u00F3n, el profesor Efr\u00E9n Badillo y la acad\u00E9mica Cristina Camacho. El diplom\u00E1tico destac\u00F3 que la publicaci\u00F3n es \u00FAtil para analizar y proyectar acciones del nuevo gobierno a nivel internacional; mientras que Badillo se\u00F1al\u00F3 la destreza de la obra para brindar un contexto hist\u00F3rico, adem\u00E1s del jur\u00EDdico, sobre la pol\u00EDtica actual en M\u00E9xico y vincular los factores internos con los externos. <\/span><\/p>",
+	"imagenes":[{"imagen":"presentacion-del-libro-la-doctrina-carranza-2.jpg"},{"imagen":"presentacion-del-libro-la-doctrina-carranza-1.jpg"},{"imagen":"presentacion-del-libro-la-doctrina-carranza-3.jpg"},{"imagen":"presentacion-del-libro-la-doctrina-carranza-4.jpg"},{"imagen":"presentacion-del-libro-la-doctrina-carranza-5.jpg"},{"imagen":"presentacion-del-libro-la-doctrina-carranza-6.jpg"}]
+}

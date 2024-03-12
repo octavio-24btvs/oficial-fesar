@@ -1,0 +1,18 @@
+{
+    "nombre": "Rafael Ahumada Barajas", 
+    "grado_academico": "Doctor", 
+     "correo": [ "ahumadabar@hotmail.com"],
+    "estudios": [
+        "Licenciatura en Periodismo y Comunicación Colectiva. Universidad Nacional Autónoma de México.", 
+        "Maestría en Enseñanza Superior. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ciencias Sociales y Políticas. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Comunicación y Cultura.", 
+        "Comunicación y Educación.", 
+        "Televisión."
+    ], 
+    "investigaciones": [
+        "La producción en televisión."
+    ]
+}

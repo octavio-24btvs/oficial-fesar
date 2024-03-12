@@ -1,0 +1,21 @@
+{
+	"titulo": "SEMECO: La econom\u00EDa en M\u00E9xico y Latinoam\u00E9rica",
+	"titulo_normalizado": "semeco-la-economia-en-mexico-y-latinoamerica",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		}
+	],
+	"autor": "Rosa Francisco",
+	"fecha": "28/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Econom\u00EDa. La econom\u00EDa mexicana ante la reconfiguraci\u00F3n del nuevo orden mundial<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, los profesores Oscar Edmundo Quintero y Alejandro Azamar hablaron sobre c\u00F3mo la pandemia afect\u00F3 la econom\u00EDa mexicana y la relaci\u00F3n que han tenido pa\u00EDses con menos recursos ante las potencias mundiales.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Quintero, en la conferencia “Punto de quiebre en el Estado mexicano a partir de 2018”, mencion\u00F3 c\u00F3mo la pandemia de COVID-19 afect\u00F3 la econom\u00EDa nacional e internacional y tir\u00F3 los pron\u00F3sticos de mejora previstos desde 2018 para M\u00E9xico, asimismo, otro factor perjudicial ha sido una mala imagen debido a las cr\u00EDticas y ataques entre el actual Gobierno y sus detractores.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por otro lado, Azamar, en “M\u00E9xico en un contexto latinoamericano”, explic\u00F3 el papel de naciones tercermundistas respecto a potencias como Rusia, Estados Unidos o Italia, que, a partir de la Segunda Guerra Mundial, han beneficiado a otros pa\u00EDses gracias a su necesidad de diferentes materias primas.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "la-economia-en-mexico-y-latinoamerica-1.jpg"
+		},
+		{
+			"imagen": "la-economia-en-mexico-y-latinoamerica-2.jpg"
+		}	]
+
+}

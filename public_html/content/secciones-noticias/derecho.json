@@ -1,0 +1,462 @@
+{
+	"id": 8,
+	"titulo": "Derecho",
+	"icono": "icon-derecho",
+	"noticias": [
+		{
+			"titulo":"Profesor de la SUAyED recibe premio a la excelencia acad\u00E9mica",
+			"titulo_normalizado":"profesor-de-la-suayed-recibe-premio-a-la-excelencia-academica",
+			"autor":"Erik Pliego",
+			"imagen": "PRemio5.gif",
+			"fecha":"30/10/23"
+		},
+		{
+			"titulo":"Seguridad en Nezahualc\u00F3yotl",
+			"titulo_normalizado":"seguridad-en-nezahualcoyotl",
+			"autor":"Liliana Espinosa",
+			"imagen": "seguridad-en-nezahualcoyotl-1.png",
+			"fecha":"30/10/19"
+		},
+		{
+			"titulo":"Lenguaje de se\u00F1as en el marco jur\u00EDdico",
+			"titulo_normalizado":"lenguaje-de-senas-en-el-marco-juridico",
+			"autor":"Sianya S\u00E1nchez",
+			"imagen": "lenguaje-de-senas-en-el-marco-juridico-1.jpg",
+			"fecha":"27/10/21"
+		},
+		{
+			"titulo":"Educaci\u00F3n y academia por los derechos humanos",
+			"titulo_normalizado":"educacion-y-academia-por-los-derechos-humanos",
+			"autor":"Redacci\u00F3n",
+			"imagen": "educacion-y-academia-por-los-derechos-humanos-1.jpg",
+			"fecha":"26/08/19"
+		},
+		{
+			"titulo":"Distintas maneras de ver el divorcio",
+			"titulo_normalizado":"distintas-maneras-de-ver-el-divorcio",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "Distintas-maneras-de-ver-el-divorcio-1.jpg",
+			"fecha":"26/02/19"
+		},
+		{
+			"titulo":"Compromiso empresarial",
+			"titulo_normalizado":"compromiso-empresarial",
+			"autor":"Redacci\u00F3n",
+			"imagen": "compromiso-empresarial-1.jpg",
+			"fecha":"25/11/19"
+		},
+		{
+			"titulo":"Erradiquemos la violencia escolar",
+			"titulo_normalizado":"erradiquemos-la-violencia-escolar",
+			"autor":"Thalia Ortega",
+			"imagen": "erradiquemos-la-violencia-escolar-1.jpg",
+			"fecha":"25/10/19"
+		},
+		{
+			"titulo":"Implicaciones de la reforma laboral",
+			"titulo_normalizado":"implicaciones-de-la-reforma-laboral",
+			"autor":"Redacci\u00F3n",
+			"imagen": "implicaciones-de-la-reforma-laboral-en-mexico-1.jpg",
+			"fecha":"25/10/19"
+		},
+		{
+			"titulo":"Imparte Arag\u00F3n c\u00E1tedra de Derechos Humanos",
+			"titulo_normalizado":"imparte-aragon-catedra-de-derechos-humanos",
+			"autor":"Miguel Palacios",
+			"imagen": "derechos-1.gif",
+			"fecha":"25/05/22"
+		},
+		{
+			"titulo":"Los retos de la funci\u00F3n financiera",
+			"titulo_normalizado":"los-retos-de-la-funcion-financiera",
+			"autor":"Yutsil Hern\u00E1ndez",
+			"imagen": "los-retos-de-la-funcion-financiera-1.jpg",
+			"fecha":"25/04/19"
+		},
+		{
+			"titulo":"Hablemos del conflicto Rusia - Ucrania",
+			"titulo_normalizado":"hablemos-del-conflicto-rusia---ucrania",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "conflicto-ur-1.jpg",
+			"fecha":"25/02/22"
+		},
+		{
+			"titulo":"Regularizando tu futuro",
+			"titulo_normalizado":"regularizando-tu-futuro",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "regularizando-tu-futuro-1.jpg",
+			"fecha":"24/11/21"
+		},
+		{
+			"titulo":"Analizar las fronteras del derecho",
+			"titulo_normalizado":"analizar-las-fronteras-del-derecho",
+			"autor":"Thalia Ortega",
+			"imagen": "analizar-las-fronteras-del-derecho-1.jpg",
+			"fecha":"23/10/19"
+		},
+		{
+			"titulo":"La gran utilidad de una Constituci\u00F3n Mexicana comentada",
+			"titulo_normalizado":"la-gran-utilidad-de-una-constitucion-mexicana-comentada",
+			"autor":"Redacci\u00F3n",
+			"imagen": "la-gran-utilidad-de-una-constitucion-mexicana-comentada-1.jpg",
+			"fecha":"22/10/19"
+		},
+		{
+			"titulo":"Funci\u00F3n del TEPJF en los procesos electorales",
+			"titulo_normalizado":"funcion-del-tepjf-en-los-procesos-electorales",
+			"autor":"Kenia Brodman",
+			"imagen": "EJE1.gif",
+			"fecha":"22/02/22"
+		},
+		{
+			"titulo":"Investigadores aragoneses en formaci\u00F3n",
+			"titulo_normalizado":"investigadores-aragoneses-en-formacion",
+			"autor":"Beatriz Calva",
+			"imagen": "semilleros-1.jpg",
+			"fecha":"20/04/23"
+		},
+		{
+			"titulo":"Derecho a la paz",
+			"titulo_normalizado":"derecho-a-la-paz",
+			"autor":"Redacci\u00F3n",
+			"imagen": "derecho-a-la-paz-1.jpg",
+			"fecha":"18/09/19"
+		},
+		{
+			"titulo":"Reforma electoral a discusi\u00F3n",
+			"titulo_normalizado":"reforma-electoral-a-discusion",
+			"autor":"Beatriz Calva",
+			"imagen": "reforma-electoral-1.jpg",
+			"fecha":"18/04/23"
+		},
+		{
+			"titulo":"Comienza tu formaci\u00F3n con cultura y deporte",
+			"titulo_normalizado":"comienza-tu-formacion-con-cultura-y-deporte",
+			"autor":"Rosa Francisco",
+			"imagen": "comienza-tu-formacion-con-cultura-y-deporte-1.jpg",
+			"fecha":"17/08/21"
+		},
+		{
+			"titulo":"Violaci\u00F3n a DDHH: m\u00E1s de diecisiete a\u00F1os en prisi\u00F3n sin una sentencia",
+			"titulo_normalizado":"violacion-a-ddhh-mas-de-diecisiete-anos-en-prision-sin-una-sentencia",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "violacion-a-ddhh-en-prision-sin-sentencia-1.jpg",
+			"fecha":"16/05/23"
+		},
+		{
+			"titulo":"Importancia de la mediaci\u00F3n en la sociedad",
+			"titulo_normalizado":"importancia-de-la-mediacion-en-la-sociedad",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "importancia-de-la-mediacion-en-la-sociedad-1.jpg",
+			"fecha":"16/02/23"
+		},
+		{
+			"titulo":"Airbnb y Sun.Risas impulsan el talento aragon\u00E9s",
+			"titulo_normalizado":"airbnb-y-sunrisas-impulsan-el-talento-aragones",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "airbnb-y-sunrisas-impulsan-el-talento-aragones-1.jpg",
+			"fecha":"15/12/21"
+		},
+		{
+			"titulo":"Primer concurso de litigio penal",
+			"titulo_normalizado":"primer-concurso-de-litigio-penal",
+			"autor":"Edith Granados y Carmen Melendez",
+			"imagen": "primer-concurso-de-litigio-penal-1.jpg",
+			"fecha":"15/11/18"
+		},
+		{
+			"titulo":"Otro a\u00F1o de Derecho Romano",
+			"titulo_normalizado":"otro-ano-de-derecho-romano",
+			"autor":"Redacci\u00F3n",
+			"imagen": "Otro_ano_de_derecho_romano01.jpg",
+			"fecha":"14/11/19"
+		},
+		{
+			"titulo":"Catedr\u00E1tico aragon\u00E9s presenta publicaci\u00F3n sobre teor\u00EDa del proceso",
+			"titulo_normalizado":"catedratico-aragones-presenta-publicacion-sobre-teoria-del-proceso",
+			"autor":"Redacci\u00F3n",
+			"imagen": "catedratico-aragones-presenta-publicacion-sobre-teoria-del-proceso-1.jpg",
+			"fecha":"14/10/19"
+		},
+		{
+			"titulo":"Prejuicio en las autoridades",
+			"titulo_normalizado":"prejuicio-en-las-autoridades",
+			"autor":"Carmen Melendez",
+			"imagen": "Prejuicio-de-las-autoridades-1.jpg",
+			"fecha":"14/03/19"
+		},
+		{
+			"titulo":"La ministra Yasmin Esquivel Mossa imparte conferencia sobre Reforma Laboral",
+			"titulo_normalizado":"la-ministra-yasmin-esquivel-mossa-imparte-conferencia-sobre-reforma-laboral",
+			"autor":"Thalia Ortega",
+			"imagen": "ministra-de-la-SCJN-comenta-1.jpg",
+			"fecha":"14/02/20"
+		},
+		{
+			"titulo":"Foro para generar una agenda legislativa del deporte",
+			"titulo_normalizado":"foro-para-generar-una-agenda-legislativa-del-deporte",
+			"autor":"Redacci\u00F3n",
+			"imagen": "foro-para-generar-una-agenda-legislativa-del-deporte-1.jpg",
+			"fecha":"13/11/19"
+		},
+		{
+			"titulo":"Sistemas de cumplimiento para las empresas",
+			"titulo_normalizado":"sistemas-de-cumplimiento-para-las-empresas",
+			"autor":"Redacci\u00F3n",
+			"imagen": "sistemas-de-cumplimiento-para-las-empresas-1.jpg",
+			"fecha":"13/11/19"
+		},
+		{
+			"titulo":"El H. Congreso de la Uni\u00F3n y la nueva normalidad",
+			"titulo_normalizado":"el-h-congreso-de-la-union-y-la-nueva-normalidad",
+			"autor":"Erik Pliego",
+			"imagen": "el-h-congreso-y-la-nueva-normalidad-1.jpg",
+			"fecha":"13/08/20"
+		},
+		{
+			"titulo":"Derechos humanos en ambiente laboral",
+			"titulo_normalizado":"derechos-humanos-en-ambiente-laboral",
+			"autor":"Aurelio Nito",
+			"imagen": "derechos-humanos-en-ambiente-laboral-1.jpg",
+			"fecha":"13/05/19"
+		},
+		{
+			"titulo":"Primer desayuno de la comunidad egresada",
+			"titulo_normalizado":"primer-desayuno-de-la-comunidad-egresada",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Desayuno1.gif",
+			"fecha":"12/11/22"
+		},
+		{
+			"titulo":"\u00BFConoces el derecho deportivo?",
+			"titulo_normalizado":"conoces-el-derecho-deportivo",
+			"autor":"Liliana Espinosa",
+			"imagen": "conoces-el-derecho-deportivo-1.jpg",
+			"fecha":"12/09/19"
+		},
+		{
+			"titulo":"Los  derechos humanos en la convivencia universitaria",
+			"titulo_normalizado":"los--derechos-humanos-en-la-convivencia-universitaria",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "DH1.gif",
+			"fecha":"12/05/22"
+		},
+		{
+			"titulo":"8M: Mujeres y ni\u00F1as con discapacidad",
+			"titulo_normalizado":"8m-mujeres-y-ninas-con-discapacidad",
+			"autor":"Gustavo Becerra",
+			"imagen": "mujeres-y-ninas-con-discapacidad-1.jpg",
+			"fecha":"12/03/21"
+		},
+		{
+			"titulo":"El avance de los derechos pol\u00EDtico-electorales",
+			"titulo_normalizado":"el-avance-de-los-derechos-politico-electorales",
+			"autor":"Redacci\u00F3n",
+			"imagen": "el-avance-de-los-derechos-politico-electorales-1.jpg",
+			"fecha":"11/11/19"
+		},
+		{
+			"titulo":"8M: G\u00E9nero y  Derechos Humanos",
+			"titulo_normalizado":"8m-genero-y--derechos-humanos",
+			"autor":"Alexia Ochoa",
+			"imagen": "genero-y-derechos-humanos-1.jpg",
+			"fecha":"11/03/21"
+		},
+		{
+			"titulo":"Los retos actuales del Congreso de la Uni\u00F3n",
+			"titulo_normalizado":"los-retos-actuales-del-congreso-de-la-union",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "los-retos-actuales-del-congreso-de-la-union-1.jpg",
+			"fecha":"10/04/19"
+		},
+		{
+			"titulo":"8M: Taller sobre el Protocolo para la atenci\u00F3n de casos de violencia de g\u00E9nero",
+			"titulo_normalizado":"8m-taller-sobre-el-protocolo-para-la-atencion-de-casos-de-violencia-de-genero",
+			"autor":"Erick Sol\u00EDs",
+			"imagen": "taller-sobre-el-protocolo-para-la-atencion--de-casos-2.jpg",
+			"fecha":"10/03/21"
+		},
+		{
+			"titulo":"Juicios administrativos en el Estado de M\u00E9xico",
+			"titulo_normalizado":"juicios-administrativos-en-el-estado-de-mexico",
+			"autor":"Redacci\u00F3n",
+			"imagen": "juicios-administrativos-en-el-estado-de-mexico-1.jpg",
+			"fecha":"09/11/19"
+		},
+		{
+			"titulo":"Estudiantes ponen a prueba sus conocimientos",
+			"titulo_normalizado":"estudiantes-ponen-a-prueba-sus-conocimientos",
+			"autor":"Luis Bocanegra",
+			"imagen": "estudiantes-ponen-a-prueba-sus-conocimientos-1.jpg",
+			"fecha":"09/05/19"
+		},
+		{
+			"titulo":"Colecta de juguetes por una buena causa",
+			"titulo_normalizado":"colecta-de-juguetes-por-una-buena-causa",
+			"autor":"Alejandro Frias",
+			"imagen": "colecta-de-juguetes-por-una-buena-causa-1.jpg",
+			"fecha":"09/04/19"
+		},
+		{
+			"titulo":"8M: C\u00F3digo Penal con perspectiva de g\u00E9nero",
+			"titulo_normalizado":"8m-codigo-penal-con-perspectiva-de-genero",
+			"autor":"Gustavo Becerra",
+			"imagen": "codigo-penal-con-perspectiva-de-genero-1.jpg",
+			"fecha":"09/03/21"
+		},
+		{
+			"titulo":"Participaci\u00F3n ciudadana y la defensa de una democracia participativa",
+			"titulo_normalizado":"participacion-ciudadana-y-la-defensa-de-una-democracia-participativa",
+			"autor":"Redacci\u00F3n",
+			"imagen": "participacion-ciudadana-y-la-defensa-de-una-democracia-participativa-1.jpg",
+			"fecha":"08/11/19"
+		},
+		{
+			"titulo":"Reflexiones en torno al INE",
+			"titulo_normalizado":"reflexiones-en-torno-al-ine",
+			"autor":"Redacci\u00F3n",
+			"imagen": "reflexiones-en-torno-al-ine-1.jpg",
+			"fecha":"08/04/21"
+		},
+		{
+			"titulo":"8M: la mujer en la econom\u00EDa y sociedad",
+			"titulo_normalizado":"8m-la-mujer-en-la-economia-y-sociedad",
+			"autor":"Kenia Brodman",
+			"imagen": "8Meconomía1.gif",
+			"fecha":"08/03/22"
+		},
+		{
+			"titulo":"8M: Diputadas hablan sobre perspectiva de g\u00E9nero",
+			"titulo_normalizado":"8m-diputadas-hablan-sobre-perspectiva-de-genero",
+			"autor":"Gustavo Becerra",
+			"imagen": "diputadas-hablan-sobre-perspectiva-de-genero-1.jpg",
+			"fecha":"08/03/21"
+		},
+		{
+			"titulo":"8M: Latinoamericanas en la academia y el Derecho",
+			"titulo_normalizado":"8m-latinoamericanas-en-la-academia-y-el-derecho",
+			"autor":"Redacci\u00F3n",
+			"imagen": "latinoamericanas-en-la-academia-y-el-derecho-1.jpg",
+			"fecha":"08/03/21"
+		},
+		{
+			"titulo":"El acoso y violencia sexual en Internet",
+			"titulo_normalizado":"el-acoso-y-violencia-sexual-en-internet",
+			"autor":"Oscar Rafael Cornejo",
+			"imagen": "Digital.gif",
+			"fecha":"07/11/23"
+		},
+		{
+			"titulo":"Segunda Feria del Derecho Fiscal y Aduanero",
+			"titulo_normalizado":"segunda-feria-del-derecho-fiscal-y-aduanero",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Segunda_Feria_del_Derecho_Fiscal_y_Aduanero01.jpg",
+			"fecha":"07/11/19"
+		},
+		{
+			"titulo":"La situaci\u00F3n de la migraci\u00F3n en Centroam\u00E9rica",
+			"titulo_normalizado":"la-situacion-de-la-migracion-en-centroamerica",
+			"autor":"Liliana Espinosa",
+			"imagen": "la-situacion-de-la-migracion-en-centroamerica-1.jpg",
+			"fecha":"07/11/19"
+		},
+		{
+			"titulo":"Santiago Nieto y la batalla contra la corrupci\u00F3n",
+			"titulo_normalizado":"santiago-nieto-y-la-batalla-contra-la-corrupcion",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "santiago-nieto-y-la-batalla-contra-la-corrupcion-1.jpg",
+			"fecha":"07/10/20"
+		},
+		{
+			"titulo":"Delictum en el derecho romano",
+			"titulo_normalizado":"delictum-en-el-derecho-romano",
+			"autor":"Aurelio Nito",
+			"imagen": "delictum-en-el-derecho-romano-1.jpg",
+			"fecha":"07/03/19"
+		},
+		{
+			"titulo":"Medidas cautelares para un debido litigio",
+			"titulo_normalizado":"medidas-cautelares-para-un-debido-litigio",
+			"autor":"Redacci\u00F3n",
+			"imagen": "medidas-cautelares-para-un-debido-litigio-1.jpg",
+			"fecha":"06/11/19"
+		},
+		{
+			"titulo":"Actualizaci\u00F3n a los juicios mercantiles",
+			"titulo_normalizado":"actualizacion-a-los-juicios-mercantiles",
+			"autor":"Redacci\u00F3n",
+			"imagen": "actualizacion-a-los-juicios-mercantiles-1.jpg",
+			"fecha":"05/11/19"
+		},
+		{
+			"titulo":"FES Arag\u00F3n recibe el Sello KVI",
+			"titulo_normalizado":"fes-aragon-recibe-el-sello-kvi",
+			"autor":"",
+			"imagen": "KIV.gif",
+			"fecha":"05/09/22"
+		},
+		{
+			"titulo":"Miguel Carbonell: reflexi\u00F3n sobre el derecho",
+			"titulo_normalizado":"miguel-carbonell-reflexion-sobre-el-derecho",
+			"autor":"Alexis Camacho",
+			"imagen": "miguel-carbonell-reflexion-sobre-el-derecho-1.jpg",
+			"fecha":"05/09/19"
+		},
+		{
+			"titulo":"Derecho Romano, base de los Derechos Humanos",
+			"titulo_normalizado":"derecho-romano-base-de-los-derechos-humanos",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "El-Derecho-Romano-como-base-de-los-Derechos-Humanos-1.jpg",
+			"fecha":"05/03/19"
+		},
+		{
+			"titulo":"La audiencia inicial clave en el sistema jur\u00EDdico",
+			"titulo_normalizado":"la-audiencia-inicial-clave-en-el-sistema-juridico",
+			"autor":"Redacci\u00F3n",
+			"imagen": "la-audiencia-inicial-clave-en-1.jpg",
+			"fecha":"04/11/19"
+		},
+		{
+			"titulo":"Aspectos jur\u00EDdicos de la revocaci\u00F3n de mandato",
+			"titulo_normalizado":"aspectos-juridicos-de-la-revocacion-de-mandato",
+			"autor":"Rosa Francisco",
+			"imagen": "aspectos-juridicos-de-la-revocacion-de-mandato-1-1.jpg",
+			"fecha":"04/04/22"
+		},
+		{
+			"titulo":"Del aula al congreso",
+			"titulo_normalizado":"del-aula-al-congreso",
+			"autor":"Aurelio Nito",
+			"imagen": "del-aula-al-congreso-1.jpg",
+			"fecha":"04/04/19"
+		},
+		{
+			"titulo":"Inicia Semana de Derecho con an\u00E1lisis romanista",
+			"titulo_normalizado":"inicia-semana-de-derecho-con-analisis-romanista",
+			"autor":"Carmen Melendez",
+			"imagen": "Inicia-semana-de-derecho-con-analisis-romanista-1.jpg",
+			"fecha":"04/03/19"
+		},
+		{
+			"titulo":"Presentaci\u00F3n de libro sobre amparo",
+			"titulo_normalizado":"presentacion-de-libro-sobre-amparo",
+			"autor":"Sara Ignacio",
+			"imagen": "presentacion-de-libro-sobre-amparo-1.png",
+			"fecha":"03/10/18"
+		},
+		{
+			"titulo":"Ceremonia de acreditaci\u00F3n para la carrera de Derecho",
+			"titulo_normalizado":"ceremonia-de-acreditacion-para-la-carrera-de-derecho",
+			"autor":"Erik Pliego",
+			"imagen": "Ceremonia-1.gif",
+			"fecha":"02/12/20"
+		},
+		{
+			"titulo":"Aforo m\u00E1ximo en conversatorio de derecho",
+			"titulo_normalizado":"aforo-maximo-en-conversatorio-de-derecho",
+			"autor":"Erik Pliego",
+			"imagen": "Laboral1.gif",
+			"fecha":"02/03/22"
+		}
+	]
+}

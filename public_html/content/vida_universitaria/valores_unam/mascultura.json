@@ -1,0 +1,17 @@
+{
+    "titulo":"MásCultura",
+    "imagenes": [
+        {
+            "imagen": "dia-danza",
+            "formato":"gif",
+            "alt":"D\u00EDa de la danza"
+        },
+        {
+            "imagen": "libroy-derecho-de-autor",
+            "alt":"Libro y derecho de autor"
+        }
+    ],
+    "pdfs": [
+      
+    ]
+}

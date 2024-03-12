@@ -1,0 +1,37 @@
+{
+	"titulo": "Un recorrido por la tradici\u00F3n musical mexicana",
+	"titulo_normalizado": "un-recorrido-por-la-tradicion-musical-mexicana",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Edna Reyes",
+	"fecha": "09/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Unidad de Extensi\u00F3n Universitaria, a trav\u00E9s del \u00E1rea de Actividades Culturales, llev\u00F3 a cabo la presentaci\u00F3n <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Un canto por M\u00E9xico<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> en el Pasillo Cultural de la Facultad. El evento cont\u00F3 con la participaci\u00F3n del taller de coro y su director Josu\u00E9 Urquiza.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las piezas principales que formaron parte de esta interpretaci\u00F3n fueron<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> El Andariego<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Calandria<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Deja que salga la luna<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Martiniana<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Llorona<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, as\u00ED como, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Bruja<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, el grupo coral recit\u00F3 <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cielito Lindo<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Bamba<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Para cerrar el evento Urquiza invit\u00F3 a la comunidad aragonesa a presenciar la pr\u00F3xima presentaci\u00F3n, la cual se realizar\u00E1 el mi\u00E9rcoles 23 de noviembre.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "un-recorrido-por-la-tradicion-musical-mexicana-1.jpg"
+		},
+		{
+			"imagen": "un-recorrido-por-la-tradicion-musical-mexicana-2.jpg"
+		},
+		{
+			"imagen": "un-recorrido-por-la-tradicion-musical-mexicana-3.jpg"
+		},
+		{
+			"imagen": "un-recorrido-por-la-tradicion-musical-mexicana-4.jpg"
+		},
+		{
+			"imagen": "un-recorrido-por-la-tradicion-musical-mexicana-5.jpg"
+		},
+		{
+			"imagen": "un-recorrido-por-la-tradicion-musical-mexicana-6.jpg"
+		}	]
+
+}

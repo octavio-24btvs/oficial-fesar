@@ -1,0 +1,78 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Plan de estudios",
+        "Mapa curricular",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Reconocimientos y proyectos",
+        "Contacto"
+    ],
+    "titulo": "Relaciones Internacionales",
+    "icono": "icono-secciones icon-relaciones-internacionales",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Licenciatura en Relaciones Internacionales es una de las más importantes dentro de la UNAM. Nuestra comunidad se conforma de alrededor de 1 300 estudiantes y de 97 docentes. Hasta ahora de nuestras aulas han egresado 42 generaciones de aragonesas y aragoneses internacionalistas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante los ocho semestres de la carrera se adquieren conocimientos, habilidades, aptitudes y valores, encaminados a fortalecer el perfil del Internacionalista.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Relaciones Internacionales forma profesionistas capaces de analizar el contexto pol\u00EDtico nacional e internacional, proporcionando soluciones para construir estrategias de desarrollo frente a los problemas de la sociedad, a trav\u00E9s de un enfoque multidisciplinario.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las personas aspirantes a ingresar a la licenciatura en Relaciones Internacionales de la FES Aragón deberán de contar, de preferencia, con los siguientes conocimientos generales, habilidades y aptitudes:<\/span><\/p><p><b>Conocimientos generales<\/b><\/p><ul><li>Sobre sucesos de carácter nacional e internacional.<\/li><li>Sobre acontecimientos de tipo histórico y contemporáneo, que permitan abordar el pasado y la realidad presente.<\/li><li>Sobre los procesos políticos y socioeconómicos de carácter nacional e internacional.<\/li><li>De redacción en idioma español.<\/li><li>Sobre aspectos generales de carácter jurídico, económico y político.<\/li><\/ul><p><b>Habilidades<\/b><\/p><ul><li>Facilidad para aprender lenguas extranjeras, en especial el inglés, idioma que se cursa de manera obligatoria.<\/li><li>De comprensión lectora, debido a que es permanente el análisis de textos de la realidad nacional e internacional.<\/li><li>De expresión oral y redacción de documentos, para expresar ideas a través de ensayos, trabajos de investigación y todo tipo de escritos.<\/li><li>Facilidad para relacionarse.<\/li><\/ul><p><b>Actitudes<\/b><\/p><ul><li>Interés en áreas relacionadas con Política, Economía, Geografía, Derecho e Historia.<\/li><li>Gusto por la investigación.<\/li><li>Disposición para el trabajo colaborativo.<\/li><\/ul><p>El <i>Plan de Estudios<\/i>, de igual manera, cuenta con dos perfiles intermedios, ubicados al término del segundo y del quinto semestre, en los cuales se espera que la o el estudiante cuente con las siguientes características:            <\/p><p><b>Conocimientos<\/b><\/p><ul><li>Fundamentos del idioma inglés, con base en el Marco Común Europeo de Referencia para las lenguas (MCER), en el nivel A1-A2 (Básico)<\/li><li>Bases generales de la Ciencia Política, de la Sociología, de la Economía y del Derecho.<\/li><li>Evolución histórica de las Relaciones Internacionales.<\/li><li>Estadística elemental aplicada al estudio cuantitativo de realidades de México y el mundo.<\/li><\/ul><p><b>Habilidades<\/b><\/p><ul><li>Comprensión de lectura y auditiva y producción oral y escrita básicas del idioma inglés.<\/li><li>Expresión oral y escrita, en lengua española, para formular argumentos fundamentados y realizar escritos con la debida corrección en términos de redacción, puntuación y ortografía.<\/li><\/ul><p><b>Actitudes<\/b><\/p><ul><li>Interés por enfoques provenientes de otras áreas de las Ciencias Sociales, que evidencian la transdisciplinariedad de la Carrera, tales como: aspectos sociales, políticos, económicos, jurídicos, metodológicos y del idioma inglés.<\/li><\/ul>"       
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los egresados de la Carrera de Relaciones Internacionales tendrán las siguientes capacidades:<\/span><\/p><p><b>Conocimientos de<\/b><ul><li>La realidad naciona.<\/li><li>La política exterior de México.<\/li><li>Los esquemas económico-financieros de los mercados nacionales e internacionales.<\/li><li>Los aspectos jurídicos de la vertiente internacional.<\/li><li>La regulación de los sistemas portuarios.<\/li><li>Los esquemas logísticos (de tráfico internacional y de aduanas).<\/li><li>Los asuntos relevantes del ámbito geográfico y la diversidad de los Estados mediante el estudio de diversas regiones del planeta (basado en un enfoque transdisciplinario, que contempla el análisis sobre el pasado, la coyuntura actual y los escenarios prospectivos).<\/li><\/ul><p><b>Habilidades<\/b><\/p><ul><li>De expresión oral y escrita, tanto en el idioma español como en el idioma inglés, que son de gran utilidad, en caso de realizar un trabajo escrito como forma de titulación y en el momento de insertarse en el ámbito laboral.<\/li><li>Para la crítica reflexiva.<\/li><li>De liderazgo, con base en el conocimiento, la disciplina y el esfuerzo académico.<\/li><\/ul><p><b>Actitudes<\/b><\/p><ul><li>De reconocimiento del trabajo colaborativo como una forma para encontrar soluciones grupales a los problemas planteados.<\/li><li>De compromiso social arraigado con su entorno nacional y con el mejoramiento de la realidad internacional, en especial en temas de Derechos Humanos, el Desarrollo Sustentable y la búsqueda de la Igualdad en cuestiones de Género.<\/li><\/ul>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Plan de estudios<\/h2>",
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/relaciones-internacionales/plan-de-estudios-rrii-1275.pdf\" title=\"Malla Curricular\" target=\"_blank\">Plan de Estudios (1275)<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/relaciones-internacionales/plan-de-estudios-rrii-2235.pdf\" title=\"Planes de Estudio Hist\u00F3ricos\" target=\"_blank\">Plan de Estudios (2235)<\/a><\/div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mapa curricular<\/h2>",
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/relaciones-internacionales/mapa-rrii-1275.pdf\" title=\"Mapa curricular (1275)\" target=\"_blank\">Mapa curricular (1275)<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/relaciones-internacionales/mapa-rrii-2235.pdf\" title=\"Mapa curricular (2235)\" target=\"_blank\">Mapa curricular (2235)<\/a><\/div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Programas<\/h2>",
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/relaciones-internacionales/programas-1275.pdf\" title=\"Programas (1275)\" target=\"_blank\">Programas (1275)<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/relaciones-internacionales/programas-2235.pdf\" title=\"Programas (2235)\" target=\"_blank\">Programas (2235)<\/a><\/div>"
+        },
+        {
+            "tipo": "pdf", 
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/relaciones-internacionales-titulacion"
+        }, 
+        {
+            "tipo": "reconocimientos",
+            "texto": {
+                "reconocimiento_docentes": "<ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Estudiantes han aplicado a intercambios nacionales e internacionales a Estados Unidos, Francia, Canad\u00E1, Alemania, Brasil, Corea del Sur, Espa\u00F1a, Suecia y Colombia, entre otros, con el fin de perfeccionar el idioma o cursar algunas de las asignaturas de la carrera;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">la comunidad egresada ha formado parte del Servicio Exterior Mexicano, incluso con acreditaci\u00F3n de embajadores en varios pa\u00EDses;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">docentes publican art\u00EDculos en revistas y libros especializados en asuntos internacionales, conceden entrevistas sobre diversas tem\u00E1ticas de la realidad mundial en diversos medios electr\u00F3nicos y son conferencistas al interior del pa\u00EDs y en el \u00E1mbito internacional.<\/span><\/li><\/ul>",
+                "reconocimiento_alumnos": "<ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Feria Internacional de Cultura y Conocimiento<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Modelo de Naciones Unidas ARAMUN<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Grupo de Debate<\/span><\/li><\/ul>"
+            }
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Daniel Edgar Muñoz Torres",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/relaciones-internacionales/daniel-edgar-munoz-torres.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "David Garc\u00EDa Contreras",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/relaciones-internacionales/david-garcia-contreras.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30814 y 30816",
+                "correo_electronico": "relacionesinternacionales@aragon.unam.mx",
+                "correo_electronico_st": "st.relacionesinternacionales@aragon.unam.mx",
+                "facebook": "https:\/\/www.facebook.com\/FESAragon.relacionesinternacionales\/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/relaciones-internacionales"
+            }
+        }
+    ]
+}

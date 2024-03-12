@@ -1,0 +1,14 @@
+{
+	"titulo": "Presentaci\u00F3n del libro 19S El d\u00EDa que cimbr\u00F3 M\u00E9xico",
+	"titulo_normalizado": "presentacion-del-libro-19s-el-dia-que-cimbro-mexico",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		}
+	],
+	"autor":"Alison Vargas",
+	"fecha":"17/09/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con motivo del primer aniversario del temblor del 19 de septiembre de 2017, Yohali Res\u00E9ndiz, egresada de Comunicaci\u00F3n y Periodismo de la FES Arag\u00F3n, present\u00F3 su libro <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">19S El d\u00EDa que cimbr\u00F3 M\u00E9xico<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Para la autora, presenciar lo acontecido en el colegio R\u00E9bsamen la conmovi\u00F3 y motiv\u00F3 a plasmar todo lo que se vivi\u00F3 aquel d\u00EDa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Habl\u00F3 acerca de la finalidad de su publicaci\u00F3n: reconocer la unidad entre la ciudadan\u00EDa, mantener la memoria de lo que enfrentamos como sociedad, el comportamiento de los medios de comunicaci\u00F3n y organizaciones que se aprovecharon de esta situaci\u00F3n, as\u00ED como relatar las consecuencias, irregularidades y todo lo que hay detr\u00E1s de aquel tr\u00E1gico suceso.<\/span><\/p>",
+	"imagenes":[{"imagen":"img-1.jpg"},{"imagen":"img-2.jpg"},{"imagen":"img-3.jpg"},{"imagen":"img-4.jpg"}]
+}

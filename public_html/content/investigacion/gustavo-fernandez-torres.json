@@ -1,0 +1,16 @@
+{
+    "nombre": "Gustavo Fernández Torres", 
+    "grado_academico": "Maestro", 
+     "correo": [ "gustavofernandez39@aragon.unam.mx "     ],
+    "estudios": [
+        "Licenciatura en Física y Matemáticas. Instituto Politécnico Nacional.", 
+        "Maestría en Ciencias con Orientación en Matemáticas Básicas. Centro de Investigación en Matemáticas, A.C."
+    ], 
+    "lineas_investigacion": [
+        "Físico Matemáticas."
+    ], 
+    "investigaciones": [
+        "A Class of King - Geometric Type Methods with Optimal Order of Convergence and its Dynamics.",
+        "A Novel Class of Logarithmic – Exponential Optimal Iterative Methods and Their Dynamics."
+    ]
+}

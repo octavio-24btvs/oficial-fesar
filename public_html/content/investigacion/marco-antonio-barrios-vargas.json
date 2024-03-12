@@ -1,0 +1,19 @@
+{
+    "nombre": "Marco Antonio Barrios Vargas", 
+    "grado_academico": "Maestro", 
+     "correo": [ "marcobarriospp3@aragon.unam.mx"],
+     "imagen": true, 
+    "estudios": [
+        "Licenciatura en Comercio Exterior y Aduanas, Secretaría de Educación Pública.",
+        "Licenciatura en Ingeniería Mecánica Electricista (Área Industrial). Facultad de Ingeniería de la UNAM.",
+        "Especialidad en Ingeniería Industrial y Administración de la Producción. Cranfield University, Inglaterra.",
+        "Maestría en Ciencias en Ingeniería Industrial y Administración de la Producción. Cranfield University, Inglaterra.",
+        "Agente Aduanal, patente 1387. Secretaría de Hacienda y Crédito Público."
+    ], 
+    "lineas_investigacion": [
+        "Ingeniería industrial"
+    ], 
+    "investigaciones": [
+        "Preparación y actualización de material didáctico para diplomado “Logística y Cadena de Suministro” en el módulo de “Logística, Despacho Aduanal, e Incoterms de las Importaciones y Exportaciones”"
+    ]
+}

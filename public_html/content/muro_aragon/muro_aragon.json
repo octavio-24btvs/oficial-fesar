@@ -1,0 +1,109 @@
+[  
+    {
+        "imagen": "directorio-ayuda-psicologica.gif",
+        "descripcion": "Directorio de Ayuda Psicológica",
+        "imagen_color": "#C4C4C4",
+        "hipervinculo": "public_html/documents/muro_aragon/directorio-ayuda-psicologica.pdf"
+    },   
+    {
+        "imagen": "UNAMbiente-entre-manos.gif",
+        "descripcion": "UNAMbiente entre manos",
+        "imagen_color": "#4d4d4d",
+        "hipervinculo": "https://sites.google.com/aragon.unam.mx/unambiente-entre-manos"
+    },
+    {
+        "imagen": "convocatoria-rdp.png",
+        "descripcion": "Convocatoria Revista Digital de Posgrado",
+        "imagen_color": "#1D4355",
+        "hipervinculo": "public_html/documents/muro_aragon/convocatoria-rdp.pdf"
+    },
+    {
+        "imagen": "banner1v2.jpg",
+        "descripcion": "Seguimiento",
+        "imagen_color": "#50974F",
+        "hipervinculo": "public_html/documents/slider_principal/banner1.pdf"
+    },
+    {
+        "imagen": "voto.jpg",
+        "descripcion": "Voto Informado",
+        "imagen_color": "#E09296",
+        "hipervinculo": "https://www.votoinformado.unam.mx"
+    },
+    {
+        "imagen": "buzon-de-transparencia.png",
+        "descripcion": "Buzón de transparencia",
+        "imagen_color": "#213171",
+        "hipervinculo": "https://docs.google.com/forms/d/e/1FAIpQLSdHm5TJmsK1VgNqxu6ruDcSm860z7t8oqCex-19fYnVEq_RtA/viewform"
+    },
+    {
+        "imagen": "transporte-seguro.png",
+        "descripcion": "Bahía vehicular",
+        "imagen_color": "#FABD4C",
+        "hipervinculo": "https://www.tiktok.com/@fesaragonunam/video/7132678929499852037?is_from_webapp=1&sender_device=pc&web_id=7112518365965338117"
+    },    
+    {
+        "imagen": "lineamientos-nombramiento-renombramiento-espacios.png",
+        "descripcion": "Lineamientos",
+        "imagen_color": "#2770b6",
+        "hipervinculo": "public_html/documents/muro_aragon/lineamientos-nombramiento-renombramiento-espacios.pdf"
+    }, 
+    {
+        "imagen": "culturaunam.png",
+        "descripcion": "Comunidad Cultura UNAM",
+        "imagen_color": "#fe9000",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/comunidad-cultura-unam"
+    }, 
+    {
+        "imagen": "cvtt-unam.png",
+        "descripcion": "Coordinación de Vinculación y Transferencia Tecnológica",
+        "imagen_color": "#D87675",
+        "hipervinculo": "https://vinculacion.unam.mx/"
+    },
+    {
+        "imagen": "act_doc.png",
+        "descripcion": "Actualización Documento",
+        "imagen_color": "#416cc1",
+        "hipervinculo": "https://cuaieed.unam.mx/descargas/investigacion/evaluacion-del-y-para-el-aprendizaje-V02.pdf"
+    }, 
+    {
+        "imagen": "plataforma-educativa-aragon.jpg",
+        "descripcion": "Plataforma Educativa Arag\u00F3n para Profesores",
+        "imagen_color": "#3c8dbc",
+        "hipervinculo": "https://plataformaeducativa.aragon.unam.mx/acceso-profesores"
+    },
+    {
+        "imagen": "cuenta_plataforma.png",
+        "descripcion": "Cuenta de correo Aragón",
+        "hipervinculo": "public_html/documents/muro_aragon/cuenta_plataforma.pdf"
+    },
+    {
+        "imagen": "incremento_anchodebanda.png",
+        "descripcion": "Incremento en el ancho de banda de internet residencial",
+        "imagen_color": "#ffcd6b",
+        "hipervinculo": "public_html/documents/muro_aragon/incremento_anchodebanda.pdf"
+    },
+    {
+        "imagen": "seguimos-contigo.jpg",
+        "descripcion": "Seguimos Contigo",
+        "imagen_color": "#28414F",
+        "hipervinculo": "public_html/documents/muro_aragon/seguimos-contigo.pdf"
+    }, 
+    {
+        "imagen": "contencion-emocional.jpg",
+        "descripcion": "\u00BFQu\u00E9 es la Contenci\u00F3n emocional?",
+        "imagen_color": "#a375a2",
+        "hipervinculo": "public_html/documents/muro_aragon/contencion-emocional.pdf"
+    },
+    {
+        "imagen": "covid-19-y-genero.jpg",
+        "descripcion": "COVID-19 y G\u00E9nero",
+        "imagen_color": "#700634",
+        "hipervinculo": "https://cieg.unam.mx/covid-genero/" 
+    },
+    {
+        "imagen": "directorio-redes.png",
+        "descripcion": "Directorio Redes sociales",
+        "imagen_color": "#65b0b3",
+        "hipervinculo": "public_html/documents/nuestra_facultad/directorio-redes.pdf"
+    }
+]

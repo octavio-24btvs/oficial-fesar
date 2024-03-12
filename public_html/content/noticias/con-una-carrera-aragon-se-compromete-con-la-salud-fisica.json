@@ -1,0 +1,37 @@
+{
+	"titulo": "Con una carrera, Arag\u00F3n se compromete con la salud f\u00EDsica",
+	"titulo_normalizado": "con-una-carrera-aragon-se-compromete-con-la-salud-fisica",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Ariadna Hern\u00E1ndez",
+	"fecha": "26/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La FES Arag\u00F3n llev\u00F3 a cabo la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Carrera a Campo Traviesa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, un evento organizado por el \u00E1rea de Actividades Deportivas y Recreativas, el cual se ven\u00EDa realizando de forma ininterrumpida desde hace 6 a\u00F1os y pudo retomarse tras la pandemia por COVID-19.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad universitaria y externa se reuni\u00F3 para competir en 8 grupos diferentes. En la categor\u00EDa femenil, Mar\u00EDa Sabina Rej\u00F3n (Pedagog\u00EDa, FES Arag\u00F3n) fue la ganadora con un tiempo r\u00E9cord de 21’52”; Viviana Escamilla lleg\u00F3 en segundo lugar y el tercer puesto fue para Lilia Garc\u00EDa (Universidad de Ecatepec).<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la varonil, Ulises Cordero (Pedagog\u00EDa) fue el ganador con un tiempo r\u00E9cord de 16’28”; Francisco Avil\u00E9s (Derecho) obtuvo el segundo lugar; y Jaime Alonso (Arquitectura) el tercero; las y los ganadores de esta prueba de 4.5 km, fueron reconocidos con una medalla y recibieron de obsequio una maleta con art\u00EDculos deportivos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las dem\u00E1s competencias se dividieron por edades: de 5 a 7 a\u00F1os, 50 m, rama mixta; de 8 a 9 a\u00F1os, 100 m, rama mixta; de 10 a 11 a\u00F1os, 100 m, divididas en femenil y varonil; y de 12 a 13 a\u00F1os, 100 m, tambi\u00E9n con ramas femenil y varonil.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "con-una-carrera-aragon-se-compromete-con-la-salud-fisica-1.jpg"
+		},
+		{
+			"imagen": "con-una-carrera-aragon-se-compromete-con-la-salud-fisica-2.jpg"
+		},
+		{
+			"imagen": "con-una-carrera-aragon-se-compromete-con-la-salud-fisica-3.jpg"
+		},
+		{
+			"imagen": "con-una-carrera-aragon-se-compromete-con-la-salud-fisica-4.jpg"
+		},
+		{
+			"imagen": "con-una-carrera-aragon-se-compromete-con-la-salud-fisica-5.jpg"
+		},
+		{
+			"imagen": "con-una-carrera-aragon-se-compromete-con-la-salud-fisica-6.jpg"
+		}	]
+
+}

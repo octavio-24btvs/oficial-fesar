@@ -1,0 +1,25 @@
+{
+	"titulo": "11F: La mujer en el arte",
+	"titulo_normalizado": "11f-la-mujer-en-el-arte",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		},
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor": "Ariadna Hern\u00E1ndez",
+	"fecha": "15/02/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Laboratorio de Cultura, Educaci\u00F3n e Innovaci\u00F3n del Posgrado de la FES Arag\u00F3n invit\u00F3 a Irene Ballester, historiadora del arte y acad\u00E9mica de la Universidad de Valencia, Espa\u00F1a, al conversatorio \"Subvirtiendo (in)visibilidades\", donde habl\u00F3 de los roles de las mujeres en el arte, en una transmisi\u00F3n de Facebook.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En esta actividad, realizada en el marco del D\u00EDa Internacional de las Mujeres y las Ni\u00F1as en la Ciencia, la especialista refiri\u00F3 que se interes\u00F3 en esta tem\u00E1tica debido a que durante sus estudios en ning\u00FAn momento se le imparti\u00F3 material de alguna artista, solo se hac\u00EDa menci\u00F3n de las mujeres como inspiraci\u00F3n o musas para los hombres.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Puso de ejemplo una pintura de Johan Zoffany, titulada <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Retrato de los acad\u00E9micos de la Royal Academy<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> de 1771-1772, donde las dos pintoras m\u00E1s importantes del siglo est\u00E1n postradas en la pared, y no junto a los dem\u00E1s hombres retratados en un estudio.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, a la figura femenina se le ha visto desde una perspectiva religiosa, es decir, con la funci\u00F3n de quedarse calladas y al servicio del hombre; de igual manera se les ha mostrado como v\u00EDctimas de violaciones, mozas y castigadas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para Ballester es importante darse cuenta del papel ocupado por las mujeres a lo largo de la historia, as\u00ED como exigir respeto, lugar y m\u00E9rito que les corresponde.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "11f-la-mujer-en-el-arte-1.jpg"
+		},
+		{
+			"imagen": "11f-la-mujer-en-el-arte-2.jpg"
+		}	]
+
+}

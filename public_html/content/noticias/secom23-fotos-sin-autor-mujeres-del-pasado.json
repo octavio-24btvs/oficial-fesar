@@ -1,0 +1,27 @@
+{
+	"titulo": "SeCom23: Fotos sin autor, mujeres del pasado",
+	"titulo_normalizado": "secom23-fotos-sin-autor-mujeres-del-pasado",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "28/03/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el marco de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Comunicaci\u00F3n 2023 <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">de la FES Arag\u00F3n, se llev\u00F3 a cabo la conferencia “Mujeres: huella y presencia inmanente en la sociedad mexicana” en el Auditorio Hermila Galindo (A1) y transmitida simult\u00E1neamente en la p\u00E1gina de Facebook Comunicaci\u00F3n y Periodismo FES Arag\u00F3n. Como ponentes en la mesa participaron Gabriela Bautista y Cynthia R\u00EDos, acad\u00E9micas de esta Facultad; as\u00ED como Brenda Ocampos y Naomi Hidalgo, alumnas de la carrera. El evento brind\u00F3 la oportunidad de observar y comentar los cambios en la historia de las mujeres en M\u00E9xico a trav\u00E9s de la fotograf\u00EDa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Bautista dio la bienvenida y explic\u00F3 el origen de las fotos que conforman la exposici\u00F3n: datan de principios del siglo XX y no tienen un autor conocido, han sido reunidas de diversos archivos logrando formar un documento testimonial de los momentos de la ciudad y la vida de la gente.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">R\u00EDos mencion\u00F3 las interrogantes desencadenadas por las fotograf\u00EDas: no puede saberse la intenci\u00F3n, ni el autor; sin embargo, esto ofrece una distintiva forma de interpretaci\u00F3n que se logra leer entre l\u00EDneas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la pantalla se mostraron las im\u00E1genes y los comentarios a trav\u00E9s de cada detalle observado lograban destacar algo sobre los roles asignados y el papel de la mujer en la \u00E9poca.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Una manta fue dispuesta para las y los asistentes donde dejaron por escrito sus comentarios y se pretende que al exponer esta manta en otras universidades sirva de inspiraci\u00F3n.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "fotos-y-mujeres-1.jpg"
+		},
+		{
+			"imagen": "fotos-y-mujeres-2.jpg"
+		},
+		{
+			"imagen": "fotos-y-mujeres-3.jpg"
+		},
+		{
+			"imagen": "fotos-y-mujeres-4.jpg"
+		}	]
+
+}

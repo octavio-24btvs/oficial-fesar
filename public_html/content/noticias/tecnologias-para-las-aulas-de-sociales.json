@@ -1,0 +1,27 @@
+{
+	"titulo": "Tecnolog\u00EDas para las aulas de sociales",
+	"titulo_normalizado": "tecnologias-para-las-aulas-de-sociales",
+	"secciones": [
+		{
+			"seccion": "Sociología",
+			"seccion_normalizada": "sociologia"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "17/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La conferencia-taller “Tendencias actuales de los procesos de ense\u00F1anza-aprendizaje en el \u00E1rea de las Ciencias Sociales” se llev\u00F3 a cabo en el Sal\u00F3n Rojo de la FES Arag\u00F3n y corri\u00F3 a cargo de Marconi Sosa, docente de la universidad de Chalcatongo, quien comparti\u00F3 al alumnado una propuesta pedag\u00F3gica ligada a la incorporaci\u00F3n de la tecnolog\u00EDa en las aulas. Casi como un testimonio involuntario de los temas tratados en el taller, la comunidad presenci\u00F3 la ponencia mientras Sosa se encontraba conectado a Zoom de forma remota, tambi\u00E9n fue transmitido por la p\u00E1gina de facebook de Sociolog\u00EDa. Regina Dorantes, encargada del despacho de sociolog\u00EDa, dio la bienvenida al auditorio y Miguel Luna, acad\u00E9mico de la carrera, present\u00F3 la amplia experiencia del ponente.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Sosa remarc\u00F3 c\u00F3mo el uso de la tecnolog\u00EDa y herramientas digitales son la tendencia actual; coment\u00F3 las ventajas y las limitaciones que estas conllevan. El ponente aclar\u00F3 que en este marco de cambios aplicado a las ciencias sociales se debe partir de la labor docente y anim\u00F3 a las personas asistentes a ver la tecnolog\u00EDa no como un remedio infalible sino como herramientas en funci\u00F3n de los contenidos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para ejemplificar, el profesor demostr\u00F3 una serie de ejercicios en hojas de c\u00E1lculo, al tiempo que aconsejaba formas de facilitar el uso de Excel, cuyo resultado fue una presentaci\u00F3n de datos llamativa y accesible a las y los estudiantes para trabajar distintas habilidades y como herramienta de evaluaci\u00F3n.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "ciencias-sociales-1.jpg"
+		},
+		{
+			"imagen": "ciencias-sociales-2.jpg"
+		},
+		{
+			"imagen": "ciencias-sociales-3.jpg"
+		},
+		{
+			"imagen": "ciencias-sociales-4.jpg"
+		}	]
+
+}

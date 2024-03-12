@@ -1,0 +1,15 @@
+{
+    "nombre": "N\u00E9stor Lugo Zaleta", 
+    "grado_academico": "Licenciado",
+     "correo": [ "nestorlugoluz@aragon.unam.mx" ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Arquitectura. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Instalaciones hidráulico-sanitarias en edificación."
+    ], 
+    "investigaciones": [
+        "Las instalaciones en edificios sustentables."
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "nombre": "Fortunato Cercedo Hernández", 
+    "grado_academico": "Maestro", 
+     "correo": [ "fortunatocerecedoceh@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Ingeniería en Comunicaciones y Electrónica. Instituto Politécnico Nacional.", 
+        "Diplomado de las Tecnologías de la Información y Comunicación.", 
+        "Maestría en Sociología Educativa.", 
+        "Créditos Maestría en Instrumentación Electrónica. Instituto Politécnico Nacional.", 
+        "Candidato a Maestro en Ciencias, especialidad en Ingeniería Electrónica. Instituto Politécnico Nacional."
+    ], 
+    "lineas_investigacion": [
+        "La enseñanza de las Matemáticas en Ingenierías.",
+        "Desarrollo de materiales didácticos para la enseñanza de las matemáticas.",
+        "Investigación en Ciencias Físico Matemáticas e Ingenierías.",
+        "Investigación Educativa.",
+        "Investigación en Competitividad e Innovación."
+    ], 
+    "investigaciones": [
+        "Desarrollo elementos Didácticos para  la Docencia."
+    ]
+}

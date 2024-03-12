@@ -1,0 +1,234 @@
+
+<style>
+.list li{
+    text-align: center;
+}
+</style>
+<div class="container content" ng-init="showing = 0">
+    <div class="row justify-content-center pb-2">
+        <div class="col-12 col-lg-10">
+            <img class="img-fluid" src="public_html/img/nuestra_facultad/transparencia/banner-transparencia.png"
+             alt="Transparencia"/>
+        </div>
+    </div>
+    <div class="row justify-content-center ">
+        <div class="col-12 col-lg-10 menu-rapido">
+            <ul class="nav d-flex justify-content-center">
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 0" title="Inicio">
+                        Inicio
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 1" title="Presupuesto">
+                        Presupuesto
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" target="_blank"
+                        href="public_html/documents/nuestra_facultad/transparencia/estadisticas-genero.pdf" title="Género">
+                       Género 
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 2" title="Comunidad Docente y Académica">
+                        Comunidad Docente y Académica
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 3" title="Funcionariado, personal administrativo, de base y de confianza">
+                        Funcionariado, personal administrativo, de base y de confianza
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 4" title="Contratación de adquisiciones y obras">
+                        Contratación de adquisiciones y obras
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div ng-show="showing === 0">
+        <div class="row justify-content-center botones pt-5" style="padding-top: 25px;">
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+            <a class="category" title="Directorio" ui-sref="directorio">
+                <div class="icon icon-simbolo-de-la-sumision-del-directorio">
+                </div>
+                <p>Directorios</p>
+            </a>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+                        <a class="category" ui-sref="consejo_tecnico" title="Consejo Técnico" href="#!/nuestra-facultad/consejo-tecnico">
+                            <div class="icon icon-consejo-tecnico">
+                            </div>
+                            <p>Consejo Técnico</p>
+                        </a>
+                    </div>
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+                        <a class="category" ui-sref="cuerpos_colegiados" title="Cuerpos Colegiados" href="#!/nuestra-facultad/cuerpos-colegiados">
+                            <svg class="icon">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="public_html/img/nuestra_facultad/cuerpos_colegiados/cuerpos-colegiados.svg#cuerpos-colegiados"></use>
+                            </svg>
+                            <p>Cuerpos colegiados</p>
+                        </a>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+                        <a class="category" ui-sref="direccion" title="Dirección" href="#!/nuestra-facultad/direccion">
+                            <div class="icon icon-direccion-1">
+                            </div>
+                            <p>Informes de gestión</p>
+                        </a>
+                    </div>
+        </div>
+    </div>
+      <div ng-show="showing === 1">
+        <div class="row justify-content-center pt-5" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>UNAM</h2>
+                <hr/>
+            </div>
+            <div class="col-12 col-lg-10">
+                <p>Presupuesto y avances programáticos o presupuestales de la UNAM</p>
+            </div>
+            <div class="col-12 col-lg-4">
+                <ul class="">
+            <li><a target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/informacion-presupuesto-anual">Presupuesto anual</a></li>
+            <li><a target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/ejercicio-egresos-presupuestarios">Ejercicio de egresos presupuestarios</a></li>
+            <li><a target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/informacion-cuenta-publica">Información de la cuenta pública</a></li>
+            <li><a target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/dictaminacion-estados-financieros">Dictaminación de estados financieros</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-lg-4">
+                <ul class="">
+            <li><a target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/informacion-contable">Información contable</a></li>
+            <li><a target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/informes-financieros">Informes financieros</a></li>
+            <li><a target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/ingresos-recibidos">Ingresos recibidos</a></li>
+            <li><a target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/responsables-ingresos">Responsables de ingresos</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-lg-10 pt-4">
+                <h2>FES Aragón</h2>
+                <hr/>
+            </div>
+            <div class="col-12 col-lg-4">
+                <ul class="">
+            <li><a target="_blank" href="http://132.248.44.93:8080/SAAI/transparencia.jsp">Recursos</a></li>
+            <li><a target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/informacion-contable">Información presupuestal</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-lg-4">
+                <ul class="">
+            
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 2">
+        <div class="row justify-content-center botones pt-5" style="padding-top: 25px;">
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+            <a class="category" title="Concursos de oposicion" ui-sref="concurso_oposicion">
+                <svg class="icon">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="public_html/img/nuestra_facultad/transparencia/concursos-de-oposicion.svg#concursos-de-oposicion"></use>
+            </svg>
+                <p>Concursos de oposicion</p>
+            </a>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+            <a class="category"  target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/licencia-personal-academico">
+             <svg class="icon">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="public_html/img/nuestra_facultad/transparencia/academicos-licencia.svg#academicos-licencia"></use>
+            </svg>
+            <p>Académicos con licencia</p>
+            </a>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+                        <a class="category" target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/sabatico-personal-academico">
+                            <svg class="icon">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="public_html/img/nuestra_facultad/transparencia/academicos-sabatico.svg#academicos-sabatico"></use>
+                            </svg>
+                            <p>Académicos con sabático</p>
+                        </a>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+                        <a class="category" target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/evaluaciones-cuerpo-docente">
+                            <svg class="icon">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="public_html/img/nuestra_facultad/transparencia/evaluacion-docentes.svg#evaluacion-docentes"></use>
+                            </svg>
+                            <p>Evaluación de docentes</p>
+                        </a>
+                    </div>
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+                        <a class="category" ui-sref="direccion" title="Dirección" href="#!/nuestra-facultad/direccion">
+                            <svg class="icon">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="public_html/img/nuestra_facultad/transparencia/remuneracion-docentes.svg#remuneracion-docentes"></use>
+                            </svg>
+                            <p>Remuneraciones de los académicos y tabulador</p>
+                        </a>
+                    </div>
+        </div> 
+    </div>
+    <div ng-show="showing === 3">
+        <div class="row justify-content-center botones pt-5" style="padding-top: 25px;">
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+            <a class="category" target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/informacion-curricular">
+                <svg class="icon"> <use xmlns:xlink="http://www.w3.org/1999/xlink" href="public_html/img/nuestra_facultad/transparencia/informacion-curricular.svg#informacion-curricular"></use>
+                </svg>
+                <p>Información curricular del funcionariado</p>
+            </a>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+            <a class="category" target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/remuneracion-personal">
+            <svg class="icon"> <use xmlns:xlink="http://www.w3.org/1999/xlink" href="public_html/img/nuestra_facultad/transparencia/remuneracion-administrativos.svg#remuneracion-administrativos"></use>
+            </svg>
+            <p>Remuneraciones del personal administrativo y de confianza</p>
+            </a>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+            <a class="category" target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/tabulador-personal">
+            <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" href="public_html/img/nuestra_facultad/transparencia/academicos-sabatico.svg#academicos-sabatico"></use>
+            </svg>
+            <p>Tabuladores de sueldos y salarios de puestos de confianza, de funcionarios y de puestos de base</p>
+            </a>
+        </div>
+        </div> 
+    </div>
+    <div ng-show="showing === 4">
+        <div class="row justify-content-center botones pt-5" style="padding-top: 25px;">
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+            <a class="category" target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/resultados-licitacion">
+                <svg class="icon"> <use xmlns:xlink="http://www.w3.org/1999/xlink" href="public_html/img/nuestra_facultad/transparencia/licitacion-publica.svg#licitacion-publica"></use>
+                </svg>
+                <p>Licitación pública e invitación cuando menos tres personas</p>
+            </a>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 btn-cat">
+            <a class="category" target="_blank" href="http://www.transparencia.unam.mx/obligaciones/LGTAIP/consulta/resultados-adjudicacion-directa">
+            <svg class="icon"> <use xmlns:xlink="http://www.w3.org/1999/xlink" href="public_html/img/nuestra_facultad/transparencia/adjudicacion-directa.svg#adjudicacion-directa"></use>
+            </svg>
+            <p>Adjudicación directa</p>
+            </a>
+        </div>
+        </div> 
+    </div>
+
+        <div class="row justify-content-center pt-5" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>Ligas de interés</h2>
+                <hr/>
+            </div>
+        </div>
+        <div class="row justify-content-center pb-5">
+            <div class="col-3 col-sm-2 col-lg-3 liga-de-interes">
+                <a target="_blank" href="https://www.plataformadetransparencia.org.mx/" title="Plataforma de transparencia">
+                    <img class="img-fluid" src="public_html/img/nuestra_facultad/transparencia/pnt.jpg" alt="Plataforma de transparencia"/>
+                </a>
+            </div>
+            <div class="col-3 col-sm-2 col-lg-3 liga-de-interes">
+                <a target="_blank" href="http://www.transparencia.unam.mx/unidad-transparencia.html"
+                    title="Transparencia UNAM">
+                    <img class="img-fluid" src="public_html/img/nuestra_facultad/transparencia/logo-transparencia-2022.jpg"
+                        alt="Transparencia UNAM"/>
+                </a>
+            </div>
+        </div>
+</div>

@@ -1,0 +1,23 @@
+{
+    "titulo": "Especializaci\u00F3n en Derecho",
+    "icono": "icon-posgrado-derecho",
+    "bienvenida": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el caso del Programa \u00DAnico de Especializaciones en Derecho, la FES Arag\u00F3n es una entidad acad\u00E9mica invitada, lo cual se traduce en que la comunidad estudiantil que ingresa a \u00E9ste en nuestro plantel, cursa las asignaturas del Plan de Estudios en nuestras instalaciones; sin embargo, en lo que concierne a los tr\u00E1mites administrativos -como inscripci\u00F3n y reinscripci\u00F3n-, se llevan a cabo en la Facultad de Derecho.<\/span><\/p>",
+    "proceso_aplicacion": "",
+    "objetivos_especificos":"",
+    "perfil_ingreso": "",
+    "perfil_egreso": "",
+    "campos_conocimiento": "",
+    "plan_estudios": "", 
+    "mapa_curricular": "", 
+    "programas": "",
+    "graduacion": "",
+    "contacto": {
+        "jefe_carrera": "Mar\u00EDa Teresa Herrera Cano",
+        "foto_jefe_de_carrera": "maria-teresa-herrera-cano.jpg",
+        "genero_jefe_carrera": "1",
+        "horario": "De lunes a viernes de 10:00 a 14:00 h y de 17:00 a 20:00 h",
+        "telefonos": "55 5623 0222",
+        "extension": "Ext. 39282",
+        "correo_electronico": "pp.derecho@aragon.unam.mx"
+    }
+}

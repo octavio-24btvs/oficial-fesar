@@ -1,0 +1,73 @@
+<div class="container content">
+    <hr />
+    <div class="row pleca-secciones">
+        <div class="col-lg-12 secciones">
+            <i class="fs-35" ng-class="seccion.icono" ng-if="seccion.id !== 35"></i>
+            <svg class="icon-encabezado">
+                <use xlink:href="public_html/img/logos/prevencion-y-seguridad-universitaria.svg#prevencion-y-seguridad-universitaria"  alt="Prevenci&oacute;n y seguridad universitaria."
+                ng-if="seccion.id === 35"></use>
+            </svg>
+            <h1>{{seccion.titulo}}</h1>
+        </div>
+    </div>
+    <hr />
+    <div class="row justify-content-center" ng-if="banner" ng-show="pagina_actual === 1">
+        <div class="col-12 col-md-9 col-lg-7 p-0 m-1 overlay-container" style="position: relative">
+            <img class="img-principal" ng-src="public_html/img/noticias/{{noticia_principal.titulo_normalizado}}/{{noticia_principal.imagen}}" alt="Im&aacute;gen" />
+            <div class="overlay-pleca overlay-pleca-left" style="background-color: #3cb2a9">
+                <div class="overlay-text">
+                    <a class="noticias-link" ui-sref="noticias({page: pagina_actual, noticia: noticia_principal.titulo_normalizado})">{{noticia_principal.titulo}}</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-9 col-lg-3">
+            <div class="row">
+                <div class="col-12 overlay-container p-0 m-1" ng-repeat="noticia in noticias_secundarias">
+                    <img class="img-noticias" src="public_html/img/noticias/{{noticia.titulo_normalizado}}/{{noticia.imagen}}" alt="Im&aacute;gen" />
+                    <div class="overlay-pleca overlay-pleca-right" ng-style="{'background-color': ($index === 1 ? '#cbd400': '#0092c2')}">
+                        <div class="overlay-text">
+                            <a class="noticias-link" ui-sref="noticias({page: pagina_actual, noticia: noticia.titulo_normalizado})">{{noticia.titulo}}</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center mt-2">
+        <div class="col-12 col-md-10">
+            <div class="row">
+                <div class="col-12 col-md-6" ng-repeat="noticia in getBloqueNoticias()">
+                    <div class="seccion-container row">
+                        <div class="col-7">
+                            <img class="img-seccion" ng-src="public_html/img/noticias/{{noticia.titulo_normalizado}}/{{noticia.imagen}}" alt="Im&aacute;gen" />
+                        </div>
+                        <div class="col-5 seccion-texto">
+                            <h2 style="font-size: 16px">
+                                <a ui-sref="noticias({page: pagina_actual, noticia: noticia.titulo_normalizado})">{{noticia.titulo}}</a>
+                            </h2>
+                            <p><strong>{{noticia.autor}}</strong></p>
+                            <p><i class="fecha icon-tiempo">{{noticia.fecha}}</i></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <ul class="pagination ml-a mr-a">
+            <li class="page-item" ng-show="total_paginas > 1 && pagina_actual > 1">
+                <a class="page-link" aria-label="Previous" ng-click="pagina_actual = pagina_actual - 1">
+                    <span class="fa fa-angle-left"></span>
+                </a>
+            </li>
+            <li class="page-item" ng-show="(pagina_actual - 1) > 0"><a class="page-link" ng-click="pagina_actual = pagina_actual - 1">{{pagina_actual - 1}}</a></li>
+            <li class="page-item active"><a class="page-link">{{pagina_actual}}</a></li>
+            <li class="page-item" ng-show="(pagina_actual + 1) <= total_paginas"><a class="page-link" ng-click="pagina_actual = pagina_actual + 1">{{pagina_actual + 1}}</a></li>
+            <li class="page-item" ng-show="(total_paginas > 1 && pagina_actual < total_paginas)">
+                <a class="page-link" aria-label="Next" ng-click="pagina_actual = pagina_actual + 1">
+                    <span class="fa fa-angle-right"></span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>

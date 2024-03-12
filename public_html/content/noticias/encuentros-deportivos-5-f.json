@@ -1,0 +1,49 @@
+{
+	"titulo": "Encuentros Deportivos 5-F",
+	"titulo_normalizado": "encuentros-deportivos-5-f",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "28/03/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Universidad Nacional Aut\u00F3noma de M\u00E9xico en coordinaci\u00F3n con la Direcci\u00F3n General del Deporte Universitario y en colaboraci\u00F3n con la Extensi\u00F3n Universitaria FES Arag\u00F3n, celebraron la tercera jornada de los Encuentros Deportivos 5-F UNAM dentro de la Facultad de Estudios Superiores Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con el apoyo de Uriel Espinoza y Christian L\u00F3pez, \u00E1rbitros certificados en flag f\u00FAtbol por la Federaci\u00F3n Mexicana de F\u00FAtbol Americano; los equipos femeniles y varoniles, provenientes de las Facultades de Arag\u00F3n, Acatl\u00E1n y Cuautitl\u00E1n, protagonizaron flagrantes encuentros de flag f\u00FAtbol.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este deporte es reconocido como una modalidad del f\u00FAtbol americano, con la diferencia de que se juega sin contacto f\u00EDsico y en cambio se disputan las banderas enganchadas a un cintur\u00F3n en cada participante. Los objetivos, normas y reglas del f\u00FAtbol americano se traducen al flag f\u00FAtbol, pero el objetivo sigue siendo llegar hasta el final de la cancha del equipo contrario para marcar un <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">touchdown<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Ambas divisiones de Pumas Arag\u00F3n se enfrentaron a las y los Leones Cuautitl\u00E1n, as\u00ED como a Pumas Acatl\u00E1n; gracias a su incansable esfuerzo y compromiso lograron celebrar una tercera jornada invictos. Estos encuentros tambi\u00E9n permitieron a las y los estudiantes conocer a compa\u00F1eras y compa\u00F1eros de distintas Facultades que comparten una gran pasi\u00F3n por el deporte.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "5-f.gif"
+		},
+		{
+			"imagen": "5-f2.gif"
+		},
+		{
+			"imagen": "5-f3.gif"
+		},
+		{
+			"imagen": "5-f4.gif"
+		},
+		{
+			"imagen": "5-f5.gif"
+		},
+		{
+			"imagen": "5-f6.gif"
+		},
+		{
+			"imagen": "5-f7.gif"
+		},
+		{
+			"imagen": "5-f8.gif"
+		},
+		{
+			"imagen": "5-f9.gif"
+		},
+		{
+			"imagen": "5-f10.gif"
+		}	]
+
+}

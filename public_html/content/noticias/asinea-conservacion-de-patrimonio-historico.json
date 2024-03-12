@@ -1,0 +1,14 @@
+{
+	"titulo": "ASINEA: Conservaci\u00F3n de patrimonio hist\u00F3rico",
+	"titulo_normalizado": "asinea-conservacion-de-patrimonio-historico",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor":"Rosa Francisco",
+	"fecha":"21/10/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el marco de la reuni\u00F3n nacional de la ASINEA se llev\u00F3 a cabo el conversatorio “Patrimonio Hist\u00F3rico Arquitect\u00F3nico”, con la participaci\u00F3n de Francisco Hern\u00E1ndez, acad\u00E9mico aragon\u00E9s; Virginia Arroyo, restauradora de monumentos hist\u00F3ricos; \u00D3scar Ben\u00EDtez, gerente de obras de la empresa Ecl\u00E9ctica, Construcci\u00F3n + Restauraci\u00F3n; y de Miguel \u00C1ngel L\u00F3pez, presidente del Colegio de Arquitectos de Nuevo Le\u00F3n A.C.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">De acuerdo con Hern\u00E1ndez, la conservaci\u00F3n de patrimonio es un \u00E1rea de oportunidad para las y los arquitectos que debe fomentarse desde las aulas; mientras que Arroyo mencion\u00F3 la evoluci\u00F3n del oficio de la restauraci\u00F3n y c\u00F3mo en un inicio de su carrera muchos arquitectos consideraban a la conservaci\u00F3n como un fastidio.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte, Ben\u00EDtez hizo una analog\u00EDa entre la restauraci\u00F3n y la geriatr\u00EDa, expresando que estas dos ramas son similares, pues “en ambas trabajamos con viejitos que platican muchas historias y nos ense\u00F1an muchas cosas”.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente, L\u00F3pez resalt\u00F3 la necesidad de catalogar edificios art\u00EDsticos e hist\u00F3ricos, pues en muchos casos las y los arquitectos no conocen las obras que van a intervenir, por esta raz\u00F3n muchas de ellas son destruidas cuando pueden ser restauradas.<\/span><\/p>",
+	"imagenes":[{"imagen":"conservacion-de-patrimonio-historico-1.jpg"},{"imagen":"conservacion-de-patrimonio-historico-2.jpg"},{"imagen":"conservacion-de-patrimonio-historico-3.jpg"}]
+}

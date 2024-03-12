@@ -1,0 +1,18 @@
+{
+	"titulo": "SING22: Energ\u00EDa a trav\u00E9s del oleaje",
+	"titulo_normalizado": "sing22-energia-a-traves-del-oleaje",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor": "Ariadna Hern\u00E1ndez",
+	"fecha": "27/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, la carrera de Ingenier\u00EDa Mec\u00E1nica present\u00F3 a Efra\u00EDn Carpintero, quien en el Auditorio A1, de manera remota desde la Universidad de Gante, B\u00E9lgica, donde se encuentra realizando su investigaci\u00F3n, imparte la conferencia “Captura del potencial energ\u00E9tico del oc\u00E9ano: de aguas someras a aguas profundas”.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">De acuerdo con Carpintero, para capturar energ\u00EDa del oc\u00E9ano se requiere desarrollar dispositivos que coexistan con las dem\u00E1s actividades marinas, como militares, extracci\u00F3n de arena o minerales, de petr\u00F3leo, etc\u00E9tera. Primero, es necesario ubicar la zona, el tipo de oleaje y marea, factores como el aire y fen\u00F3menos naturales como maremotos y tsunamis; adem\u00E1s del tipo de subsuelo, el generador o captador de potencia a utilizar, el marco legal de la zona, el suelo marino, la concentraci\u00F3n del oleaje y el periodo del mismo o resonancia; finalmente, en qu\u00E9 meses se quiere llevar a cabo el estudio.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Detall\u00F3 cuatro de los ocho convertidores de energ\u00EDa existentes: de rebase, dispositivo con masa rotatoria, dispositivos de presi\u00F3n y el dispositivo de tipo serpiente. La tecnolog\u00EDa de cada dispositivo se valida y prueba con el trabajo de campo y num\u00E9ricamente.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "energia-del-oleaje.jpg"
+		}	]
+
+}

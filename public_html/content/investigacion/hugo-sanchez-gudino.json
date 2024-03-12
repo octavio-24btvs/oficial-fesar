@@ -1,0 +1,26 @@
+{
+    "nombre": " Hugo Luis Sánchez Gudiño", 
+    "grado_academico": "Doctor", 
+     "correo": [ "hugosgudino@yahoo.com.mx "     ],
+    "estudios": [
+        "Doctorado en Ciencia Política. Universidad Nacional Autónoma de México.",
+        "Maestría en Ciencias de la Comunicación. Universidad Nacional Autónoma de México.",
+        "Licenciatura en Periodismo y Ciencias de la Comunicación Colectiva. Universidad Nacional Autónoma de México."
+
+    ], 
+    "lineas_investigacion": [
+        "Comunicación Social, Políticas de Comunicación y Relaciones Prensa-Estado.",
+        "Educación Superior y Movimientos Estudiantiles en México.",
+        "Videoclips.",
+        "Partidos Políticos y Marketing.",
+        "Jóvenes."
+
+    ], 
+    "investigaciones": [
+        "Comunicación política: sexenio Carlos Salinas de Gortari, Ernesto Zedillo y Enrique Peña Nieto.",
+        "Derechos humanos y los periodistas en México.",
+        "El SNI y la Universidad periférica: Estudio de Caso de FES Aragón.",
+        "Entre maras y petardos: La violencia mediática y las barras bravas en el futbol mexicano.", 
+        "Yo soy 132 y la democratización de los medios."
+]
+}

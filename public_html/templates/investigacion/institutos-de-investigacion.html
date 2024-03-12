@@ -1,0 +1,109 @@
+<style>
+@media (min-width: 768px){
+    .galeria {
+    max-width: 19.666667%;
+}
+}
+
+</style>  
+<div class="container content" ng-init="showing = 0">
+    <div class="row pleca-secciones pt-2 pb-2">
+        <div class="col-lg-12" style="padding: 0px">
+            <img class="img-fluid" src="public_html/img/investigacion/institutos/investigacion.jpg"
+                alt="INVESTIGACI&Oacute;N FES ARAG&Oacute;N">
+        </div>
+    </div>
+    <div>
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-12">
+                <h2 class="pt-3"><i class="icono-secciones icon-centro-de-investigacion-aragon"></i>CENTRO DE INVESTIGACIÓN MULTIDISCIPLINARIA ARAGÓN</h2>
+                <hr/>
+            </div>
+            <div class="col-12 col-md-10">
+                <div class="mt-3">
+                    <h2 class="pt-3">Ciencias F&iacute;sico Matem&aacute;ticas y de las Ingenier&iacute;as</h2>
+                    <hr />
+                </div>
+                <div class="row mb-4 portafolio">
+                    <div class="col-6 col-md-8 mb-3 galeria"
+                        ng-repeat="instituto in institutos.ciencias_fisico_matematicas_y_de_las_ingenierias">
+                        <div class="contenedor-imagen br-15 m-0">
+                            <a ui-sref="investigadores({instituto: instituto.licenciatura_normalizada})"
+                                title="{{instituto.licenciatura}}">
+                                <img class="img-fluid"
+                                    ng-src="public_html/img/investigacion/institutos/{{instituto.licenciatura_normalizada}}.jpg"
+                                    alt="{{instituto.licenciatura}}" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <h2 class="pt-3">Ciencias Sociales</h2>
+                    <hr />
+                </div>
+                <div class="row mb-4 portafolio">
+                    <div class="col-6 col-md-8 mb-3 galeria" ng-repeat="instituto in institutos.ciencias_sociales">
+                        <div class="contenedor-imagen br-15 m-0">
+                            <a ui-sref="investigadores({instituto: instituto.licenciatura_normalizada})"
+                                title="{{instituto.licenciatura}}">
+                                <img class="img-fluid"
+                                    ng-src="public_html/img/investigacion/institutos/{{instituto.licenciatura_normalizada}}.jpg"
+                                    alt="{{instituto.licenciatura}}" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <h2 class="pt-3">Humanidades y Artes</h2>
+                    <hr />
+                </div>
+                <div class="row portafolio">
+                    <div class="col-6 col-md-8 mb-3 galeria" ng-repeat="instituto in institutos.humanidades_y_artes">
+                        <div class="contenedor-imagen br-15 m-0">
+                            <a ui-sref="investigadores({instituto: instituto.licenciatura_normalizada})"
+                                title="{{instituto.licenciatura}}">
+                                <img class="img-fluid"
+                                    ng-src="public_html/img/investigacion/institutos/{{instituto.licenciatura_normalizada}}.jpg"
+                                    alt="{{instituto.licenciatura}}" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <h2 class="pt-3">Posgrado</h2>
+                    <hr />
+                </div>
+                <div class="row portafolio">
+                    <div class="col-6 col-md-8 mb-3 galeria" ng-repeat="instituto in institutos.posgrado">
+                        <div class="contenedor-imagen br-15 m-0">
+                            <a ui-sref="investigadores({instituto: instituto.licenciatura_normalizada})"
+                                title="{{instituto.licenciatura}}">
+                                <img class="img-fluid"
+                                    ng-src="public_html/img/investigacion/institutos/{{instituto.licenciatura_normalizada}}.jpg"
+                                    alt="{{instituto.licenciatura}}" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-12">
+                    <h2 class="pt-3"><i class="icono-secciones icon-centro-tecnologico" style="position: relative;top: 7px;"></i> CENTRO TECNOLÓGICO ARAGÓN</h2>
+                    <hr/>
+                </div>
+                <div class="col-12 col-md-10">
+            <div class="row portafolio">
+                <div class="col-6 col-md-8 mb-3 galeria" ng-repeat="instituto in institutos.cta">
+                    <div class="contenedor-imagen br-15 m-0">
+                        <a ui-sref="investigadores({instituto: instituto.licenciatura_normalizada})"
+                            title="{{instituto.licenciatura}}">
+                            <img class="img-fluid"
+                                ng-src="public_html/img/investigacion/institutos/{{instituto.licenciatura_normalizada}}.jpg"
+                                alt="{{instituto.licenciatura}}" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>

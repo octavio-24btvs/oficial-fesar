@@ -1,0 +1,37 @@
+{
+	"titulo": "Reconocimiento al desempe\u00F1o acad\u00E9mico",
+	"titulo_normalizado": "reconocimiento-al-desempeno-academico",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "UNAM",
+			"seccion_normalizada": "unam"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "14/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Universidad Nacional Aut\u00F3noma de M\u00E9xico y la Facultad de Estudios Superiores Arag\u00F3n reconocen al alumnado egresado de los a\u00F1os 2018 y 2019 con un excelente desempe\u00F1o acad\u00E9mico mediante la entrega de Medallas Gabino Barreda y diplomas de aprovechamiento, un evento importante al que asistieron las y los galardonados junto a sus familiares.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El evento se llev\u00F3 a cabo en el Auditorio “Alfredo del Mazo”, ubicado en la delegaci\u00F3n Nezahualc\u00F3yotl. El presidio estuvo compuesto por el director aragon\u00E9s, Fernando Macedo; la responsable del departamento de Servicios Escolares, Maria Teresa Luna; y, representando al estudiantado condecorado, Jocsan Zuriel Arteaga, qui\u00E9n pertenece a la generaci\u00F3n 2019 de la carrera de Derecho. Adem\u00E1s, Mois\u00E9s Rodr\u00EDguez y Laura Pamela Gonz\u00E1les amenizaron el acto con su dueto de violines.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Arteaga pronunci\u00F3 un discurso donde resalt\u00F3 el trabajo y esfuerzo que implican las horas de estudio, el estr\u00E9s de los ex\u00E1menes y los sacrificios durante este periodo; asimismo, resalt\u00F3 el privilegio de poder estar en una de las mejores universidades de Latinoam\u00E9rica. Seg\u00FAn Yohan, la mejor forma de retribuir estos beneficios es a trav\u00E9s del desempe\u00F1o y logros profesionales.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Posteriormente, la entrega de medallas y diplomas concluy\u00F3 con unas palabras del director, el cual agradeci\u00F3 la presencia de asistentes y participantes del evento, especialmente a las familias por su apoyo a las personas galardonadas. Record\u00F3 adem\u00E1s la importancia de los estudios en la movilidad social y el compromiso futuro del ejercicio profesional para quienes lograron este reconocimiento. Terminando con una felicitaci\u00F3n al estudiantado sobresaliente y una Goya.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Gabino1.gif"
+		},
+		{
+			"imagen": "Gabino2.gif"
+		},
+		{
+			"imagen": "Gabino3.gif"
+		},
+		{
+			"imagen": "Gabino4.gif"
+		},
+		{
+			"imagen": "Gabino5.gif"
+		},
+		{
+			"imagen": "Gabino6.gif"
+		}	]
+
+}

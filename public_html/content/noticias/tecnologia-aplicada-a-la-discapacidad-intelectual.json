@@ -1,0 +1,31 @@
+{
+	"titulo": "Tecnolog\u00EDa aplicada a la discapacidad intelectual",
+	"titulo_normalizado": "tecnologia-aplicada-a-la-discapacidad-intelectual",
+	"secciones": [
+		{
+			"seccion": "#ProyecciónAragón",
+			"seccion_normalizada": "proyeccion-aragon"
+		},
+		{
+			"seccion": "CIMA",
+			"seccion_normalizada": "cima"
+		}
+	],
+	"autor": "Cynthia V\u00E1zquez",
+	"fecha": "05/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Ayudar a la sociedad y sensibilizar a su alumnado en el tema de la inclusi\u00F3n fueron las principales razones que inspiraron a Arcelia Bernal, profesora de la carrera de Ingenier\u00EDa en Computaci\u00F3n en la FES Arag\u00F3n, a desarrollar el proyecto “Dise\u00F1o de Tecnolog\u00EDa para el Aprendizaje de la Lecto-Escritura en Ni\u00F1os con Discapacidad Intelectual”.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Debido a que el proyecto tiene como objetivo ayudar a la sociedad, menciona Arcelia, se convierte en un proyecto multidisciplinario en el cual ha participado un gran n\u00FAmero de estudiantes de esta universidad; donde tambi\u00E9n ellos se ven beneficiados al aplicar sus conocimientos de manera pr\u00E1ctica.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La FES Arag\u00F3n ha apoyado de manera activa este proyecto, principalmente otorgando un espacio en el edificio L3 para su desarrollo, donde la comunidad estudiantil puede trabajar con libertad tanto en la creaci\u00F3n de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">hardware<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> como de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">software,<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> necesarios para la creaci\u00F3n de tableros l\u00FAdicos, parte esencial de este proyecto. Adem\u00E1s, se reciben becas a trav\u00E9s del Programa de Apoyo a Proyectos de Investigaci\u00F3n e Innovaci\u00F3n Tecnol\u00F3gica (PAPIIT) y el Programa de Apoyo a Proyectos para Innovar y Mejorar la Educaci\u00F3n (PAPIME).<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La difusi\u00F3n del proyecto se logra a trav\u00E9s de congresos y ponencias en diferentes pa\u00EDses, en esta parte se les apoya a los estudiantes con asistencia a congresos, los cuales les permiten adquirir mayor conocimiento y experiencia que les ayudan a insertarse en el mundo laboral de manera eficiente. Arcelia hizo una atenta invitaci\u00F3n a las alumnas y alumnos a sumarse a este tipo de proyectos, as\u00ED como a seguir luchando por cumplir sus sue\u00F1os.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Arcelia1.gif"
+		},
+		{
+			"imagen": "Arcelia2.gif"
+		},
+		{
+			"imagen": "Arcelia3.gif"
+		},
+		{
+			"imagen": "Arcelia4.gif"
+		}	]
+
+}

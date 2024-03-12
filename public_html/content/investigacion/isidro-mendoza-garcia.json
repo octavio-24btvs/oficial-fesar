@@ -1,0 +1,21 @@
+{
+    "nombre": "Isidro Mendoza García", 
+    "grado_academico": "Doctor", 
+     "correo": [ "isidromendozab8@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Derecho. Universidad Nacional Autónoma de México.",
+        "Maestría en Derecho. Universidad Nacional Autónoma de México.",
+        "Doctorado en Derecho. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Filosofía jurídica.",
+        "Derechos Humanos.",
+        "Derecho procesal constitucional.",
+        "Derecho constitucional comparado."
+    ], 
+    "investigaciones": [
+        "El derecho humano al deporte desde la óptica del derecho constitucional comparado.",
+        "La presunción de inocencia vértice contra la presunción de constitucionalidad "
+    ]
+}

@@ -1,0 +1,14 @@
+{
+	"id": 67,
+	"titulo": "InnovaUNAM",
+	"icono": "",
+	"noticias": [
+		{
+			"titulo":"Emprender sin riesgos con evaluaci\u00F3n financiera",
+			"titulo_normalizado":"emprender-sin-riesgos-con-evaluacion-financiera",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "Taller-1.gif",
+			"fecha":"22/08/23"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+    "nombre": "Martín Rubén Jiménez Magaña", 
+    "grado_academico": "Maestro", 
+     "correo": [ "martinjimenezjim@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Ingeniería Mecánica. Universidad Autónoma Metropolitana.", 
+        "Maestría en Ingeniería (Hidráulica). Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Optimización y modelación numérica de sistemas de abastecimiento de agua potable con técnicas de cómputo evolutivo.", 
+        "Modelos físicos de obras de excedencia."
+    ], 
+    "investigaciones": [
+        "Modelación numérica de redes de distribución de agua potable.", 
+        "Análisis de fenómenos transitorios en líneas de conducción.", 
+        "Experimentación física en vertedores de laberinto y PKW."
+    ]
+}

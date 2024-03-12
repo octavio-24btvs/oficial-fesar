@@ -1,0 +1,18 @@
+{
+    "nombre": "Daniel Velázquez Vázquez", 
+    "grado_academico": "Doctor", 
+     "correo": [ "danielvelazquez54@aragon.unam.mx"],
+     "imagen": true, 
+    "estudios": [
+        "Licenciatura en Ingeniería Civil. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería (Planeación). Universidad Nacional Autónoma de México.", 
+        "Doctorado en Administración (Organizaciones). Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Sistemas y Educación en Ingeniería."
+    ], 
+    "investigaciones": [
+        "Modelos de la complejidad social enfocados al desarrollo personal, ambiente social y escolar y rendimiento académico en alumnos de educación superior en condiciones de estrés inducidas por la pandemia de la COVID-19.",
+        "Comparativa del impacto de la diatomita, perlita y zeolita en el comportamiento térmico y estructural del mortero."
+    ]
+}

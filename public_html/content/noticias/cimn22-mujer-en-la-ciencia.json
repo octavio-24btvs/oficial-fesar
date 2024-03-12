@@ -1,0 +1,31 @@
+{
+	"titulo": "CIMN22: Mujer en la ciencia",
+	"titulo_normalizado": "cimn22-mujer-en-la-ciencia",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "UNAM",
+			"seccion_normalizada": "unam"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "12/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La conferencia magistral “Las mujeres en la ciencia” presentada por&nbsp; Patricia Dolores D\u00E1vila, secretaria de Desarrollo Institucional UNAM, dio inicio a las actividades del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">4to. Congreso Internacional Mujeres y ni\u00F1as desde una doble perspectiva: G\u00E9nero y Derechos Humanos en el marco de los Objetivos del Desarrollo Sostenible<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Se transmiti\u00F3 por la p\u00E1gina de Facebook del Congreso Mujeres UNAM y fue moderado por Diana Tamara Mart\u00EDnez, titular de la Coordinaci\u00F3n para la Igualdad de G\u00E9nero.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">D\u00E1vila anunci\u00F3 su objetivo de charlar y abrir perspectiva a partir de tres preguntas, la primera de ellas present\u00F3 datos estad\u00EDsticos los cuales muestran una menor presencia de investigadoras en contraposici\u00F3n con sus contrapartes masculinas; el segundo planteamiento llev\u00F3 a considerar las razones de ello y el tercero a ver las acciones favorecedoras a la participaci\u00F3n basada en habilidades y experiencia, independientemente del g\u00E9nero. Lo hizo compartiendo vivencias propias las cu\u00E1les evidencian las dificultades por las que pasa una mujer al elegir ese camino debido a los estereotipos, pero viendo lo positivo en reiterar las posibilidades para lograrlo.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Invit\u00F3 a todas las j\u00F3venes en b\u00FAsqueda de&nbsp; hacer una carrera en el \u00E1rea cient\u00EDfica a atreverse a ello con dedicaci\u00F3n, estudio y compromiso, sin hacer caso a los estereotipos, de los cuales declar\u00F3 su falsedad, as\u00ED mismo, hizo incit\u00F3 a los varones a tomar una actitud de apoyo y respeto a sus compa\u00F1eras en el contexto.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "mujeres-ciencia-1.gif"
+		},
+		{
+			"imagen": "mujeres-ciencia-2.gif"
+		},
+		{
+			"imagen": "mujeres-ciencia-3.gif"
+		},
+		{
+			"imagen": "mujeres-ciencia-4.gif"
+		}	]
+
+}

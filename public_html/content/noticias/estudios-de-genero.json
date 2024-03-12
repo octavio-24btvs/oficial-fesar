@@ -1,0 +1,31 @@
+{
+	"titulo": "Estudios de g\u00E9nero",
+	"titulo_normalizado": "estudios-de-genero",
+	"secciones": [
+		{
+			"seccion": "#ProyecciónAragón",
+			"seccion_normalizada": "proyeccion-aragon"
+		},
+		{
+			"seccion": "Sociología",
+			"seccion_normalizada": "sociologia"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "16/08/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Impulsar la igualdad sustantiva en aspectos como la pol\u00EDtica y los espacios p\u00FAblicos es de crucial importancia para lograr el progreso de nuestra sociedad. Georgina C\u00E1rdenas, doctora en Ciencias Sociales, investigadora del Sistema Nacional de Investigadores y jefa de la carrera de Sociolog\u00EDa, ha dedicado gran parte de su trabajo a los estudios de g\u00E9nero que pretenden este prop\u00F3sito.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Sus proyectos m\u00E1s recientes son, por un lado, el libro titulado <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Violencia Pol\u00EDtica en Raz\u00F3n de G\u00E9nero: Experiencias regionales en M\u00E9xico,<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> en el cual se revisan casos nacionales donde se atacan a pol\u00EDticas mexicanas por el hecho de ser mujeres; asimismo, estudia el comportamiento de las autoridades e instituciones que intervinieron en cada caso.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por otro lado, tambi\u00E9n est\u00E1 trabajando en un proyecto que pretende ser parte de la memoria hist\u00F3rica de la facultad al hablar sobre acad\u00E9micas pioneras; tales como Lilia Turcott, primera directora de la FES Arag\u00F3n. Adem\u00E1s pretende que espacios clave dentro de la Facultad lleven los nombres de estas docentes para resaltar sus trabajos y logros destacados.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el proceso, C\u00E1rdenas asegura haber tenido todo el apoyo de la Facultad, as\u00ED como del Comit\u00E9 de G\u00E9nero, ahora Comisi\u00F3n Interna para la Igualdad de G\u00E9nero (CInIG). En cuanto al segundo proyecto; invita a la comunidad estudiantil a formar parte de su equipo de trabajo as\u00ED como del programa de servicio social en investigaci\u00F3n de g\u00E9nero.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">De igual manera, incentiva a las y los estudiantes a dedicarse a aquellos temas que motiven su pasi\u00F3n, pues, al especializarse, estos se conservan durante toda la vida; pero, sobre todo, recomienda disfrutar “del proceso creativo de escribir, de difundir, de divulgar” m\u00E1s all\u00E1 de las publicaciones impresas o revistas indexadas, utilizando infograf\u00EDas y otros recursos, pues la difusi\u00F3n cient\u00EDfica tambi\u00E9n es crucial.&nbsp; <\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Georgina1.gif"
+		},
+		{
+			"imagen": "Georgina2.gif"
+		},
+		{
+			"imagen": "Georgina3.gif"
+		},
+		{
+			"imagen": "Georgina4.gif"
+		}	]
+
+}

@@ -1,0 +1,126 @@
+{
+	"id": 15,
+	"titulo": "Dise\u00F1o Industrial",
+	"icono": "icon-diseno-industrial",
+	"noticias": [
+		{
+			"titulo":"La misi\u00F3n de Dise\u00F1o Industrial, una perspectiva cubana",
+			"titulo_normalizado":"la-mision-de-diseno-industrial-una-perspectiva-cubana",
+			"autor":"Erik Pliego",
+			"imagen": "la-mision-de-diseno-industrial-1.jpg",
+			"fecha":"29/10/19"
+		},
+		{
+			"titulo":"Bazar de Dise\u00F1o",
+			"titulo_normalizado":"bazar-de-diseno",
+			"autor":"Yutsil Hern\u00E1ndez",
+			"imagen": "Bazar-de-diseño-1.jpg",
+			"fecha":"27/11/18"
+		},
+		{
+			"titulo":"Dise\u00F1adores aragoneses conquistan a Vitro",
+			"titulo_normalizado":"disenadores-aragoneses-conquistan-a-vitro",
+			"autor":"Thalia Ortega",
+			"imagen": "3RD-disenadores-aragoneses-conquistan-Vitro.jpg",
+			"fecha":"22/11/18"
+		},
+		{
+			"titulo":"SEMDIS: Libro Conversatorio sobre el dise\u00F1o",
+			"titulo_normalizado":"semdis-libro-conversatorio-sobre-el-diseno",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "libro-conversatorio-sobre-el-diseno-1.jpg",
+			"fecha":"22/10/21"
+		},
+		{
+			"titulo":"SEMDIS: Sustentabilidad en el dise\u00F1o",
+			"titulo_normalizado":"semdis-sustentabilidad-en-el-diseno",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Sustentabilidad1.gif",
+			"fecha":"22/10/21"
+		},
+		{
+			"titulo":"SEMDIS: La sustentabilidad est\u00E1 de moda",
+			"titulo_normalizado":"semdis-la-sustentabilidad-esta-de-moda",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "Moda.gif",
+			"fecha":"21/10/21"
+		},
+		{
+			"titulo":"SEMDIS: La disminuci\u00F3n del impacto ambiental desde el dise\u00F1o",
+			"titulo_normalizado":"semdis-la-disminucion-del-impacto-ambiental-desde-el-diseno",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "la-disminiución1.gif",
+			"fecha":"21/10/21"
+		},
+		{
+			"titulo":"SEMDIS: Sustentabilidad y comunidad",
+			"titulo_normalizado":"semdis-sustentabilidad-y-comunidad",
+			"autor":"Sianya S\u00E1nchez",
+			"imagen": "sustentabilidad-y-comunidad-1.jpg",
+			"fecha":"21/10/21"
+		},
+		{
+			"titulo":"SEMDIS: Empaques farmac\u00E9uticos y sustentabilidad",
+			"titulo_normalizado":"semdis-empaques-farmaceuticos-y-sustentabilidad",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "empaques-farmaceuticos-y-sustentabilidad-1.jpg",
+			"fecha":"20/10/21"
+		},
+		{
+			"titulo":"SEMDIS: El dise\u00F1o a favor de las comunidades",
+			"titulo_normalizado":"semdis-el-diseno-a-favor-de-las-comunidades",
+			"autor":"Adriana Hinojosa",
+			"imagen": "favor-de-comunidades.gif",
+			"fecha":"20/10/21"
+		},
+		{
+			"titulo":"SEMDIS: El planeta necesita un respiro de la humanidad",
+			"titulo_normalizado":"semdis-el-planeta-necesita-un-respiro-de-la-humanidad",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "Un-respiro1.gif",
+			"fecha":"19/10/21"
+		},
+		{
+			"titulo":"SEMDIS: Dise\u00F1ando el futuro",
+			"titulo_normalizado":"semdis-disenando-el-futuro",
+			"autor":"Francisco Olivares",
+			"imagen": "disenando-el-futuro-1.jpg",
+			"fecha":"19/10/21"
+		},
+		{
+			"titulo":"SEMDIS: Transformar la forma de dise\u00F1ar",
+			"titulo_normalizado":"semdis-transformar-la-forma-de-disenar",
+			"autor":"Redacci\u00F3n",
+			"imagen": "transformar-la-forma-de-disenar-1.jpg",
+			"fecha":"18/10/21"
+		},
+		{
+			"titulo":"SEMDIS: Recursos renovables y la responsabilidad del dise\u00F1ador",
+			"titulo_normalizado":"semdis-recursos-renovables-y-la-responsabilidad-del-disenador",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Responsabilidad-del-diseñador1.gif",
+			"fecha":"18/10/21"
+		},
+		{
+			"titulo":"Impacto social a trav\u00E9s del dise\u00F1o",
+			"titulo_normalizado":"impacto-social-a-traves-del-diseno",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Impacto_social_a_través_del_diseño.jpg",
+			"fecha":"16/10/19"
+		},
+		{
+			"titulo":"Encuentro para enriquecer el futuro del dise\u00F1o",
+			"titulo_normalizado":"encuentro-para-enriquecer-el-futuro-del-diseno",
+			"autor":"Redacci\u00F3n",
+			"imagen": "creadores-innovadores-el-futuro-del-diseño-1.jpg",
+			"fecha":"06/11/18"
+		},
+		{
+			"titulo":"Proyectos IMINOX",
+			"titulo_normalizado":"proyectos-iminox",
+			"autor":"Alejandra Vel\u00E1zquez",
+			"imagen": "proyectos-iminox-1.jpg",
+			"fecha":"05/02/21"
+		}
+	]
+}

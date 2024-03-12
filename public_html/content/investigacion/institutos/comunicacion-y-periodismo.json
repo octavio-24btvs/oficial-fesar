@@ -1,0 +1,25 @@
+{
+    "carrera": "Comunicación y Periodismo", 
+    "icono": "icon-comunicacion-y-peridismo", 
+    "investigadores": [
+        {
+            "nombre": "Édgar Ernesto Liñán Ávila", 
+            "nombre_normalizado": "edgar-ernesto-linan-avila", 
+            "imagen": true
+        },
+        {
+            "nombre": "Feliciana Angélica López Matías", 
+            "nombre_normalizado": "feliciana-angelica-lopez-matias"
+        },
+        {
+            "nombre": "Hugo Luis Sánchez Gudiño", 
+            "nombre_normalizado": "hugo-luis-sanchez-gudino", 
+            "imagen": true
+        },
+        {
+            "nombre": "José René Rivas Ontiveros", 
+            "nombre_normalizado": "jose-rene-rivas-ontiveros"
+        }
+        
+    ]
+}

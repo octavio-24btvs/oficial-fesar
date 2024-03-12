@@ -1,0 +1,38 @@
+{
+	"titulo": "CIMN22: Mujeres en la ciencia y sociedad",
+	"titulo_normalizado": "cimn22-mujeres-en-la-ciencia-y-sociedad",
+	"secciones": [
+		{
+			"seccion": "DUACyD",
+			"seccion_normalizada": "duacyd"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "12/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">4to. Congreso internacional. Mujeres y Ni\u00F1as desde una doble perspectiva: G\u00E9nero y derechos humanos en el marco de los objetivos de desarrollo sostenible<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se present\u00F3 la primera mesa de discusi\u00F3n, moderada por Ricardo Tr\u00E1nsito y personas expertas en la materia, quienes expusieron sus trabajos de investigaci\u00F3n sobre contextos de transgresi\u00F3n hacia las mujeres y ni\u00F1as en el entorno social.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Entre las situaciones presentadas se mostr\u00F3&nbsp; que las ni\u00F1as a temprana edad ven disminuido su inter\u00E9s por&nbsp; la ciencia desde la formaci\u00F3n escolar, as\u00ED como el trato social que se ha presentado en las mujeres de esta \u00E1rea de igual manera, se abord\u00F3 la violencia obst\u00E9trica, siendo las mujeres con bajos ingresos y pertenecientes a comunidades ind\u00EDgenas las m\u00E1s afectadas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Otro punto abordado fue la creaci\u00F3n de cursos impartidos&nbsp; en los canales digitales durante la pandemia, la divisi\u00F3n entre espacio real y el digital, y la simbiosis permeada&nbsp; en la actualidad. Por \u00FAltimo, fue expuesta la desigualdad existente en el desarrollo de ni\u00F1as y ni\u00F1os en aspectos de&nbsp; salud, alimentaci\u00F3n, atenci\u00F3n familiar, entre otras. Debido a esto, surge una organizaci\u00F3n social del cuidado que divide la estructura de trabajo tanto laboral como de crianza, recayendo esta \u00FAltima en las mujeres principalmente.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Ciencia1.gif"
+		},
+		{
+			"imagen": "Ciencia2.gif"
+		},
+		{
+			"imagen": "Ciencia3.gif"
+		},
+		{
+			"imagen": "Ciencia4.gif"
+		},
+		{
+			"imagen": "Ciencia5.gif"
+		}	]
+
+}

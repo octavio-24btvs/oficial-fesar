@@ -1,0 +1,20 @@
+{
+    "nombre": "Jaime Retama Velasco", 
+    "grado_academico": "Doctor", 
+     "correo": [ " jretamav@comunidad.unam.mx"],
+     "correo2": [ "jaimeretamau9@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Ingeniería Civil. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ciencias con Especialidad en Estructuras. Instituto Politécnico Nacional.", 
+        "Doctorado en Ingeniería. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Investigación en Ciencias Físico Matemáticas e Ingenierías."
+    ], 
+    "investigaciones": [
+        "Análisis no-lineal de vigas con zonas de plastificación y funciones spline.", 
+        "Diseño de un marco de carga para el laboratorio de Ingeniería Civil.", 
+        "Análisis, mediante elementos finitos, del comportamiento estructural de elementos de concreto reforzado."
+    ]
+}

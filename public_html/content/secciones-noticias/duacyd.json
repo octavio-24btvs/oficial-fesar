@@ -1,0 +1,301 @@
+{
+	"id": 17,
+	"titulo": "DUACyD",
+	"icono": "icon-duacyd",
+	"noticias": [
+		{
+			"titulo":"Arag\u00F3n y Acatl\u00E1n, unidas por la escena internacional",
+			"titulo_normalizado":"aragon-y-acatlan-unidas-por-la-escena-internacional",
+			"autor":"Miguel Palacios",
+			"imagen": "RR-II-1.jpg",
+			"fecha":"31/03/22"
+		},
+		{
+			"titulo":"Pol\u00EDticas monetarias en la recuperaci\u00F3n econ\u00F3mica mundial",
+			"titulo_normalizado":"politicas-monetarias-en-la-recuperacion-economica-mundial",
+			"autor":"Francisco Olivares",
+			"imagen": "politicas-monetarias-en-la-recuperacion-economica-mundial-1.jpg",
+			"fecha":"30/09/21"
+		},
+		{
+			"titulo":"Efectos de la pandemia en Espa\u00F1a",
+			"titulo_normalizado":"efectos-de-la-pandemia-en-espana",
+			"autor":"Rosa Francisco",
+			"imagen": "efectos-de-la-pandemia-en-espana-1.jpg",
+			"fecha":"30/09/21"
+		},
+		{
+			"titulo":"Con el sector energ\u00E9tico, finaliza el 1er Congreso Internacional de An\u00E1lisis Econ\u00F3mico",
+			"titulo_normalizado":"con-el-sector-energetico-finaliza-el-1er-congreso-internacional-de-analisis-economico",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "con-el-sector-energetico-finaliza-primer-congreso-1.jpg",
+			"fecha":"30/09/21"
+		},
+		{
+			"titulo":"La econom\u00EDa en M\u00E9xico post COVID-19",
+			"titulo_normalizado":"la-economia-en-mexico-post-covid-19",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "economía1.gif",
+			"fecha":"30/09/21"
+		},
+		{
+			"titulo":"Desarrollo econ\u00F3mico municipal",
+			"titulo_normalizado":"desarrollo-economico-municipal",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Municipal1.gif",
+			"fecha":"29/09/21"
+		},
+		{
+			"titulo":"La estrategia de recuperaci\u00F3n econ\u00F3mica",
+			"titulo_normalizado":"la-estrategia-de-recuperacion-economica",
+			"autor":"Adriana Hinojosa",
+			"imagen": "La-estratégia1.gif",
+			"fecha":"29/09/21"
+		},
+		{
+			"titulo":"Pasos para una recuperaci\u00F3n econ\u00F3mica",
+			"titulo_normalizado":"pasos-para-una-recuperacion-economica",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "pasos-para-una-recuperacion-economica-1.jpg",
+			"fecha":"29/09/21"
+		},
+		{
+			"titulo":"Pol\u00EDtica Fiscal nacional",
+			"titulo_normalizado":"politica-fiscal-nacional",
+			"autor":"Sianya S\u00E1nchez",
+			"imagen": "politica-fiscal-nacional-1.jpg",
+			"fecha":"29/09/21"
+		},
+		{
+			"titulo":"El papel del periodismo en la recuperaci\u00F3n econ\u00F3mica",
+			"titulo_normalizado":"el-papel-del-periodismo-en-la-recuperacion-economica",
+			"autor":"Redacci\u00F3n",
+			"imagen": "el-papel-del-periodismo-en-la-recuperacion-economica-1.jpg",
+			"fecha":"28/09/21"
+		},
+		{
+			"titulo":"Efectos de la COVID-19 en AL",
+			"titulo_normalizado":"efectos-de-la-covid-19-en-al",
+			"autor":"Francisco Olivares",
+			"imagen": "efectos-de-la-covid-en-al-1.jpg",
+			"fecha":"28/09/21"
+		},
+		{
+			"titulo":"Los programas sociales en tiempos de pandemia",
+			"titulo_normalizado":"los-programas-sociales-en-tiempos-de-pandemia",
+			"autor":"Alberto Ochoa",
+			"imagen": "programas-sociales1.gif",
+			"fecha":"28/09/21"
+		},
+		{
+			"titulo":"Visibilizar, fundamental para erradicar la violencia",
+			"titulo_normalizado":"visibilizar-fundamental-para-erradicar-la-violencia",
+			"autor":"Thalia Ortega",
+			"imagen": "visibilizar-para-erradicar-1.jpg",
+			"fecha":"28/08/20"
+		},
+		{
+			"titulo":"Reformas contra la disparidad de g\u00E9nero",
+			"titulo_normalizado":"reformas-contra-la-disparidad-de-genero",
+			"autor":"Erik Pliego",
+			"imagen": "Reformas-contra-la-disparidad-de-género-1.gif",
+			"fecha":"28/08/20"
+		},
+		{
+			"titulo":"Econom\u00EDa, una afecci\u00F3n general: 1er Congreso Internacional de An\u00E1lisis Econ\u00F3mico",
+			"titulo_normalizado":"economia-una-afeccion-general-1er-congreso-internacional-de-analisis-economico",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "1er-congreso-internacional-de-analisis-economico-1.jpg",
+			"fecha":"27/09/21"
+		},
+		{
+			"titulo":"Los efectos econ\u00F3micos en tiempos de pandemia",
+			"titulo_normalizado":"los-efectos-economicos-en-tiempos-de-pandemia",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "efectos-económicos1.gif",
+			"fecha":"27/09/21"
+		},
+		{
+			"titulo":"Crisis econ\u00F3mica por la COVID-19",
+			"titulo_normalizado":"crisis-economica-por-la-covid-19",
+			"autor":"Rosa Francisco",
+			"imagen": "crisis-economica-por-la-covid-19-1.jpg",
+			"fecha":"27/09/21"
+		},
+		{
+			"titulo":"Otra cascada econ\u00F3mica en la historia",
+			"titulo_normalizado":"otra-cascada-economica-en-la-historia",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "cascada-económica1.gif",
+			"fecha":"27/09/21"
+		},
+		{
+			"titulo":"El Gran encierro",
+			"titulo_normalizado":"el-gran-encierro",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Gran-encierro1.gif",
+			"fecha":"27/09/21"
+		},
+		{
+			"titulo":"Estudios de g\u00E9nero y comunicaci\u00F3n responsable para combatir la violencia",
+			"titulo_normalizado":"estudios-de-genero-y-comunicacion-responsable-para-combatir-la-violencia",
+			"autor":"Redacci\u00F3n",
+			"imagen": "estudios-de-genero-y-comunicacion-responsable-para-combatir-la-violencia-1.jpg",
+			"fecha":"27/08/20"
+		},
+		{
+			"titulo":"En busca de un mejor futuro: Congreso mujeres y ni\u00F1as",
+			"titulo_normalizado":"en-busca-de-un-mejor-futuro-congreso-mujeres-y-ninas",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "en-busca-de-un-mejor futuro-Congreso-mujeres-y-niñas-1.png",
+			"fecha":"26/08/20"
+		},
+		{
+			"titulo":"Claves para un programa de inclusi\u00F3n exitoso",
+			"titulo_normalizado":"claves-para-un-programa-de-inclusion-exitoso",
+			"autor":"Alberto Ochoa",
+			"imagen": "claves1.gif",
+			"fecha":"24/09/21"
+		},
+		{
+			"titulo":"Emprender para el futuro",
+			"titulo_normalizado":"emprender-para-el-futuro",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "INNOVAFES-1.gif",
+			"fecha":"21/08/23"
+		},
+		{
+			"titulo":"FPEM: Inauguraci\u00F3n del Foro de Pol\u00EDtica Exterior",
+			"titulo_normalizado":"fpem-inauguracion-del-foro-de-politica-exterior",
+			"autor":"Alejandro Trujillo",
+			"imagen": "FPEM1.gif",
+			"fecha":"20/04/23"
+		},
+		{
+			"titulo":"Bienvenida a distancia",
+			"titulo_normalizado":"bienvenida-a-distancia",
+			"autor":"Alberto Ochoa",
+			"imagen": "Bienvenida-1.gif",
+			"fecha":"20/02/21"
+		},
+		{
+			"titulo":"Programa de becas Chevening",
+			"titulo_normalizado":"programa-de-becas-chevening",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Becas1.gif",
+			"fecha":"19/08/21"
+		},
+		{
+			"titulo":"Un Goya por la inclusi\u00F3n en Arag\u00F3n",
+			"titulo_normalizado":"un-goya-por-la-inclusion-en-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "un-goya-por-la-inclusion-en-aragon-1.jpg",
+			"fecha":"18/02/22"
+		},
+		{
+			"titulo":"Hacia la nueva normalidad",
+			"titulo_normalizado":"hacia-la-nueva-normalidad",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "not-found.jpg",
+			"fecha":"17/06/20"
+		},
+		{
+			"titulo":"Consejos sobre estudiar en el extranjero y mantener una segunda lengua",
+			"titulo_normalizado":"consejos-sobre-estudiar-en-el-extranjero-y-mantener-una-segunda-lengua",
+			"autor":"Liliana Espinosa",
+			"imagen": "consejos-sobre-estudiar-en-el-extranjero-y-mantener-una-segunda-lengua-1.jpg",
+			"fecha":"16/10/19"
+		},
+		{
+			"titulo":"Vanguardista curso de ingl\u00E9s para personas ciegas y d\u00E9biles visuales",
+			"titulo_normalizado":"vanguardista-curso-de-ingles-para-personas-ciegas-y-debiles-visuales",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "vanguardista-curso-de-ingles-para-personas-ciegas-1.jpg",
+			"fecha":"16/08/19"
+		},
+		{
+			"titulo":"CIMN22: Inclusi\u00F3n social",
+			"titulo_normalizado":"cimn22-inclusion-social",
+			"autor":"Alexis Rey",
+			"imagen": "Inclusivo1.gif",
+			"fecha":"15/10/22"
+		},
+		{
+			"titulo":"CIMN22: Roles de g\u00E9nero dentro de la crisis planetaria",
+			"titulo_normalizado":"cimn22-roles-de-genero-dentro-de-la-crisis-planetaria",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "roles-de-genero-dentro-de-la-crisis-planetaria-1.jpg",
+			"fecha":"14/10/22"
+		},
+		{
+			"titulo":"CIMN22: Avanzan esfuerzos para garantizar los derechos de todes",
+			"titulo_normalizado":"cimn22-avanzan-esfuerzos-para-garantizar-los-derechos-de-todes",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "esfuerzos-para-garantizar-los-derechos-de-todes-1.jpg",
+			"fecha":"14/10/22"
+		},
+		{
+			"titulo":"Introducci\u00F3n a la pol\u00EDtica exterior mexicana",
+			"titulo_normalizado":"introduccion-a-la-politica-exterior-mexicana",
+			"autor":"Rosa Francisco",
+			"imagen": "politica-exterior-mexicana-1.jpg",
+			"fecha":"14/10/21"
+		},
+		{
+			"titulo":"CIMN22: Cuidados durante la pandemia",
+			"titulo_normalizado":"cimn22-cuidados-durante-la-pandemia",
+			"autor":"Edna Reyes",
+			"imagen": "cuidados-durante-la-pandemia-1.jpg",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN22: La violencia basada en el g\u00E9nero",
+			"titulo_normalizado":"cimn22-la-violencia-basada-en-el-genero",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Foto1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN22: El impacto de las mujeres en sociedad",
+			"titulo_normalizado":"cimn22-el-impacto-de-las-mujeres-en-sociedad",
+			"autor":"Alexis Rey",
+			"imagen": "Sociedad1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN 22: La violencia basada en el g\u00E9nero",
+			"titulo_normalizado":"cimn-22-la-violencia-basada-en-el-genero",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Violencia1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN22: Mujeres en la ciencia y sociedad",
+			"titulo_normalizado":"cimn22-mujeres-en-la-ciencia-y-sociedad",
+			"autor":"Alexis Rey",
+			"imagen": "Ciencia1.gif",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"Derecho SUAyED busca sello iberoamericano de calidad",
+			"titulo_normalizado":"derecho-suayed-busca-sello-iberoamericano-de-calidad",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "derecho-suayed-busca-sello-iberoamericano-de-calidad-1.jpg",
+			"fecha":"09/03/22"
+		},
+		{
+			"titulo":"FES Arag\u00F3n recibe el Sello KVI",
+			"titulo_normalizado":"fes-aragon-recibe-el-sello-kvi",
+			"autor":"",
+			"imagen": "KIV.gif",
+			"fecha":"05/09/22"
+		},
+		{
+			"titulo":"Acreditaci\u00F3n de Econom\u00EDa SUAyED",
+			"titulo_normalizado":"acreditacion-de-economia-suayed",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "acreditacion-economia-suayed-1.jpg",
+			"fecha":"02/12/22"
+		}
+	]
+}

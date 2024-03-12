@@ -1,0 +1,14 @@
+{
+	"titulo": "An\u00E1lisis de la econom\u00EDa nacional",
+	"titulo_normalizado": "analisis-de-la-economia-nacional",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		}
+	],
+	"autor":"Daniela D\u00EDaz",
+	"fecha":"23/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Dr. Jaime Linares Zarco, acad\u00E9mico de la Licenciatura en Econom\u00EDa de nuestra Facultad, se dio a la tarea de analizar la estructura de las 32 entidades federativas de nuestro pa\u00EDs a trav\u00E9s de los sectores econ\u00F3micos y los principales expulsores de mano de obra. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, investig\u00F3 los 2 mil 458 municipios que conforman la Rep\u00FAblica Mexicana para conocer las finanzas p\u00FAblicas y su participaci\u00F3n en el sector primario, secundario y terciario en la generaci\u00F3n del valor agregado a fin de impulsar el crecimiento econ\u00F3mico nacional. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Su trabajo se consolid\u00F3 en la publicaci\u00F3n <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Geograf\u00EDa econ\u00F3mica del municipio en M\u00E9xico<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, misma que present\u00F3 en el Auditorio del Centro Tecnol\u00F3gico en el marco de la Semana de Econom\u00EDa. Durante el evento se cont\u00F3 con la presencia del Dr. Carlos Bustamante Lemus, del Instituto de Investigaciones Econ\u00F3micas de la UNAM, escritor del pr\u00F3logo y quien fungi\u00F3 como comentarista. <\/span><\/p>",
+	"imagenes":[{"imagen":"analisis-de-la-economia-nacional-1.jpg"},{"imagen":"analisis-de-la-economia-nacional-2.jpg"},{"imagen":"analisis-de-la-economia-nacional-3.jpg"},{"imagen":"analisis-de-la-economia-nacional-4.jpg"}]
+}

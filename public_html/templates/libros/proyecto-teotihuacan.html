@@ -1,0 +1,31 @@
+<!-- Proyecto Teotihuacan-->
+<div class="container content">
+    <hr>
+    <div class="row encabezado">
+        <div class="col-lg-12 encabezado-titulo animated bounceInUp">
+            <h1> Proyecto Teotihuacan </h1>
+        </div>
+    </div>
+    <hr>
+    <div class="col-lg-12">
+    </h3><div id="my_nanogallery2"></div>
+    </div>
+
+</div>
+ <script>
+ jQuery(document).ready(function () {
+    jQuery("#my_nanogallery2").nanogallery2({
+        items:[
+        { src: 'img_01.jpg', srct: 'img_01t.jpg', title: 'Berlin 1' },
+        { src: 'img_02.jpg', srct: 'img_01t.jpg', title: 'Berlin 2' },
+        { src: 'img_03.jpg', srct: 'img_01t.jpg', title: 'Berlin 3' }
+          ],
+      thumbnailWidth:  'auto',
+        thumbnailHeight: 100,
+      itemsBaseURL:    'public_html/img/teotihuacan22/',
+      
+          locationHash:    false
+    });
+  });
+  
+  </script>

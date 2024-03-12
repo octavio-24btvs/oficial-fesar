@@ -1,0 +1,37 @@
+{
+	"titulo": "XVCIMI: \u00BFLa extinci\u00F3n humana?",
+	"titulo_normalizado": "xvcimi-la-extincion-humana",
+	"secciones": [
+		{
+			"seccion": "Ciencias Sociales",
+			"seccion_normalizada": "ciencias-sociales"
+		},
+		{
+			"seccion": "CIMA",
+			"seccion_normalizada": "cima"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "27/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">XV Congreso Internacional Multidisciplinario de Investigaci\u00F3n, <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Stephanie Rodr\u00EDguez, estudiante de la Facultad, inici\u00F3 con la presentaci\u00F3n del libro <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Despu\u00E9s del Armaged\u00F3n...?, <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">a la cual asistieron Guadalupe Villegas, autora de la obra y pedagog\u00EDa egresada de la Facultad de Filosof\u00EDa y Letras; Eduardo Mateo, profesor egresado de Comunicaci\u00F3n en la FES Acatl\u00E1n; Dora Nelly Guerrero, egresada de la carrera de Relaciones Internacionales por la FES Arag\u00F3n; y Salvador Acosta, de la Universidad de Nueva York.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta novela de ciencia ficci\u00F3n aborda contextos de pandemias, inseguridad, violencia y polarizaci\u00F3n social; plantea un entorno de destrucci\u00F3n, que culminar\u00E1 en el abandono del planeta. Guerrero mencion\u00F3 que el <\/span><span style=\"color: rgb(0, 0, 0);\">libro <\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">trabaja la conciencia de la preservaci\u00F3n del ecosistema, abordando este concepto desde los valores y la ideolog\u00EDa de la escritora. Por su parte, Salvador Acosta resalt\u00F3 la moralidad y costumbres que han segmentado y segregado a la poblaci\u00F3n desde un contexto hist\u00F3rico, uniendo en el mensaje que proyecta el libro la historia y la fantas\u00EDa para culminar en una moraleja que se transforme en mejor\u00EDa social.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte, la autora expuso el deterioro humano vivido&nbsp; actualmente, as\u00ED como la mejora que debemos implementar de manera comunal para evitar la cat\u00E1strofe que poco a poco estamos gestando.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "ARMAGEDON1.png"
+		},
+		{
+			"imagen": "ARMAGEDON2.png"
+		},
+		{
+			"imagen": "ARMAGEDON3.png"
+		},
+		{
+			"imagen": "ARMAGEDON6.png"
+		},
+		{
+			"imagen": "ARMAGEDON8.png"
+		},
+		{
+			"imagen": "ARMAGEDON11.png"
+		}	]
+
+}

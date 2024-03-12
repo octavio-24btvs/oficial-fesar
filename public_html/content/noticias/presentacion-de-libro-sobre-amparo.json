@@ -1,0 +1,14 @@
+{
+	"titulo": "Presentaci\u00F3n de libro sobre amparo",
+	"titulo_normalizado": "presentacion-de-libro-sobre-amparo",
+	"secciones": [
+		{
+			"seccion": "Derecho",
+			"seccion_normalizada": "derecho"
+		}
+	],
+	"autor":"Sara Ignacio",
+	"fecha":"03/10/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La presentaci\u00F3n del libro <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La sentencia de amparo indirecto: contenido y efectos [La audiencia constitucional]<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, de Fernando C\u00F3rdova del Valle, <\/span><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">Magistrado del Sexto Tribunal Colegiado en Materia Penal del Primer Circuito en la Ciudad de M\u00E9xico, se realiz\u00F3 <\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">el 17 de octubre en el Auditorio de la DUACyD.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">Como presentador fungi\u00F3 Alberto del Castillo del Valle, quien mencion\u00F3 que la publicaci\u00F3n se basa en la experiencia del autor en la audiencia constitucional y sentencia de amparo. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">C\u00F3rdova<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> del Valle<\/span><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> coment\u00F3 que es un escrito para generar inter\u00E9s en la juventud sobre esta tem\u00E1tica y resalt\u00F3 la dificultad que represent\u00F3 buscar la forma de explicar el amparo indirecto de forma sencilla. Finalmente, remarc\u00F3 que cuando se persigue un proyecto, se debe perseverar hasta alcanzarlo.<\/span><\/p>",
+	"imagenes":[{"imagen":"presentacion-de-libro-sobre-amparo-1.png"},{"imagen":"presentacion-de-libro-sobre-amparo-2.jpg"},{"imagen":"presentacion-de-libro-sobre-amparo-3.png"}]
+}

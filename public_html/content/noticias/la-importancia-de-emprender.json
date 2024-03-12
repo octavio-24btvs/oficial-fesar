@@ -1,0 +1,31 @@
+{
+	"titulo": "La importancia de emprender",
+	"titulo_normalizado": "la-importancia-de-emprender",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería en Computación",
+			"seccion_normalizada": "ingenieria-en-computacion"
+		}
+	],
+	"autor": "Ang\u00E9lica L\u00F3pez",
+	"fecha": "18/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> de la Facultad de Estudios Superiores Arag\u00F3n, se llev\u00F3 a cabo en el Auditorio M. en I. Claudio Carl Merrifield Castro del Centro Tecnol\u00F3gico Arag\u00F3n, la conferencia “\u00BFPor qu\u00E9 emprender?”&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Presidi\u00F3 el jefe de Ingenier\u00EDa en Computaci\u00F3n, Jorge L\u00F3pez; Israel Quiroz, egresado aragon\u00E9s, presidente de IQSEC S.A DE C.V. empresa dedicada a la identidad digital; adem\u00E1s de ser consejero del Comit\u00E9 de ciberseguridad de la Asociaci\u00F3n Mexicana de la Industria de Tecnolog\u00EDas de Informaci\u00F3n, particip\u00F3 como ponente.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Quiroz plante\u00F3 los pros y contras de crear una empresa propia, mencion\u00F3 que demanda bastante tiempo y esfuerzo. Asimismo rescat\u00F3 el valor que tienen las relaciones humanas, pues \u00E9l ha tenido grandes oportunidades gracias a personas con quienes se ha relacionado. Hizo un llamado a cuidar la salud mental al ejecutar un proyecto de tal envergadura.&nbsp;&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Record\u00F3 con agrado su estad\u00EDa en la Universidad, y remarc\u00F3 ser emp\u00E1tico con las y los j\u00F3venes estudiantes, \u00E9l comprende las dudas sobre el futuro que frecuentemente aparecen durante esta etapa acad\u00E9mica. Para finalizar se realiz\u00F3 un bloque de preguntas por parte del p\u00FAblico adem\u00E1s de la entrega de un reconocimiento al ponente.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "emprender-1.gif"
+		},
+		{
+			"imagen": "emprender-2.gif"
+		},
+		{
+			"imagen": "emprender-3.gif"
+		},
+		{
+			"imagen": "emprender-4.gif"
+		}	]
+
+}

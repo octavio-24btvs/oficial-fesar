@@ -1,0 +1,30 @@
+{
+	"titulo": "El aprendizaje estudiantil",
+	"titulo_normalizado": "el-aprendizaje-estudiantil",
+	"secciones": [
+		{
+			"seccion": "Pedagogía",
+			"seccion_normalizada": "pedagogia"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "07/06/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Encuentro Interinstitucional de Estudiantes Universitarios<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, organizado por Alicia Rivera, de la Universidad Pedag\u00F3gica Nacional, as\u00ED como Antonio Aguilar, perteneciente al Programa de Posgrado Pedagog\u00EDa de la FES Arag\u00F3n, quienes presentaron una mesa de exposici\u00F3n donde el estudiantado de distintas carreras e instituciones, como la Universidad San Francisco Xavier de Chuquisaca Sucre de Bolivia y dependencias de nuestra Universidad, proyectaron los trabajos de investigaci\u00F3n y propuesta a las diversas problem\u00E1ticas en el contexto social, acad\u00E9mico, personal, entre otras.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Gracias a la Divisi\u00F3n de Estudios de Posgrado e Investigaci\u00F3n y al Programa de Posgrado en Pedagog\u00EDa, el evento nombrado <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Encuentro Interinstitucional de Estudiantes Universitarios “Implicaci\u00F3n de los estudiantes universitarios en sus aprendizajes”<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, que se imparti\u00F3 del 7 al 8 de junio en una modalidad h\u00EDbrida, dio inicio con la introducci\u00F3n de la profesora Mar\u00EDa Elena Jim\u00E9nez y un mensaje de bienvenida por parte del maestro Adalberto Rangel, coordinador del \u00E1rea acad\u00E9mica de la UPN.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La segunda mesa del encuentro cont\u00F3 con seis ponencias de las carreras de Psicolog\u00EDa y Administraci\u00F3n Educativa. En tanto la mesa tres tuvo la participaci\u00F3n de ocho exposiciones, en ambas se abordaron temas referentes a la salud mental, necesidades educativas especiales, g\u00E9nero y TIC en tiempos de pandemia.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Mesa1.gif"
+		},
+		{
+			"imagen": "Mesa2.gif"
+		},
+		{
+			"imagen": "Mesa3.gif"
+		},
+		{
+			"imagen": "Mesa4.gif"
+		},
+		{
+			"imagen": "Mesa5.gif"
+		}	]
+
+}

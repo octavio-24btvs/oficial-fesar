@@ -1,0 +1,66 @@
+{
+    "titulo": "Informaci\u00F3n oficial", 
+    "seccion": "informacion-oficial", 
+    "imagenes": [
+        {
+            "imagen": "ansiedad-durante-del-confinamiento.jpg",
+            "alt": "Ansiedad durante del confinamiento"
+        },
+        {
+            "imagen": "adaptacion-a-la-nueva-normalidad.jpg",
+            "alt": "Adaptacio\u00F3n a la nueva normalidad"
+        },
+        {
+            "imagen": "aplanar-la-curva.jpg",
+            "alt": "Aplanar la cruva"
+        },
+        {
+            "imagen": "debo-usar-cubrebocas-si-necesito-salir.jpg",
+            "alt": "¿Debo usar cubrebocas si necesito salir?"
+        },
+        {
+            "imagen": "estornuda-o-tose-dentro-de-codo.jpg",
+            "alt": "Estornuda o tose dentro de codo"
+        },
+        {
+            "imagen": "evaluacion-de-riesgo-y-prevencion.jpg",
+            "alt": " Evaluaci\u00F3n de riesgo y prevenci\u00F3n"
+        },
+        {
+            "imagen": "evita-el-contacto-directo.jpg",
+            "alt": "Evita el contacto directo"
+        },
+        {
+            "imagen": "evita-tocarte.jpg",
+            "alt": "Evita Tocarte"
+        },
+        {
+            "imagen": "fases-de-covid-19-en-mexico.jpg",
+            "alt": "Fases de covid 19 en M\u00E9xico"
+        },
+        {
+            "imagen": "quedate-en-casa.jpg",
+            "alt": "Quedate en casa"
+        },
+        {
+            "imagen": "riesgo-de-contraer-covid-19-a-las-personas-con-vih.jpg",
+            "alt": "Riesgo de contraer Covid-19 a las personas con VIH"
+        },
+        {
+            "imagen": "semaforo-naranja.jpg",
+            "alt": "Sem\u00E1foro verde"
+        }, 
+        {
+            "imagen": "sintomas-de-covid-19.jpg",
+            "alt": "S\u00EDntomas de Covid-19"
+        },
+        {
+            "imagen": "tienes-sintomas.jpg",
+            "alt": "Ti\u00E9nes s\u00Edntomas ?"
+        }, 
+        {
+            "imagen": "uso-correcto-del-cubrebocas.jpg",
+            "alt": "Uso correcto del cubrebocas"
+        }
+    ]
+}

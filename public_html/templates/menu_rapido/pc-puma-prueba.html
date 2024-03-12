@@ -1,0 +1,232 @@
+<div id="image-modal" class="image-modal" ng-show="modal">
+    <div class="close-image-modal d-block" ng-click="modal = false">&times;</div>
+    <img class="image-modal-content img-fluid" ng-src="{{image_source}}" alt="Im&aacute;gen"/>
+    <div id="image-modal-caption"></div>
+</div>
+<div class="container content">
+    <hr>
+    <div class="row pleca-secciones">
+        <div class="col-12 secciones">
+                <img style="filter: grayscale(90%);" width="100px" height="px" src="public_html/img/menu_rapido/computo-fesar/plataforma-educativa-aragon.svg" alt="PC PUMA ">
+                <img style="filter: grayscale(90%);" width="100px" height="px" src="public_html/img/menu_rapido/computo-fesar/pc-puma.svg" alt="PC PUMA ">
+        </div>
+    </div>
+    <hr>
+    <div class="row mb-3">
+        <div class="col-12">
+            <p>PC-PUMA es un programa de conectividad móvil de la UNAM cuyo objetivo es favorecer  
+                el acceso a la información y robustecer el proceso de enseñanza-aprendizaje, 
+                así como fortalecer el acceso a internet inalámbrico en aulas, laboratorios, 
+                espacios comunes y al aire libre. El programa incluye tres proyectos: 
+                conecta, solicita y proyecta.</p>
+        </div>
+    </div>
+    <div class="row justify-content-center mb-3">
+        <div class="col-12">
+            <div id="jssor_1"
+                 style="position:relative;margin:0 auto;top:0px;left:0px;width:1110px;height:340px;overflow:hidden;visibility:hidden;margin: 10px 0 10px -15px;">
+                <!-- Loading Screen -->
+                <div data-u="loading" class="jssorl-009-spin"
+                     style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
+                    <!--<img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="../svg/loading/static-svg/spin.svg" />-->
+                </div>
+                <div data-u="slides"
+                     style="cursor:default;position:relative;top:0px;left:0px;width:1110px;height:340px;overflow:hidden;">
+                    <div ng-repeat="imagen in banners">
+                        <a ng-href="{{imagen.hipervinculo}}" title="{{imagen.descripcion}}"
+                           ng-show="imagen.hipervinculo !== ''" target="_blank">
+                            <img data-u="image" ng-src="public_html/img/menu_rapido/computo-fesar/banners/{{imagen.imagen}}"
+                                 alt="{{imagen.descripcion}}" />
+                        </a>
+                        <a ng-show="imagen.hipervinculo === ''"  title="{{imagen.descripcion}}">
+                            <img data-u="image" ng-src="public_html/img/menu_rapido/computo-fesar/banners/{{imagen.imagen}}"
+                                 alt="{{imagen.descripcion}}" />
+                            </a>
+                        </div>
+                    </div>
+                    <div data-u="navigator" class="jssorb032" style="position:absolute;bottom:12px;right:12px;"
+                         data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
+                        <div data-u="prototype" class="i" style="width:16px;height:16px;">
+                            <svg viewBox="0 0 16000 16000"
+                                 style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                            <circle class="b" cx="8000" cy="8000" r="5800"></circle>
+                            </svg>
+                        </div>
+                    </div>
+                    <div data-u="arrowleft" class="jssora051" style="width:65px;height:65px;top:0px;left:25px;"
+                         data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
+                        <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                        <polyline class="a" points="11040,1920 4960,8000 11040,14080 "></polyline>
+                        </svg>
+                    </div>
+                    <div data-u="arrowright" class="jssora051" style="width:65px;height:65px;top:0px;right:25px;"
+                         data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
+                        <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                        <polyline class="a" points="4960,1920 11040,8000 4960,14080 "></polyline>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-9 owl-carousel owl-theme contenedor-imagen" style="z-index: 0;margin-top: 8px;">
+                <div class="item conte-img carousel-portal-docente" ng-repeat="imagen in imagenes">
+                    <a ng-click="showModal(imagen)" title="Mostrar im&aacute;gen completa">
+                        <img class="img-fluid image" ng-src="public_html/img/menu_rapido/computo-fesar/carrusel/{{imagen}}" alt="Im&aacute;gen"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+
+            <div class="card">
+                <div class="card-header" ng-click="showing='1'">
+                    <p><strong>Manual de Identidad</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing==='1'">
+                  <p><a target="_blank" href="public_html/documents/menu-rapido/pc-puma/manual-de-identidad-pc-puma.pdf">Manual de Identidad</a></p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" ng-click="showing='4'">
+                    <p><strong>Centro de acceso PC PUMA</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing==='4'">
+                                     <p><a target="_blank" href="public_html/documents/menu-rapido/pc-puma/pc-puma-guia-rapida.pdf">Guía Rápida</a></p>
+                </div>
+                <div class="card-body" ng-show="showing==='4'">
+                      <p><a target="_blank" href="https://pcpuma.unam.mx/centrosdeacceso/centro.php">Agenda tu cita</a></p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" ng-click="showing='0'">
+                    <p><strong>Conecta</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing==='0'">
+                 <p><strong>&iquest;Cómo acceder a la red PC-PUMA?</strong></p>
+                        <p>Para el uso de la red inalámbrica desde cualquier dispositivo móvil necesitas:</p>
+                        <ol>
+                            <li>Localizar la red PC-PUMA</li>
+                            <li>Tener a la mano los siguientes datos:
+                                <ul>
+                                    <li>número de cuenta o trabajador que será tu usuario;</li>
+                                    <li>fecha de nacimiento (DDMMAAAA) que te servirá como tu contraseña.</li>
+                                </ul>
+                            </li>    
+                        </ol>
+                        <p><strong>Términos y condiciones</strong></p>
+                        <ol>
+                            <li>La FES Aragón integra a la Comunidad Universitaria, el servicio de Internet inalámbrico denominado PC-PUMA Conecta, como una herramienta tecnológica de uso exclusivo a los propósitos Institucionales de docencia, investigación y difusión de la cultura.</li>
+                            <li>El usuario es el único obligado a mantener la confidencialidad de su contraseña de acceso y de las actividades que de forma responsable realice.</li>
+                            <li>Quedan prohibidas las transferencias de grandes cantidades de datos.</li>
+                            <li>Para mantener la calidad del servicio, no se permite acceder a la cuenta de otra persona que no sea el usuario, enviar correos electrónicos masivos no solicitados, recopilar datos personales de otros sin su conocimiento, interferir con los usuarios de otras redes y expandir o replicar el servicio a terceros.</li>
+                            <li>La FES Aragón se reserva el derecho de suspensión del Servicio si de manera razonable se establece que el uso del mismo es excesivo e injustificado; o bien, se emplea en actividades ilícitas.</li>
+                            <li>La FES Aragón podrá modificar los “términos y condiciones”, instituir otras políticas y acuerdos en la optimización del servicio comprometido. Notificándose cualquier mejora o restricción en este mismo sitio, entrando en vigor el día que se convengan.</li>
+                        </ol>
+                        <p><strong>Preguntas frecuentes</strong></p>
+                        <ol>
+                            <li>&iquest;En dónde puedo hacer uso del Internet inalámbrico?</li>
+                            <p>En salones, auditorios, laboratorios y espacios abiertos</p>
+                            <li>&iquest;Qué tipo de dispositivos puedo conectar al Internet inalámbrico?</li>
+                            <p>Laptops, tablets, celulares y cualquier otro dispositivo con acceso a Internet inalámbrico</p>
+                        </ol>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" ng-click="showing='2'">
+                    <p><strong>Solicita</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing==='2'">
+                <p><strong>&iquest;C&oacute;mo solicitar préstamo de equipo?</strong></p>
+                        <p>Para solicitar el préstamo de equipo acude directamente a la caseta de PC-PUMA, ubicada en la explanada central de la Facultad. Sólo necesitas tu credencial vigente de estudiante o docente para validar tus datos.<br/>Posteriormente, deberás registrar tu huella dactilar en el sistema de PC-PUMA Aragón. Esto agilizará el proceso de préstamo de equipos la próxima vez que solicites uno.</p>
+                        <p><strong>Horario</strong></p>
+                        <p>Lunes a Viernes de 09:00 a 20:00 h<br/>Sábados de 09:00 a 13:00 h</p>
+                        <p><strong>T&eacute;rminos y condiciones</strong></p>
+                        <ol>
+                            <li>Para el registro inicial, es indispensable que estudiantes y docentes se den de alta en el sistema, presentando su credencial vigente, número de cuenta o trabajador y toma de huella dactilar.</li>
+                            <li>El horario de servicio del módulo PC Puma, será de 09:00 a 20:00 horas de lunes a viernes y de 09:00 a 13:00 horas el día sábado.</li>
+                            <li>Para solicitar el equipo -laptop tipo chromebook o tableta iPad-, estudiantes o docentes deberán presentar su credencial vigente, proporcionar su número de cuenta o de trabajador con la verificación de su huella dactilar.</li>
+                            <li>El tiempo máximo de préstamo del equipo será de 2 horas. En caso de incumplir con el tiempo de entrega, la penalización consistirá en la negación del servicio -desde una semana hasta el resto del semestre-, según sea el caso.</li>
+                            <li>En el caso grave de no mantener el equipo dentro del campus o no devolverlo el mismo día, se procederá conforme a la Normatividad Universitaria, reservándose la FES Aragón cualquier acción legal para el resarcimiento del daño.</li>
+                            <li>Estudiantes o docentes serán responsables de revisar el equipo al momento de recibirlo y deberán regresarlo en las mismas condiciones. Cualquier falla o desperfecto intencional serán atribuibles al usuario, siendo de su entera responsabilidad el daño ocasionado -debiéndose acordar entre las partes su reparación o restitución-.</li>
+                        </ol>
+                        <p><strong>Preguntas frecuentes</strong></p>
+                        <ol>
+                            <li>
+                                <p>&iquest;Qu&eacute; tipo de equipo me pueden prestar?<br/>Laptop tipo Chromebook o tableta iPad.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Cu&aacute;ntos equipos me pueden prestar de manera simult&aacute;nea?<br/>Sólo un equipo por persona.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Cuánto tiempo me pueden prestar el equipo?<br/>Dos horas como máximo.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Qué sucede si no entrego el equipo en el lapso de 2 horas?<br/>Podrás ser sancionado desde una semana hasta el resto del semestre, según sea el caso.</p>
+                            </li>
+                            <li>
+                                <p>Una vez que haya terminado el tiempo de préstamo, &iquest;puedo solicitar de nueva cuenta un equipo?<br/>Dependerá de la disponibilidad de equipos en ese momento.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Qué sucede si entrego el equipo al día siguiente?<br/>Es una situación grave y será sancionada conforme a la Normatividad Universitaria.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Alguien puede solicitar el equipo a mi nombre?<br/>No, el préstamo es personal e intransferible.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Alguien puede devolver el equipo a mi nombre?<br/>No, la entrega es personal.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Qué debo hacer si el equipo sufre algún accidente?<br/>Informarlo inmediatamente a los responsables de la caseta de préstamo y cubrir los gastos de reparación o sustitución.</p>
+                            </li>
+                        </ol>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" ng-click="showing='3'">
+                    <p><strong>Proyecta</strong></p>
+                </div>
+                <div class="card-body" ng-show="showing==='3'">
+                 <ol>
+                            <li>Si eres docente, podrás solicitar un control remoto de las pantallas en sala de firmas, ubicada en la planta baja del edificio A4 presentando tu credencial de trabajador.</li>
+                            <li>Si eres estudiante, pide apoyo a tu docente para que solicite un control remoto para su sesión.</li>
+                        </ol>
+                        <p><strong>T&eacute;rminos y condiciones</strong></p>
+                        <ol>
+                            <li>Para solicitar el control de un televisor inteligente Smart y los cables de conexión, el docente deberá entregar en la sala de firmas su credencial vigente.</li>
+                            <li>El horario de préstamo del control y aditamentos, será de 07:00 a 20:00 horas de lunes a viernes.</li>
+                            <li>El docente es el único responsable de revisar el control y los cables cuando los reciba y deberá regresarlos en las mismas condiciones. En caso de generarse algún desperfecto, es obligación informarlo inmediatamente al personal responsable del préstamo.</li>
+                        </ol>
+                        <p><strong>Preguntas frecuentes</strong></p>
+                        <ol>
+                            <li>
+                                <p>&iquest;Qué necesito para utilizar una Smart TV?<br/>Ser docente en activo y solicitar en la sala de firmas el control y cables de conexión, dejando para resguardo su credencial vigente.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Cuánto tiempo puedo disponer del control y los cables?<br/>Como máximo, el mismo día a la conclusión del horario escolar.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Qué sucede si entrego el control y los cables al día siguiente?<br/>Deja sin servicio a otros docentes que lo necesiten.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Puede un estudiante solicitar el control y cables para utilizar una Smart TV?<br/>No, el único que puede solicitar el equipo es el docente.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Alguien puede solicitar el control y los cables a mi nombre?<br/>No, el préstamo es personal.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Alguien puede devolver el control y los cables a mi nombre?<br/>No, la entrega es personal.</p>
+                            </li>
+                            <li>
+                                <p>&iquest;Qué debo hacer si el control o los cables sufren algún accidente?<br/>Informarlo inmediatamente a los responsables de la sala de firmas.</p>
+                            </li>
+                        </ol>
+                </div>
+            </div>
+                
+
+
+            </div>
+        </div>
+</div>

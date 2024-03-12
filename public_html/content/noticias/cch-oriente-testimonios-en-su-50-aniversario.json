@@ -1,0 +1,31 @@
+{
+	"titulo": "CCH Oriente: testimonios en su 50 aniversario",
+	"titulo_normalizado": "cch-oriente-testimonios-en-su-50-aniversario",
+	"secciones": [
+		{
+			"seccion": "Ciencias Sociales",
+			"seccion_normalizada": "ciencias-sociales"
+		},
+		{
+			"seccion": "Sociología",
+			"seccion_normalizada": "sociologia"
+		}
+	],
+	"autor": "Hilda Hern\u00E1ndez",
+	"fecha": "23/08/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En abril de 1972 se fund\u00F3 el CCH Oriente, para conmemorar su 50 aniversario, exalumnos y profesores colaboraron para crear y compartir el libro <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Testimonios a 50 a\u00F1os de la fundaci\u00F3n del CCH Oriente<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Relata las experiencias de antiguos estudiantes con un enfoque educativo, novedoso y revolucionario, centrado en \"Aprender a aprender\", que buscaba comprender en profundidad el objeto de estudio.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La presentaci\u00F3n de este libro cont\u00F3 con: Antonio P\u00E9rez, profesor en el CCH durante treinta a\u00F1os y quien est\u00E1 jubilado en la actualidad; Jos\u00E9 Ren\u00E9 Rivas, miembro del sistema nacional de investigadores; Valent\u00EDn Gonz\u00E1lez, exalumno del CCH Oriente y profesor de educaci\u00F3n media superior; Alejandro Ernesto Padilla, docente y egresado de la FES Arag\u00F3n; y Ariel De la O, quien actu\u00F3 como moderador.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el evento se explor\u00F3 la formaci\u00F3n ofrecida por el CCH, junto a sus ideolog\u00EDas y doctrinas. Se resaltaron las oportunidades que ofrece la instituci\u00F3n, incluida la orientaci\u00F3n profesional. El CCH no solo brinda educaci\u00F3n, tambi\u00E9n prepara a su alumnado para ser participantes activos en la sociedad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tambi\u00E9n se abordaron temas, como el movimiento social del 68 y su impacto en la actualidad. Los presentadores del libro compartieron sus experiencias, para luego cerrar la sesi\u00F3n con una ronda de preguntas de la audiencia.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "CCH1.gif"
+		},
+		{
+			"imagen": "CCH2.gif"
+		},
+		{
+			"imagen": "CCH3.gif"
+		},
+		{
+			"imagen": "CCH4.gif"
+		}	]
+
+}

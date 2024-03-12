@@ -1,0 +1,35 @@
+{
+	"titulo": "Violencia futbolera",
+	"titulo_normalizado": "violencia-futbolera",
+	"secciones": [
+		{
+			"seccion": "Ciencias Sociales",
+			"seccion_normalizada": "ciencias-sociales"
+		},
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		},
+		{
+			"seccion": "Relaciones Internacionales",
+			"seccion_normalizada": "relaciones-internacionales"
+		}
+	],
+	"autor": "Johana Mart\u00EDnez",
+	"fecha": "10/03/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En M\u00E9xico, el futbol es uno de los deportes m\u00E1s difundidos, y, por lo tanto, el que mayor impacto tiene entre las y los espectadores. Sin embargo, el pasado 5 de marzo un desafortunado evento de violencia se present\u00F3 en el partido Quer\u00E9taro vs Atlas.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este sentido, la Divisi\u00F3n de Ciencias Sociales de la Facultad invit\u00F3 a diversos especialistas a realizar una mesa de di\u00E1logo titulada “Reflexi\u00F3n, diagn\u00F3stico y soluciones al problema de la violencia en los estadios”, en la cual participaron los acad\u00E9micos Hugo Luis S\u00E1nchez y Jonathan Octavio Pe\u00F1a, de la Licenciatura en Comunicaci\u00F3n y Periodismo; Carlos Octavio Cruz, de Relaciones Internacionales; y, como moderadora, Georgina C\u00E1rdenas Acosta, Jefa de Carrera de Sociolog\u00EDa.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cruz mencion\u00F3 que en la historia del f\u00FAtbol han existido tendencias de violencia, pues anteriormente no exist\u00EDan normas o reglas que las regularan. Sin embargo, pese a su implementaci\u00F3n, no es posible mantener controlada la violencia debido a factores externos al mismo estadio.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">“El f\u00FAtbol es un espect\u00E1culo” dijo Pe\u00F1a y enfatiz\u00F3 en que las medidas de prevenci\u00F3n deben de ser permanentes y no solo en el “boom” medi\u00E1tico. Asimismo, vot\u00F3 por la erradicaci\u00F3n de las barras, que las y los fans tengan una ID, y que los equipos no deber\u00EDan de escatimar en el presupuesto para la seguridad.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, S\u00E1nchez abord\u00F3 su tema de investigaci\u00F3n “Cartelizaci\u00F3n de las barras<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">”<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> destacando que la cultura y la pr\u00E1ctica de los c\u00E1rteles ya han penetrado a los grupos de animaci\u00F3n deportiva.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Fut1.gif"
+		},
+		{
+			"imagen": "Fut2.gif"
+		},
+		{
+			"imagen": "Fut3.gif"
+		},
+		{
+			"imagen": "fut4.gif"
+		}	]
+
+}

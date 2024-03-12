@@ -1,0 +1,26 @@
+{
+    "nombre": "Leobardo Hernández Audelo", 
+    "grado_academico": " Maestro en Ciencias de la Computación, UNAM/IIMAS.",
+    "ubicacion": ["Laboratorio de Seguridad Informática del Centro Tecnológico Aragón."],
+     "telefono": [ "55 5623 1070 " ],
+     "correo": [ "leobardohernandeztn3@aragon.unam.mx" ],
+    "estudios": [
+        "Licenciatura en Física, Universidad Nacional Autónoma de México/F. DE CIENCIAS.", 
+        "Maestría en Ciencias de la Computación, Universidad Nacional Autónoma de México/IIMAS."
+    ], 
+    "lineas_investigacion": [
+        "Diseño e implementación de soluciones de seguridad.",
+        "Aplicaciones seguras, codificación y desarrollo de software seguro.",
+        "Algoritmos criptográficos.",
+        "Cómputo forense.",
+        "Protocolos criptográficos.",
+        "Estándares de seguridad informática.",
+        "Seguridad de tecnologías de información.",
+        "Seguridad en cómputo y dispositivos móviles.",
+        "Detección y prevención de intrusos, algoritmos y protocolos criptográficos. "
+    ], 
+    "investigaciones": [
+        "Proyecto de vinculación: “Diplomado de seguridad informática” Grupo Smartekh. Registro UNAM: 56256-1757-21-x-19."
+    ]
+    
+}

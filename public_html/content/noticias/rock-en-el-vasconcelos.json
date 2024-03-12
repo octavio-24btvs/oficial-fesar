@@ -1,0 +1,14 @@
+{
+	"titulo": "Rock en el Vasconcelos",
+	"titulo_normalizado": "rock-en-el-vasconcelos",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		}
+	],
+	"autor":"Israel Ram\u00EDrez",
+	"fecha":"16/08/18",
+	"contenido":"<p class=\"ql-align-justify\">El Teatro Jos\u00E9 Vasconcelos de nuestra Facultad –recinto que ha cobijado expresiones art\u00EDsticas como conciertos, teatro, cine y danza, entre otras– recibi\u00F3 al d\u00FAo colombiano <em>Gil de Gils<\/em>. Con su rock, Camila Moreno (bater\u00EDa) y Sebasti\u00E1n Villanueva (guitarra) mostraron su emoci\u00F3n de estar en M\u00E9xico y difundieron un mensaje de hermandad entre naciones latinoamericanas.<\/p><p class=\"ql-align-justify\"><em>Los<\/em> <em>Panecillos<\/em>, conformado por estudiantes y docentes de esta Facultad, se encargaron de culminar este evento de manera amena al interpretar cl\u00E1sicos de rock latino de bandas como <em>Pante\u00F3n Rococ\u00F3<\/em>, <em>Sal\u00F3n Victoria<\/em> y <em>Los Caligaris<\/em>.<\/p>",
+	"imagenes":[{"imagen":"img-1.jpg"},{"imagen":"img-2.jpg"},{"imagen":"img-3.jpg"},{"imagen":"img-4.jpg"}]
+}

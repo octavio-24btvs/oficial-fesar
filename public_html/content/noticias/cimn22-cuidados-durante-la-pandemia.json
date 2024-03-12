@@ -1,0 +1,31 @@
+{
+	"titulo": "CIMN22: Cuidados durante la pandemia",
+	"titulo_normalizado": "cimn22-cuidados-durante-la-pandemia",
+	"secciones": [
+		{
+			"seccion": "DUACyD",
+			"seccion_normalizada": "duacyd"
+		},
+		{
+			"seccion": "SUAyED",
+			"seccion_normalizada": "suayed"
+		}
+	],
+	"autor": "Edna Reyes",
+	"fecha": "13/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">4to. Congreso Internacional Mujeres y ni\u00F1as desde una doble perspectiva: G\u00E9nero y Derechos Humanos en el marco de los Objetivos del Desarrollo Sostenible<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">,<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Luz Mar\u00EDa Galindo, Georgina C\u00E1rdenas, Elvira Cedillo, Mario Marcos Arvizu y Jorge Andr\u00E9s Trejo Sol\u00EDs, todas y todos de la FES Arag\u00F3n, participaron en el conversatorio “Pandemia y cuidados en las familias”.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Galindo y C\u00E1rdenas abordaron el tema de los ciudadanos y la participaci\u00F3n pol\u00EDtica, analizaron conceptos como el feminismo y la perspectiva de g\u00E9nero; recalcando los roles sociales del padre y madre dentro del hogar. Se\u00F1alaron los tipos de cuidados existentes dentro en la sociedad como: cuidados de hijas e hijos, amistades, pareja, mascotas, ecosistemas, personas mayores y con discapacidad. Asimismo, destacaron que durante el confinamiento hubo cambios en la distribuci\u00F3n de los cuidados y una reconfiguraci\u00F3n en los diferentes espacios p\u00FAblicos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Posteriormente, Cedillo dio a conocer un panorama general sobre la vulnerabilidad sociodemogr\u00E1fica de menores y j\u00F3venes, personas adultas y adultas mayores ante la pandemia. Debido a la obesidad y el aumento de enfermedades cr\u00F3nico degenerativas, la poblaci\u00F3n hizo m\u00E1s conciencia sobre los cuidados para disminuir los factores de mortalidad, pues los cuidados familiares en casa no fueron suficientes para evitar tantas muertes.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Sucesivamente, para Trejo, toda persona tiene derecho al cuidado, en ese sentido cada uno de los estados del pa\u00EDs debe reconocer las atenciones en el hogar como un trabajo, as\u00ED como un bien y servicio para la producci\u00F3n en mercanc\u00EDa puesto que generan un valor econ\u00F3mico, es decir, son productores de riqueza.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente, Arvizu retom\u00F3 la teor\u00EDa de valor de Karl Marx; a partir de esto se le otorga una polisemia a los cuidados, los cuales son analizados desde diferentes dimensiones: pol\u00EDtica, social, psicol\u00F3gica, jur\u00EDdica e hist\u00F3rica con el objetivo de impulsar su crecimiento y remuneraci\u00F3n. <\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "cuidados-durante-la-pandemia-1.jpg"
+		},
+		{
+			"imagen": "cuidados-durante-la-pandemia-2.jpg"
+		},
+		{
+			"imagen": "cuidados-durante-la-pandemia-3.jpg"
+		},
+		{
+			"imagen": "cuidados-durante-la-pandemia-4.jpg"
+		}	]
+
+}

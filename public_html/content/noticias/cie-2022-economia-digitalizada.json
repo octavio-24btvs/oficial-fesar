@@ -1,0 +1,31 @@
+{
+	"titulo": "CIE 2022: Econom\u00EDa digitalizada",
+	"titulo_normalizado": "cie-2022-economia-digitalizada",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		},
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "26/08/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la mesa n\u00FAmero quince y \u00FAltima jornada del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">6.º Congreso Internacional de Econom\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se presentaron algunos especialistas en comercio digital, criptomonedas y otros activos que han tenido auge en los \u00FAltimos a\u00F1os, derivado del impacto de la pandemia en la econom\u00EDa, el mercado burs\u00E1til y el comercio internacional.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El mediador de esta mesa fue el acad\u00E9mico de la FES Arag\u00F3n, Miguel \u00C1ngel Lara, quien introdujo el tema sobre las alternativas para la reactivaci\u00F3n, el crecimiento y el desarrollo econ\u00F3micos sostenibles. Posteriormente, Doris Oropeza, estudiante del m\u00E1ster en Comercio Electr\u00F3nico y Marketing Digital por el Instituto Superior de Barcelona, present\u00F3 la primera ponencia en donde se tocaron temas correspondientes al comercio electr\u00F3nico, as\u00ED como el impacto que este tuvo derivado de la situaci\u00F3n sanitaria y el confinamiento por la pandemia.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los dos siguientes bloques de esta mesa fueron impartidos por Manuel Gil, especialista en Blockchain y Fintech, as\u00ED como por el ingeniero egresado del IPN, Lucio Medel, quien tambi\u00E9n se especializa en criptomonedas y activos digitales. En estas ponencias, se abordaron las caracter\u00EDsticas de los activos digitales, sus riesgos y comportamiento a lo largo de estos a\u00F1os, poniendo \u00E9nfasis en las cotizaciones que se han presentado durante la pandemia.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "EconomíaD1.gif"
+		},
+		{
+			"imagen": "EconomíaD2.gif"
+		},
+		{
+			"imagen": "EconomíaD3.gif"
+		},
+		{
+			"imagen": "EconomíaD4.gif"
+		}	]
+
+}

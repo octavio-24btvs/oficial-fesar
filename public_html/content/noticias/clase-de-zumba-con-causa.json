@@ -1,0 +1,14 @@
+{
+	"titulo": "Clase de zumba con causa",
+	"titulo_normalizado": "clase-de-zumba-con-causa",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		}
+	],
+	"autor":"Yutsil Hern\u00E1ndez",
+	"fecha":"06/11/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Una clase de zumba con fines solidarios se organiz\u00F3 en nuestra Facultad a trav\u00E9s de la Coordinaci\u00F3n de Actividades Deportivas y Recreativas, en la cual pudo participar toda la comunidad aragonesa con el \u00FAnico requisito de presentar una peque\u00F1a donaci\u00F3n consistente en juguetes o ropa para posteriormente ser entregada al \u00E1rea de oncolog\u00EDa del Hospital General de M\u00E9xico.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta actividad, en la cual se pudo observar la energ\u00EDa y disposici\u00F3n del p\u00FAblico asistente, fue impartida por los instructores Armando Garcia, Alma Olvera, Nancy Sarmiento y Javier Shafick, el 7 de noviembre en el Gimnasio de Parquet. <\/span><\/p>",
+	"imagenes":[{"imagen":"clase-de-zumba-con-causa-1.jpg"},{"imagen":"clase-de-zumba-con-causa-2.jpg"},{"imagen":"clase-de-zumba-con-causa-3.jpg"},{"imagen":"clase-de-zumba-con-causa-4.jpg"},{"imagen":"clase-de-zumba-con-causa-5.jpg"}]
+}

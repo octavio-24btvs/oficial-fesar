@@ -1,0 +1,30 @@
+{
+	"titulo": "SeCom23: La Estafa Maestra",
+	"titulo_normalizado": "secom23-la-estafa-maestra",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "29/03/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Continuando con la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Comunicaci\u00F3n 2023<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, dentro de la Facultad de Estudios Superiores Arag\u00F3n se llev\u00F3 a cabo un magno evento en el Auditorio de la Divisi\u00F3n de Universidad Abierta, Continua y a Distancia (DUACyD), donde Nayeli Rold\u00E1n, egresada de la carrera de Comunicaci\u00F3n y Periodismo en la FES Arag\u00F3n, present\u00F3 su libro La <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Estafa Maestra: La historia del desfalco.<\/em><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Bajo la direcci\u00F3n de Antonio Rosas, Fernando Garc\u00EDa y Susana Jeanine, docentes de la FES Arag\u00F3n, en compa\u00F1\u00EDa de Rold\u00E1n, tuvieron a bien presentar el trabajo period\u00EDstico donde la autora, una de las periodistas e investigadoras con m\u00E1s prestigio en nuestro pa\u00EDs, hace un seguimiento a lo exhibido en el libro <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Estafa Maestra: Graduados en desaparecer el dinero p\u00FAblico.&nbsp;<\/em><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En esta obra se expone una actualizaci\u00F3n a la investigaci\u00F3n period\u00EDstica del primer libro publicado el 2017, la cual exhibe un desv\u00EDo masivo de fondos p\u00FAblicos durante el sexenio de Enrique Pe\u00F1a, donde estuvieron involucradas 128 empresas fantasma, 8 universidades p\u00FAblicas, 11 dependencias del Estado y m\u00E1s de 50 servidores p\u00FAblicos de distintos niveles.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Nayeli Rold\u00E1n tambi\u00E9n particip\u00F3 en las publicaciones <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mujeres en pie de lucha. Reportaje sobre el Estado machista y las violencias<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Traves\u00EDa de las Tortugas<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, desde el 2014 se especializa en temas de corrupci\u00F3n, rendici\u00F3n de cuentas, educaci\u00F3n y derechos humanos. <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Estafa Maestra <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">obtuvo el Premio Nacional de Periodismo 2017, as\u00ED como el premio Ortega y Gasset 2018 en Espa\u00F1a.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Estafa1.gif"
+		},
+		{
+			"imagen": "Estafa2.gif"
+		},
+		{
+			"imagen": "Estafa3.gif"
+		},
+		{
+			"imagen": "Estafa4.gif"
+		},
+		{
+			"imagen": "Estafa5.gif"
+		}	]
+
+}

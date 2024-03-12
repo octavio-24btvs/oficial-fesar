@@ -1,0 +1,26 @@
+{
+    "nombre": "Humberto Mancilla Alonso", 
+    "grado_academico": "Maestro", 
+     "correo": [ "humbertomancilla30@aragon.unam.mx"],
+     "imagen": true, 
+    "estudios": [
+        "Licenciatura como Ingeniero Mecánico. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Mecatrónica.", 
+        "Automatización.", 
+        "Diseño mecatrónico."
+    ], 
+    "investigaciones": [
+        "Productos para el cuidado geriátrico (Órtesis asistiva para rodilla, Silla multipostural, Sistema de monitoreo para personas de la tercera edad).", 
+        "Instrumentación para medir vibraciones en equipos de alimentación industriales.", 
+        "Sistema de manipulación a distancia de un robot móvil.", 
+        "Cama de gineco-obstetricia para zonas rurales.", 
+        "Desarrollo de vehículos eléctricos de competencia.", 
+        "Robots de competencia (Mini sumo, Sumo, Battle bots)", 
+        "Desarrollo de material didáctico de apoyo para las asignaturas de ciencias básicas de ingeniería.", 
+        "Investigación aerodinámica para vehículos no tripulados.", 
+        "Drone acuático."
+    ]
+}

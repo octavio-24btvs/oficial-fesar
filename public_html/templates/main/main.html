@@ -1,0 +1,341 @@
+<style type="text/css">
+    #noty_layout__center: {
+        /*width: 325px;*/
+    }
+</style>
+<div class="container mt-3">
+    <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:1110px;height:340px;overflow:hidden;visibility:hidden;margin: 10px 0 10px -15px;">
+        <!-- Loading Screen -->
+        <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
+            <!--<img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="../svg/loading/static-svg/spin.svg" />-->
+        </div>
+        <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1110px;height:340px;overflow:hidden;">
+            <div ng-repeat="imagen in slider_principal">
+                <a ng-href="{{imagen.hipervinculo}}" title="{{imagen.descripcion}}" ng-show="imagen.hipervinculo !== ''" target="_blank">
+                    <img data-u="image" ng-src="public_html/img/slider_principal/{{imagen.imagen}}" alt="{{imagen.descripcion}}"/>
+                </a>
+                <img ng-show='imagen.hipervinculo === ""' data-u="image" ng-src="public_html/img/slider_principal/{{imagen.imagen}}" alt="{{imagen.descripcion}}"/>
+            </div>
+        </div>
+        <div data-u="navigator" class="jssorb032" style="position:absolute;bottom:12px;right:12px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
+            <div data-u="prototype" class="i" style="width:16px;height:16px;">
+                <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                <circle class="b" cx="8000" cy="8000" r="5800"></circle>
+                </svg>
+            </div>
+        </div>
+        <div data-u="arrowleft" class="jssora051" style="width:65px;height:65px;top:0px;left:25px;" data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
+            <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+            <polyline class="a" points="11040,1920 4960,8000 11040,14080 "></polyline>
+            </svg>
+        </div>
+        <div data-u="arrowright" class="jssora051" style="width:65px;height:65px;top:0px;right:25px;" data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
+            <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+            <polyline class="a" points="4960,1920 11040,8000 4960,14080 "></polyline>
+            </svg>
+        </div>
+    </div>
+</div>
+<div class="row menu-rapido">
+    <div class="col-12 mainmenu">
+        <ul class="nav d-flex justify-content-center">
+            <li class="nav-item animated zoomIn">
+                <a ui-sref="acceso_intranet" class="nav-link active" title="Acceso Intranet">
+                    <i class="icon-acceso-fesar"></i>
+                    &nbsp;
+                    <main>Acceso</main>
+                    <span>Intranet</span>
+                </a>
+            </li>
+            <li class="nav-item animated zoomIn">
+                <a ui-sref="portal_docente" class="nav-link active" title="Portal Docente">
+                    <i class="icon-portal-docentes2"></i>
+                    &nbsp;
+                    <main>Portal </main>
+                    <span>Docente</span>
+                </a>
+            </li>
+            <li class="nav-item animated zoomIn">
+                <a ui-sref="tramites" class="nav-link active" title="CISE Tr&aacute;mites">
+                    <i class="icono-menuseundario icon-cise"></i>
+                    &nbsp;
+                    <main>CISE</main>
+                    <span>Tr&aacute;mites</span>
+                </a>
+            </li>
+            <li class="nav-item animated zoomIn">
+                <a ui-sref="directorio" class="nav-link active" title="Directorios UNAM">
+                    <i class="icon-simbolo-de-la-sumision-del-directorio"></i>
+                    &nbsp;
+                    <main>Directorios</main>
+                    <span>UNAM</span>
+                </a>
+            </li>
+            <li class="nav-item animated zoomIn">
+                <a ui-sref="calendario_escolar" class="nav-link active" title="Calendario Escolar">
+                    <i class="icono-menusecundario icon-calendar"></i>
+                    &nbsp;
+                    <main>Calendario</main>
+                    <span>Escolar</span>
+                </a>
+            </li>
+            <li class="nav-item animated zoomIn">
+                <a ui-sref="titulacion_fesar" class="nav-link active" title="Titulaci&oacute;n">
+                    <i class="icon-titulacion-05"></i>
+                    &nbsp;
+                    <main>Titulaci&oacute;n</main>
+                    <span>FESAR</span>
+                </a>
+            </li>
+            <li class="nav-item animated zoomIn">
+                <a ui-sref="bolsa_trabajo"  class="nav-link active" title="Bolsa de Trabajo">
+                    <i class="icon-bolsa-de-trabajo"></i>
+                    &nbsp;
+                    <main>Bolsa</main>
+                    <span>de Trabajo</span>
+                </a>
+            </li>
+            <li class="nav-item animated zoomIn">
+                <a ui-sref="computo_fesar" class="nav-link active" title="C&oacute;mputo FES Arag&oacute;n">
+                    <i class="icon-signal"></i>
+                    &nbsp;
+                    <main>C&oacute;mputo</main>
+                    <span>FESAR</span>
+                </a>
+            </li>
+            <li class="nav-item animated zoomIn">
+                <a ui-sref="biblioteca" class="nav-link active" title="Biblioteca JRH">
+                    <i class="icon-biblioteca-02 fs-20"></i>
+                    &nbsp;
+                    <main>Biblioteca</main>
+                    <span>JRH</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="container">
+    <hr>
+    <div class="row encabezado">
+        <div class="col-12 col-lg-8 encabezado-titulo animated bounceInUp">
+            <i class="icono-encabezado icon-ventana-de-navegador"></i> <h2>  Muro Arag&oacute;n </h2>
+        </div>
+        <div class="d-none d-lg-block col-md-4 encabezado-titulo animated bounceInUp" style="border-left: #919191 1px solid;">
+                <h2 style="margin-left: 7px;"><i class="icon-periodico-doblado" style="font-size: 27px !important;"></i>Noticias</h2>
+                <p class="content m-0 pt-1" style="border-top: 1px solid #d4d2d2;position: relative;font-size: 12px !important;left: 40px;width: 24%;">
+                    <a target="_blank" ui-sref="seciones">Secciones</a>
+                </p>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-12 col-lg-8">
+            <div class="row">
+                <div class="col-6 px-1 noticias-muro conte-img" 
+                     ng-repeat="image in muro_aragon_main_images">
+                    <a title="{{image.descripcion}}" ng-show="image.hipervinculo !== ''" target='_blank' ng-href='{{image.hipervinculo}}'>
+                        <img ng-src="public_html/img/muro_aragon/{{image.imagen}}" class="img-fluid d-block" alt="{{image.descripcion}}"/>
+                        <div class="overlay br-15" style="background:{{image.imagen_color}};" id="banner-principal">
+                            <div class="text">{{image.descripcion}}</div>
+                        </div>
+                    </a>
+                    <img ng-src="public_html/img/muro_aragon/{{image.imagen}}" class="img-fluid d-block br-15" alt="{{image.descripcion}}" ng-show="image.hipervinculo === ''"/>
+                    <div class="overlay br-15" style="background:{{image.imagen_color}};" id="banner-principal" ng-show="image.hipervinculo === ''">
+                        <div class="text">{{image.descripcion}}</div>
+                    </div>
+                </div>
+                <div class=" col-12 owl-carousel owl-theme" style="z-index: 0;margin-top: 8px;">
+                    <div class="item conte-img carousel-muro-aragon" ng-repeat='imagen in muro_aragon_images'>
+                        <a title="{{imagen.descripcion}}" ng-show="imagen.hipervinculo !== ''" ng-href='{{imagen.hipervinculo}}' target='_blank'>
+                            <img ng-src="public_html/img/muro_aragon/{{imagen.imagen}}" class="d-block" alt="{{imagen.descripcion}}"/>
+                            <div class="overlay br-15" style="background:{{imagen.imagen_color}};">
+                                <div class="text">{{imagen.descripcion}}</div>
+                            </div>
+                        </a>
+                        <img ng-src="public_html/img/muro_aragon/{{imagen.imagen}}" class="d-block br-15" alt="{{imagen.descripcion}}" ng-show='imagen.hipervinculo === ""'/>
+                        <div class="overlay br-15" style="background:{{imagen.imagen_color}};" ng-show='imagen.hipervinculo === ""'>
+                            <div class="text">{{imagen.descripcion}}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 lista-noticicas">
+            <div class="d-block d-lg-none col-12 row encabezado">
+                <hr>
+                <div class="encabezado-titulo animated bounceInUp">
+                    <h2><i class="icon-periodico-doblado" style="font-size: 27px !important;"></i>Noticias</h2>
+                    <p class="content m-0 pt-1" style="border-top: 1px solid #d4d2d2;position: relative;font-size: 12px !important;left: 40px;width: 24%;">
+                            <a target="_blank" ui-sref="seciones">Secciones</a>
+                    </p>
+                </div>
+                <hr>
+            </div>
+            <div class="seccion" ng-repeat="noticia in getSubArray()">
+                <span class="fecha icon-tiempo">
+                    {{noticia.fecha}}
+                </span>
+                <h2>
+                    <a ui-sref="noticias({page:actual_page,noticia:noticia.titulo_normalizado})" title="{{noticia.titulo}}">{{noticia.titulo}}</a>
+                </h2>
+            </div>
+            <div class="col-12 col-lg-4 offset-lg-4 paginator-box">
+                <ul class="pagination ml-a mr-a">
+                    <li class="page-item" ng-show="pages_count > 1 && actual_page > 1">
+                        <a class="page-link" title="Previous" ng-click="actual_page = actual_page - 1">
+                            <span class="fa fa-angle-left"></span>
+                        </a>
+                    </li>
+                    <li class="page-item" ng-show="(actual_page - 1) > 0"><a class="page-link" ng-click="actual_page = actual_page - 1">{{actual_page - 1}}</a></li>
+                    <li class="page-item active"><a class="page-link">{{actual_page}}</a></li>
+                    <li class="page-item" ng-show="(actual_page + 1) <= pages_count"><a class="page-link" ng-click="actual_page = actual_page + 1">{{actual_page + 1}}</a></li>
+                    <li class="page-item" ng-show="(pages_count > 1 && actual_page < pages_count)">
+                        <a class="page-link" title="Next" ng-click="actual_page = actual_page + 1">
+                            <span class="fa fa-angle-right"></span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>           
+<div class="container">
+    <hr>
+    <div class="row encabezado">
+        <div class="col-lg-12 encabezado-titulo animated bounceInUp">
+            <i class="icono-encabezado icon-reloj"></i> <h2>  Agenda  </h2>
+        </div>
+    </div>
+    <hr>
+    <div class="row justify-content-center">
+        <div class="col-12 col-lg-6 mb-10-mq">
+            <img src="public_html/img/agenda/agenda.gif" class="img-fluid" title="Agenda" alt="Agenda"/>
+        </div>
+        <div class="col-12 col-lg-6">
+            <iframe title="Calendario" class="calendario" src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=aragon.unam.mx_odecmddbhop124ul3b54amoobc%40group.calendar.google.com&amp;color=%23711616&amp;src=aragon.unam.mx_06iajtrg865a1v9au351jiuv6s%40group.calendar.google.com&amp;color=%231B887A&amp;src=aragon.unam.mx_m3t152cel64555rhl8pmcc6sas%40group.calendar.google.com&amp;color=%2328754E&amp;src=aragon.unam.mx_g50tm1op0bm580ttvmcj8uuslk%40group.calendar.google.com&amp;color=%23875509&amp;ctz=America%2FMexico_City" height="400" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <hr style="margin-bottom: 23px;">
+    <div class="row encabezado">
+        <div class="col-lg-12 encabezado-titulo animated bounceInUp">
+            <img style="position: relative; top: -11px; filter: grayscale(90%);" width="30px" src="public_html/img/logos/enlace.svg" alt="Enlaces de interés"> <h2>Enlaces de interés</h2>
+        </div>
+    </div>
+    <hr>
+    <div class="row enlaces" >
+        <div class="col-6 col-sm-6 col-md-6 col-lg-3 enlaces-in p-2"> 
+            <a href="https://plataformaeducativa.aragon.unam.mx/cuentas/" title="PEA - Crear cuenta  | UNAM FES Arag&oacute;n" style="text-decoration: none;">
+                <div class="link-comunicacion">
+                    <img class="img-fluid" src="public_html/img/comunicacion_social/plataforma-educativa-aragon.jpg" alt="PEA - Crear cuenta  | UNAM FES Arag&oacute;n"/>
+                </div>
+                <p class="texto-comunicacion">Plataforma Educativa Arag&oacute;n</p>
+            </a>
+        </div>
+        <div class="col-6 col-sm-6 col-md-6 col-lg-3 enlaces-in link-comunicacion p-2">
+            <a href="public_html/documents/atencion-a-prensa-y-medios/catalogo-de-especialistas.pdf" style="text-decoration: none;" title="Catálogo de especialistas FES Arag&oacute;n" target="_blank">
+                <div class="link-comunicacion">
+                    <img class="img-fluid" src="public_html/img/comunicacion_social/atencion-a-medios.jpg" alt="Catálogo de especialistas FES Arag&oacute;n"/>
+                </div>
+                <p class="texto-comunicacion">Atenci&oacute;n a Prensa y Medios</p>
+            </a>
+        </div>
+        <div class="col-6 col-sm-6 col-md-62 col-lg-3 enlaces-in link-comunicacion p-2">
+            <a href="public_html/documents/comunicacion_social/identidad-institucional.pdf" style="text-decoration: none;" title="Manual de comunicación e identidad gráfica de la FES Arag&oacute;n" target="_blank">
+                <div class="link-comunicacion">
+                    <img class="img-fluid" src="public_html/img/comunicacion_social/identidad-institucional.jpg" alt="Manual de comunicación e identidad gráfica de la FES Arag&oacute;n"/>
+                </div>
+                <p class="texto-comunicacion">Identidad Institucional</p>
+            </a>
+        </div>
+        <div class="col-6 col-sm-6 col-md-6 col-lg-3 enlaces-in link-comunicacion p-2"> 
+            <a href="https://aragon.unam.mx/fes-pub/#!/" title="Departamento de Publicaciones de la FES Arag&oacute;n" style="text-decoration: none;" target="_blank">
+                <div class="link-comunicacion">
+                    <img class="img-fluid" src="public_html/img/comunicacion_social/gaceta-y-publicaciones.jpg" alt="Departamento de Publicaciones de la FES Arag&oacute;n"/>
+                </div>
+                <p class="texto-comunicacion">Gaceta y Publicaciones</p>
+            </a>
+        </div>
+        <div class="col-6 col-sm-6 col-md-62 col-lg-3 enlaces-in link-comunicacion p-2">
+            <a href="http://132.248.44.98/mapeofes/" style="text-decoration: none;" title="Mapeado FesA" target="_blank">
+                <div class="link-comunicacion">
+                    <img class="img-fluid" src="public_html/img/comunicacion_social/aragon-valley.jpg" alt="Mapeado FesA"/>
+                </div>
+                <p class="texto-comunicacion">Arag&oacute;n Valley The Game</p>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="container pb-20">
+    <hr>
+    <div class="row encabezado">
+        <div class="col-lg-12 encabezado-titulo animated bounceInUp">
+            <i class="icono-encabezado icon-cursor"></i>  <h2> Ligas de Inter&eacute;s </h2>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes">
+            <a target="_blank" href="https://www.unam.mx/" title="UNAM">
+                <img class="img-fluid" src="public_html/img/ligas_interes/unam.jpg" alt="UNAM"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes">
+            <a target="_blank" href="http://www.gaceta.unam.mx/" title="Gaceta Digital">
+                <img class="img-fluid" src="public_html/img/ligas_interes/gaceta-unam-digital.jpg" alt="Gaceta Digital"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes">
+            <a target="_blank" href="http://www.unamglobal.unam.mx/" title="UNAM Global">
+                <img class="img-fluid" src="public_html/img/ligas_interes/global-unam.jpg" alt="UNAM Global"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes">
+            <a target="_blank" href="http://www.posgrado.unam.mx/" title="Posgrados UNAM">
+                <img class="img-fluid" src="public_html/img/ligas_interes/unam-posgrados.jpg" alt="Posgrados UNAM"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes">
+            <a target="_blank" href="https://web.cuaed.unam.mx/" title="Coordinaci&oacute;n de Universidad Abierta y Educaci&oacute;n a Distancia">
+                <img class="img-fluid" src="public_html/img/ligas_interes/cuaed.jpg" alt="Coordinaci&oacute;n de Universidad Abierta y Educaci&oacute;n a Distancia"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes" title="Cultura UNAM">
+            <a target="_blank" href="http://www.cultura.unam.mx/index.aspx">
+                <img class="img-fluid" src="public_html/img/ligas_interes/cultura-unam.jpg" alt="Cultura UNAM"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes" title="Defensoría UNAM">
+            <a target="_blank" href="http://www.defensoria.unam.mx/">
+                <img class="img-fluid" src="public_html/img/ligas_interes/derechos-universitarios.jpg" alt="Defensoría UNAM"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes" title="Proteccion Civil UNAM">
+            <a target="_blank" href="http://www.seguridadyproteccion.unam.mx/">
+                <img class="img-fluid" src="public_html/img/ligas_interes/proteccion-civil-unam.jpg" alt="Proteccion Civil UNAM"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes" title="&Eacute;tica Acad&eacute;mica">
+            <a target="_blank" href="http://www.eticaacademica.unam.mx/">
+                <img class="img-fluid" src="public_html/img/ligas_interes/etica-academica-unam.jpg" alt="&Eacute;tica Acad&eacute;mica"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes" title="Biblioteca Digital UNAM">
+            <a target="_blank" href="http://bidi.unam.mx/">
+                <img class="img-fluid" src="public_html/img/ligas_interes/bidi.jpg" alt="Biblioteca Digital UNAM"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes" title="Igualdad de G&eacute;nero">
+            <a target="_blank" href="http://igualdaddegenero.unam.mx/">
+                <img class="img-fluid" src="public_html/img/ligas_interes/genero-unam.jpg" alt="Igualdad de G&eacute;nero"/>
+            </a>
+        </div>
+        <div class="col-3 col-sm-2 col-lg-1 liga-de-interes">
+            <a target="_blank" href="http://www.deporte.unam.mx/" title="Deporte UNAM">
+                <img class="img-fluid" src="public_html/img/ligas_interes/deportes-unam.jpg" alt="Deporte UNAM"/>
+            </a>
+        </div>
+    </div>
+</div>

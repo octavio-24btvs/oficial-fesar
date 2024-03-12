@@ -1,0 +1,34 @@
+{
+	"titulo": "Las matem\u00E1ticas en Sociolog\u00EDa",
+	"titulo_normalizado": "las-matematicas-en-sociologia",
+	"secciones": [
+		{
+			"seccion": "Ciencias Sociales",
+			"seccion_normalizada": "ciencias-sociales"
+		},
+		{
+			"seccion": "Sociología",
+			"seccion_normalizada": "sociologia"
+		}
+	],
+	"autor": "Kenia Brodman",
+	"fecha": "30/03/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con la finalidad de romper estereotipos y prejuicios de la disparidad entre las ciencias exactas de las sociales, la carrera de Sociolog\u00EDa realiz\u00F3 el conversatorio “C\u00F3mo ser Soci\u00F3loga\/o y no odiar las matem\u00E1ticas”, presidida por la maestra aragonesa y especialista en el \u00E1rea sociodemogr\u00E1fica, Rosa Elvira Cedillo, en conjunto con los estudiantes Bianca P\u00E9rez y Christian Yael Garc\u00EDa, bajo la moderaci\u00F3n de Georgina C\u00E1rdenas, jefa de la carrera.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al inicio del evento, realizado en el Auditorio 1 y de manera virtual, presentaron un breve video en donde estudiantes de sociolog\u00EDa compartieron su postura acerca de las matem\u00E1ticas dentro de las sociedades humanas, cuya utilizaci\u00F3n facilita que los conocimientos adquiridos en las investigaciones puedan transmitirse con precisi\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cedillo detall\u00F3 que hace muchos a\u00F1os se dividi\u00F3 la sociolog\u00EDa cualitativa de la cuantitativa, labrando as\u00ED un camino sin matem\u00E1ticas, esto provoc\u00F3 la falta de inter\u00E9s del alumnado en esta ciencia. Sin embargo, en la labor de la o el soci\u00F3logo, resulta de gran utilidad, por ejemplo, para hacer radiograf\u00EDas demogr\u00E1ficas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">P\u00E9rez y Garc\u00EDa coincidieron en la importancia de la materia de estad\u00EDstica en las aulas, pues el uso de datos num\u00E9ricos es un elemento importante para comprender la realidad donde vivimos. No obstante, durante el proceso de ense\u00F1anza de esta disciplina, cu\u00E1l sea el \u00E1rea social que se estudie, “termina en un rinc\u00F3n”.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Mate1.gif"
+		},
+		{
+			"imagen": "Mate2.gif"
+		},
+		{
+			"imagen": "Mate3.gif"
+		},
+		{
+			"imagen": "Mate4.gif"
+		},
+		{
+			"imagen": "MAte5.gif"
+		}	]
+
+}

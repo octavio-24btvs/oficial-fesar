@@ -1,0 +1,34 @@
+{
+	"titulo": "Entre sones y m\u00FAsica latinoamericana",
+	"titulo_normalizado": "entre-sones-y-musica-latinoamericana",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Edna Reyes",
+	"fecha": "10/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Unidad de Extensi\u00F3n Universitaria de la Facultad de Estudios Superiores Arag\u00F3n, a trav\u00E9s del departamento de Actividades Culturales, llev\u00F3 a cabo el evento <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Guitarreando con la Orquesta<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> en el Pasillo Cultural, el cual tuvo la participaci\u00F3n del Taller de guitarra y su director Josu\u00E9 Urquiza.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La presentaci\u00F3n cont\u00F3 con la intervenci\u00F3n de Juan Andrade, Josu\u00E9 Sa\u00E9nz y Josu\u00E9 Perusquia, quienes interpretaron un solo de las canciones, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Sandunga<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Valentina<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Adelita<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, respectivamente.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Enseguida, la orquesta interpret\u00F3 <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Chiapaneca<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Noche en los Andes<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Samba Lele<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tierra Mestiza<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Finalmente, Urquiza invit\u00F3 a estudiantes y familiares a su pr\u00F3xima presentaci\u00F3n, la cual tendr\u00E1 lugar el jueves 24 de noviembre a las 12:00 y 17:00 h en el Teatro Jos\u00E9 Vasconcelos.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "entre-sones-y-musica-latinoamericana-1.jpg"
+		},
+		{
+			"imagen": "entre-sones-y-musica-latinoamericana-2.jpg"
+		},
+		{
+			"imagen": "entre-sones-y-musica-latinoamericana-3.jpg"
+		},
+		{
+			"imagen": "entre-sones-y-musica-latinoamericana-4.jpg"
+		},
+		{
+			"imagen": "entre-sones-y-musica-latinoamericana-5.jpg"
+		}	]
+
+}

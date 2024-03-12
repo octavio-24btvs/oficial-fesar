@@ -1,0 +1,14 @@
+{
+	"id": 31,
+	"titulo": "Comunidad Egresada",
+	"icono": "icon-titulacion-05",
+	"noticias": [
+		{
+			"titulo":"Primer desayuno de la comunidad egresada",
+			"titulo_normalizado":"primer-desayuno-de-la-comunidad-egresada",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Desayuno1.gif",
+			"fecha":"12/11/22"
+		}
+	]
+}

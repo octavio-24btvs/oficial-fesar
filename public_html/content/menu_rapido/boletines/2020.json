@@ -1,0 +1,18 @@
+[
+	{
+		"nombre":"Bolet\u00EDn de enero-febrero",
+		"nombre_normalizado":"boletines/2020/boletin-enero-febrero.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de octubre",
+		"nombre_normalizado":"boletines/2020/boletin-octubre.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de noviembre",
+		"nombre_normalizado":"boletines/2020/boletin-noviembre.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de diciembre",
+		"nombre_normalizado":"boletines/2020/boletin-diciembre.pdf"
+	}
+]

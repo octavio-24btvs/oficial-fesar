@@ -1,0 +1,38 @@
+{
+	"titulo": "CIMN22: Inclusi\u00F3n social",
+	"titulo_normalizado": "cimn22-inclusion-social",
+	"secciones": [
+		{
+			"seccion": "DUACyD",
+			"seccion_normalizada": "duacyd"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "15/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El panel de Educaci\u00F3n, Cuidados y Espacios Inclusivos, dentro de las actividades del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">4to. Congreso Internacional. Mujeres y ni\u00F1as desde una doble perspectiva: G\u00E9nero y derechos humanos en el marco de los objetivos de desarrollo sostenible<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, fue moderado por el acad\u00E9mico aragon\u00E9s Abdiel Hern\u00E1ndez mediante la plataforma Zoom.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Azul Ram\u00EDrez, especialista en derecho por la UNAM, abord\u00F3 las afectaciones de las mujeres durante la pandemia, pues estas aumentaron debido al confinamiento y trabajos dom\u00E9sticos no remunerados. As\u00ED mismo, se discuti\u00F3 en este panel la autodeterminaci\u00F3n en personas con discapacidad intelectual en cuanto a desarrollo y movilidad social.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte, las especialistas en derecho por la Universidad Iberoamericana, Geraldina Gonz\u00E1lez y Estefan\u00EDa Vela, expusieron su trabajo sobre la discriminaci\u00F3n y violencia en las universidades, brindando propuestas para combatir estas situaciones en la educaci\u00F3n desde un organismo que haga cumplir las garant\u00EDas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se profes\u00F3 las situaciones y carencias que viven las mujeres migrantes a lo largo de la maternidad, as\u00ED como sus situaciones laborales y educativas las cuales impactan en los \u00EDndices de embarazos juveniles y el estigma social. Por \u00FAltimo, se abord\u00F3 la atenci\u00F3n a la violencia de g\u00E9nero en las universidades, complementando una ponencia previa referente por parte de la directora ejecutiva de la Asociaci\u00F3n de Universidades de Per\u00FA, Ada Gallegos.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Inclusivo1.gif"
+		},
+		{
+			"imagen": "Inclusivo2.gif"
+		},
+		{
+			"imagen": "Inclusivo3.gif"
+		},
+		{
+			"imagen": "Inclusivo4.gif"
+		},
+		{
+			"imagen": "Inclusivo5.gif"
+		}	]
+
+}

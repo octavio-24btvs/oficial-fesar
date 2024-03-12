@@ -1,0 +1,194 @@
+<style>
+    ol li{
+    padding-bottom: 15px;
+    padding-top: 10px;
+    }
+    ol li a {
+    color: #007bff;
+}
+@media only screen and (max-width: 768px) {
+  .encabezado {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .instrucciones{
+    text-align: center;
+  }
+}
+</style>
+
+<div class="container content" ng-init="showing = 0">
+    <div class="row pleca-secciones">
+        <div class="col-12 col-md-12 encabezado" style="padding-bottom: 15px; padding-top: 15px;">
+            <img src="public_html/img/recorrido-virtual/recorrido-virtual.jpg" class="br-15 img-fluid image" alt="Convocatorias de Posgrado"/>
+        </div>
+    </div>
+    <div class="row justify-content-center ">
+        <div class="col-11 col-lg-12 menu-rapido">
+            <ul class="nav d-flex justify-content-center">
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 0" title="Inicio">
+                        Inicio
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active instrucciones" ng-click="showing = 1" title="PDF">
+                        Instrucciones para instalar la aplicación
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 2" title="Miembros">
+                         Créditos
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div ng-show="showing === 0">
+        <div class="row justify-content-center pt-5 pb-3">
+            <div class="col-12 col-lg-12">
+                <p>La ciudad de Tenochtitlan fue destruida por los conquistadores españoles, hoy en día, resulta imposible saber cómo estaba construido el  recinto ceremonial. Gracias a las excavaciones del proyecto Templo Mayor de 1978 a 1982, dirigidas por el arqueólogo Eduardo Matos Moctezuma, y posteriormente retomadas por otros expertos, se logra entender la conformación de ese santuario, lo cual se plasmó en distintas maquetas como la del Museo del Templo Mayor, esta fue la  referencia para realizar una reconstrucción virtual.</p>
+                <p>Con base en ello, el profesor universitario José Francisco Salgado crea y guía a la audiencia por diferentes templos y edificios de la mítica ciudad azteca a través del <i>Recorrido virtual Tenochtitlan,</i> el cual, es un juego de realidad virtual con la posibilidad de controlar un avatar para caminar y saltar en algunas de las principales calles de la desaparecida urbe.</p>
+                <p>Las actividades educativas desarrolladas con videojuegos, permiten alcanzar diferentes dominios y retención de nuevos conocimientos, los proyectos con desarrollo virtual consienten el acceso a la interacción de estos entornos, los estímulos visuales y sonoros sumergen al usuario en mundos simulados o reconstruidos para conocer lo que se le había negado. Gracias a esa digitalización es posible admirar espacios que ya no existen y comprender un poco de su historia como en este caso, con el <i>Recorrido virtual Tenochtitlan.</i></p>
+                <p>Te damos la bienvenida.</p>
+            </div>
+        </div>
+        <div class="row justify-content-center pb-5">
+            <div class="col-12 col-lg-8">
+                <a target="_blank" href="http://ingenieria.aragon.unam.mx/tenochtitlan/">
+                    <img src="public_html/img/recorrido-virtual/iniciar-recorrido.jpg" class="br-15 img-fluid image" alt="Iniciar recorrido"/>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 1">
+        <div class="row justify-content-center pt-5 pb-5">
+            <div class="col-12 col-lg-12">
+                <h2>Instrucciones para instalar la aplicación (únicamente android)</h2>
+                <ol>
+                    <li>Haz click en el botón de <a href="public_html/img/recorrido-virtual/tenoch.apk" download="Recorrido-virtual-Tenochtitlan">Descargar Archivo.</a></li>
+                    <li>Te aparecerá un mensaje para que puedas descargar la aplicación, solo da click en "Descargar".</li>
+                    <img src="public_html/img/recorrido-virtual/paso1.jpg" class="img-fluid" alt="">
+                    <li>Si no has descargado aplicaciones de esta forma anteriormente, es posible que recibas un mensaje similar a este, solo haz click en aceptar.</li>
+                    <img src="public_html/img/recorrido-virtual/paso3.jpg" class="img-fluid" alt="">
+                    <li>Comenzará la descarga de la aplicación a tu celular.</li>
+                    <img src="public_html/img/recorrido-virtual/paso4.jpg" class="img-fluid" alt="">
+                    <li>Para poder instalar y usar la aplicación en tu celular, debes navegar a donde se descargó el archivo, en la carpeta de descargas de tu celular (algo similar a la siguiente imagen).</li>
+                    <img src="public_html/img/recorrido-virtual/paso5.jpg" class="img-fluid" alt="">
+                    <li>Si no has instalado aplicaciones de esta forma anteriormente, es posible que recibas un mensaje similar a este. Deberás permitir la instalación de "aplicaciones desconocidas" en tu celular. Haz click en el botón de "configuración".</li>
+                    <img src="public_html/img/recorrido-virtual/paso7.jpg" class="img-fluid" alt="">
+                    <li>Habilita el botón de "Confiar en esta fuente", al inicio lo verás como esta imagen.</li>
+                    <img src="public_html/img/recorrido-virtual/paso6.jpg" class="img-fluid" alt="">
+                    <li>Te mostrará un mensaje como este, haz click en instalar y espera alrededor de 10 segundos.</li>
+                     <img src="public_html/img/recorrido-virtual/paso2.jpg" class="img-fluid" alt="">
+                    <li>Una vez terminada la instalación, vas a ver la aplicación en el menú de aplicaciones de tu celular, algo así.</li>
+                    <img src="public_html/img/recorrido-virtual/paso8.jpg" class="img-fluid" alt="">
+                    <li>En este momento puedes abrir la aplicación y disfrutar de ella. ¡Gracias!</li>
+                    <img src="public_html/img/recorrido-virtual/paso9.jpg" class="img-fluid" alt="">
+                </ol>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 2">
+        
+         <div class="row justify-content-center content content-creditos pt-5 pb-5">
+    <div class="col-4 col-lg-1 pleca-logo">
+        <img src="public_html/img/creditos/unam-logo.jpg" class="img-fluid" alt="UNAM"/>
+    </div>
+    <div class="col-8 col-lg-3">
+        <h2>UNIVERSIDAD NACIONAL <br>
+        AUT&Oacute;NOMA DE M&Eacute;XICO</h2>
+        <p>Enrique Graue</p>
+        <h3>Rector</h3>
+
+        <p>Leonardo Lomel&iacute;</p>
+        <h3>Secretario General</h3>
+
+        <p>Luis Álvarez</p>
+        <h3>Secretario Administrativo</h3>
+
+        <p>Patricia Dávila</p>
+        <h3>Secretaria de Desarrollo Institucional</h3>
+
+        <p>Raúl Aguilar</p>
+        <h3>Secretario de Prevención, Atenci&oacute;n y Seguridad Universitaria</h3>
+
+        <p>Alfredo Sánchez</p>
+        <h3>Abogado General</h3>
+
+        <p>Jorge Volpi</p>
+        <h3>Coordinador de Difusión Cultural </h3>
+
+        <p>N&eacute;stor Mart&iacute;nez </p>
+        <h3>Director General de <br> Comunicaci&oacute;n Social</h3>
+    </div>
+    <div class="col-4 col-lg-1 pleca-logo">
+        <img src="public_html/img/creditos/fes-aragon-logo.jpg" class="img-fluid" alt="FES Arago&oacute;n"/>
+    </div>
+    <div class="col-8 col-lg-3">
+        <h2>FACULTAD DE ESTUDIOS <br> SUPERIORES ARAG&Oacute;N</h2>
+        <p>Fernando Macedo</p>
+        <h3>Director</h3>
+        <p>Pedro L&oacute;pez</p>
+        <h3>Secretario General</h3>
+        <p>Mario Arvizu</p>
+        <h3>Secretario Administrativo</h3>
+        <p>Alexis Sampedro</p>
+        <h3>Secretario Acad&eacute;mico</h3>
+        <p>Felipe de Jes&uacute;s Guti&eacute;rrez</p>
+        <h3>Secretario de Vinculaci&oacute;n y Desarrollo</h3>
+        <p>Francisco Salgado</p>
+        <h3>Desarrollador</h3>
+    </div>
+    <div class="col-4 col-lg-1 pleca-logo">
+        <img src="public_html/img/recorrido-virtual/mexico-500.png" class="img-fluid" alt="México 500"/>
+    </div>
+    <div class="col-8 col-lg-3">
+        <h2>MÉXICO <br>
+        500</h2>
+        <p>Paola Morán</p>
+        <h3>Coordinación del Programa <br> México 500</h3>
+
+        <p>Lizzette Nava</p>
+        <p class="pt-0">Alejandro León</p>
+        <p class="pt-0">Mari Carmen Sánchez</p>
+        <p class="pt-0">Eder Navarro</p>
+        <p class="pt-0">Mario Hernández</p>
+        <p class="pt-0">Rebeca Valenzuela</p>
+        <h3>Conceptualización del sitio web</h3>
+
+        <p>Antonio Navarro</p>
+        <h3>Diseño de interfaz e integración de diseño gráfico</h3>
+
+        <p>Mario Hernández</p>
+        <h3>Implementación del sitio web</h3>
+
+        <p>Alexsander Pedraza</p>
+        <h3>Administrador del sitio web</h3>
+
+        <p>Mónica Tinoco</p>
+        <h3>Registro de recursos digitales</h3>
+
+        <p>Miguel Islas</p>
+        <p class="pt-0">Mario Arredondo</p>
+        <p class="pt-0">Juan Castillejos</p>
+        <h3>Análisis de visibilidad web</h3>
+
+        <p>Oscar Hernández</p>
+        <p class="pt-0">Rubén Sáenz</p>
+        <h3>Asesoría en la conexión con DSpace</h3>
+
+        <p>Eder Ávila</p>
+        <p class="pt-0">Noel Perea Reyes</p>
+        <h3>Diseño de metadatos</h3>
+
+        <P>Rebeca Valenzuela</P>
+        <h3>Coordinación de la implementación del sitio web</h3>
+    </div>
+    </div>
+
+           
+        
+
+        </div>
+    </div>

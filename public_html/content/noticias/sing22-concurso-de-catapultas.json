@@ -1,0 +1,28 @@
+{
+	"titulo": "SING22: Concurso de catapultas",
+	"titulo_normalizado": "sing22-concurso-de-catapultas",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor": "Javier Cer\u00F3n",
+	"fecha": "30/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se llev\u00F3 a cabo el “Concurso de catapultas” en el campo de b\u00E9isbol, como parte de las actividades de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, donde alumnas y alumnos de las diferentes ingenier\u00EDas de la FES Arag\u00F3n tuvieron la oportunidad de participar creando su propia catapulta.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Humberto Mancilla, profesor de la carrera de Ingenier\u00EDa Mec\u00E1nica coment\u00F3 el prop\u00F3sito de este evento: invitarles a desarrollar sus capacidades creativas al crear una catapulta para lanzar un globo con 1 Kg de peso. La valoraci\u00F3n manejada fue la siguiente; entre m\u00E1s distancia al lanzar el globo mayores puntos se les otorgaban. Adem\u00E1s, se evalu\u00F3 el dise\u00F1o, creatividad y performance del dispositivo.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Brenda Montiel, Diego Pi\u00F1\u00F3n y Jairo Serqueda de s\u00E9ptimo semestre de Ingenier\u00EDa Mec\u00E1nica explicaron las caracter\u00EDsticas de la catapulta fabricada por ellos:&nbsp; utilizaron material reciclado con la finalidad de&nbsp; economizar y lograr una mejor efectividad en el lanzamiento.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A las personas ganadoras del primer lugar se les otorgaron 100 h de formaci\u00F3n complementaria, al segundo 50 h y para el tercero 30 h; a la comunidad en general presente solo se les otorgaron 20 h.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "catapultas-1.gif"
+		},
+		{
+			"imagen": "catapultas-2.gif"
+		},
+		{
+			"imagen": "catapultas-3.gif"
+		}	]
+
+}

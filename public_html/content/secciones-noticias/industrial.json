@@ -1,0 +1,133 @@
+{
+	"id": 4,
+	"titulo": "Ingenier\u00EDa Industrial",
+	"icono": "icon-ingenieria-industrial",
+	"noticias": [
+		{
+			"titulo":"SING 22: Los drones y la industria",
+			"titulo_normalizado":"sing-22-los-drones-y-la-industria",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Drones1.gif",
+			"fecha":"28/09/22"
+		},
+		{
+			"titulo":"Inserci\u00F3n a la seguridad y Salud Ocupacional",
+			"titulo_normalizado":"insercion-a-la-seguridad-y-salud-ocupacional",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "salud-ocupacional-1 (1).jpg",
+			"fecha":"28/04/22"
+		},
+		{
+			"titulo":"Retos, seguridad y salud ocupacional en la educaci\u00F3n superior",
+			"titulo_normalizado":"retos-seguridad-y-salud-ocupacional-en-la-educacion-superior",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "seguridad-superior-1 (1).jpg",
+			"fecha":"28/04/22"
+		},
+		{
+			"titulo":"Investigaci\u00F3n cient\u00EDfica en materia de seguridad y salud ocupacional",
+			"titulo_normalizado":"investigacion-cientifica-en-materia-de-seguridad-y-salud-ocupacional",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "salud-ocupacional-1 (2).jpg",
+			"fecha":"28/04/22"
+		},
+		{
+			"titulo":"El rol de la mujer en la ingenier\u00EDa",
+			"titulo_normalizado":"el-rol-de-la-mujer-en-la-ingenieria",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Rolde1.gif",
+			"fecha":"27/10/21"
+		},
+		{
+			"titulo":"Ingenier\u00EDas con proyecci\u00F3n internacional",
+			"titulo_normalizado":"ingenierias-con-proyeccion-internacional",
+			"autor":"Alejandro Frias",
+			"imagen": "ingenierias-con-proyeccion-internacional-1.jpg",
+			"fecha":"26/08/19"
+		},
+		{
+			"titulo":"Aragon\u00E9s en la NASA",
+			"titulo_normalizado":"aragones-en-la-nasa",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "FOTO WEB.jpg",
+			"fecha":"25/06/23"
+		},
+		{
+			"titulo":"CIII: La industria automotriz en M\u00E9xico",
+			"titulo_normalizado":"ciii-la-industria-automotriz-en-mexico",
+			"autor":"Diego Flores",
+			"imagen": "ciii-la-industria-automotriz-en-mexico-1.jpg",
+			"fecha":"25/03/22"
+		},
+		{
+			"titulo":"CIII: Ingenier\u00EDa Industrial en la experiencia laboral",
+			"titulo_normalizado":"ciii-ingenieria-industrial-en-la-experiencia-laboral",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "primer-congreso-2.jpg",
+			"fecha":"24/03/22"
+		},
+		{
+			"titulo":"CIII: Aspectos del emprendimiento y de direcci\u00F3n",
+			"titulo_normalizado":"ciii-aspectos-del-emprendimiento-y-de-direccion",
+			"autor":"Diego Flores",
+			"imagen": "aspectos-del-emprendimiento-y-de-dirección-1.jpg",
+			"fecha":"24/03/22"
+		},
+		{
+			"titulo":"CIII: Ingenier\u00EDa Industrial y la Empresa Familiar",
+			"titulo_normalizado":"ciii-ingenieria-industrial-y-la-empresa-familiar",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Ciii1.gif",
+			"fecha":"24/03/22"
+		},
+		{
+			"titulo":"Muro con material reciclado",
+			"titulo_normalizado":"muro-con-material-reciclado",
+			"autor":"Erik Pliego",
+			"imagen": "Muro1.gif",
+			"fecha":"20/01/22"
+		},
+		{
+			"titulo":"Ganan aragoneses en certamen de SOLACYT",
+			"titulo_normalizado":"ganan-aragoneses-en-certamen-de-solacyt",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "ganan-aragoneses-en-certamen-de-solacyt-1.jpg",
+			"fecha":"19/08/21"
+		},
+		{
+			"titulo":"Arag\u00F3n participa en competencia de innovaci\u00F3n",
+			"titulo_normalizado":"aragon-participa-en-competencia-de-innovacion",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "aragon-participa-en-competencia-de-innovacion-1.jpg",
+			"fecha":"15/12/21"
+		},
+		{
+			"titulo":"8M: Por una convivencia armoniosa",
+			"titulo_normalizado":"8m-por-una-convivencia-armoniosa",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "para-una-convivencia-armoniosa-1.jpg",
+			"fecha":"08/03/21"
+		},
+		{
+			"titulo":"Comienza Ingenier\u00EDa Industrial su reacreditaci\u00F3n",
+			"titulo_normalizado":"comienza-ingenieria-industrial-su-reacreditacion",
+			"autor":"Luis Bocanegra",
+			"imagen": "comienza-ingenieria-industrial-su-reacreditacion-1.jpg",
+			"fecha":"06/05/19"
+		},
+		{
+			"titulo":"Reconocen a estudiantes participantes en PALECH",
+			"titulo_normalizado":"reconocen-a-estudiantes-participantes-en-palech",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "reconocen-a-estudiantes-participantes-en-palech-1.jpg",
+			"fecha":"03/04/19"
+		},
+		{
+			"titulo":"Laboratorio Electr\u00F3nico M\u00F3vil (LEM)",
+			"titulo_normalizado":"laboratorio-electronico-movil-lem",
+			"autor":"Erik Pliego",
+			"imagen": "LEM1.gif",
+			"fecha":"02/05/23"
+		}
+	]
+}

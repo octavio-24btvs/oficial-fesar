@@ -1,0 +1,14 @@
+{
+	"titulo": "Deja de fumar",
+	"titulo_normalizado": "deja-de-fumar",
+	"secciones": [
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor":"Thalia Ortega",
+	"fecha":"24/02/20",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">M\u00E1s all\u00E1 de prop\u00F3sitos de A\u00F1o Nuevo sin cumplir o ilustraciones en las cajetillas, la realidad es que en M\u00E9xico a\u00FAn mueren 135 personas a diario por tabaquismo; por ello es necesario mejorar las estrategias de prevenci\u00F3n y fortalecer el trabajo con quienes fuman.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este sentido, la FES Arag\u00F3n en una labor colaborativa con la FES Iztacala, el Centro de Apoyo y Orientaci\u00F3n Para Estudiantes y el Posgrado en Psicolog\u00EDa de las Adicciones de esta misma instituci\u00F3n, instalaron un m\u00F3dulo informativo para fumadores. Aqu\u00ED podr\u00E1s realizarte una prueba para conocer el nivel de mon\u00F3xido de carbono en tu sangre as\u00ED como de opciones de atenci\u00F3n personalizada para dejar el h\u00E1bito.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Ac\u00E9rcate a la unidad que hoy se encuentra ubicada en el Foro M\u00F3vil Arag\u00F3n –en un horario de 11:00 h a 16:00 h– y s\u00EDguela durante esta semana en otros puntos de nuestra Facultad.<\/span><\/p>",
+	"imagenes":[{"imagen":"deja-de-fumar-1.jpg"},{"imagen":"deja-de-fumar-2.jpg"},{"imagen":"deja-de-fumar-3.jpg"},{"imagen":"deja-de-fumar-4.jpg"},{"imagen":"deja-de-fumar-5.jpg"}]
+}

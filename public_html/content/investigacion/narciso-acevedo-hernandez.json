@@ -1,0 +1,17 @@
+{
+    "nombre": "Narciso Acevedo Hernández", 
+    "grado_academico": "Maestro", 
+     "correo": [ "narcisoacevedo8a@aragon.unam.mx "     ],
+    "estudios": [
+        "Licenciatura en Ingeniería Mecánico Eléctrica. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería Eléctrica en el Área de Telecomunicaciones. (Sin grado 75% créditos). Universidad Nacional Autónoma de México.", 
+        "Maestría en Ciencias en Ingeniería Mecatrónica. (Sin grado 100% créditos). Tecnológico de Estudios Superiores de Ecatepec."
+    ], 
+    "lineas_investigacion": [
+        "Área de Comunicaciones.", 
+        "Procesamiento digital de señales."
+    ], 
+    "investigaciones": [
+        "Desarrollo de Material Didáctico para Apuntes."
+    ]
+}

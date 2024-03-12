@@ -1,0 +1,14 @@
+{
+	"titulo": "Feria SACUDE",
+	"titulo_normalizado": "feria-sacude",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Julio G\u00F3mez",
+	"fecha":"03/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se realiz\u00F3 una edici\u00F3n m\u00E1s de la Feria Salud, Cultura y Deporte (SACUDE) de la FES Arag\u00F3n, donde la comunidad aragonesa tuvo la oportunidad de acercarse a los m\u00F3dulos informativos de diversas instituciones para saber de primera mano todos los servicios que \u00E9stas otorgan en cuestiones de salud sexual, reproductiva, alimentaria, mental, etc\u00E9tera.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al mismo tiempo se presentaron actividades culturales como shows de artes circense, danza terap\u00E9utica y clases de salsa, adem\u00E1s de exhibiciones de las actividades deportivas y recreativas de nuestra Facultad, con el fin de &nbsp;invitar a la comunidad a participar en ellas.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El prop\u00F3sito de esta feria, organizada por la Unidad de Extensi\u00F3n Universitaria, es motivar a los estudiantes a llevar un estilo de vida saludable, a trav\u00E9s de la actividad f\u00EDsica y buenas pr\u00E1cticas alimentarias, sociales, entre otras.<\/span><\/p>",
+	"imagenes":[{"imagen":"feria-sacude-1.jpg"},{"imagen":"feria-sacude-2.jpg"},{"imagen":"feria-sacude-3.jpg"},{"imagen":"feria-sacude-4.jpg"},{"imagen":"feria-sacude-6.jpg"},{"imagen":"feria-sacude-7.jpg"},{"imagen":"feria-sacude-8.jpg"}]
+}

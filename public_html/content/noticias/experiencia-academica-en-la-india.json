@@ -1,0 +1,30 @@
+{
+	"titulo": "Experiencia acad\u00E9mica en la India",
+	"titulo_normalizado": "experiencia-academica-en-la-india",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		}
+	],
+	"autor": "Oscar Rafael Cornejo Ruiz",
+	"fecha": "20/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Gerardo Gonz\u00E1les es ingeniero mec\u00E1nico egresado de la Facultad de Ingenier\u00EDa de la UNAM y actual profesor en las materias de F\u00EDsica y Matem\u00E1ticas, as\u00ED como del programa de ingenier\u00EDa de posgrado en la FES Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El profesor form\u00F3 parte del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Centre for Development of Advanced Computing<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> (C-DAC), un curso de computaci\u00F3n cu\u00E1ntica en la India,su ponencia estuvo enfocada en contar su experiencia en ese lugar. Inici\u00F3 con su trayectoria de vida incluyendo su carrera acad\u00E9mica, as\u00ED como los obst\u00E1culos que atraves\u00F3 al ser parte de una comunidad rural y como parte de los seleccionados en la segunda generaci\u00F3n de alumnos en realizar el examen de la Comisi\u00F3n Metropolitana de Instituciones P\u00FAblicas de Educaci\u00F3n Media Superior<\/span><span style=\"color: rgb(32, 33, 36);\"> (<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">COMIPEMS).<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A partir de su experiencia en ese pa\u00EDs, resalt\u00F3 dos de las cosas fundamentales para poder estudiar en otra parte del mundo: saber otro idioma (ingl\u00E9s, principalmente) y tener la disposici\u00F3n; pues lo primero te ayudar\u00E1 a relacionarte con las personas del lugar y lo segundo, para aprovechar al m\u00E1ximo toda la experiencia.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A lo largo de su estancia en la India, el profesor conoci\u00F3 a personas de diferentes partes del mundo, como Inglaterra, Irak, Mongolia y Sri Lanka. Explic\u00F3 igualmente la importancia de la computaci\u00F3n cu\u00E1ntica, sus alcances y sus limitantes, dio un panorama sobre el futuro de esta ciencia y finalmente invit\u00F3 a las y los estudiantes a seguir un poco sus pasos. Para ello mencion\u00F3 algunas opciones de becas en el extranjero y alent\u00F3 a todos a dar siempre lo mejor para llegar lejos y traspasar fronteras.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "India1.gif"
+		},
+		{
+			"imagen": "India2.gif"
+		},
+		{
+			"imagen": "India3.gif"
+		},
+		{
+			"imagen": "India4.gif"
+		},
+		{
+			"imagen": "India5.gif"
+		}	]
+
+}

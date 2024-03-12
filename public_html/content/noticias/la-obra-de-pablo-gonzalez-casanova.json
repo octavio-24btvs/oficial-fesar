@@ -1,0 +1,30 @@
+{
+	"titulo": "La obra de Pablo Gonz\u00E1lez Casanova",
+	"titulo_normalizado": "la-obra-de-pablo-gonzalez-casanova",
+	"secciones": [
+		{
+			"seccion": "Sociología",
+			"seccion_normalizada": "sociologia"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "18/05/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura de Sociolog\u00EDa present\u00F3 el magno evento Mesa de an\u00E1lisis “Reflexiones sobre la obra de Pablo Gonz\u00E1lez Casanova”, como un homenaje por parte de la comunidad de Sociolog\u00EDa de la FES Arag\u00F3n a un mes de su deceso.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Miguel \u00C1ngel Mata, docente de la FES Arag\u00F3n, fue el encargado de dirigir el evento donde las y los especialistas Consuelo S\u00E1nchez, Fernando Beltr\u00E1n, Karina Gardu\u00F1o y H\u00E9ctor D\u00EDaz, luego de dar una peque\u00F1a semblanza sobre Pablo Gonz\u00E1lez, abrieron paso al intercambio de ideas sobre el trabajo de este personaje.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La din\u00E1mica del evento consisti\u00F3 en dar la palabra a cada uno de los integrantes de la mesa, donde expusieron sus puntos de vista y comentarios, para posteriormente pasar al intercambio de ideas a partir de preguntas por parte de las y los aragoneses asistentes.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Pablo Gonz\u00E1lez Casanova naci\u00F3 el 11 de febrero de 1922, en Toluca, Estado de M\u00E9xico, estudi\u00F3 la licenciatura de Derecho en la UNAM, realiz\u00F3 la maestr\u00EDa en Historia en la Escuela Nacional de Antropolog\u00EDa e Historia, as\u00ED como en el Colegio de M\u00E9xico, de igual forma, realiz\u00F3 el doctorado en Sociolog\u00EDa en la Universidad Sorbona de Par\u00EDs.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Reconocido como un pensador cl\u00E1sico, su participaci\u00F3n en la UNAM trascendi\u00F3 no solo por su obra, pues tambi\u00E9n ejerci\u00F3 los cargos importantes de: catedr\u00E1tico y director de la Facultad de Ciencias Pol\u00EDticas y Sociales, coordinador del Centro de Estudios del Desarrollo, director del Instituto de Investigaciones Sociales, rector de la UNAM y director del Centro de Investigaciones Interdisciplinarias en Humanidades.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Pablo1.gif"
+		},
+		{
+			"imagen": "Pablo2.gif"
+		},
+		{
+			"imagen": "Pablo3.gif"
+		},
+		{
+			"imagen": "Pablo4.gif"
+		},
+		{
+			"imagen": "Pablo5.gif"
+		}	]
+
+}

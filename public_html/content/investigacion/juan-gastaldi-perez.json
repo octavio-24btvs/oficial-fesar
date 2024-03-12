@@ -1,0 +1,19 @@
+{
+    "nombre": "Juan Gastaldi Pérez", 
+    "grado_academico": "Maestro", 
+     "correo": [ "juangastaldi9a@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Ingeniería en Computación. Universidad Nacional Autónoma de México.",
+        "Licenciatura en Ingeniería Mecánica Electricista. Universidad Nacional Autónoma de México.",
+        "Maestría en Enseñanza Superior. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Electrónica aplicada.", 
+        "Instrumentación.", 
+        "Cómputo."
+    ], 
+    "investigaciones": [
+        "Diseño e implementación de prácticas para el laboratorio de radiación y propagación."
+    ]
+}

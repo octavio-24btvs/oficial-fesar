@@ -1,0 +1,15 @@
+{
+    "nombre": "Emilio Aguilar Rodríguez", 
+    "grado_academico": "Doctor", 
+     "correo": [ "emilioaguilaraur@aragon.unam.mx"     ],
+    "estudios": [
+        "Doctorado en Ciencias Sociales y Políticas. Universidad Iberoamericana."
+    ], 
+    "lineas_investigacion": [
+        "Movimientos estudiantiles."
+    ], 
+    "investigaciones": [
+        "Movimientos estudiantiles: Enfoques y perspectivas a medio siglo del 68.",
+        "Los movimientos estudiantiles en el proceso de transición democrática mexicana a medio siglo del 68."  
+    ]
+}

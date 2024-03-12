@@ -1,0 +1,21 @@
+{
+    "nombre": "Julio Souza Abad", 
+    "grado_academico": "Maestría en Arquitectura", 
+     "correo": [ "jsaarq@hotmail.com"],
+    "estudios": [
+        "Licenciatura en Arquitectura, con experiencia en Construcción y Estructuras. Universidad Nacional Autónoma de México.", 
+        "Maestría en Tecnología de la Arquitectura. Escuela Nacional de Arquitectura. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Académica.", 
+        "Investigación Educativa.", 
+        "Diseño Sísmico.", 
+        "Estructuras y Construcción.", 
+        "Temas de docencia en la arquitectura y construcción."
+    ], 
+    "investigaciones": [
+        "Ejercicios resueltos para diseño sísmico.", 
+        "Manual de trabajo para elementos y sistemas de construcción.", 
+        "Problemas en obra entre el arquitecto y su cliente."
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "titulo":"Yo<3MiPlaneta",
+    "imagenes": [
+        {
+            "imagen": "dia-bosques"
+        },
+        {
+            "imagen": "dia-medio-ambiente"
+        },
+        {
+            "imagen": "dia-oceanos"
+        },
+        {
+            "imagen": "dia-sin-bolsas-de-plastico"
+        },
+        {
+            "imagen": "dia-tortugas-marinas"
+        },
+        {
+            "imagen": "dia-tropicos"
+        },
+        {
+            "imagen": "filtros-de-colillas"
+        },
+        {
+            "imagen": "miztli"
+        },
+        {
+            "imagen": "pienso-luego-reciclo"
+        }
+
+    ],
+    "pdfs": [
+        {
+            "titulo": "ECO-retos",
+            "pdf": "eco-retos"
+        },
+        {
+            "titulo": "Esfuerzos internacionales ante el cambio climático",
+            "pdf": "esfuerzos-internacionales-ante-el-cambio-climatico"
+        },
+        {
+            "titulo": "Huella ecol\u00F3gica",
+            "pdf": "huella-ecologica"
+        },
+        {
+            "titulo": "La biodiversidad y su importancia",
+            "pdf": "la-biodeversidad-y-su-importancia"
+        },
+        {
+            "titulo": "Los grandes retos del planeta y la sostenibilidad",
+            "pdf": "los-grandes-retos-del-planeta-y-la-sostenibilidad"
+        },
+        {
+            "titulo": "Se acerca una realidad sin agua potable",
+            "pdf": "se-acerca-una-realidad-sin-agua-potable"
+        }
+    ]
+}

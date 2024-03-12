@@ -1,0 +1,27 @@
+{
+	"titulo": "SECOM22: Pensando im\u00E1genes",
+	"titulo_normalizado": "secom22-pensando-imagenes",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		}
+	],
+	"autor": "Johana Mart\u00EDnez",
+	"fecha": "07/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro del marco de actividades de la<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Semana de la Comunicaci\u00F3n 2022<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se llev\u00F3 a cabo la presentaci\u00F3n del libro <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Vida cautiva en torno a la cultura contempor\u00E1nea de la imagen<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, con la participaci\u00F3n de los profesores aragoneses: Edgar Li\u00F1\u00E1n, autor del libro, y&nbsp; Carlos Garc\u00EDa, comentarista del mismo. Para este evento se cont\u00F3 con la moderaci\u00F3n de Karina Peralta, egresada de la carrera.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Garc\u00EDa dio su opini\u00F3n acerca del libro mencionando que el trabajo de Li\u00F1\u00E1n tiene que ver con pensar las im\u00E1genes, reflexionar, analizar y tener una mirada cr\u00EDtica del mundo a trav\u00E9s de estas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por otro lado, seg\u00FAn el autor, el motivo que lo llev\u00F3 a realizar el libro fue el asombro, la fascinaci\u00F3n y atracci\u00F3n por las im\u00E1genes, las cuales pueden ser la representaci\u00F3n de una realidad espec\u00EDfica y de s\u00ED misma: “Somos una especie que se proyecta en las im\u00E1genes, y necesitamos de las mismas para organizar y entender nuestro mundo” afirm\u00F3.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, llevaron a cabo una sesi\u00F3n de preguntas y respuestas donde coincidieron que siempre hemos sido y seremos una civilizaci\u00F3n de imagen.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Imágenes1.gif"
+		},
+		{
+			"imagen": "Imágenes2.gif"
+		},
+		{
+			"imagen": "Imágenes3.gif"
+		},
+		{
+			"imagen": "Imágenes4.gif"
+		}	]
+
+}

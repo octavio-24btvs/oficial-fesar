@@ -1,0 +1,24 @@
+{
+	"titulo": "Econom\u00EDa digital en el mundo actual",
+	"titulo_normalizado": "economia-digital-en-el-mundo-actual",
+	"secciones": [
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor": "Ang\u00E9lica L\u00F3pez",
+	"fecha": "10/10/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se llev\u00F3 a cabo la conferencia “Econom\u00EDa Digital: Alcances y retos en M\u00E9xico” como parte del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">7.° Congreso Internacional de Econom\u00EDa: Retos y oportunidades para la econom\u00EDa mundial en un escenario de recomposici\u00F3n geoestrat\u00E9gica y financiera<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, cont\u00F3 con la participaci\u00F3n de Gonzalo L\u00F3pez, egresado aragon\u00E9s, como moderador y Doris Karina Oropeza, experta en Derecho P\u00FAblico, como ponente.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el evento se resaltaron 4 puntos: \u00BFQu\u00E9 es la econom\u00EDa digital?; Estructura de la econom\u00EDa digital; Estado actual de la econom\u00EDa digital; y Retos de la econom\u00EDa digital. Doris Oropeza destac\u00F3 c\u00F3mo la idea de la econom\u00EDa digital se planteaba desde la d\u00E9cada de los 70, y hoy en d\u00EDa, gracias a los avances tecnol\u00F3gicos es una realidad, por ejemplo, la inteligencia artificial, impresiones 3D, redes 5G, computaci\u00F3n en la nube, rob\u00F3tica y veh\u00EDculos aut\u00F3nomos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La econom\u00EDa digital se sustenta en el internet: el 61.80 % de la poblaci\u00F3n mexicana realiza operaciones bancarias por este medio. De igual manera, mencion\u00F3 el incremento de compras en l\u00EDnea a ra\u00EDz de la pandemia, los productos con mayor consumo son calzado, vestido, tecnolog\u00EDa y viajes.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con respecto al tema de las criptomonedas, M\u00E9xico ocupa el lugar 28 de 146 pa\u00EDses, sin embargo, este no es un sistema de confianza, pues ha tra\u00EDdo grandes p\u00E9rdidas, resalt\u00F3. Para finalizar se realiz\u00F3 un bloque de preguntas del p\u00FAblico.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "economiadigital-1.jpg"
+		},
+		{
+			"imagen": "economia-digital-2.jpg"
+		},
+		{
+			"imagen": "economia-digital-3.jpg"
+		}	]
+
+}

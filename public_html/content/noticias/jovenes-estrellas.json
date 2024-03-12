@@ -1,0 +1,42 @@
+{
+	"titulo": "J\u00F3venes estrellas",
+	"titulo_normalizado": "jovenes-estrellas",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		}
+	],
+	"autor": "Jorge Narv\u00E1ez",
+	"fecha": "08/11/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Teatro “Jos\u00E9 Vasconcelos” de la Facultad de Estudios Superiores (FES) Arag\u00F3n se engalan\u00F3 durante el Tercer Encuentro Musical \"La Voz Arag\u00F3n-es Master\". La ceremonia cont\u00F3 con la presencia de Edgar Lara, jefe de la carrera de Comunicaci\u00F3n y Periodismo, as\u00ED como de Ernesto Cano, coordinador del Taller de Radio de la FES Arag\u00F3n. Adem\u00E1s, las alumnas aragonesas Adriana G\u00F3mez, Fernando Garc\u00EDa, Noem\u00ED Pozos y Zamna Baldovinos se unieron como conductores del concurso.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La jornada comenz\u00F3 con las palabras de bienvenida de Lara y Cano, quienes agradecieron a todas y todos los asistentes; desearon \u00E9xito a los ocho concursantes, pues esta competencia especial reuni\u00F3 a los finalistas de las dos ediciones anteriores. Los jueces fueron el m\u00FAsico Fernando Degollado; \u00C9rika Villag\u00F3mez, acad\u00E9mica de la FES Arag\u00F3n; y Fernando Garc\u00EDa, profesor de Televisi\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la primera ronda, las y los participantes deslumbraron al p\u00FAblico con sus interpretaciones. Tras esta fase inicial, los cr\u00EDticos deliberaron para seleccionar a quienes avanzar\u00EDan a la siguiente etapa. Entre cada fase, el escenario cobr\u00F3 vida con la presentaci\u00F3n del grupo de danza polinesia.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con solo cinco concursantes en la segunda etapa la competencia se intensific\u00F3. La tercera ronda fue la \u00FAltima oportunidad para demostrar su destreza vocal. Samantha Jacinto gan\u00F3 el tercer lugar; Mar\u00EDa Serrano obtuvo el segundo. Y el t\u00EDtulo de la \"Voz Arag\u00F3n-es Master\" fue otorgado a Dania Hinojosa. Las finalistas recibieron merecidamente sus reconocimientos en el escenario.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "jovenes-estrella-1.gif"
+		},
+		{
+			"imagen": "jovenes-estrella-2.gif"
+		},
+		{
+			"imagen": "jovenes-estrella-3.gif"
+		},
+		{
+			"imagen": "jovenes-estrella-4.gif"
+		},
+		{
+			"imagen": "jovenes-estrella-5.gif"
+		},
+		{
+			"imagen": "jovenes-estrella-6.gif"
+		},
+		{
+			"imagen": "jovenes-estrella-7.gif"
+		},
+		{
+			"imagen": "jovenes-estrella-8.gif"
+		},
+		{
+			"imagen": "jovenes-estrella-9.gif"
+		}	]
+
+}

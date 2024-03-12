@@ -1,0 +1,20 @@
+{
+    "nombre": "Alberto Reyes Solís", 
+    "grado_academico": "Maestro", 
+     "correo": [ "albres@unam.mx"     ],
+     "correo2": [ "albertoreyesres@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Física. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería Mecánica. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Ciencias físico matemáticas e ingenierías.", 
+        "Manufactura.", 
+        "Tecnología.", 
+        "Materiales."
+    ], 
+    "investigaciones": [
+        "Método inverso para la identificación del desbalance equivalente y balanceo de sistemas rotodinámicos.", 
+        "Aplicaciones de las aleaciones con memorias de forma al diseño de dispositivos recuperadores de energía de desecho y/o de colectores solares."
+    ]
+}

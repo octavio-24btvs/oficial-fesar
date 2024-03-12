@@ -1,0 +1,33 @@
+{
+	"titulo": "El empleo como experiencia gratificante",
+	"titulo_normalizado": "el-empleo-como-experiencia-gratificante",
+	"secciones": [
+		{
+			"seccion": "Bolsa de Trabajo",
+			"seccion_normalizada": "bolsa-de-trabajo"
+		}
+	],
+	"autor": "Beatriz Calva",
+	"fecha": "28/03/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Departamento de Bolsa de Trabajo de la FES Arag\u00F3n present\u00F3 el taller en l\u00EDnea “Tendencias de empleabilidad y expectativas salariales” a cargo de Marlen Montes de Oca, enlace de perfil profesional de Universum. A trav\u00E9s del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">CareerTest 2023 <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">se delinean perfiles de los candidatos a una vacante laboral.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las competencias t\u00E9cnicas son importantes; no obstante, un t\u00EDtulo universitario ya no representa una ventaja pues los empleadores buscan al talento con mayor compatibilidad con los valores de la empresa; las habilidades blandas a\u00FAn son el distintivo.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El mercado laboral ha sido rebasado por la demanda de empleo, aunado al estancamiento a causa de la pandemia, la cual llev\u00F3 a un fen\u00F3meno en cascada a la cual los l\u00EDderes no supieron adaptarse. Por su parte el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">home office <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">deriv\u00F3 en la sensaci\u00F3n de desconfianza e incompetencia por la constante vigilancia.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Elementos como estabilidad, flexibilidad y liderazgo motivan el alto rendimiento. Para compensar, las empresas ofrecen un prop\u00F3sito inspirador con la finalidad de hacer del trabajo una experiencia gratificante, lo cual va de la mano con el cambio generacional y una mayor conciencia de la salud laboral.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante las negociaciones de reclutamiento debe contemplarse un salario compensatorio de las tareas a desarrollar; el candidato establece un rango salarial, el cual debe cubrir m\u00EDnimamente sus necesidades a la vez que es acorde con sus talentos.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "empleabilidad-1.jpg"
+		},
+		{
+			"imagen": "empleabilidad-2.jpg"
+		},
+		{
+			"imagen": "empleabilidad-3.jpg"
+		},
+		{
+			"imagen": "empleabilidad-4.jpg"
+		},
+		{
+			"imagen": "empleabilidad-5.jpg"
+		},
+		{
+			"imagen": "empleabilidad-6.jpg"
+		}	]
+
+}

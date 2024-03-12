@@ -1,0 +1,175 @@
+{
+	"id": 64,
+	"titulo": "#Proyecci\u00F3nArag\u00F3n",
+	"icono": "iconos-proyeccionaragon",
+	"noticias": [
+		{
+			"titulo":"Nuevos retos del comercio electr\u00F3nico",
+			"titulo_normalizado":"nuevos-retos-del-comercio-electronico",
+			"autor":"Erik Pliego",
+			"imagen": "Ecomerce1.gif",
+			"fecha":"30/08/22"
+		},
+		{
+			"titulo":"El quehacer de las y los economistas durante la pandemia",
+			"titulo_normalizado":"el-quehacer-de-las-y-los-economistas-durante-la-pandemia",
+			"autor":"Erik Pliego",
+			"imagen": "1648686172658.jpg",
+			"fecha":"29/03/22"
+		},
+		{
+			"titulo":"Una crisis diferente",
+			"titulo_normalizado":"una-crisis-diferente",
+			"autor":"Erik Pliego",
+			"imagen": "Crisis2.JPG",
+			"fecha":"28/11/22"
+		},
+		{
+			"titulo":"La ense\u00F1anza de la investigaci\u00F3n",
+			"titulo_normalizado":"la-ensenanza-de-la-investigacion",
+			"autor":"Erik Pliego",
+			"imagen": "Escamilla1.gif",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"Proyectos enfocados al ahorro de energ\u00EDa",
+			"titulo_normalizado":"proyectos-enfocados-al-ahorro-de-energia",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "Energía1.gif",
+			"fecha":"26/04/22"
+		},
+		{
+			"titulo":"El estudio de los movimientos estudiantiles en M\u00E9xico",
+			"titulo_normalizado":"el-estudio-de-los-movimientos-estudiantiles-en-mexico",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "proyeccion-aragon-el-estudio-de-los-movimientos-estudiantiles-en-mexico-1.jpg",
+			"fecha":"24/05/22"
+		},
+		{
+			"titulo":"CTA y DGTIC realizan auditor\u00EDa para el INE",
+			"titulo_normalizado":"cta-y-dgtic-realizan-auditoria-para-el-ine",
+			"autor":"Erik Pliego",
+			"imagen": "INE1.gif",
+			"fecha":"24/03/22"
+		},
+		{
+			"titulo":"Empleo Verde",
+			"titulo_normalizado":"empleo-verde",
+			"autor":"Erik Pliego",
+			"imagen": "Empleoverde1.gif",
+			"fecha":"24/02/22"
+		},
+		{
+			"titulo":"Gabriella Piccinelli: astrof\u00EDsica aragonesa",
+			"titulo_normalizado":"gabriella-piccinelli-astrofisica-aragonesa",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "AStrofísica5.gif",
+			"fecha":"23/08/22"
+		},
+		{
+			"titulo":"Las remesas durante la 4T",
+			"titulo_normalizado":"las-remesas-durante-la-4t",
+			"autor":"Erik Pliego",
+			"imagen": "jaime-linares-1.JPG",
+			"fecha":"20/09/22"
+		},
+		{
+			"titulo":"Muro con material reciclado",
+			"titulo_normalizado":"muro-con-material-reciclado",
+			"autor":"Erik Pliego",
+			"imagen": "Muro1.gif",
+			"fecha":"20/01/22"
+		},
+		{
+			"titulo":"Electr\u00F3nica aplicada a la discapacidad",
+			"titulo_normalizado":"electronica-aplicada-a-la-discapacidad",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "IDEA1.gif",
+			"fecha":"19/04/22"
+		},
+		{
+			"titulo":"Formaci\u00F3n docente en contextos de educaci\u00F3n intercultural de M\u00E9xico y Brasil",
+			"titulo_normalizado":"formacion-docente-en-contextos-de-educacion-intercultural-de-mexico-y-brasil",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "RBSB-1.JPG",
+			"fecha":"17/05/22"
+		},
+		{
+			"titulo":"Participaci\u00F3n ciudadana",
+			"titulo_normalizado":"participacion-ciudadana",
+			"autor":"Erik Pliego",
+			"imagen": "Representaciones1.gif",
+			"fecha":"17/03/22"
+		},
+		{
+			"titulo":"Sistema de cultivo vertical, una soluci\u00F3n para las ciudades",
+			"titulo_normalizado":"sistema-de-cultivo-vertical-una-solucion-para-las-ciudades",
+			"autor":"Erik Pliego",
+			"imagen": "Horticultura1.gif",
+			"fecha":"17/02/22"
+		},
+		{
+			"titulo":"Estudios de g\u00E9nero",
+			"titulo_normalizado":"estudios-de-genero",
+			"autor":"Erik Pliego",
+			"imagen": "Georgina1.gif",
+			"fecha":"16/08/22"
+		},
+		{
+			"titulo":"Resignificar las tutor\u00EDas",
+			"titulo_normalizado":"resignificar-las-tutorias",
+			"autor":"Erik Pliego",
+			"imagen": "Montiel1.gif",
+			"fecha":"13/09/22"
+		},
+		{
+			"titulo":"Futbol y barras bravas: una larga historia de violencia",
+			"titulo_normalizado":"futbol-y-barras-bravas-una-larga-historia-de-violencia",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "futbol-y-barras-bravas-una-larga-historia-de-violencia-1.jpg",
+			"fecha":"10/03/22"
+		},
+		{
+			"titulo":"Los cambios que trajo el TLCAN",
+			"titulo_normalizado":"los-cambios-que-trajo-el-tlcan",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "los-cambios-que-trajo-el-tlcan-1.jpg",
+			"fecha":"10/02/22"
+		},
+		{
+			"titulo":"Proyectos para fortalecer la ense\u00F1anza de la comunidad Arag\u00F3n",
+			"titulo_normalizado":"proyectos-para-fortalecer-la-ensenanza-de-la-comunidad-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "JOséH2.gif",
+			"fecha":"06/09/22"
+		},
+		{
+			"titulo":"Tecnolog\u00EDa aplicada a la discapacidad intelectual",
+			"titulo_normalizado":"tecnologia-aplicada-a-la-discapacidad-intelectual",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "Arcelia1.gif",
+			"fecha":"05/04/22"
+		},
+		{
+			"titulo":"Pedagog\u00EDa de los alimentos",
+			"titulo_normalizado":"pedagogia-de-los-alimentos",
+			"autor":"Erik Pliego",
+			"imagen": "Carrillo1.gif",
+			"fecha":"04/10/22"
+		},
+		{
+			"titulo":"La importancia de las tuber\u00EDas",
+			"titulo_normalizado":"la-importancia-de-las-tuberias",
+			"autor":"Erik Pliego",
+			"imagen": "Tuberías1.gif",
+			"fecha":"03/05/22"
+		},
+		{
+			"titulo":"V\u00E1lvula economizadora de agua",
+			"titulo_normalizado":"valvula-economizadora-de-agua",
+			"autor":"Erik Pliego",
+			"imagen": "Valvula1.gif",
+			"fecha":"03/03/22"
+		}
+	]
+}

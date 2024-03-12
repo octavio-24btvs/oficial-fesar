@@ -1,0 +1,14 @@
+{
+	"titulo": "Laboratorio virtual",
+	"titulo_normalizado": "laboratorio-virtual",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor":"Erik Pliego",
+	"fecha":"21/11/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para eliminar las limitantes de infraestructura, presupuesto y distancia en las pr\u00E1cticas de laboratorio de las y los estudiantes de Ingenier\u00EDa de la FES Arag\u00F3n, el profesor Everardo Esquivel junto con el director Fernando Macedo han trabajado desde hace m\u00E1s de 5 a\u00F1os en un proyecto que denominaron: “Laboratorio virtual a tiempo real de alumnos para alumnos”.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con esta iniciativa pueden transmitirse en vivo pr\u00E1cticas de laboratorio efectuadas en distintas instituciones. En esta ocasi\u00F3n, fue una c\u00E1tedra de an\u00E1lisis de combusti\u00F3n con un motor de diesel impartida por el profesor Omar Rodr\u00EDguez y Vicente L\u00F3pez –jefe de laboratorio de la Facultad de Ingenier\u00EDa–.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Gracias a este “Laboratorio virtual”, la comunidad aragonesa puede observar desde las aulas de la FES Arag\u00F3n una pr\u00E1ctica completa que de otro modo costar\u00EDa mucho tiempo y planificaci\u00F3n, fomentando al mismo tiempo la colaboraci\u00F3n interfacultativa.&nbsp;<\/span><\/p>",
+	"imagenes":[{"imagen":"laboratorio_virtual_1.jpg"},{"imagen":"laboratorio_virtual_2.jpg"},{"imagen":"laboratorio_virtual_3.jpg"},{"imagen":"laboratorio_virtual_4.jpg"}]
+}

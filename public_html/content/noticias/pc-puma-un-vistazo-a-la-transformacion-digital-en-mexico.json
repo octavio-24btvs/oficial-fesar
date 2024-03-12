@@ -1,0 +1,40 @@
+{
+	"titulo": "PC Puma: Un vistazo a la transformaci\u00F3n digital en M\u00E9xico",
+	"titulo_normalizado": "pc-puma-un-vistazo-a-la-transformacion-digital-en-mexico",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Servicios Escolares",
+			"seccion_normalizada": "servicios-escolares"
+		}
+	],
+	"autor": "Hilda Hern\u00E1ndez",
+	"fecha": "31/10/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se llev\u00F3 a cabo el evento \"PC Puma: Tu Experiencia Tecnol\u00F3gica\" con el objetivo de brindar al alumnado una charla informativa y recopilar opiniones valiosas sobre este programa tecnol\u00F3gico. Mauricio Moreno de CISCO<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Systems<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> proporcion\u00F3 una visi\u00F3n sobre c\u00F3mo la industria se adapta a los cambios tecnol\u00F3gicos, siendo aquellos impulsados por la creciente influencia de la inteligencia artificial.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el transcurso de esta charla, se exploraron las tendencias tecnol\u00F3gicas que est\u00E1n impactando a M\u00E9xico en el presente, desde la perspectiva de CISCO <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Systems<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, una destacada empresa tecnol\u00F3gica. Se discutieron \u00E1reas clave como la hiperconectividad, la forma de comunicarnos e interactuar; los avances revolucionarios en el transporte y su impacto en la movilidad dentro de nuestras ciudades; los desarrollos en el sector de la salud, las mejoras en la atenci\u00F3n m\u00E9dica; y las innovaciones en el sector financiero, incluyendo soluciones m\u00E1s eficientes y seguras para las operaciones financieras.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Adem\u00E1s de las tendencias tecnol\u00F3gicas, se destac\u00F3 la importancia de la inclusi\u00F3n digital en el sector p\u00FAblico. Esta desempe\u00F1a un papel fundamental para agilizar los procesos burocr\u00E1ticos y judiciales, al proporcionar un acceso f\u00E1cil a la informaci\u00F3n y los servicios en l\u00EDnea. Esto, a su vez, mejora la eficiencia y transparencia de los procedimientos legales, convirti\u00E9ndose en un sistema accesible y eficaz para los ciudadanos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta charla proporcion\u00F3 una visi\u00F3n valiosa de las tendencias tecnol\u00F3gicas en M\u00E9xico, con un enfoque en la industria y la inclusi\u00F3n digital en el sector p\u00FAblico. Abord\u00F3 temas de gran relevancia en un mundo cada vez m\u00E1s digitalizado y destac\u00F3 la importancia de adaptarse a los cambios tecnol\u00F3gicos para una sociedad m\u00E1s eficiente y mejor conectada.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "PCPUMA1.gif"
+		},
+		{
+			"imagen": "PCPUMA2.gif"
+		},
+		{
+			"imagen": "PCPUMA3.gif"
+		},
+		{
+			"imagen": "PCPUMA5.gif"
+		},
+		{
+			"imagen": "PCPUMA6.gif"
+		},
+		{
+			"imagen": "PcPUMA7.gif"
+		},
+		{
+			"imagen": "PCPUMA8.gif"
+		}	]
+
+}

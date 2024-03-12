@@ -1,0 +1,20 @@
+{
+    "nombre": "Fernando Palma Galván", 
+    "grado_academico": "Doctor", 
+     "correo": [ "fernandopalmaa1@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Economía. Universidad Nacional Autónoma de México.", 
+        "Maestría en Arquitectura (Investigación y Docencia Urbanismo). Universidad Nacional Autónoma de México.", 
+        "Doctorado en Urbanismo con Mención Honorífica. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Economía política.", 
+        "Urbanismo.", 
+        "Vivienda.", 
+        "Pobreza.", 
+        "Medioambiente."
+    ], 
+    "investigaciones": [
+        "PAPPIT IG300818 \"El Nuevo Aeropuerto Internacional de la Ciudad de México (NAICM), infraestructura y equipamiento urbano y su impacto en la población del oriente de la Zona Metropolitana de la Ciudad de México (ZMCM)\" 2016-2021."
+    ]
+}

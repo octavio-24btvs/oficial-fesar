@@ -1,0 +1,14 @@
+{
+	"titulo": "El Gran encierro",
+	"titulo_normalizado": "el-gran-encierro",
+	"secciones": [
+		{
+			"seccion": "DUACyD",
+			"seccion_normalizada": "duacyd"
+		}
+	],
+	"autor":"Adriana Hinojosa",
+	"fecha":"27/09/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dio inicio la primera conferencia magistral del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">1er Congreso Internacional de An\u00E1lisis Econ\u00F3mico<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> a cargo del <\/span><span style=\"color: rgb(5, 5, 5);\">Dr. Carlos Manuel Urz\u00FAa, investigador nacional, miembro de la academia mexicana de ciencias.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Urz\u00FAa comenz\u00F3 hablando sobre la situaci\u00F3n econ\u00F3mica acontecida debido a la pandemia por COVID-19.&nbsp; Pa\u00EDses como M\u00E9xico tuvieron una ca\u00EDda en su PIB del 8.5 % en 2020 y, ante los pron\u00F3sticos de crecimiento, muchos se ven esperanzados, pero seg\u00FAn el ponente es un rebote que puede causar confusi\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La econom\u00EDa mexicana se contrajo de una manera significativa y las importaciones cayeron de manera abrupta. Las exportaciones mexicanas dependen un 80 % respecto a las importaciones de EEUU. Mencion\u00F3 que a esta crisis de la COVID-19 se le empieza a conocer como el “Gran encierro”, seg\u00FAn el Fondo Monetario Internacional, debido a la cuarentena, la cual ha tenido grandes repercusiones humanitarias y econ\u00F3micas alrededor del mundo tan solo con la ca\u00EDda del comercio mundial y el empleo. Por mencionar un ejemplo, en M\u00E9xico se perdieron aproximadamente 1 mill\u00F3n 100 mil empleos formales durante el 2020.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para terminar, Urz\u00FAa coment\u00F3 que el crecimiento esperado en nuestro pa\u00EDs es insuficiente si se desea alcanzar el PIB anterior al actual gobierno; aclarando la posibilidad de ver un escenario m\u00E1s positivo en el PIB a finales del 2022, pues en cuesti\u00F3n de empleos se espera una recuperaci\u00F3n a principios del pr\u00F3ximo a\u00F1o.<\/span><\/p>",
+	"imagenes":[{"imagen":"Gran-encierro1.gif"},{"imagen":"Gran-encierro2.gif"},{"imagen":"Gran-encierro3.gif"}]
+}

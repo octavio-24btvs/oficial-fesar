@@ -1,0 +1,38 @@
+{
+    "carrera": "Ingeniería en Computación", 
+    "icono": "icon-ingenieria-en-computacion", 
+    "investigadores": [
+        {
+            "nombre": "Arcelia Bernal Díaz", 
+            "nombre_normalizado": "arcelia-bernal-diaz",
+            "imagen": true
+        },
+        {
+            "nombre": "Arturo Rodríguez García", 
+            "nombre_normalizado": "arturo-rodriguez-garcia",
+            "imagen": true
+        },
+        {
+            "nombre": "David Jaime González Maxinez", 
+            "nombre_normalizado": "david-jaime-gonzalez-maxinez",
+            "imagen": true
+        },  
+        {
+            "nombre": "Imelda de la Luz Flores Díaz", 
+            "nombre_normalizado": "imelda-de-la-luz-flores-diaz"
+        },  
+        {
+            "nombre": "Jesús Hernández Cabrera", 
+            "nombre_normalizado": "jesus-hernandez-cabrera"
+        }, 
+        {
+            "nombre": "Narciso Acevedo Hernández", 
+            "nombre_normalizado": "narciso-acevedo-hernandez"
+        },
+        {
+            "nombre": "Omar Mendoza González", 
+            "nombre_normalizado": "omar-mendoza-gonzalez", 
+            "imagen": true
+        }
+    ]
+}

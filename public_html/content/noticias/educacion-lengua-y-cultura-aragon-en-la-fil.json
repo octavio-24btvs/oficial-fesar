@@ -1,0 +1,31 @@
+{
+	"titulo": "Educaci\u00F3n, lengua y cultura, Arag\u00F3n en la FIL",
+	"titulo_normalizado": "educacion-lengua-y-cultura-aragon-en-la-fil",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Pedagogía",
+			"seccion_normalizada": "pedagogia"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "06/03/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La FES Arag\u00F3n se hizo presente en la Feria Internacional del Libro del Palacio de Miner\u00EDa (FILM) con la presentaci\u00F3n de la obra <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los docentes interculturales: sus procesos formativos y sus pr\u00E1cticas. Diversidad y cruce de culturas <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">con la presencia de los autores Mar\u00EDa Jim\u00E9nez, Antonio Carrillo, acad\u00E9micos de esta Facultad; y Gervasio Montero, egresado del doctorado de Pedagog\u00EDa en Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">J\u00EDmenez resalt\u00F3 la naturaleza colaborativa del trabajo, agradeci\u00F3 a todas y todos los participantes&nbsp; de los cap\u00EDtulos y present\u00F3 el contexto de la creaci\u00F3n del libro, producto de un trabajo realizado desde hace varios a\u00F1os de forma conjunta en acciones para preservar la vigencia de la cultura y lengua de los pueblos originarios.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Montero retom\u00F3 la idea de un texto como tejido, de modo que las ideas de otros autores crean un entramado de los procesos y pr\u00E1cticas de los docentes interculturales. Destac\u00F3 el tratamiento distintivo en la obra a cuestiones como la diversidad ling\u00FC\u00EDstica o la formaci\u00F3n docente al mostrar la realidad del otro, incluirlo y darle voz.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Carrillo destac\u00F3 la presencia protag\u00F3nica de los pueblos originarios, y de aquellos formadores quienes defienden su riqueza cultural y saberes propios. El libro nota c\u00F3mo la cuesti\u00F3n de la interculturalidad va m\u00E1s all\u00E1 de la educaci\u00F3n b\u00E1sica.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los expositores mostraron un video con testimonios de los docentes interculturales y respondieron algunas dudas con respecto a acciones y materiales usados en sus proyectos.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "fil-1.jpg"
+		},
+		{
+			"imagen": "fil-2.jpg"
+		},
+		{
+			"imagen": "fil-3.jpg"
+		},
+		{
+			"imagen": "fil-4.jpg"
+		}	]
+
+}

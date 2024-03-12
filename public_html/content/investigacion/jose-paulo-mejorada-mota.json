@@ -1,0 +1,18 @@
+{
+    "nombre": "José Paulo Mejorada Mota", 
+    "grado_academico": "Doctor", 
+     "correo": [ "paulomejorada53@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Ingeniería Civil. Universidad Nacional Autónoma de México.", 
+        "Maestría en Pedagogía. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Pedagogía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Formación Docente e investigación, Tecnología del concreto y Construcción en Ingeniería Civil."
+    ], 
+    "investigaciones": [
+        "Formación docente en Ingeniería Civil.",
+        "La formación en investigación de la FES Aragón: Sentido y subjetividad de los profesores de carrera."
+    ]
+}

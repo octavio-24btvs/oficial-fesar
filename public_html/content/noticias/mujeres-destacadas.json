@@ -1,0 +1,14 @@
+{
+	"titulo": "Mujeres destacadas",
+	"titulo_normalizado": "mujeres-destacadas",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor":"Redacci\u00F3n",
+	"fecha":"08/03/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las actividades de la <\/span><em style=\"color: rgb(0, 0, 0);\">Semana Feminista<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> –realizada con motivo del D\u00EDa Internacional de la Mujer– <\/span><span style=\"color: rgb(0, 0, 0);\">concluyeron con <\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">el encuentro “Abriendo Caminos: Di\u00E1logos entre mujeres destacadas”,<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">a cargo de la Divisi\u00F3n de Estudios de Posgrado e Investigaci\u00F3n, donde las invitadas compartieron con la comunidad su experiencia y trayectoria en los \u00E1mbitos en que se desenvuelven de manera profesional. <\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El evento reuni\u00F3 a personalidades como Catalina D\u00EDaz, medallista en levantamiento de potencia en los Juegos Paral\u00EDmpicos de R\u00EDo de Janeiro 2016 y en Atenas 2004; M\u00F3nica R\u00EDos, jefa de la Unidad de Sustanciaci\u00F3n de Responsabilidades de la Contralor\u00EDa Interna en el Tribunal Electoral del Poder Judicial de la Federaci\u00F3n; Reinalda Soriano, docente investigadora del Centro Interdisciplinario de Investigaci\u00F3n y Docencia en Educaci\u00F3n T\u00E9cnica (CIIDET) y miembro del Sistema Nacional de Investigadores Nivel I del CONACyT; y Donaji Olivera, diputada del Congreso de la Ciudad de M\u00E9xico.<\/span><\/p>",
+	"imagenes":[{"imagen":"mujeres-destacadas-1.jpg"},{"imagen":"mujeres-destacadas-2.jpg"},{"imagen":"mujeres-destacadas-3.jpg"},{"imagen":"mujeres-destacadas-4.jpg"},{"imagen":"mujeres-destacadas-5.jpg"}]
+}

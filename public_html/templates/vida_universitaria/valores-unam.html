@@ -1,0 +1,79 @@
+<div id="image-modal" class="image-modal" ng-show="modal">
+    <div class="close-image-modal d-block" ng-click="modal=false">&times;</div>
+    <a ng-href="{{image_source}}" download title="Descarga la imagen"> <i class="fas fa-download fs-20 download-image-modal"></i></a>
+    <img class="image-modal-content img-fluid" ng-src="{{image_source}}" alt="{{image_alt}}"/>
+    <div id="image-modal-caption">
+
+    </div>
+</div>
+<div class="container content pb-4">
+    <hr>
+    <div class="row pleca-secciones">
+        <div class="col-lg-12 secciones">
+            <i class="icono-secciones icon-todxs-somos-unam" style="font-size: 31px; position: relative;top: 2px;"></i>   <h1>&nbsp;  valoresUNAM</h1>
+        </div>
+    </div>
+    <hr>
+    <div class="row menu-rapido">
+        <div class="col-12">
+            <ul class="nav d-flex justify-content-center">
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ui-sref="valores_unam({tag:'esmiderecho'})" title="#EsMiDerecho">
+                        #EsMiDerecho
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ui-sref="valores_unam({tag:'todxssomosunam'})" title="#TodxsSomosUNAM">
+                        #TodxsSomosUNAM
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ui-sref="valores_unam({tag:'mascultura'})" title="#M&aacute;sCultura">
+                        #M&aacute;sCultura
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ui-sref="valores_unam({tag:'yomecuido'})" title="#YoMeCuido">
+                        #YoMeCuido
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ui-sref="valores_unam({tag:'compromisounam'})" title="#CompromisoUNAM">
+    
+                        #CompromisoUNAM
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ui-sref="valores_unam({tag:'porsalud'})" title="#PorSalud">
+                        #PorSalud
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ui-sref="valores_unam({tag:'yomiplaneta'})" title="#Yo<3MiPlaneta">
+                        #Yo<3MiPlaneta
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="row portafolio mt-3">
+        <i class="fas fa-hashtag icono-encabezado"></i><h2>{{valor_unam.titulo}}</h2> 
+    </div>
+    <div class="row">
+        <div class="col-12 mb-15 col-md-6" ng-class="valor_unam.pdfs.length <=0 ? 'offset-md-3' : ''" >
+            <div class=" col-12 owl-carousel owl-theme contenedor-imagen" style="z-index: 0;margin-top: 8px;">
+                <div class="item conte-img carousel-portal-docente" ng-repeat="imagen in valor_unam.imagenes">
+                    <a ng-click="showModal($index)" title="">
+                        <img class="img-fluid image" ng-src="public_html/img/vida_universitaria/{{tag}}/{{imagen.imagen}}.jpg" alt="{{imagen.alt}}"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div ng-show="valor_unam.pdfs.length >0" class="col-12 col-md-6 mt-3">
+            <ul class="list-group texto-tabla text-left">
+                <li class="list-group-item active">Enlace de inter&eacute;s UNAM</li>
+                <li class="list-group-item" ng-repeat="pdf in valor_unam.pdfs"><a target="_blank" ng-href="public_html/documents/vida_universitaria/{{tag}}/{{pdf.pdf}}.pdf" title="{{pdf.titulo}}">{{pdf.titulo}}</a></li>
+            </ul>
+        </div> 
+    </div>
+</div>

@@ -1,0 +1,567 @@
+{
+	"id": 9,
+	"titulo": "Econom\u00EDa",
+	"icono": "icon-economia",
+	"noticias": [
+		{
+			"titulo":"La econom\u00EDa mexicana a la mitad del camino",
+			"titulo_normalizado":"la-economia-mexicana-a-la-mitad-del-camino",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Libro1.gif",
+			"fecha":"29/09/22"
+		},
+		{
+			"titulo":"El quehacer de las y los economistas durante la pandemia",
+			"titulo_normalizado":"el-quehacer-de-las-y-los-economistas-durante-la-pandemia",
+			"autor":"Erik Pliego",
+			"imagen": "1648686172658.jpg",
+			"fecha":"29/03/22"
+		},
+		{
+			"titulo":"Una crisis diferente",
+			"titulo_normalizado":"una-crisis-diferente",
+			"autor":"Erik Pliego",
+			"imagen": "Crisis2.JPG",
+			"fecha":"28/11/22"
+		},
+		{
+			"titulo":"SEMECO: La econom\u00EDa en M\u00E9xico y Latinoam\u00E9rica",
+			"titulo_normalizado":"semeco-la-economia-en-mexico-y-latinoamerica",
+			"autor":"Rosa Francisco",
+			"imagen": "la-economia-en-mexico-y-latinoamerica-1.jpg",
+			"fecha":"28/04/22"
+		},
+		{
+			"titulo":"SEMECO: La aplicaci\u00F3n de la econom\u00EDa en peque\u00F1a escala",
+			"titulo_normalizado":"semeco-la-aplicacion-de-la-economia-en-pequena-escala",
+			"autor":"Kenia Brodman",
+			"imagen": "economía2.gif",
+			"fecha":"28/04/22"
+		},
+		{
+			"titulo":"SEMECO: Organiza Arag\u00F3n ponencia sobre pobreza y pueblos originarios",
+			"titulo_normalizado":"semeco-organiza-aragon-ponencia-sobre-pobreza-y-pueblos-originarios",
+			"autor":"Miguel Palacios",
+			"imagen": "pueblos-indígenas-miguel-angel-1.jpg",
+			"fecha":"28/04/22"
+		},
+		{
+			"titulo":"Herramienta de ahorro en M\u00E9xico",
+			"titulo_normalizado":"herramienta-de-ahorro-en-mexico",
+			"autor":"Ang\u00E9lica Arellano",
+			"imagen": "Herramienta-ahorro-mexico-1.jpg",
+			"fecha":"27/10/20"
+		},
+		{
+			"titulo":"Habilidades digitales en el sector financiero",
+			"titulo_normalizado":"habilidades-digitales-en-el-sector-financiero",
+			"autor":"Sashel Gonz\u00E1lez",
+			"imagen": "Habilidades-digitales-sector-financiero-1.jpg",
+			"fecha":"27/10/20"
+		},
+		{
+			"titulo":"SEMECO: Comercios quieren salir adelante, pero les cuesta mucho",
+			"titulo_normalizado":"semeco-comercios-quieren-salir-adelante-pero-les-cuesta-mucho",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "semeco-comercios-quieren-salir-adelante-pero-les-cuesta-mucho-1.jpg",
+			"fecha":"27/04/23"
+		},
+		{
+			"titulo":"SEMECO: Inteligencia para los negocios",
+			"titulo_normalizado":"semeco-inteligencia-para-los-negocios",
+			"autor":"Kenia Brodman",
+			"imagen": "inteligencia1.gif",
+			"fecha":"27/04/22"
+		},
+		{
+			"titulo":"Efectos  de la explotaci\u00F3n de recursos y de la cuarta revoluci\u00F3n industrial",
+			"titulo_normalizado":"efectos--de-la-explotacion-de-recursos-y-de-la-cuarta-revolucion-industrial",
+			"autor":"Liliana Espinosa y Alejandro Frias",
+			"imagen": "efectos-de-la-explotacion-de-recursos-y-de-la-cuarta-revolucion-industrial-1.jpg",
+			"fecha":"26/09/19"
+		},
+		{
+			"titulo":"CIE 2022: Econom\u00EDa digitalizada",
+			"titulo_normalizado":"cie-2022-economia-digitalizada",
+			"autor":"Alexis Rey",
+			"imagen": "EconomíaD1.gif",
+			"fecha":"26/08/22"
+		},
+		{
+			"titulo":"CIE 2022: Retos para el desarrollo econ\u00F3mico",
+			"titulo_normalizado":"cie-2022-retos-para-el-desarrollo-economico",
+			"autor":"Aranza Ramos",
+			"imagen": "retos-economía-1.JPG",
+			"fecha":"26/08/22"
+		},
+		{
+			"titulo":"SEMECO: Estados Unidos vs China, el pleito de los chips",
+			"titulo_normalizado":"semeco-estados-unidos-vs-china-el-pleito-de-los-chips",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "semeco-estados-unidos-vs-china-el-pleito-de-los-chips-1.jpg",
+			"fecha":"26/04/23"
+		},
+		{
+			"titulo":"SEMECO: Revisi\u00F3n de la econom\u00EDa en M\u00E9xico",
+			"titulo_normalizado":"semeco-revision-de-la-economia-en-mexico",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "semeco-revision-de-la-economia-en-mexico-1.jpg",
+			"fecha":"26/04/23"
+		},
+		{
+			"titulo":"SEMECO: Charlas sobre M\u00E9xico, econom\u00EDa y medioambiente",
+			"titulo_normalizado":"semeco-charlas-sobre-mexico-economia-y-medioambiente",
+			"autor":"Rosa Francisco",
+			"imagen": "semeco-charlas-sobre-mexico-economia-y-medioambiente-1.jpg",
+			"fecha":"26/04/22"
+		},
+		{
+			"titulo":"SEMECO: Cambios en la hegemon\u00EDa pol\u00EDtica-econ\u00F3mica del mundo",
+			"titulo_normalizado":"semeco-cambios-en-la-hegemonia-politica-economica-del-mundo",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "cambios-en-la-hegemonia-politica-economica-del-mundo-1.jpg",
+			"fecha":"26/04/22"
+		},
+		{
+			"titulo":"Ciencias complejas, capitalismo y sustentabilidad en congreso de econom\u00EDa",
+			"titulo_normalizado":"ciencias-complejas-capitalismo-y-sustentabilidad-en-congreso-de-economia",
+			"autor":"Alejandro Frias",
+			"imagen": "ciencias-complejas-capitalismo-y-sustentabilidad-en-congreso-de-economia-2.jpg",
+			"fecha":"25/09/19"
+		},
+		{
+			"titulo":"CIE 2022: Impacto de la pandemia en el bolsillo de los consumidores",
+			"titulo_normalizado":"cie-2022-impacto-de-la-pandemia-en-el-bolsillo-de-los-consumidores",
+			"autor":"Aranza Ramos",
+			"imagen": "Impacto-covid-1.JPG",
+			"fecha":"25/08/22"
+		},
+		{
+			"titulo":"CIE 2022: Presentaci\u00F3n de la revista Hatso Hnini",
+			"titulo_normalizado":"cie-2022-presentacion-de-la-revista-hatso-hnini",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "HAtso3.gif",
+			"fecha":"25/08/22"
+		},
+		{
+			"titulo":"CIE 2022: Pol\u00EDtica Fiscal, recuperaci\u00F3n econ\u00F3mica y pandemia",
+			"titulo_normalizado":"cie-2022-politica-fiscal-recuperacion-economica-y-pandemia",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Fiscal1.gif",
+			"fecha":"25/08/22"
+		},
+		{
+			"titulo":"SEMECO: Perspectivas 4T",
+			"titulo_normalizado":"semeco-perspectivas-4t",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Perspectivas1.gif",
+			"fecha":"25/04/23"
+		},
+		{
+			"titulo":"SEMECO: De capitalismo y crisis actuales",
+			"titulo_normalizado":"semeco-de-capitalismo-y-crisis-actuales",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "capitalismo-1.jpg",
+			"fecha":"25/04/23"
+		},
+		{
+			"titulo":"SEMECO: Conoce m\u00E1s sobre la Ley general de acumulaci\u00F3n capitalista en Am\u00E9rica Latina",
+			"titulo_normalizado":"semeco-conoce-mas-sobre-la-ley-general-de-acumulacion-capitalista-en-america-latina",
+			"autor":"Miguel Palacios",
+			"imagen": "ley-general-1.jpg",
+			"fecha":"25/04/22"
+		},
+		{
+			"titulo":"Innovar, alternativa para economistas",
+			"titulo_normalizado":"innovar-alternativa-para-economistas",
+			"autor":"Luis Bocanegra",
+			"imagen": "innovar-alternativa-para-economistas-1.jpg",
+			"fecha":"25/04/19"
+		},
+		{
+			"titulo":"La tecnolog\u00EDa y su  efecto en la econom\u00EDa",
+			"titulo_normalizado":"la-tecnologia-y-su--efecto-en-la-economia",
+			"autor":"Aurelio Nito",
+			"imagen": "la-tecnologia-y-su-efecto-en-la-economia-1.jpg",
+			"fecha":"25/04/19"
+		},
+		{
+			"titulo":"La situaci\u00F3n de la Banca de Desarrollo",
+			"titulo_normalizado":"la-situacion-de-la-banca-de-desarrollo",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "la-situacion-de-la-banca-de-desarrollo-1.jpg",
+			"fecha":"25/04/19"
+		},
+		{
+			"titulo":"Temas de provecho para economistas aragoneses",
+			"titulo_normalizado":"temas-de-provecho-para-economistas-aragoneses",
+			"autor":"Redacci\u00F3n",
+			"imagen": "temas-de-provecho-para-economistas-aragoneses-1.jpg",
+			"fecha":"24/09/19"
+		},
+		{
+			"titulo":"CIE 2022: Impactos econ\u00F3micos y socioambientales de la pandemia",
+			"titulo_normalizado":"cie-2022-impactos-economicos-y-socioambientales-de-la-pandemia",
+			"autor":"Alexis Rey",
+			"imagen": "Impacto-5.gif",
+			"fecha":"24/08/22"
+		},
+		{
+			"titulo":"CIE 2022: Transici\u00F3n energ\u00E9tica desde distintas perspectivas",
+			"titulo_normalizado":"cie-2022-transicion-energetica-desde-distintas-perspectivas",
+			"autor":"Edna Reyes",
+			"imagen": "transicion-energetica-desde-distintas-perspectivas-1.jpg",
+			"fecha":"24/08/22"
+		},
+		{
+			"titulo":"CIE 2022: Medidas hacia pol\u00EDticas verdes en Am\u00E9rica Latina",
+			"titulo_normalizado":"cie-2022-medidas-hacia-politicas-verdes-en-america-latina",
+			"autor":"Aranza Ramos",
+			"imagen": "politicasverdes-1.JPG",
+			"fecha":"24/08/22"
+		},
+		{
+			"titulo":"CIE 2022: Impacto en la econom\u00EDa nacional",
+			"titulo_normalizado":"cie-2022-impacto-en-la-economia-nacional",
+			"autor":"Edna Reyes",
+			"imagen": "impacto-en-la-economia-nacional-1.jpg",
+			"fecha":"24/08/22"
+		},
+		{
+			"titulo":"SEMECO: Recuperaci\u00F3n del sector p\u00FAblico",
+			"titulo_normalizado":"semeco-recuperacion-del-sector-publico",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "semeco-recuperacion-del-sector-publico-1.jpg",
+			"fecha":"24/04/23"
+		},
+		{
+			"titulo":"Libro para tratar problemas microecon\u00F3micos",
+			"titulo_normalizado":"libro-para-tratar-problemas-microeconomicos",
+			"autor":"Aurelio Nito",
+			"imagen": "libro-para-tratar-problemas-microeconomicos-1.jpg",
+			"fecha":"24/04/19"
+		},
+		{
+			"titulo":"En busca de mejorar laboratorios de Econom\u00EDa",
+			"titulo_normalizado":"en-busca-de-mejorar-laboratorios-de-economia",
+			"autor":"Luis Bocanegra",
+			"imagen": "en-busca-de-mejorar-laboratorios-de-economia-1.jpg",
+			"fecha":"24/04/19"
+		},
+		{
+			"titulo":"Empleo Verde",
+			"titulo_normalizado":"empleo-verde",
+			"autor":"Erik Pliego",
+			"imagen": "Empleoverde1.gif",
+			"fecha":"24/02/22"
+		},
+		{
+			"titulo":"CIE 2022: Pol\u00EDtica monetaria y fiscal, ejes de la econom\u00EDa mexicana",
+			"titulo_normalizado":"cie-2022-politica-monetaria-y-fiscal-ejes-de-la-economia-mexicana",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Política1.gif",
+			"fecha":"23/08/22"
+		},
+		{
+			"titulo":"CIE 2022: La econom\u00EDa china cobra fuerza",
+			"titulo_normalizado":"cie-2022-la-economia-china-cobra-fuerza",
+			"autor":"Diego Flores",
+			"imagen": "la-economia-china-cobra-fuerza-1.jpg",
+			"fecha":"23/08/22"
+		},
+		{
+			"titulo":"CIE 2022: Aumenta la dependencia a remesas en nuestro pa\u00EDs",
+			"titulo_normalizado":"cie-2022-aumenta-la-dependencia-a-remesas-en-nuestro-pais",
+			"autor":"Aranza Ramos",
+			"imagen": "puntodequiebre-1.JPG",
+			"fecha":"23/08/22"
+		},
+		{
+			"titulo":"CIE 2022: Estrategias para la recuperaci\u00F3n econ\u00F3mica",
+			"titulo_normalizado":"cie-2022-estrategias-para-la-recuperacion-economica",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Estrategias1.gif",
+			"fecha":"23/08/22"
+		},
+		{
+			"titulo":"An\u00E1lisis de la econom\u00EDa nacional",
+			"titulo_normalizado":"analisis-de-la-economia-nacional",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "analisis-de-la-economia-nacional-1.jpg",
+			"fecha":"23/04/19"
+		},
+		{
+			"titulo":"Tres aristas del nuevo gobierno",
+			"titulo_normalizado":"tres-aristas-del-nuevo-gobierno",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "tres-aristas-del-nuevo-gobierno-1.jpg",
+			"fecha":"23/04/19"
+		},
+		{
+			"titulo":"Aragoneses participan en Reto Banxico",
+			"titulo_normalizado":"aragoneses-participan-en-reto-banxico",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "not-found.jpg",
+			"fecha":"23/04/19"
+		},
+		{
+			"titulo":"Econom\u00EDa sin barreras: facultades unidas",
+			"titulo_normalizado":"economia-sin-barreras-facultades-unidas",
+			"autor":"Alexis Camacho",
+			"imagen": "economia-sin-barreras-facultades-unidas-1.jpg",
+			"fecha":"23/04/19"
+		},
+		{
+			"titulo":"Propuestas para el desarrollo 2019-2024",
+			"titulo_normalizado":"propuestas-para-el-desarrollo-2019-2024",
+			"autor":"Aurelio Nito",
+			"imagen": "propuestas-para-el-desarrollo-2019-2024-1.jpg",
+			"fecha":"23/04/19"
+		},
+		{
+			"titulo":"Aciertos y desaciertos en la planeaci\u00F3n del NAICM",
+			"titulo_normalizado":"aciertos-y-desaciertos-en-la-planeacion-del-naicm",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "not-found.jpg",
+			"fecha":"23/04/19"
+		},
+		{
+			"titulo":"CIE 2022: Inauguraci\u00F3n del 6.° Congreso Internacional de Econom\u00EDa",
+			"titulo_normalizado":"cie-2022-inauguracion-del-6---congreso-internacional-de-economia",
+			"autor":"Alexis Rey",
+			"imagen": "Alternativas1.gif",
+			"fecha":"22/08/22"
+		},
+		{
+			"titulo":"CIE 2022: Pol\u00EDtica econ\u00F3mica en M\u00E9xico, antecedentes para la recuperaci\u00F3n",
+			"titulo_normalizado":"cie-2022-politica-economica-en-mexico-antecedentes-para-la-recuperacion",
+			"autor":"Aranza Ramos",
+			"imagen": "mesa-1.JPG",
+			"fecha":"22/08/22"
+		},
+		{
+			"titulo":"CIE 2022: L\u00EDneas de investigaci\u00F3n por una econom\u00EDa estable",
+			"titulo_normalizado":"cie-2022-lineas-de-investigacion-por-una-economia-estable",
+			"autor":"Edna Reyes",
+			"imagen": "lineas-de-investigacion-por-una-economia-estable-1.jpg",
+			"fecha":"22/08/22"
+		},
+		{
+			"titulo":"La hegemon\u00EDa y la crisis del capital",
+			"titulo_normalizado":"la-hegemonia-y-la-crisis-del-capital",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "la-hegemonia-y-la-crisis-del-capital-1.jpg",
+			"fecha":"22/04/19"
+		},
+		{
+			"titulo":"Situaci\u00F3n y desaf\u00EDos del empleo en M\u00E9xico",
+			"titulo_normalizado":"situacion-y-desafios-del-empleo-en-mexico",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "situacion-y-desafios-del-empleo-en-mexico-1.jpg",
+			"fecha":"20/08/21"
+		},
+		{
+			"titulo":"\u00BFD\u00F3nde qued\u00F3 el Plan de Desarrollo 2018-2024?",
+			"titulo_normalizado":"donde-quedo-el-plan-de-desarrollo-2018-2024",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "donde-quedo-el-plan-de-desarrollo-1.jpg",
+			"fecha":"20/08/21"
+		},
+		{
+			"titulo":"El papel del economista actual",
+			"titulo_normalizado":"el-papel-del-economista-actual",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "el-papel-del-economista-actual-1.jpg",
+			"fecha":"20/08/21"
+		},
+		{
+			"titulo":"Arranca Tercer Encuentro de economistas para el desarrollo",
+			"titulo_normalizado":"arranca-tercer-encuentro-de-economistas-para-el-desarrollo",
+			"autor":"Sianya S\u00E1nchez",
+			"imagen": "arranca-tercer-encuentro-de-economistas-para-el-desarrollo-1.jpg",
+			"fecha":"19/08/21"
+		},
+		{
+			"titulo":"Pol\u00EDtica econ\u00F3mica en la cuarta transformaci\u00F3n",
+			"titulo_normalizado":"politica-economica-en-la-cuarta-transformacion",
+			"autor":"Rosa Francisco",
+			"imagen": "politica-economica-en-la-cuarta-transformacion-1.jpg",
+			"fecha":"19/08/21"
+		},
+		{
+			"titulo":"CIUDADES: Termina el 4° seminario nacional",
+			"titulo_normalizado":"ciudades-termina-el-4---seminario-nacional",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "termina-el-4-seminario-nacional-1.jpg",
+			"fecha":"18/11/21"
+		},
+		{
+			"titulo":"El territorio como mercanc\u00EDa",
+			"titulo_normalizado":"el-territorio-como-mercancia",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Territorio1.gif",
+			"fecha":"18/11/21"
+		},
+		{
+			"titulo":"Paquete econ\u00F3mico 2020 y la pol\u00EDtica econ\u00F3mica del actual gobierno",
+			"titulo_normalizado":"paquete-economico-2020-y-la-politica-economica-del-actual-gobierno",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "paquete-economico-2020-y-la-politica-economica-del-actual-gobierno-1.jpg",
+			"fecha":"18/09/19"
+		},
+		{
+			"titulo":"CIUDADES: La ciudad y sus murallas",
+			"titulo_normalizado":"ciudades-la-ciudad-y-sus-murallas",
+			"autor":"Francisco Olivares",
+			"imagen": "la-ciudad-y-sus-murallas-1.jpg",
+			"fecha":"17/11/21"
+		},
+		{
+			"titulo":"CIUDADES: Pol\u00EDticas urbanas y sustentabilidad",
+			"titulo_normalizado":"ciudades-politicas-urbanas-y-sustentabilidad",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "ciudades-politicas-urbanas-y-sustentabilidad-1.jpg",
+			"fecha":"17/11/21"
+		},
+		{
+			"titulo":"Soluciones cuantitativas frente a la COVID-19",
+			"titulo_normalizado":"soluciones-cuantitativas-frente-a-la-covid-19",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "soluciones-cuantitativas-frente-a-la-covid-1.jpg",
+			"fecha":"16/11/21"
+		},
+		{
+			"titulo":"CIUDADES: Retos ante la COVID-19",
+			"titulo_normalizado":"ciudades-retos-ante-la-covid-19",
+			"autor":"Rosa Francisco",
+			"imagen": "ciudades-ante-la-covid-19-1.jpg",
+			"fecha":"16/11/21"
+		},
+		{
+			"titulo":"Gran desempe\u00F1o en certamen de estad\u00EDstica",
+			"titulo_normalizado":"gran-desempeno-en-certamen-de-estadistica",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "img-1.jpg",
+			"fecha":"16/08/18"
+		},
+		{
+			"titulo":"M\u00C1$ ALL\u00C1 DE LOS BILL€TE$",
+			"titulo_normalizado":"ma-alla-de-los-bill---te",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "economia-1.jpg",
+			"fecha":"15/11/22"
+		},
+		{
+			"titulo":"Riesgos de los activos virtuales",
+			"titulo_normalizado":"riesgos-de-los-activos-virtuales",
+			"autor":"Rosa Francisco",
+			"imagen": "riesgos-de-los-activos-virtuales-1.jpg",
+			"fecha":"15/10/21"
+		},
+		{
+			"titulo":"Influencias en las econom\u00EDas",
+			"titulo_normalizado":"influencias-en-las-economias",
+			"autor":"Redacci\u00F3n",
+			"imagen": "acumulación1.gif",
+			"fecha":"14/09/21"
+		},
+		{
+			"titulo":"Competitividad, econom\u00EDa regional y revistas de posgrado",
+			"titulo_normalizado":"competitividad-economia-regional-y-revistas-de-posgrado",
+			"autor":"Oscar Rafael Cornejo",
+			"imagen": "Economía1.gif",
+			"fecha":"12/10/23"
+		},
+		{
+			"titulo":"Educaci\u00F3n sostenible para transformar comunidades",
+			"titulo_normalizado":"educacion-sostenible-para-transformar-comunidades",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "educacion-sostenible-para-transformar-1.jpg",
+			"fecha":"11/02/19"
+		},
+		{
+			"titulo":"Inversiones y Premios: Reto Actinver 2023",
+			"titulo_normalizado":"inversiones-y-premios-reto-actinver-2023",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Actinver2.gif",
+			"fecha":"09/10/23"
+		},
+		{
+			"titulo":"El MESCP, alternancia en la econom\u00EDa",
+			"titulo_normalizado":"el-mescp-alternancia-en-la-economia",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "f4860928.jpg",
+			"fecha":"08/11/18"
+		},
+		{
+			"titulo":"8M: Investigadoras unidas",
+			"titulo_normalizado":"8m-investigadoras-unidas",
+			"autor":"Diego Flores",
+			"imagen": "8m-investigadoras-unidas.jpg",
+			"fecha":"08/03/22"
+		},
+		{
+			"titulo":"8M: Madres empresarias",
+			"titulo_normalizado":"8m-madres-empresarias",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "madres-empresarias-1.jpg",
+			"fecha":"08/03/21"
+		},
+		{
+			"titulo":"CIE 2022: Pol\u00EDtica Fiscal, recuperaci\u00F3n econ\u00F3mica y pandemia",
+			"titulo_normalizado":"cie-2022-politica-fiscal-recuperacion-economica-y-pandemia",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Fiscal1.gif",
+			"fecha":"06/09/22"
+		},
+		{
+			"titulo":"Titulaci\u00F3n a distancia: \u00E9xito sin fronteras",
+			"titulo_normalizado":"titulacion-a-distancia-exito-sin-fronteras",
+			"autor":"Erik Pliego",
+			"imagen": "titulacion-a-distancia-exito-sin-fronteras-1.jpg",
+			"fecha":"06/03/20"
+		},
+		{
+			"titulo":"La producci\u00F3n de riqueza en M\u00E9xico",
+			"titulo_normalizado":"la-produccion-de-riqueza-en-mexico",
+			"autor":"Carmen Mel\u00E9ndez y Giovanni Ch\u00E1vez",
+			"imagen": "la-produccion-de-riqueza-en-mexico-1.jpg",
+			"fecha":"05/09/19"
+		},
+		{
+			"titulo":"Economistas se re\u00FAnen en FES Arag\u00F3n",
+			"titulo_normalizado":"economistas-se-reunen-en-fes-aragon",
+			"autor":"Carmen Melendez",
+			"imagen": "img-1.jpg",
+			"fecha":"03/10/18"
+		},
+		{
+			"titulo":"Acreditaci\u00F3n de Econom\u00EDa SUAyED",
+			"titulo_normalizado":"acreditacion-de-economia-suayed",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "acreditacion-economia-suayed-1.jpg",
+			"fecha":"02/12/22"
+		},
+		{
+			"titulo":"Impacto econ\u00F3mico y libre comercio: presentaci\u00F3n de libro",
+			"titulo_normalizado":"impacto-economico-y-libre-comercio-presentacion-de-libro",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "impacto-económico1.gif",
+			"fecha":"02/09/21"
+		},
+		{
+			"titulo":"Toma de protesta en Econom\u00EDa",
+			"titulo_normalizado":"toma-de-protesta-en-economia",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "toma-de-protesta-1.jpg",
+			"fecha":"02/02/23"
+		},
+		{
+			"titulo":"COVID-19 en los proyectos petroleros en M\u00E9xico",
+			"titulo_normalizado":"covid-19-en-los-proyectos-petroleros-en-mexico",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "en-los-proyectos-petroleros-en-mexico-1.jpg",
+			"fecha":"01/10/20"
+		}
+	]
+}

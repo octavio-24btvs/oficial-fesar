@@ -1,0 +1,14 @@
+{
+	"titulo": "Elaboraci\u00F3n de productos de software",
+	"titulo_normalizado": "elaboracion-de-productos-de-software",
+	"secciones": [
+		{
+			"seccion": "SUAyED",
+			"seccion_normalizada": "suayed"
+		}
+	],
+	"autor":"Isaias Hern\u00E1ndez",
+	"fecha":"21/05/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con motivo del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">2º Congreso Internacional en Evaluaci\u00F3n y Direcci\u00F3n \u00C9tica de Proyectos P\u00FAblicos y Sociales<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se llev\u00F3 a cabo la conferencia “Elaboraci\u00F3n de productos de software para la organizaci\u00F3n p\u00FAblica: consideraciones \u00E9ticas<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">” <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">donde participaron especialistas como la doctora Yolanda Angelina Altamirano, el ingeniero Israel Vel\u00E1zquez, la doctora Marcela Pe\u00F1aloza, el doctor Israel Ortega Cuevas, el actuario Germ\u00E1n Ernesto Zapata y el doctor Jos\u00E9 Luis Sampedro, quienes tienen experiencia en la gesti\u00F3n de proyectos y su relaci\u00F3n con las tecnolog\u00EDas de la informaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el desarrollo de la conferencia destacaron el uso actual de los c\u00F3digos de \u00E9tica y establecieron las gu\u00EDas de conducta para profesionales que elaboran <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">software <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">utilizados en el sector p\u00FAblico; adem\u00E1s, abordaron la importancia de la ingenier\u00EDa del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">software <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">en el&nbsp; mundo moderno.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente se hizo referencia a las premisas del gobierno digital y su relaci\u00F3n con la \u00E9tica en la b\u00FAsqueda del bien com\u00FAn, es decir, la finalidad del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">software <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">implementado por el sector p\u00FAblico en tr\u00E1mites, transporte, juicios en l\u00EDnea, etc\u00E9tera; as\u00ED como el papel de las instituciones de educaci\u00F3n superior en el planteamiento del compromiso \u00E9tico de las y los profesionales que desarrollan estas herramientas.<\/span><\/p>",
+	"imagenes":[{"imagen":"software1.gif"},{"imagen":"software2.gif"},{"imagen":"software3.gif"}]
+}

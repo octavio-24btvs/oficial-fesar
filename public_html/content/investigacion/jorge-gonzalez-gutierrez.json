@@ -1,0 +1,21 @@
+{
+    "nombre": "Jorge González Gutiérrez", 
+    "grado_academico": "Doctor", 
+    "correo": [ "jorgejonzalezgog@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Economía. Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Estado de México.",
+        "Maestría en Demografía. El Colegio de México.",
+        "Doctor en Estudios de Población. El Colegio de México."
+    ], 
+    "lineas_investigacion": [
+        "Política económica en México y en América latina.",
+        "Pobreza y Desigualdad en América Latina.",
+        "Epistemología de las Ciencias Sociales."
+    ], 
+    "investigaciones": [
+        "Reflexiones sobre los rastros de la pandemia en la distribución del ingreso en México.",
+        "La mutación de la representación de la desigualdad en el estudio de la mortalidad.",
+        "Tendencias y determinantes de los contagios y muertes asociadas al virus SARS-COV2 en la Zona Metropolitana de la Ciudad de México durante 2020."
+    ]
+}

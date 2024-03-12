@@ -1,0 +1,51 @@
+[
+	{
+		"nombre": "Enero de 2014",
+		"nombre_normalizado":"novedades/2014/2014.01.pdf"
+
+	},
+	{
+		"nombre":"Febrero de 2014",
+		"nombre_normalizado":"novedades/2014/2014.02.pdf"
+	},
+	{
+		"nombre":"Marzo de 2014",
+		"nombre_normalizado":"novedades/2014/2014.03.pdf"
+	},
+	{
+		"nombre":"Abril de 2014",
+		"nombre_normalizado":"novedades/2014/2014.04.pdf"
+	},
+	{
+		"nombre":"Mayo de 2014",
+		"nombre_normalizado":"novedades/2014/2014.05.pdf"
+	},
+	{
+		"nombre":"Junio de 2014",
+		"nombre_normalizado":"novedades/2014/2014.06.pdf"
+	},
+        {
+		"nombre":"Julio de 2014",
+		"nombre_normalizado":"novedades/2014/2014.07.pdf"
+	},
+	{
+		"nombre":"Agosto de 2014",
+		"nombre_normalizado":"novedades/2014/2014.08.pdf"
+	},
+	{
+		"nombre":"Septiembre de 2014",
+		"nombre_normalizado":"novedades/2014/2014.09.pdf"
+	},
+	{
+		"nombre":"Octubre de 2014",
+		"nombre_normalizado":"novedades/2014/2014.10.pdf"
+	},
+	{
+		"nombre":"Noviembre de 2014",
+		"nombre_normalizado":"novedades/2014/2014.11.pdf"
+	},
+        {
+		"nombre":"Diciembre de 2014",
+		"nombre_normalizado":"novedades/2014/2014.12.pdf"
+	}
+]

@@ -1,0 +1,20 @@
+{
+    "nombre": "José Ricardo Pérez Brun", 
+    "grado_academico": "Maestro", 
+     "correo": [ "ricardobrunK6@aragon.unam.mx" ],
+    "imagen": true,
+    "estudios": [
+        "Licenciatura en Economía. Universidad Nacional Autónoma de México.",
+        "Maestría en Administración Pública. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Ciencias Sociales.", 
+        "¿Cómo enseñar economía?",
+        "Crisis Fiscal del Estado Mexicano",
+        "Economía Mexicana contemporánea."
+    ], 
+    "investigaciones": [
+        "Cómo enseñar economía la aplicación de la PNL a la enseñanza de la historia económica.",
+        "La crisis fiscal del estado mexicano 1980-2020."
+    ]
+}

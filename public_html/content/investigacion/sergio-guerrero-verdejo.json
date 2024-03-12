@@ -1,0 +1,26 @@
+{
+    "nombre": "Sergio Guerrero Verdejo", 
+    "grado_academico": "Doctor", 
+     "correo": [ "sergioguerreror9@aragon.unam.mx"],
+     "imagen": true, 
+    "estudios": [
+        "Licenciatura en Derecho. Universidad Nacional Autónoma de México.", 
+        "Licenciatura en Ciencias Diplomáticas. Universidad Nacional Autónoma de México.", 
+        "Maestría en Relaciones Internacionales. Universidad Nacional Autónoma de México.", 
+        "Maestría en Derecho. Atlantic International University, Estados Unidos de América.", 
+        "Doctorado en Derecho. Atlantic International University, Estados Unidos de América."
+    ], 
+    "lineas_investigacion": [
+        "Área jurídica de Relaciones Internacionales.", 
+        "Ciencias sociales.", 
+        "Derecho internacional.", 
+        "Negociación internacional."
+    ], 
+    "investigaciones": [
+        "La corte penal internacional.", 
+        "Derecho internacional público. Tratados.", 
+        "Derecho internacional público, diplomático y consular.", 
+        "Derecho internacional privado.", 
+        "Protocolo y negociación."
+    ]
+}

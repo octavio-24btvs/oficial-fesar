@@ -1,0 +1,31 @@
+{
+	"titulo": "Las nuevas normalidades: Los contextos que cambian una sociedad",
+	"titulo_normalizado": "las-nuevas-normalidades-los-contextos-que-cambian-una-sociedad",
+	"secciones": [
+		{
+			"seccion": "Ciencias Sociales",
+			"seccion_normalizada": "ciencias-sociales"
+		},
+		{
+			"seccion": "Sociología",
+			"seccion_normalizada": "sociologia"
+		}
+	],
+	"autor": "Axel Garc\u00EDa",
+	"fecha": "07/11/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dieron inicio las mesas de reflexi\u00F3n en el marco del proyecto PAPIME: \"Estrategias de ense\u00F1anza activa para reforzar el aprendizaje de los procesos socio hist\u00F3ricos de M\u00E9xico\", esto como parte de las actividades del Seminario: Sociedad, Pol\u00EDtica y Cultura en M\u00E9xico. La mesa 4 tuvo lugar en el auditorio A9 y abord\u00F3 los procesos de integraci\u00F3n y coordinaci\u00F3n social, adem\u00E1s de las formas en que las juventudes se han desarrollado en diferentes contextos sociales y culturales.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El primer ponente fue Miguel \u00C1ngel Maciel, quien habl\u00F3 del impacto que tuvo la pandemia en la educaci\u00F3n y las formas de interacci\u00F3n social, destacando el uso de las herramientas digitales y el c\u00F3mo afectan los v\u00EDnculos humanos, asimismo mencion\u00F3 las narrativas esot\u00E9ricas durante la pandemia.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El siguiente ponente en la mesa de reflexi\u00F3n fue Alan Atilano Casta\u00F1eda, quien habl\u00F3 de su experiencia en el parque Bustamante durante las protestas en Santiago de Chile en 2019, comentando el contexto social sumamente interesante de las personas que se reun\u00EDan en el parque a patinar y posteriormente asist\u00EDan a las protestas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, el licenciado Amaury Serna Carrillo nos habl\u00F3 de las perspectivas anal\u00EDticas de los j\u00F3venes bajo el contexto social actual y la manera en que la liminalidad puede ser analizada desde diversas perspectivas sociol\u00F3gicas para describir estados de transici\u00F3n o l\u00EDmites entre diferentes etapas de la vida.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Normalidades1.gif"
+		},
+		{
+			"imagen": "Normalidades2.gif"
+		},
+		{
+			"imagen": "Normalidades3.gif"
+		},
+		{
+			"imagen": "normalidades4.gif"
+		}	]
+
+}

@@ -1,0 +1,73 @@
+{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfiles",
+        "Plan de estudios",
+        "Mapa curricular",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Grupos de inter\u00E9s",
+        "Contacto"
+    ],
+    "titulo": "Ingenier\u00EDa Mecánica",
+    "icono": "icono-secciones icon-ingenieria-mecanica",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Bienvenidos</h2><p>La carrera de Ingeniería Mecánica te da la bienvenida a la FES Aragón. Es sumamente grato para nosotros recibirte, puesto que eres parte de una generación más de jóvenes interesados en el estudio de la Ingeniería Mecánica y en la transformación del entorno social, económico y cultural del país.</p><p>Durante tu formación profesional, te esperan largas horas de estudio, investigación, esfuerzo y trabajo. Sin embargo, todo esto valdrá la pena, ya que con el apoyo de nuestros docentes adquirirás conocimientos y habilidades útiles para que consolides una vida profesional de alto nivel.</p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentación</h2><p>El objetivo de la carrera de Ingeniería Mecánica es formar profesionales capaces de identificar y solucionar las problemáticas de los sectores industriales y sociales por medio de la automatización de procesos, generación y ahorro de energía, mejoramiento en los procesos de manufactura y el diseño de proyectos innovadores.</p><p>Nuestros profesionistas contarán con conocimientos para instalar, operar, mantener, construir y seleccionar equipos y sistemas mecánicos, así como capacidades para planear, diseñar, desarrollar y evaluar proyectos de innovación en las áreas de diseño, manufactura y termoenergía o eléctrica electrónica; lo cual les permitirá atender las necesidades de producción, mantenimiento, manejo de recursos y diseño de productos.</p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso</h2><p>La comunidad aspirante deberá contar con:</p> <ul><li>conocimientos sólidos de física, química y matemáticas;<\/li><li>aptitud para detectar, definir y aplicar el razonamiento científico al estudio y la solución de problemas prácticos, en el campo de la física y en especial de la mecánica;<\/li><li>capacidad para dirigir el trabajo en equipo;<\/li><li>habilidad en el manejo de diferentes fórmulas y lenguajes de computación;<\/li><li>inventiva y creatividad;<\/li><li>actitud responsable, positiva y emprendedora, a fin de realizar con seguridad y confianza sus labores;<\/li><li>lectura y comprensión del idioma inglés.<\/li><\/ul><hr><h2 class=\"titulo-seccion pb-2\">Perfil de Egreso</h2><p>La comunidad profesional de la Ingeniería Mecánica tendrá conocimientos de ciencias exactas, administrativas y de la ingeniería para desarrollarse en las áreas de diseño de sistemas, dispositivos electromecánicos, selección y análisis de fallas en los materiales, procesos térmicos y de fluidos, así como la manufactura de maquinaria industrial. Esta formación le permitirá participar activamente en las diversas ramas de la ingeniería y responder a las necesidades productivas y de servicios que requiere la sociedad.</p><p>Nuestra comunidad egresada desempeña un papel importante en el desarrollo de la economía. Fortalece la micro, pequeña y mediana empresa mediante el diseño de dispositivos, productos y tecnología, el estudio de las nuevas técnicas de manufactura, análisis energéticos, así como la capacitación y la administración.</p><p>También contará con conocimientos que le permitirán emprender estudios de posgrado que lo mantendrán actualizado con respecto a los constantes avances en las técnicas y tecnologías de esta disciplina.</p>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/mecanica/plan-de-estudios-ing-mecanica.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/mecanica/mapa-ing-mecanica.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/mecanica/programas-ing-mecanica.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/mecanica/titulacion-ing-mecanica.pdf"
+        },
+        {
+            "tipo": "acordeon",
+            "texto": [
+                {
+                    "titulo": "Principales logros de la carrera (tanto de estudiantes como de docentes)",
+                    "texto": "<ul><li>Premio Revelación del año en el Torneo de Robótica 2018 (6 de abril de 2018);<\/li><li>una estudiante participó en una misión análoga a Marte (25 de febrero de 2018);<\/li><li>una docente recibió el premio Sor Juana Inés de la Cruz (2016), como un reconocimiento a sus labores;<\/li><li>miembros del Club de Mecatrónica obtuvieron el primer lugar en Reto DINA (30 de septiembre de 2016);<\/li><li>miembros del Club de Mecatrónica desarrollaron dispositivos robóticos para el apoyo en tareas de rescate (18 de julio 2014);<\/li><li>estudiantes obtuvieron el tercer lugar en el concurso automotriz RC Championship de Ford (14 de enero de 2013);<\/li><li>en 2012 se fundó el Club de Mecatrónica, encabezado por el M. en I. Humberto Mancilla Alonso;<\/li><li>se desarrolló una máquina que garantiza la hermeticidad en las tuberías de drenaje (28 de junio de 2009).<\/li><\/ul>"
+                },
+                {
+                    "titulo": "Proyectos académicos estudiantiles",
+                    "texto": "<ul><li>Club Wayaks. Dentro de sus proyectos se encuentran:<ul><li>diseño de Dron RPAS con aplicación en un ambiente abierto;<\/li><li>diseño de un sistema fisioterapéutico para personas con problemas musculoesqueléticos y de postura;<\/li><li>diseño de dron con sistema de intuición;<\/li><li>dispositivo para la extracción y fallas en tuberías de suministro de agua y petróleo;<\/li><li>wearable para prevenir agresiones a población femenina;<\/li><li>simulador electrónico de vehículo terrestre para la teleoperación de un vehículo motorizado diferencial;<\/li><li>diseño de jaula cunícola inteligente;<\/li><li>vehículo eléctrico monoplaza teleoperado;<\/li><li>biodigestor;<\/li><li>diseño de cámara de refrigeración;<\/li><li>diseño de prótesis mioeléctrica.<\/li><\/ul><\/li><\/ul>"
+                }
+            ]
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Joel Garc\u00EDa Z\u00E1rraga",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/mecanica/joel-garcia-zarraga.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Gustavo Cuauhtémoc Ruiz Cerezo ",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/mecanica/gustavo-cuauhtemoc-ruiz-cerezo.jpg ",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 9:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "56230802 y 56230841",
+                "correo_electronico": "mecanica@aragon.unam.mx",
+                "facebook": "https://www.facebook.com/FESAragon.mecanica/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+	"titulo": "La fotograf\u00EDa como expresi\u00F3n del territorio",
+	"titulo_normalizado": "la-fotografia-como-expresion-del-territorio",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		}
+	],
+	"autor": "Adri\u00E1n Escobar",
+	"fecha": "28/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Facultad de Estudios Superiores Arag\u00F3n, a trav\u00E9s de la Licenciatura en Comunicaci\u00F3n y Periodismo, ofreci\u00F3 en el auditorio A-1 Hermila Galindo la conferencia “Fotograf\u00EDa y procesos: El territorio como punto de partida” como parte de las actividades del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Encuentro Internacional de Fotograf\u00EDa Caleidoscopio 2023.<\/em><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La ponencia corri\u00F3 a cargo de Sonia Madrigal, miembro del Sistema Nacional de Creadores de Arte del Fondo Nacional para la Cultura y las Artes (FONCA) y cofundadora de la galer\u00EDa “Mal d3 ojo” en Nezahualc\u00F3yotl. La charla tambi\u00E9n cont\u00F3 con la participaci\u00F3n de los acad\u00E9micos Adri\u00E1n Fierro, director del grupo Caleidoscopio; y Cristina Vargas, acad\u00E9mica de la carrera de Comunicaci\u00F3n y Periodismo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la charla, Madrigal expuso temas como los procesos para desarrollar im\u00E1genes y el punto de partida, los cuales est\u00E1n relacionados con su trayectoria como retratista y la influencia de su municipio natal, Nezahualc\u00F3yotl, en la creaci\u00F3n de su trabajo art\u00EDstico. Lo anterior, con el objetivo de concientizar a los estudiantes sobre el papel de la fotograf\u00EDa como medio de expresi\u00F3n del territorio que los rodea.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">De igual forma, exhibi\u00F3 algunas im\u00E1genes de su archivo art\u00EDstico en las cuales explora distintas narrativas visuales en torno a la vida cotidiana de los habitantes de Nezahualc\u00F3yotl desde un punto de vista reflexivo.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">“Las y los invito a explorar su territorio. Seguramente observan en su vida diaria situaciones que les interesan y a veces las subestimamos por ser demasiado ordinarias, pero hacer fotograf\u00EDa desde el lugar de origen es interesarse por el trabajo que hacen las personas desde su territorio”, se\u00F1al\u00F3 Madrigal.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "lafoto-1.jpg"
+		},
+		{
+			"imagen": "lafoto-2.jpg"
+		},
+		{
+			"imagen": "lafoto-3.jpg"
+		},
+		{
+			"imagen": "lafoto-4.jpg"
+		},
+		{
+			"imagen": "lafoto-5.jpg"
+		}	]
+
+}

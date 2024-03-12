@@ -1,0 +1,40 @@
+{
+	"titulo": "Competitividad, econom\u00EDa regional y revistas de posgrado",
+	"titulo_normalizado": "competitividad-economia-regional-y-revistas-de-posgrado",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		},
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor": "Oscar Rafael Cornejo",
+	"fecha": "12/10/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La d\u00E9cimo tercera mesa del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">7.o Congreso Internacional de Econom\u00EDa <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">se llev\u00F3 a cabo el pasado 12 de octubre, se abord\u00F3 el tema del d\u00F3lar y su comparaci\u00F3n con el resto de monedas latinoamericanas, desde el 2018 a la actualidad. Para ello estuvo como invitada la maestra Gabriela Ram\u00EDrez, del Instituto Polit\u00E9cnico Nacional, quien habl\u00F3 de los paradigmas econ\u00F3micos en Am\u00E9rica Latina, en el siglo XXI.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Comenz\u00F3 su ponencia contextualizando la econom\u00EDa con \u00E9nfasis en Latinoam\u00E9rica, poniendo como primer ejemplo la privatizaci\u00F3n de industrias petroleras, mineras o incluso del sector agr\u00EDcola, donde a pesar de que se cosechan semillas, frutas y verduras en tierra nacional, se ve una clara preferencia por consumir productos extranjeros. Continu\u00F3 con un resumen general de los gobiernos en pa\u00EDses latinos desde inicios de siglo hasta la actualidad.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Ra\u00FAl Gustavo Acua y Selene Jim\u00E9nez Bautista continuaron la conferencia con el tema de los 16 comit\u00E9s del T-MEC (Tratado entre M\u00E9xico, Estados Unidos y Canad\u00E1), donde explicaron que estos fueron creados a partir de una estrategia de negociaci\u00F3n por parte de EE.UU. Iniciativa de Donald Trump que el actual presidente, Biden, no ha mostrado inter\u00E9s en continuar.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, la profesora Martha Pedroza comparti\u00F3 el trabajo de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Revista Digital de Posgrado<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, en la cual se abordan temas de inter\u00E9s social, y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Voces y Saberes<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> que cuenta con diferentes materiales como art\u00EDculos, ensayos, entrevistas de cine, fotorreportajes, rese\u00F1as, carteles, entre otros. Ambas son de acceso gratuito y se pueden encontrar en sitios web oficiales.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Economía1.gif"
+		},
+		{
+			"imagen": "Economía2.gif"
+		},
+		{
+			"imagen": "Economía3.gif"
+		},
+		{
+			"imagen": "Economía4.gif"
+		},
+		{
+			"imagen": "Economía5.gif"
+		},
+		{
+			"imagen": "Economía6.gif"
+		},
+		{
+			"imagen": "Economía7.gif"
+		}	]
+
+}

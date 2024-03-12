@@ -1,0 +1,46 @@
+{
+	"titulo": "Reflexiones sobre los cuidados",
+	"titulo_normalizado": "reflexiones-sobre-los-cuidados",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		},
+		{
+			"seccion": "SUAyED",
+			"seccion_normalizada": "suayed"
+		}
+	],
+	"autor": "Hilda Hern\u00E1ndez",
+	"fecha": "03/10/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A medio d\u00EDa, en el primer Congreso Internacional de Cuidados, se llevaron a cabo tres mesas de di\u00E1logo que resaltaron la importancia de repensar los cuidados en nuestra sociedad. En conjunto, recalcaron la relevancia de estas actividades y reconocieron los derechos relacionados, especialmente en un contexto de desigualdad de g\u00E9nero y distribuci\u00F3n desigual de las cargas de trabajo en el hogar.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las participaciones de expertas y expertos, en un espacio para la reflexi\u00F3n y el intercambio de ideas, mostraron c\u00F3mo los cuidados juegan un papel fundamental en la vida de las personas. M\u00E1s all\u00E1 de las palabras, estas discusiones buscan promover una sociedad m\u00E1s justa e igualitaria para todas las personas, donde los derechos sean reconocidos y garantizados de forma equitativa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se llevaron a cabo las mesas de di\u00E1logo 4, 7 y 9, moderadas por acad\u00E9micos de nuestra Facultad, donde se exploraron debates te\u00F3ricos sobre el cuidado y el trabajo de cuidados, destacando la necesidad de un paradigma que promueva la vida digna, la importancia de priorizar el bienestar de las personas y abordar la desigualdad impulsada por el patriarcado, as\u00ED como la responsabilidad de las empresas en facilitar la conciliaci\u00F3n del trabajo de cuidado con el tiempo, dinero, servicios e infraestructura adecuados.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Cuidados1.gif"
+		},
+		{
+			"imagen": "Cuidados2.gif"
+		},
+		{
+			"imagen": "Cuidados3.gif"
+		},
+		{
+			"imagen": "Cuidados4.gif"
+		},
+		{
+			"imagen": "Cuidados5.gif"
+		},
+		{
+			"imagen": "Cuidados6.gif"
+		},
+		{
+			"imagen": "Cuidados7.gif"
+		},
+		{
+			"imagen": "Cuidados8.gif"
+		},
+		{
+			"imagen": "Cuidados9.gif"
+		}	]
+
+}

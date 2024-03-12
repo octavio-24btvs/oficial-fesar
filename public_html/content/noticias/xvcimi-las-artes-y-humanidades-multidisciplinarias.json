@@ -1,0 +1,37 @@
+{
+	"titulo": "XVCIMI: Las artes y humanidades multidisciplinarias",
+	"titulo_normalizado": "xvcimi-las-artes-y-humanidades-multidisciplinarias",
+	"secciones": [
+		{
+			"seccion": "CIMA",
+			"seccion_normalizada": "cima"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "25/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">La FES Arag\u00F3n inaugur\u00F3 el <\/span><em style=\"color: rgb(60, 64, 67);\">XV Congreso Internacional Multidisciplinario de Investigaci\u00F3n<\/em><span style=\"color: rgb(60, 64, 67);\">, con Jos\u00E9 Pablo Mejorada, secretario acad\u00E9mico del Programa de Investigaci\u00F3n, quien presidi\u00F3 el acto de apertura. La primera mesa&nbsp; cont\u00F3 con la presencia de Gustavo Aguilar, de la Universidad Aut\u00F3noma de Sinaloa; Luz Marina Ayala, de la Universidad Nacional de Asunci\u00F3n, Paraguay; Eduardo Carrillo, Universidad del Valle de M\u00E9xico (UVM), la aragonesa Fernanda Guti\u00E9rrez, de la carrera de Dise\u00F1o Industrial; el profesor Carlos Ch\u00E1vez, y la moderaci\u00F3n de&nbsp; Patricia Diaz, profesora del seminario de titulaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">En este evento se abord\u00F3 el dise\u00F1o de muebles con bamb\u00FA, el proceso de manufactura y su contexto econ\u00F3mico-social, los insumos empleados, as\u00ED como la relaci\u00F3n&nbsp; con la comunidad productora. El segundo tema trat\u00F3 sobre la ergonom\u00EDa del dise\u00F1o industrial en la cocina.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">Despu\u00E9s fue explicada la correlaci\u00F3n entre el calendario gregoriano y el n\u00E1huatl. Posteriormente, se expuso sobre la gesti\u00F3n y transferencia del conocimiento en la propiedad intelectual de pueblos originarios, as\u00ED como la apropiaci\u00F3n cultural de sus tradiciones por parte de marcas y pa\u00EDses.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">Finalmente, la ponencia de cierre fue la transformaci\u00F3n del Banco Comercial del Pac\u00EDfico a Banco de Comercio de Sinaloa, la relaci\u00F3n que tuvo con Coppel y la historia general en su composici\u00F3n, operaci\u00F3n, administraci\u00F3n y crecimiento en la regi\u00F3n de Sinaloa.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Humanidad1.gif"
+		},
+		{
+			"imagen": "Humanidad2.gif"
+		},
+		{
+			"imagen": "Humanidad3.gif"
+		},
+		{
+			"imagen": "Humanidad4.gif"
+		},
+		{
+			"imagen": "Humanidad5.gif"
+		},
+		{
+			"imagen": "Humanidad6.gif"
+		}	]
+
+}

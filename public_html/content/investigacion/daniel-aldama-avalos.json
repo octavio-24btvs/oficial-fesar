@@ -1,0 +1,21 @@
+{
+    "nombre": "Daniel Aldama Ávalos", 
+    "grado_academico": "Doctor", 
+    "correo": [ "danielaldama3m9@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Técnico como Mecánico. Instituto Politécnico Nacional.", 
+        "Licenciatura en Ingeniería Industrial con Especialidad en Producción. Instituto Politécnico Nacional.", 
+        "Maestría en Ingeniería Metalúrgica. Instituto Politécnico Nacional.", 
+        "Doctorado en Pedagogía. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ingeniería. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Formación y ocupación de los ingenieros.", 
+        "Los materiales y el hombre."
+    ], 
+    "investigaciones": [
+        "Las herramientas matemáticas de mayor uso para estudiar ingeniería.", 
+        "Los procesos de soldadura en los aceros inoxidables bifásicos."
+    ]
+}

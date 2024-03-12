@@ -1,0 +1,20 @@
+{
+    "nombre": "Armando Rosales García", 
+    "grado_academico": "Doctor", 
+     "correo": [ "armando_rosales@unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Economía. Universidad Nacional Autónoma de México.", 
+        "Arquitectura. Universidad Nacional Autónoma de México.", 
+        "Maestría en Estudios Urbanos. El Colegio de México.", 
+        "Doctorado en Estudios Urbanos y Ambientales. El Colegio de México."
+    ], 
+    "lineas_investigacion": [
+        "Investigación en Humanidades.", 
+        "Investigación en Artes.", 
+        "Investigación en Ciencias Físico Matemáticas e Ingenierías."
+    ], 
+    "investigaciones": [
+        "La expresión gráfica como fundamento del razonamiento espacial en el proceso de diseño arquitectónico.", 
+        "Expresión gráfica y comprensión de la estructura urbana."
+    ]
+}

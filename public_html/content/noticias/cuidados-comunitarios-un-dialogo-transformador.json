@@ -1,0 +1,37 @@
+{
+	"titulo": "Cuidados comunitarios: un di\u00E1logo transformador",
+	"titulo_normalizado": "cuidados-comunitarios-un-dialogo-transformador",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		},
+		{
+			"seccion": "SUAyED",
+			"seccion_normalizada": "suayed"
+		}
+	],
+	"autor": "Hilda Hern\u00E1ndez",
+	"fecha": "05/10/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En mesas de di\u00E1logo con distintos oradores, se exploraron temas relacionados con los cuidados comunitarios. En la tercera mesa Eva Maria Villanueva subray\u00F3 la importancia de entender que los cuidados en \u00E1reas urbanas cambian constantemente y deben considerarse asuntos p\u00FAblicos. David Guti\u00E9rrez mostr\u00F3 c\u00F3mo el arte, puede ser una potente herramienta para cuestionar violaciones a los derechos humanos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Rosa Elvira Cedillo abog\u00F3 por igualar la distribuci\u00F3n de la carga de trabajo. Marissa Vivaldo y Maria de la Luz Mart\u00EDnez resaltaron la importancia de la colaboraci\u00F3n y la solidaridad en los cuidados comunitarios. Montserrat Olvera comparti\u00F3 sus experiencias en el cuidado de personas mayores en Tlaxcala; y Fabio V\u00E9lez explor\u00F3 las posibilidades de las plataformas digitales en la atenci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la cuarta mesa, Sonia S\u00E1nchez inici\u00F3 el debate explorando los cuidados desde una perspectiva de g\u00E9nero. Cesar Mart\u00EDn Acosta abord\u00F3 la circulaci\u00F3n de los cuidados m\u00E1s all\u00E1 de las fronteras nacionales y la necesidad de herramientas anal\u00EDticas para comprender este fen\u00F3meno.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Danaysi \u00C1lvarez profundiz\u00F3 en la experiencia de los cuidados en \u00E1reas rurales durante la pandemia, mientras que Ana Leticia Hern\u00E1ndez present\u00F3 la idea de la \"contra-pedagog\u00EDa del cuidado patriarcal\" como un enfoque valioso para contrarrestar la violencia de g\u00E9nero y avanzar hacia una sociedad fundamentada en el cuidado y la igualdad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este evento promovi\u00F3 un valioso intercambio de ideas y perspectivas sobre los cuidados comunitarios, subrayando su relevancia en la sociedad contempor\u00E1nea y su capacidad para transformar nuestras vidas.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "comunitarios.gif"
+		},
+		{
+			"imagen": "Comunitarios2.gif"
+		},
+		{
+			"imagen": "Comunitarios3.gif"
+		},
+		{
+			"imagen": "comunitarios4.gif"
+		},
+		{
+			"imagen": "Comunitarios5.gif"
+		},
+		{
+			"imagen": "Comunitarios6.gif"
+		}	]
+
+}

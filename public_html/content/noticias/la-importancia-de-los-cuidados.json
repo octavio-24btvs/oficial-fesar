@@ -1,0 +1,27 @@
+{
+	"titulo": "La importancia de los cuidados",
+	"titulo_normalizado": "la-importancia-de-los-cuidados",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Jorge Narv\u00E1ez",
+	"fecha": "04/10/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Primer Congreso Internacional de Cuidados: Hacia una sociedad sustentable<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, fue llevado a cabo de manera virtual y estuvo a cargo de la acad\u00E9mica Georgina C\u00E1rdenas, de la FES Arag\u00F3n, quien adem\u00E1s de presentar el evento, realiz\u00F3 un breve resumen de la trayectoria de la ponente, la Diputada Amalia Garc\u00EDa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Garc\u00EDa, una figura destacada en el \u00E1mbito pol\u00EDtico, comenz\u00F3 recordando que los cuidados, a menudo desempe\u00F1ados por mujeres y en gran parte no remunerados, son fundamentales en nuestra sociedad. A pesar de esta importancia, las pol\u00EDticas p\u00FAblicas no han reconocido adecuadamente este trabajo, destac\u00F3.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante su exposici\u00F3n, explor\u00F3 la historia de estos en la C\u00E1mara de Diputados, se\u00F1alando los avances logrados gracias a las pol\u00EDticas feministas y enfatizando las dificultades enfrentadas en el camino. La pandemia ha demostrado de manera contundente el car\u00E1cter esencial de estas actividades para la sostenibilidad de la sociedad, enfatiz\u00F3.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Uno de los obst\u00E1culos m\u00E1s notables en el tema, seg\u00FAn Garc\u00EDa, es que a menudo son subestimados incluso por quienes los realizan. Esta falta de reconocimiento se extiende tanto a su valor econ\u00F3mico como a su impacto social. Adem\u00E1s, abord\u00F3 la preocupaci\u00F3n presupuestal presentada a menudo al considerar pol\u00EDticas para reconocer los cuidados.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Destac\u00F3 el prop\u00F3sito de la Ley General de Desarrollo Social, esta busca articular pol\u00EDticas y programas para garantizar el acceso a servicios de este tipo para quienes los necesitan, al mismo tiempo protege los derechos de las personas proveedoras de estas atenciones. La conferencia concluy\u00F3 con palabras de agradecimiento de Luz Galindo, profesora de la Facultad de Ciencias Pol\u00EDticas y Sociales y de Arag\u00F3n, quien reconoci\u00F3 la importancia de la reuni\u00F3n.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "cuidados-1.gif"
+		},
+		{
+			"imagen": "cuidados-2.gif"
+		},
+		{
+			"imagen": "cuidados-3.gif"
+		},
+		{
+			"imagen": "cuidados-4.gif"
+		}	]
+
+}

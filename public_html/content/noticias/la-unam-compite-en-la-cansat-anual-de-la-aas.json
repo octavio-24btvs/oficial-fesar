@@ -1,0 +1,31 @@
+{
+	"titulo": "La UNAM compite en la CanSat anual de la AAS",
+	"titulo_normalizado": "la-unam-compite-en-la-cansat-anual-de-la-aas",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "22/06/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Estudiantes de la Asociaci\u00F3n Aeroespacial de la Facultad de Ingenier\u00EDa (AAFI) han dejado huella en la competici\u00F3n anual de CanSat, organizada por la American Astronautical Society (AAS). En este equipo participaron Natalie Amanda Buenavides, Guillermo Alejandro Bola\u00F1os y David Iv\u00E1n Farf\u00E1n, aragoneses de Ingenier\u00EDa Mec\u00E1nica, quienes tuvieron la oportunidad de participar en un proyecto espacial de principio a fin.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En representaci\u00F3n de M\u00E9xico, el grupo de la UNAM compiti\u00F3 con otras 30 universidades de renombre internacional, demostrando su talento y habilidades en el dise\u00F1o y construcci\u00F3n de un prototipo de sat\u00E9lite en miniatura, el cual tiene como fin recopilar datos a altitudes de 700 metros. Los estudiantes recibieron apoyo para solventar los gastos de viaje y alojamiento por parte de la FES Arag\u00F3n y la Secretar\u00EDa de Relaciones Exteriores; adem\u00E1s de la asesor\u00EDa por parte de la Facultad de Ingenier\u00EDa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El evento tuvo lugar en el Virginia Tech, Blacksburg, del 8 al 11 de junio; ah\u00ED las y los participantes pusieron a prueba sus conocimientos te\u00F3ricos. El equipo se siente orgulloso de la experiencia adquirida y est\u00E1 decidido a mejorar su desempe\u00F1o en futuros proyectos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este logro destaca la importancia de llevar los conocimientos te\u00F3ricos a la pr\u00E1ctica y la dedicaci\u00F3n de los estudiantes mexicanos en el campo de la ingenier\u00EDa espacial. La AAFI invita a otros estudiantes a unirse a la asociaci\u00F3n y participar en proyectos tanto emocionantes como enriquecedores. Para m\u00E1s informaci\u00F3n, pueden contactar a la misma a trav\u00E9s de sus <\/span><a href=\"https:\/\/aafi.space\/\" target=\"_blank\" style=\"color: rgb(0, 0, 255); background-color: transparent;\">redes sociales<\/a><a href=\"https:\/\/aafi.space\/\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/a><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Cansat1.gif"
+		},
+		{
+			"imagen": "cansat2.gif"
+		},
+		{
+			"imagen": "CAnsat3.gif"
+		},
+		{
+			"imagen": "Cansat4.gif"
+		}	]
+
+}

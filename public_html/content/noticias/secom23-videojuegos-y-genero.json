@@ -1,0 +1,37 @@
+{
+	"titulo": "SeCom23: Videojuegos y g\u00E9nero",
+	"titulo_normalizado": "secom23-videojuegos-y-genero",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		},
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "28/03/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la comunicaci\u00F3n 2023<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> se llev\u00F3 a cabo la conferencia “Videojuegos y g\u00E9nero”, donde participaron Monserrat Carmona, Mariana Z\u00FA\u00F1iga y Jimena Caballero, especialistas y desarrolladoras de videojuegos, con Emanuel Velazco como moderador.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En esta conferencia se plantearon nuevos escenarios de los videojuegos y su papel como medio de comunicaci\u00F3n, hipermedio, producto audiovisual y parte de la industria del entretenimiento, sumado a su rol dentro de las TIC, el cual responde a un dominio de creaci\u00F3n y uso hetero-patriarcal.&nbsp;<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de las cuestiones de g\u00E9nero que se reflejan en la industria de los videojuegos est\u00E1 la creaci\u00F3n estereotipada de personajes femeninos con cuerpos extravagantes, esto refleja una constante cosificaci\u00F3n y representaci\u00F3n de la mujer como damisela en peligro. Adem\u00E1s se mencion\u00F3 que la participaci\u00F3n de jugadoras y desarrolladoras de la industria se ve afectada por violencia, acoso y sexismo.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las narrativas en la construcci\u00F3n de un personaje femenino se asocian con una actuaci\u00F3n familiar, inter\u00E9s romantico, como acompa\u00F1ante o <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">femme fatale<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y visualmente son hipersexualizadas. Aunque actualmente hay una mayor inclusi\u00F3n de personajes femeninos m\u00E1s realistas y con una personalidad m\u00E1s desarrollada, los jugadores hombres suelen reaccionar de forma negativa a estas figuras argumentando incomodidad al jugar con un personaje “feo”.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Juegos1.gif"
+		},
+		{
+			"imagen": "Juegos2.gif"
+		},
+		{
+			"imagen": "Juegos3.gif"
+		},
+		{
+			"imagen": "Juegos4.gif"
+		},
+		{
+			"imagen": "Juegos5.gif"
+		},
+		{
+			"imagen": "Juegos6.gif"
+		}	]
+
+}

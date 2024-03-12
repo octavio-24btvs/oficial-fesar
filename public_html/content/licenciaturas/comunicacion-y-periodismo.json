@@ -1,0 +1,75 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Plan de estudios",
+        "Mapa curricular",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Reconocimientos y proyectos",
+        "Contacto"
+    ],
+    "titulo": "Comunicaci\u00F3n y Periodismo",
+    "icono": "icono-secciones icon-comunicacion-y-peridismo",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La etapa que ahora comienzas es una de las m\u00E1s enriquecedoras en tu vida, puesto que el conocimiento que obtendr\u00E1s a lo largo de los a\u00F1os de tu formaci\u00F3n superior, permitir\u00E1 que comprendas la trascendencia de tu profesi\u00F3n y puedas ejercerla con \u00E9tica y responsabilidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Ten presente en todo momento la importancia de la UNAM en la vida de nuestro pa\u00EDs, ya que tenemos la posibilidad de apoyar en la soluci\u00F3n de problemas a trav\u00E9s del conocimiento aplicado en proyectos de alto impacto; as\u00ED como promover el acceso a la educaci\u00F3n, la investigaci\u00F3n y extensi\u00F3n de la cultura para toda la sociedad.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Comunicaci\u00F3n y Periodismo forma profesionales que entienden la comunicaci\u00F3n como un proceso y conocen puntualmente sus diversas formas y niveles. Por ello, son capaces de analizar y evaluar el fen\u00F3meno que representa. Adem\u00E1s, conocen y aplican los elementos que conforman a los mensajes y determinan los medios en los cuales ser\u00E1n difundidos, para cubrir la necesidad de informaci\u00F3n de la sociedad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Comprenden y explican problemas comunicativos, del desarrollo del individuo y de la sociedad. Con el conocimiento de las relaciones existentes entre los procesos de comunicaci\u00F3n y otras disciplinas del \u00E1rea social, la comunidad de profesionistas puede resolver de manera adecuada problem\u00E1ticas actuales.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura se orienta a contribuir, de forma responsable y cr\u00EDtica, al an\u00E1lisis y difusi\u00F3n de los problemas sociales, a trav\u00E9s de la elaboraci\u00F3n de mensajes y contenidos informativos, ya sean escritos, audiovisuales y multiplataforma. Todo ello con base en el estudio de los or\u00EDgenes, la estructura, el desarrollo y los cambios en el proceso de comunicaci\u00F3n humana en sus distintos niveles y facetas, tanto interpersonales como grupales, organizacionales y masivos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En general, como comunicadores enfrentan el reto de contribuir a la adecuada producci\u00F3n y difusi\u00F3n de mensajes para la sociedad, de tal modo que esta disponga de los elementos necesarios para la formaci\u00F3n de la opini\u00F3n p\u00FAblica.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para formar parte de la carrera, la comunidad aspirante deber\u00E1:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">contar con el bachillerato concluido con un promedio m\u00EDnimo de 7;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">poseer s\u00F3lidos conocimientos gramaticales;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tener facilidad para recopilar, comparar y analizar informaci\u00F3n que le permita estructurar datos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">ostentar amplia cultura general mediante la lectura y el an\u00E1lisis de los medios de comunicaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">actuar en condiciones apremiantes ya que el tiempo es un factor fundamental en el desempe\u00F1o de esta profesi\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tener facilidad para el manejo, comparaci\u00F3n y an\u00E1lisis de los sucesos, as\u00ED como agilidad mental que le permita la asociaci\u00F3n y organizaci\u00F3n de datos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">poseer capacidad para plantear problemas, investigar y proponer soluciones;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">manifestar habilidades y vocaci\u00F3n para la lectura y escritura de diversos temas;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">hablar elocuentemente y contar con un l\u00E9xico amplio del idioma espa\u00F1ol;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">mostrar facilidad para relacionarse con las personas;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">contar con habilidades para los idiomas extranjeros, principalmente el ingl\u00E9s;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">demostrar creatividad constante y disposici\u00F3n para el trabajo en equipo;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tener capacidad para emprender.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al finalizar la licenciatura en Comunicaci\u00F3n y Periodismo, la comunidad egresada contar\u00E1 con las siguientes caracter\u00EDsticas:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tendr\u00E1 conocimiento amplio de la gram\u00E1tica y ortograf\u00EDa del espa\u00F1ol;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">manejar\u00E1 la teor\u00EDa de la Comunicaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">reconocer\u00E1 y aplicar\u00E1 los diversos g\u00E9neros period\u00EDsticos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">aplicar\u00E1 los m\u00E9todos y t\u00E9cnicas de investigaci\u00F3n en Comunicaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">crear\u00E1 a trav\u00E9s de la producci\u00F3n multimedia diferentes productos medi\u00E1ticos (impresos, radio, televisi\u00F3n, medios digitales);<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">elaborar\u00E1 estrategias de campa\u00F1as de propaganda, relaciones p\u00FAblicas y publicidad;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">demostrar\u00E1 una amplia apreciaci\u00F3n de las artes, con \u00E9nfasis en literatura y cinematograf\u00EDa, por su car\u00E1cter narrativo;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">conocer\u00E1 la historia y marco legal de los medios de comunicaci\u00F3n y de la pr\u00E1ctica period\u00EDstica;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">aplicar\u00E1 los valores \u00E9ticos en el ejercicio del periodismo y de la comunicaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">reconocer\u00E1 los problemas pol\u00EDticos, econ\u00F3micos y socioculturales contempor\u00E1neos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">contar\u00E1 con un amplio panorama de la historia de M\u00E9xico;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">conocer\u00E1 y comprender\u00E1 la din\u00E1mica de los medios y globalizaci\u00F3n.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/comunicacion-y-periodismo/plan-de-estudios-comunicacion-y-periodismo.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/comunicacion-y-periodismo/mapa-comunicacion-y-periodismo.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/comunicacion-y-periodismo/programas-comunicacion-y-periodismo.pdf"
+        },
+        {
+            "tipo": "pdf", 
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/comunicacion-y-periodismo-titulacion"
+        }, 
+        {
+            "tipo": "reconocimientos",
+            "texto": {
+                "reconocimiento_docentes": "<ul><li class=\"ql-align-justify\"><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Premio Internacional Ortega y Gasset 2018<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, en la categor\u00EDa Investigaci\u00F3n Period\u00EDstica por \"La Estafa Maestra\" de la egresada Nayeli Rold\u00E1n, publicada en el portal Animal Pol\u00EDtico;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">segundo lugar en el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">8.� Premio de Periodismo sobre Innovaci\u00F3n Cient\u00EDfica y Tecnol\u00F3gica 2017, <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">obtenido por la egresada Alba Mar\u00EDa Medina;<\/span><\/li><li><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">cuarto lugar del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">10.� Concurso de Ensayo \"Universitarios Construyendo Transparencia\"<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> del Instituto de Acceso a la Informaci\u00F3n P\u00FAblica y Protecci\u00F3n de Datos Personales del Distrito Federal (INFODF), 2018, obtenido por Regina Nava.<span class=\"ql-cursor\">?<\/span><\/span><\/li><\/ul>",
+                "reconocimiento_alumnos": ""
+            }
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Edgar Gabriel Lara Granados",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/comunicacion-y-periodismo/edgar-gabriel-lara-granados.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Leonardo Velasco Fajardo",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/comunicacion-y-periodismo/leonardo-fajardo-velasco.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30812 y 30849",
+                "correo_electronico": "comunicacion@aragon.unam.mx",
+                "correo_electronico_st": "st.comunicacion@aragon.unam.mx",
+                "facebook": "https:\/\/www.facebook.com\/FESAragon.comunicacion\/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/comunicacion-y-periodismo"
+            }
+        }
+    ]
+}

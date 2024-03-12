@@ -1,0 +1,28 @@
+{
+	"id": 25,
+	"titulo": "Becas",
+	"icono": "icon-becas-1",
+	"noticias": [
+		{
+			"titulo":"Emotiva despedida a personas beneficiarias de movilidad acad\u00E9mica",
+			"titulo_normalizado":"emotiva-despedida-a-personas-beneficiarias-de-movilidad-academica",
+			"autor":"Beatriz Calva",
+			"imagen": "despedida-1.gif",
+			"fecha":"30/05/23"
+		},
+		{
+			"titulo":"Becas y programas de movilidad a Taipei",
+			"titulo_normalizado":"becas-y-programas-de-movilidad-a-taipei",
+			"autor":"Alejandro Trujillo",
+			"imagen": "ATC_0055.jpg",
+			"fecha":"19/02/23"
+		},
+		{
+			"titulo":"Becas para el desarrollo profesional",
+			"titulo_normalizado":"becas-para-el-desarrollo-profesional",
+			"autor":"Erik Pliego",
+			"imagen": "Becas1.gif",
+			"fecha":"03/06/22"
+		}
+	]
+}

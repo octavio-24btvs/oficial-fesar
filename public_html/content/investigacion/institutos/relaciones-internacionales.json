@@ -1,0 +1,20 @@
+{
+    "carrera": "Relaciones Internacionales", 
+    "icono": "icon-relaciones-internacionales", 
+    "investigadores": [
+        {
+            "nombre": "Latife Elizabeth Ordóñez Saleme", 
+            "nombre_normalizado": "latife-elizabeth-ordonez-saleme"
+        },
+        {
+            "nombre": "Rodolfo Arturo Villavicencio López", 
+            "nombre_normalizado": "rodolfo-arturo-villavicencio-lopez", 
+            "imagen": true
+        },  
+        {
+            "nombre": "Sergio Guerrero Verdejo", 
+            "nombre_normalizado": "sergio-guerrero-verdejo",
+            "imagen": true
+        }
+    ]
+}

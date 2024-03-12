@@ -1,0 +1,77 @@
+{
+	"id": 23,
+	"titulo": "CTA",
+	"icono": "icon-centro-tecnologico",
+	"noticias": [
+		{
+			"titulo":"Proyectos enfocados al ahorro de energ\u00EDa",
+			"titulo_normalizado":"proyectos-enfocados-al-ahorro-de-energia",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "Energía1.gif",
+			"fecha":"26/04/22"
+		},
+		{
+			"titulo":"CTA y DGTIC realizan auditor\u00EDa para el INE",
+			"titulo_normalizado":"cta-y-dgtic-realizan-auditoria-para-el-ine",
+			"autor":"Erik Pliego",
+			"imagen": "INE1.gif",
+			"fecha":"24/03/22"
+		},
+		{
+			"titulo":"Gabriella Piccinelli: astrof\u00EDsica aragonesa",
+			"titulo_normalizado":"gabriella-piccinelli-astrofisica-aragonesa",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "AStrofísica5.gif",
+			"fecha":"23/08/22"
+		},
+		{
+			"titulo":"Arag\u00F3n celebra la 1.era Feria InnovaFES de emprendimiento",
+			"titulo_normalizado":"aragon-celebra-la-1era-feria-innovafes-de-emprendimiento",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Innova10.gif",
+			"fecha":"22/08/23"
+		},
+		{
+			"titulo":"Primer encuentro de emprendimiento",
+			"titulo_normalizado":"primer-encuentro-de-emprendimiento",
+			"autor":"Erik Pliego",
+			"imagen": "InnovaFES1.gif",
+			"fecha":"19/06/23"
+		},
+		{
+			"titulo":"Proyectos para fortalecer la ense\u00F1anza de la comunidad Arag\u00F3n",
+			"titulo_normalizado":"proyectos-para-fortalecer-la-ensenanza-de-la-comunidad-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "JOséH2.gif",
+			"fecha":"06/09/22"
+		},
+		{
+			"titulo":"FES Arag\u00F3n e Innova UNAM fortalecen el emprendimiento artesanal en Ixtapaluca",
+			"titulo_normalizado":"fes-aragon-e-innova-unam-fortalecen-el-emprendimiento-artesanal-en-ixtapaluca",
+			"autor":"Erik Pliego",
+			"imagen": "Ixtapaluca.gif",
+			"fecha":"06/06/23"
+		},
+		{
+			"titulo":"Los ODS en la FES Arag\u00F3n",
+			"titulo_normalizado":"los-ods-en-la-fes-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "ODS1.gif",
+			"fecha":"05/06/23"
+		},
+		{
+			"titulo":"La importancia de las tuber\u00EDas",
+			"titulo_normalizado":"la-importancia-de-las-tuberias",
+			"autor":"Erik Pliego",
+			"imagen": "Tuberías1.gif",
+			"fecha":"03/05/22"
+		},
+		{
+			"titulo":"V\u00E1lvula economizadora de agua",
+			"titulo_normalizado":"valvula-economizadora-de-agua",
+			"autor":"Erik Pliego",
+			"imagen": "Valvula1.gif",
+			"fecha":"03/03/22"
+		}
+	]
+}

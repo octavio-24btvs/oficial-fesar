@@ -1,0 +1,46 @@
+{
+	"titulo": "Torneo de Dodgeball",
+	"titulo_normalizado": "torneo-de-dodgeball",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "26/04/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades deportivas que organiza el departamento de Extensi\u00F3n Universitaria dentro de las instalaciones de la FES Arag\u00F3n, se llev\u00F3 a cabo, en el gimnasio de parquet, el Torneo de Dodgeball \"Quemados\" en el que participaron 12 equipos conformados por 10 integrantes cada uno.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las y los participantes contaban con cinco minutos para juntar la mayor cantidad de puntos quemando al equipo contrario. Para esto deb\u00EDan tomar r\u00E1pidamente las pelotas al comenzar el juego. Los encuentros se disputaron entre los Tiliches, Snippers, Peaches, Atletas, Papos, Tripones, Victorian, ½ metro, Ajolotes, Buble, Culisueltes y Quemamados.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cada participante mostr\u00F3 un gran desempe\u00F1o y compromiso con sus compa\u00F1eras y compa\u00F1eros mientras se divert\u00EDan en sana competencia. Esto se intensific\u00F3 en las “rondas a muerte” en las que se descalific\u00F3 a los equipos&nbsp; perdedores. Tras momentos de tensi\u00F3n y una competencia re\u00F1ida los Atletas resultaron vencedores en este evento en el que se cultiva la sana convivencia y el h\u00E1bito del deporte.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "quemados1.gif"
+		},
+		{
+			"imagen": "quemados2.gif"
+		},
+		{
+			"imagen": "quemados3.gif"
+		},
+		{
+			"imagen": "Quemados4.gif"
+		},
+		{
+			"imagen": "quemados5.gif"
+		},
+		{
+			"imagen": "Quemados6.gif"
+		},
+		{
+			"imagen": "quemados7.gif"
+		},
+		{
+			"imagen": "quemados8.gif"
+		},
+		{
+			"imagen": "Quemados9.gif"
+		}	]
+
+}

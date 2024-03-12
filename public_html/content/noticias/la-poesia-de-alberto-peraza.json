@@ -1,0 +1,14 @@
+{
+	"titulo": "La poes\u00EDa de Alberto Peraza",
+	"titulo_normalizado": "la-poesia-de-alberto-peraza",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		}
+	],
+	"autor":"Alejandro Frias",
+	"fecha":"02/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de la Semana de la Comunicaci\u00F3n en la Facultad de Estudios Superiores Arag\u00F3n, se organiz\u00F3 la conferencia ‘’El lenguaje universal e intemporal de la poes\u00EDa’’, dirigida por el escritor y poeta cubano, Alberto Peraza, quien tiene formaci\u00F3n pedag\u00F3gica y una especialidad en lengua inglesa. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con 42 libros publicados en su carrera, cont\u00F3 a los estudiantes de Comunicaci\u00F3n y Periodismo de la Facultad su temprano acercamiento con la poes\u00EDa. Relat\u00F3 que en los tiempos dif\u00EDciles de su infancia, hacer poemas era la forma de refugiarse. El tambi\u00E9n ganador del premio Nicol\u00E1s Guill\u00E9n, uno de los reconocimientos de poes\u00EDa m\u00E1s importantes en Cuba, se\u00F1al\u00F3 que la poes\u00EDa no solamente son palabras, sino actos que comunican a trav\u00E9s de gestos y acciones.<\/span><\/p>",
+	"imagenes":[{"imagen":"la-poesia-de-alberto-peraza-1.jpg"},{"imagen":"la-poesia-de-alberto-peraza-2.jpg"},{"imagen":"la-poesia-de-alberto-peraza-3.jpg"},{"imagen":"la-poesia-de-alberto-peraza-4.jpg"},{"imagen":"la-poesia-de-alberto-peraza-5.jpg"},{"imagen":"la-poesia-de-alberto-peraza-6.jpg"},{"imagen":"la-poesia-de-alberto-peraza-7.jpg"},{"imagen":"la-poesia-de-alberto-peraza-8.jpg"}]
+}

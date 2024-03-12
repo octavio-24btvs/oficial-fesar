@@ -1,0 +1,18 @@
+{
+    "nombre": "Omar Mendoza González", 
+    "grado_academico": "Maestro", 
+     "correo": [ "omarmendoza564@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciado en Informática.",
+        "Maestro en Administración de Tecnologías de Información."
+    ], 
+    "lineas_investigacion": [
+        "Investigación Educativa", 
+        "Investigación en las Ciencias Físico Matemáticas e Ingenierías"
+    ], 
+    "investigaciones": [
+        "Entorno de aprendizaje de procesos y herramientas de big data para alumnos de licenciaturas en ingeniería en computación.",
+        "Análisis, Diseño Y Creación De Un Programa De Aprendizaje En Big Data A Nivel De Educación Superior: Caso De Estudio Instituto Tecnológico Superior De Rioverde, Slp."
+    ]
+}

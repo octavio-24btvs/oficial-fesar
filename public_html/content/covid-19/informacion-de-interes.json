@@ -1,0 +1,34 @@
+{
+    "titulo": "Informaci\u00F3n de inter\u00E9s", 
+    "seccion": "informacion-de-interes", 
+    "imagenes": [
+        {
+            "imagen": "recomendaciones-de-salud.jpg",
+            "alt": "Recomendaciones del cuidado de la salud en las oficinas"
+        },
+        {
+            "imagen": "sintomas-del-covid-19.jpg",
+            "alt": "Síntomas del COVID 19"
+        },
+        {
+            "imagen": "como-despliega-el-coronavirus.jpg",
+            "alt": "¿Cómo despliega el Coronavirus su material genético?"
+        },
+        {
+            "imagen": "contingencia-sanitaria.jpg",
+            "alt": "¿Por qué es necesario proteger a las personas consumidoras en este tiempo de contingencia sanitaria por el COVID 19?"
+        },
+        {
+            "imagen": "cuando-se-usa-coronavirus.jpg",
+            "alt": "¿Cuándo se usa Coronavirus, cuándo COVID-19 y cuándo SARS-Cov-2?"
+        },
+        {
+            "imagen": "estimacion-social-en-tiempos-del-covid-19.jpg",
+            "alt": "Estigmatización social en tiempos del COVID-19"
+        },
+        {
+            "imagen": "la-salud-es-un-derecho-humano.jpg",
+            "alt": "La salud es un derecho humano"
+        }
+    ]
+}

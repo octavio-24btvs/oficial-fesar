@@ -1,0 +1,169 @@
+{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfiles",
+        "Plan de estudios",
+        "Titulaci\u00F3n",
+        "Acreditaci\u00F3n",
+        "Contacto"
+    ],
+    "titulo": "Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica",
+    "icono": "icono-secciones icon-ingenieria-electrica-electronica",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mensaje de bienvenida<\/span><\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Estimada comunidad estudiantil recibe la m\u00E1s cordial bienvenida a la carrera de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica de la FES Arag\u00F3n. Nuestro programa acad\u00E9mico se encuentra acreditado por el Consejo de Acreditaci\u00F3n de la Ense\u00F1anza de la Ingenier\u00EDa (CACEI) desde 2014. Asimismo, nuestros laboratorios se encuentran certificados bajo la norma ISO: 9001-2008, es decir, contamos con las mejores instalaciones para que puedas llevar a cabo tu formaci\u00F3n profesional<\/span><\/p>",
+            "imagenes": [
+                {
+                    "imagen": "civil/carrusel/1.jpg",
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "civil/carrusel/img-completa/1.jpg"
+                },
+                {
+                    "imagen": "civil/carrusel/2.jpg",
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "civil/carrusel/img-completa/2.jpg"
+                },
+                {
+                    "imagen": "civil/carrusel/3.jpg",
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "civil/carrusel/img-completa/3.jpg"
+                },
+                {
+                    "imagen": "civil/carrusel/4.jpg",
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "civil/carrusel/img-completa/4.jpg"
+                },
+                {
+                    "imagen": "civil/carrusel/5.jpg",
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "civil/carrusel/img-completa/5.jpg"
+                },
+                {
+                    "imagen": "civil/carrusel/5.jpg",
+                    "tipo_hipervinculo": "modal", 
+                    "hipervinculo": "civil/carrusel/img-completa/5.jpg"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row mb-3\"><div class=\"col-12\"><h2 class=\"titulo-seccion pb-2\">Presentaci\u00D3n<\/h2><hr \/><div class=\"row galeria justify-content-center align-items-center\"><div class=\"col-12 col-lg-6\"><div class=\"embed-responsive embed-responsive-16by9\" style=\"border-radius: 15px;\"> <iframe class=\"embed-responsive-item\" src=\"https:\/\/www.youtube.com\/embed\/4PalKK8hhzw\" frameborder=\"0\" allowfullscreen><\/iframe><\/div><\/div><div class=\"col-12 col-lg-4\"><a class=\"btn boton-registro btn-group-sm\" href=\"public_html\/documents\/oferta_academica\/electrica-electronica/Programa-estrategico.pdf\" title=\"Programa estrat\u00E9gico\" target=\"_blank\">Programa estrat\u00E9gico<\/a><\/div><\/div><\/div><\/div>",
+            "acordeon": [
+                {
+                    "titulo": "Objetivo",
+                    "texto": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(33, 37, 41);\">Objetivos educacionales<\/strong><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51); background-color: white;\">El egresado de IEE,<\/span><\/p><ol><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51); background-color: white;\">Emplear\u00E1 en su desempe\u00F1o profesional conocimientos de ingenier\u00EDa, en las \u00E1reas de energ\u00EDa el\u00E9ctrica, electr\u00F3nica, control o comunicaciones adquiridos en la carrera.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51); background-color: white;\">Dise\u00F1ar\u00E1 y desarrollar\u00E1 proyectos en su campo de especializaci\u00F3n, apoyado de las TIC´s y de equipo especializado.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51); background-color: white;\">Utilizar\u00E1 el juicio ingenieril para gestionar proyectos que satisfagan las necesidades sociales.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51); background-color: white;\">Se incorporar\u00E1 en actividades de actualizaci\u00F3n disciplinar como: estudios de posgrado, especializaciones o diplomados, para complementar y actualizar su formaci\u00F3n profesional y as\u00ED asimilar los cambios y avances de la profesi\u00F3n.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51); background-color: white;\">Liderar\u00E1 equipos multidisciplinarios, de manera profesional, en el sector productivo aplicando principios \u00E9ticos en el \u00E1mbito nacional e internacional, para dar soluciones integrales a la sociedad.<\/span><\/li><\/ol><p><br><\/p>"
+                },
+                {
+                    "titulo": "Misi\u00F3n",
+                    "texto": "<p>La misi\u00F3n de la licenciatura de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica es formar profesionistas de alto nivel, capaces de aplicar y crear tecnolog\u00EDa en los campos de la electricidad, telecomunicaciones, control y la electr\u00F3nica, mediante la aplicaci\u00F3n de los conocimientos adquiridos durante su formaci\u00F3n acad\u00E9mica, para resolver y evaluar, con eficiencia y calidad, los problemas y necesidades que la industria y la sociedad le soliciten en el \u00E1rea de la ingenier\u00EDa el\u00E9ctrica y electr\u00F3nica.<\/p>"
+                },
+                {
+                    "titulo": "Visi\u00F3n",
+                    "texto": "<p>La licenciatura de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica impartida en la FES Arag\u00F3n-UNAM ser\u00E1 un modelo educativo relevante para su contexto nacional e internacional en la ense\u00F1anza de la ingenier\u00EDa, por la calidad de sus docentes, sus l\u00EDneas de investigaci\u00F3n y el reconocimiento de la sociedad y sus pares acad\u00E9micos y profesionales.  Su comunidad egresada ser\u00E1 identificada por su \u00E9tica profesional, efectividad, competitividad, identidad aragonesa y por ser agentes de cambio en el desarrollo de los sistemas de bienes y servicios.<\/p>"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Perfil de ingreso<\/span><\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad estudiantil aspirante a la carrera de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica debe contar con las siguientes habilidades:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">aptitud para detectar, definir y aplicar el razonamiento cient\u00EDfico al estudio y soluci\u00F3n de problemas pr\u00E1cticos en el campo de la f\u00EDsica y en especial de los fen\u00F3menos el\u00E9ctricos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">capacidad para dirigir el trabajo en equipo;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">habilidad en el manejo de diferentes fuentes bibliogr\u00E1ficas y lenguajes de computaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">inventiva y creatividad;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">actitud responsable, positiva y emprendedora, que le permita realizar con seguridad y confianza las tareas que implica el ejercicio profesional;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">comprensi\u00F3n de lectura de un idioma extranjero, preferentemente el ingl\u00E9s.<\/span><\/li><\/ul><hr \/><h2 class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Perfil de egreso<\/span><\/h2><p>El egresado de la licenciatura de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica de la FES Arag\u00F3n Utilizar\u00E1 los conocimientos de las ciencias exactas, matem\u00E1ticas, administrativas y de ingenier\u00EDa para desarrollar su actividad profesional en aspectos tales como: el dise\u00F1o y redise\u00F1o de sistemas electr\u00F3nicos, el manejo e implantaci\u00F3n de sistemas de control industrial, el manejo y administraci\u00F3n de sistemas de telecomunicaciones, adem\u00E1s de la generaci\u00F3n y transmisi\u00F3n de energ\u00EDa el\u00E9ctrica. Esta formaci\u00F3n le permitir\u00E1 participar activamente en las diversas ramas de la ingenier\u00EDa y responder a las necesidades productivas y de servicios que requiere la sociedad.<\/p><hr \/><h2 class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Perfil profesional<\/span><\/h2><p>El ingeniero el\u00E9ctrico electr\u00F3nico posee los conocimientos de las ciencias exactas, matem\u00E1ticas y de la ingenier\u00EDa, para desarrollar su actividad profesional en aspectos tales como el control autom\u00E1tico y la instrumentaci\u00F3n de procesos, las telecomunicaciones, el desarrollo y mantenimiento de sistemas electr\u00F3nicos anal\u00F3gicos y digitales, las instalaciones de electricidad industrial y de potencia, las l\u00EDneas de transmisi\u00F3n y el mantenimiento y dise\u00F1o de dispositivos electr\u00F3nicos para la industria. Esta formaci\u00F3n le permite participar con \u00E9xito en las distintas ramas que integran a la Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica, as\u00ED como adaptarse a los cambios de las tecnolog\u00EDas en estas \u00E1reas y, en su caso, generarlos, respondiendo as\u00ED a las necesidades que se presentan en las ramas productivas y de servicios del pa\u00EDs, coadyuvando al bienestar de la sociedad a la que se debe.<\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3\">Aspectos generales<\/h2><div class=\"d-md-flex d-sm-block mb-2 align-self-end\"><a class=\"btn boton-registro\" href=\"public_html\/documents\/oferta_academica\/electrica-electronica\/convocatoria-posgrado-en-pedagogia-2020-2.pdf\" title=\"Malla Curricular\" target=\"_blank\">Malla Curricular<\/a><a class=\"btn boton-registro\" href=\"public_html\/documents\/oferta_academica\/maestrias\/pedagogia\/programa-maestria-en-pedagogia.pdf\" title=\"Planes de Estudio Hist\u00F3ricos\" target=\"_blank\">Planes de Estudio Hist\u00F3ricos<\/a><\/div>",
+            "acordeon": [
+                {
+                    "titulo": "Requisitos de ingreso",
+                    "texto": "<p class=\"ql-align-justify\"><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Los requisitos para el ingreso a la licenciatura de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica son los que establece la normatividad vigente para el ingreso a este nivel de estudios, espec\u00EDficamente en el Reglamento General de Inscripciones, en el que se determina:<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Para ingresar a la Universidad es indispensable:<\/span><\/p><ol><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Solicitar la inscripci\u00F3n de acuerdo con los instructivos que se establezcan.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Haber obtenido en el ciclo de estudios inmediato anterior un promedio m\u00EDnimo de siete o su equivalente;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Ser aceptado mediante concurso de selecci\u00F3n, que comprender\u00E1 una prueba escrita y que deber\u00E1 realizarse dentro de los periodos que al efecto se se\u00F1alen.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Para ingresar al nivel de licenciatura el antecedente acad\u00E9mico indispensable es el bachillerato.<\/span><\/li><\/ol>"
+                },
+                {
+                    "titulo": "Requisitos de Permanencia",
+                    "texto": "<p class=\"ql-align-justify\"><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Los límites de tiempo para estar inscrito en la Universidad con los beneficios de todos los servicios educativos y extracurriculares, serán: <\/span><\/p><ol><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">50% adicional a la duración del plan de estudios<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Los alumnos que no terminen sus estudios en los plazos señalados no serán reinscritos y únicamente conservarán el derecho a acreditar las materias faltantes por medio de exámenes extraordinarios.<\/span><\/li>"
+                },
+                {
+                    "titulo": "Normatividad",
+                    "texto": "<ul><li><a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfVEM9q8ZFrwacS9o1tlGIqZJKSGedWzo5T6MxeFO-qz_hsFg\/viewform\"target=\"_blank\">Falta</a> </li></ul>"
+                },
+                {
+                    "titulo": "Duraci\u00F3n",
+                    "texto": "<p>El nuevo plan de estudios para la licenciatura de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica comprende 41 asignaturas, de las cuales 35 son obligatorias, tres obligatorias de especialidad y tres, optativas. Todas ellas se cursar\u00E1n en ocho semestres que acumulan 306 cr\u00E9ditos obligatorios, un m\u00EDnimo de 24 obligatorios de elecci\u00F3n y, por lo menos, 20 optativos, haciendo un total de 350 cr\u00E9ditos.<\/p>"
+                }
+            ]
+        },
+        {
+            "tipo": "acordeon",
+            "texto": [
+                {
+                    "titulo": "Tesis",
+                    "texto": "<p>Dirigido a los egresados interesados en realizar una investigación pura, básica, teórica, práctica o aplicada; empleando una rigurosa metodología científica.</p>"
+                },
+                {
+                    "titulo": "Examen general de conocimientos",
+                    "texto": "<p>Para aquellos egresados que dominen los conocimientos actualizados de su licenciatura.</P>"
+                },
+                {
+                    "titulo": "Desarrollo de un caso práctico",
+                    "texto": "<p>Posibilita que los egresados desarrollen soluciones a problemas reales aplicando conocimientos de su Licenciatura y el criterio profesional.</p>"
+                },
+                {
+                    "titulo": "Estudios de Posgrado",
+                    "texto": "<p>Modalidad para los egresados que hayan concluido satisfactoriamente las actividades establecidas en su propuesta, durante su primer semestre como alumno de posgrado de tiempo completo, el alumno debe aprobar con una calificación mínima de ocho cada una de las actividades asignadas.</p>"
+                },
+                {
+                    "titulo": "Cursos de Diploados de Actualización y Capacitación Profesional",
+                    "texto": "<p>Para todos los egresados que cuenten en su haber con algún curso o diplomado de calidad reconocida, que propicie la aplicación correcta de los conocimientos de su Licenciatura, que cuente con una duración de 240 hrs. y que no hayan pasado más de 6 meses desde la obtención del diploma.</p>"
+                },
+                {
+                    "titulo": "Informe de Ejercicio Profesional",
+                    "texto": "<p>Dirigido a los egresados que hayan ejercido la profesión, al menos durante 3 años consecutivos, aplicando los conocimientos de su Licenciatura</p>"
+                },
+                {
+                    "titulo": "Memoria de Desempeño de Servicio Social",
+                    "texto": "<p>Para aquellos egresados que hayan realizado su servicio social, después de haber acreditado todas las asignaturas de la Licenciatura y si éste implica sobresalientemente la práctica y aplicación del criterio profesional</p>"
+                },
+                {
+                    "titulo": "Alto Nivle Académico",
+                    "texto": "<p>Para aquellos egresados que hayan realizado su servicio social, después de haber acreditado todas las asignaturas de la Licenciatura y haber obtenido un promedio mínimo de 9.5, así como ser alumno regular sin haber reprobado materias.</p>"
+                },
+                {
+                    "titulo": "Actividad de Investigación",
+                    "texto": "<p>Para aquellos egresados que se incorporen al menos por un semestre a un proyecto de investigación registrado previamente, del cual deberán entregar un trabajo escrito; garantizando el uso de los conocimientos adquiridos durante la licenciatura, adentrándolos en el campo de su profesión y propiciando el desarrollo de ideas innovadoras a favor de la sociedad en general.</p>"
+                },
+                {
+                    "titulo": "Actividad de Apoyo a la Docencia",
+                    "texto": "<p>Dirigido a los egresados que elaboren material didáctico y/o crítica escrita al programa de alguna asignatura o actividad académica del plan de estudios de licenciatura o de bachillerato, o de éste en su totalidad. Mejorando el proceso de enseñanza-aprendizaje de los alumnos y favorecer la mejora continua del plan de estudios de la carrera en cuestión.</p>"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row justify-content-center\"><h2 class=\"col-12\">Nueva acreditac\u00F3n</h2><p class=\"col-12\">Tendremos la visita de los evaluadores del Consejo de Acreditaci\u00F3n para la Ense\u00F1anza de la Ingenier\u00EDa ( CACEI ) el pr\u00F3ximo mes de octubre de 2019 en la cual se llevar\u00E1 a cabo el proceso con el marco de Referencia 2018 en el contexto Internacional.<\/p><div class=\"col-12\"><a class=\"btn boton-registro\" href=\"public_html/documents/licenciaturas/electrica-electronica/acta-constitutiva.pdf\" target=\"_blank\" title=\"Servicios Escolares\">Certificado de Acreditación</a></div></div><hr />",
+            "acordeon": [
+                {
+                    "titulo": "Objetivos educacionales",
+                    "texto": "<p>El egresado de IEE,</p><ol class=\"zero-fill-list\"><li>Empleará en su desempeño profesional conocimientos de ingeniería, en las áreas de energía eléctrica, electrónica, control o comunicaciones adquiridos en la carrera.</li><li>Diseñará y desarrollará proyectos en su campo de especialización, apoyado de las TIC´s y de equipo especializado.</li><li>Diseñará y desarrollará proyectos en su campo de especialización, apoyado de las TIC´s y de equipo especializado.</li><li>Se incorporará en actividades de actualización disciplinar como: estudios de posgrado, especializaciones o diplomados, para complementar y actualizar su formación profesional y así asimilar los cambios y avances de la profesión.</li><li>Liderará equipos multidisciplinarios, de manera profesional, en el sector productivo aplicando principios éticos en el ámbito nacional e internacional, para dar soluciones integrales a la sociedad.</li></ol>"
+                },
+                {
+                    "titulo": "Atributos del egresado",
+                    "texto": "<p>Los alumnos de Ingeniería Eléctrica Electrónica de la FES Aragón,</p><ol><li>Identifican, formulan y resuelven problemas de ingeniería aplicando los principios de ingeniería, ciencias y matemáticas.</li><li>Aplican, analizan y sintetizan procesos de diseño de ingeniería que resulten en proyectos que cumplen las necesidades especificadas.</li><li>Desarrollan y conducen experimentación adecuada; analizan e interpretan datos y utilizan el juicio ingenieril para establecer conclusiones.</li><li>Se comunican, efectivamente de forma oral y escrita con diferentes audiencias, empleando los distintos medios a su alcance.</li><li>Reconocen sus responsabilidades éticas y profesionales en situaciones relevantes para la ingeniería y realizan juicios informados que deben considerar el impacto de las soluciones de ingeniería en los contextos global, económico, ambiental y social.</li><li>Reconocen la necesidad permanente de conocimiento adicional y tener la habilidad para localizar, evaluar, integrar y aplicar este conocimiento adecuadamente.</li><li>Trabajan efectivamente en equipos disciplinarios o multidisciplinarios que establecen objetivos y metas, planean tareas, cumplen fechas límite, analizan riesgos e incertidumbre y evalúan resultados.</li></ol>"
+                }
+            ]
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Fidel Guti\u00E9rrez Flores",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/electrica-electronica/fidel-gutierrez-flores.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Fernando Xavier Vázquez Martínez",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/electrica-electronica/fernando-xavier-vazquez-martinez.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "56230819 y 56239237",
+                "correo_electronico": "electricaelectronica@aragon.unam.mx",
+                "facebook": "https:\/\/www.facebook.com\/FESAragon.electricaelectronica\/"
+            }
+        }
+    ]
+}

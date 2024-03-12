@@ -1,0 +1,14 @@
+{
+	"titulo": "Presentaci\u00F3n folcl\u00F3rica para celebrar a M\u00E9xico",
+	"titulo_normalizado": "presentacion-folclorica-para-celebrar-a-mexico",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		}
+	],
+	"autor":"Marisol Gonz\u00E1lez",
+	"fecha":"19/09/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El grupo representativo de la Escuela del Ballet Folkl\u00F3rico de Amalia Hern\u00E1ndez realiz\u00F3 una participaci\u00F3n en el Teatro Jos\u00E9 Vasconcelos con motivo de las fiestas patrias. <\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El conjunto se present\u00F3 el 20 de septiembre e inici\u00F3 su participaci\u00F3n con bailes t\u00EDpicos de Yucat\u00E1n, en los que se apreci\u00F3 una muestra solista de la bailarina principal. Tambi\u00E9n interpretaron una danza <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">afro <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">para dar a conocer un poco acerca de esa cultura; siguieron con sones veracruzanos y finalmente, cerraron con bailes del estado de Tamaulipas. <\/span><\/p>",
+	"imagenes":[{"imagen":"img-1.jpg"},{"imagen":"img-2.jpg"}]
+}

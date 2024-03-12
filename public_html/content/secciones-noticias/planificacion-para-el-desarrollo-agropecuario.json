@@ -1,0 +1,413 @@
+{
+	"id": 10,
+	"titulo": "PDA",
+	"icono": "icon-planificacion-para-el-desarrollo-agropecuario",
+	"noticias": [
+		{
+			"titulo":"Mujeres y propiedad de territorios agrarios",
+			"titulo_normalizado":"mujeres-y-propiedad-de-territorios-agrarios",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "mujeres-y-propiedad-de-territorios-agrarios-1.jpg",
+			"fecha":"30/11/21"
+		},
+		{
+			"titulo":"Egresados de PDA exponen experiencias profesionales",
+			"titulo_normalizado":"egresados-de-pda-exponen-experiencias-profesionales",
+			"autor":"Israel Ram\u00EDrez",
+			"imagen": "egresados-de-pda-exponen-experiencias-profesionales-1.jpg",
+			"fecha":"30/10/18"
+		},
+		{
+			"titulo":"Oportunidades y atributos de la planificaci\u00F3n agropecuaria",
+			"titulo_normalizado":"oportunidades-y-atributos-de-la-planificacion-agropecuaria",
+			"autor":"Redacci\u00F3n",
+			"imagen": "oportunidades-y-atributos-de-la-planificación-agropecuaria-1.jpg",
+			"fecha":"28/08/19"
+		},
+		{
+			"titulo":"La comunidad de PDA muestra su disposici\u00F3n emprendedora",
+			"titulo_normalizado":"la-comunidad-de-pda-muestra-su-disposicion-emprendedora",
+			"autor":"Liliana Espinosa",
+			"imagen": "la-comunidad-de-pda-muestra-su-disposicion-emprendedora-1.jpg",
+			"fecha":"25/10/19"
+		},
+		{
+			"titulo":"Hablemos del conflicto Rusia - Ucrania",
+			"titulo_normalizado":"hablemos-del-conflicto-rusia---ucrania",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "conflicto-ur-1.jpg",
+			"fecha":"25/02/22"
+		},
+		{
+			"titulo":"PDA22: Tierra, papel y plantas: talleres",
+			"titulo_normalizado":"pda22-tierra-papel-y-plantas-talleres",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "pda-2.gif",
+			"fecha":"24/11/22"
+		},
+		{
+			"titulo":"Talleres artesanales durante la Semana de PDA",
+			"titulo_normalizado":"talleres-artesanales-durante-la-semana-de-pda",
+			"autor":"Redacci\u00F3n",
+			"imagen": "Talleres-artesanales-durante-la-Semana-de-PDA-01.jpg",
+			"fecha":"24/10/19"
+		},
+		{
+			"titulo":"PDA busca expandir la capacidad emprendedora",
+			"titulo_normalizado":"pda-busca-expandir-la-capacidad-emprendedora",
+			"autor":"Carmen Melendez y Edith Granados",
+			"imagen": "pda-busca-expandir-la-capacidad-emprendedora-1.png",
+			"fecha":"24/10/18"
+		},
+		{
+			"titulo":"Pr\u00E1cticas Escolares de campo",
+			"titulo_normalizado":"practicas-escolares-de-campo",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Practicas2.gif",
+			"fecha":"24/05/23"
+		},
+		{
+			"titulo":"PDA22: Ensuci\u00E1ndose las manos",
+			"titulo_normalizado":"pda22-ensuciandose-las-manos",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "practicas-1.jpg",
+			"fecha":"23/11/22"
+		},
+		{
+			"titulo":"Presentaci\u00F3n de estudiantes en la Semana PDA",
+			"titulo_normalizado":"presentacion-de-estudiantes-en-la-semana-pda",
+			"autor":"Redacci\u00F3n",
+			"imagen": "Presentacion-de-alumnos-de-antropologia-social-en-el-XXIX-aniversario-de-la-carrera-1.jpg",
+			"fecha":"23/10/19"
+		},
+		{
+			"titulo":"Pol\u00EDticas gubernamentales y eventos culturales: contin\u00FAa la semana de PDA",
+			"titulo_normalizado":"politicas-gubernamentales-y-eventos-culturales-continua-la-semana-de-pda",
+			"autor":"Redacci\u00F3n",
+			"imagen": "Politicas-gubernamentales-y-eventos-culturales-continua-la-semana-de-PDA-1.jpg",
+			"fecha":"23/10/19"
+		},
+		{
+			"titulo":"Ceremonia de entrega de diplomas: PDA",
+			"titulo_normalizado":"ceremonia-de-entrega-de-diplomas-pda",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "pda-1.jpg",
+			"fecha":"23/06/23"
+		},
+		{
+			"titulo":"PDA22: La tierra al servicio de la naci\u00F3n",
+			"titulo_normalizado":"pda22-la-tierra-al-servicio-de-la-nacion",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "tierra-1.jpg",
+			"fecha":"22/11/22"
+		},
+		{
+			"titulo":"Una transmisi\u00F3n de aniversario",
+			"titulo_normalizado":"una-transmision-de-aniversario",
+			"autor":"Alejandra Vel\u00E1zquez",
+			"imagen": "una-transmision-de-aniversario-1.jpg",
+			"fecha":"22/10/20"
+		},
+		{
+			"titulo":"Promoviendo el desarrollo rural",
+			"titulo_normalizado":"promoviendo-el-desarrollo-rural",
+			"autor":"Erika Nejapa",
+			"imagen": "promoviendo-el-desarrollo-rural-1.jpg",
+			"fecha":"22/10/20"
+		},
+		{
+			"titulo":"Experiencias reales de la planificaci\u00F3n",
+			"titulo_normalizado":"experiencias-reales-de-la-planificacion",
+			"autor":"Redacci\u00F3n",
+			"imagen": "experiencias-reales-de-la-planificacion-1.jpg",
+			"fecha":"22/10/19"
+		},
+		{
+			"titulo":"Talleres agroindustriales de PDA",
+			"titulo_normalizado":"talleres-agroindustriales-de-pda",
+			"autor":"Carmen Melendez y Edith Granados",
+			"imagen": "img-1.jpg",
+			"fecha":"22/10/18"
+		},
+		{
+			"titulo":"Fortalecer aprendizaje en pr\u00E1cticas de campo agr\u00EDcola",
+			"titulo_normalizado":"fortalecer-aprendizaje-en-practicas-de-campo-agricola",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "fortalecer-aprendizaje-en-practicas-de-campo-agricola-1.jpg",
+			"fecha":"22/05/19"
+		},
+		{
+			"titulo":"An\u00EDmate a tener tu propio huerto",
+			"titulo_normalizado":"animate-a-tener-tu-propio-huerto",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "animate-con-tu-propio-huerto-1.jpg",
+			"fecha":"21/10/21"
+		},
+		{
+			"titulo":"Elabora postres y alimentos b\u00E1sicos",
+			"titulo_normalizado":"elabora-postres-y-alimentos-basicos",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "elabora-postres-y-alimentos-basicos-1.jpg",
+			"fecha":"21/10/21"
+		},
+		{
+			"titulo":"Por una mejor planificaci\u00F3n agropecuaria",
+			"titulo_normalizado":"por-una-mejor-planificacion-agropecuaria",
+			"autor":"Brenda Martinez",
+			"imagen": "por-una-mejor-planificacion-agropecuaria-1.jpg",
+			"fecha":"21/10/20"
+		},
+		{
+			"titulo":"Pasado, presente y futuro de PDA",
+			"titulo_normalizado":"pasado-presente-y-futuro-de-pda",
+			"autor":"Alejandra Vel\u00E1zquez",
+			"imagen": "pasado-presente-y-futuro-de-pda-1.jpg",
+			"fecha":"21/10/20"
+		},
+		{
+			"titulo":"Desaf\u00EDos actuales del medio rural: XXXIX aniversario de la Licenciatura en PDA",
+			"titulo_normalizado":"desafios-actuales-del-medio-rural-xxxix-aniversario-de-la-licenciatura-en-pda",
+			"autor":"Redacci\u00F3n",
+			"imagen": "desafios-actuales-del-medio-rural-semana-de-planeacion-agropecuaria-1.jpg",
+			"fecha":"21/10/19"
+		},
+		{
+			"titulo":"Vital relaci\u00F3n con el campo para las y los estudiantes de PDA",
+			"titulo_normalizado":"vital-relacion-con-el-campo-para-las-y-los-estudiantes-de-pda",
+			"autor":"Redacci\u00F3n",
+			"imagen": "vital-relacion-con-el-campo-para-las-y-los-estudiantes-de-PDA-1.jpg",
+			"fecha":"20/11/19"
+		},
+		{
+			"titulo":"Cultura de prevenci\u00F3n y agroecolog\u00EDa",
+			"titulo_normalizado":"cultura-de-prevencion-y-agroecologia",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "cultura-de-prevencion-y-agroecologia-1.jpg",
+			"fecha":"20/10/20"
+		},
+		{
+			"titulo":"Conciencia e iniciativa en las y los planificadores",
+			"titulo_normalizado":"conciencia-e-iniciativa-en-las-y-los-planificadores",
+			"autor":"Erika Nejapa",
+			"imagen": "conciencia-e-iniciativa-en-las-y-los-planificadores-1.jpg",
+			"fecha":"20/10/20"
+		},
+		{
+			"titulo":"Formando emprendedores",
+			"titulo_normalizado":"formando-emprendedores",
+			"autor":"Carmen Mel\u00E9ndez",
+			"imagen": "Formando-emprendedores-en-PDA-1.jpg",
+			"fecha":"20/02/19"
+		},
+		{
+			"titulo":"PDA: 4 d\u00E9cadas generando oportunidades",
+			"titulo_normalizado":"pda-4-decadas-generando-oportunidades",
+			"autor":"Brenda Martinez",
+			"imagen": "pda-4-decadas-generando-oportunidades-1.jpg",
+			"fecha":"19/10/20"
+		},
+		{
+			"titulo":"40 a\u00F1os de PDA: Reflexiones y desaf\u00EDos",
+			"titulo_normalizado":"40-anos-de-pda-reflexiones-y-desafios",
+			"autor":"Alejandra Vel\u00E1zquez",
+			"imagen": "40-anos-de-pda-reflexiones-y-desafios-1.jpg",
+			"fecha":"19/10/20"
+		},
+		{
+			"titulo":"Detalles de la VI Conferencia Global Sobre Agricultura Familiar",
+			"titulo_normalizado":"detalles-de-la-vi-conferencia-global-sobre-agricultura-familiar",
+			"autor":"Yutsil Hern\u00E1ndez",
+			"imagen": "detalles-de-la-vi-conferencia-global-sobre-agricultura-familiar-1.jpg",
+			"fecha":"19/08/19"
+		},
+		{
+			"titulo":"La controvertida muerte de Pablo Alvarado",
+			"titulo_normalizado":"la-controvertida-muerte-de-pablo-alvarado",
+			"autor":"Erika Nejapa",
+			"imagen": "la-controvertida-muerte-de-pablo-alvarado-1.jpg",
+			"fecha":"19/03/21"
+		},
+		{
+			"titulo":"Prepara unas ricas hamburguesas",
+			"titulo_normalizado":"prepara-unas-ricas-hamburguesas",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "prepara-unas-ricas-hamburguesas-1.jpg",
+			"fecha":"16/11/21"
+		},
+		{
+			"titulo":"PDA da la bienvenida a generaciones anteriores",
+			"titulo_normalizado":"pda-da-la-bienvenida-a-generaciones-anteriores",
+			"autor":"Alejandro Trujillo",
+			"imagen": "PDA1.gif",
+			"fecha":"14/09/23"
+		},
+		{
+			"titulo":"Productividad e importancia de las cact\u00E1ceas",
+			"titulo_normalizado":"productividad-e-importancia-de-las-cactaceas",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "productividad-e-importancia-de-las-cactaceas-1.jpg",
+			"fecha":"14/05/19"
+		},
+		{
+			"titulo":"Alimentos desde cero, valor integrador",
+			"titulo_normalizado":"alimentos-desde-cero-valor-integrador",
+			"autor":"Elisa Jacobo",
+			"imagen": "foro-1.jpg",
+			"fecha":"14/04/23"
+		},
+		{
+			"titulo":"8M: La mujer rural",
+			"titulo_normalizado":"8m-la-mujer-rural",
+			"autor":"Alejandra Vel\u00E1zquez y Erika Nejapa",
+			"imagen": "8m-la-mujer-rural-1.jpg",
+			"fecha":"11/03/21"
+		},
+		{
+			"titulo":"8M: Visibilizar a las mujeres rurales",
+			"titulo_normalizado":"8m-visibilizar-a-las-mujeres-rurales",
+			"autor":"Erika Nejapa y Brenda Martinez",
+			"imagen": "8m-visibilizar-a-las-mujeres-rurales-1.jpg",
+			"fecha":"11/03/21"
+		},
+		{
+			"titulo":"Activistas defensoras de los territorios",
+			"titulo_normalizado":"activistas-defensoras-de-los-territorios",
+			"autor":"Isaias Hernandez",
+			"imagen": "Activistas1.gif",
+			"fecha":"10/12/21"
+		},
+		{
+			"titulo":"Mujeres defensoras de la vida",
+			"titulo_normalizado":"mujeres-defensoras-de-la-vida",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "mujeres-defensoras-de-la-vida-1.jpg",
+			"fecha":"10/12/21"
+		},
+		{
+			"titulo":"8M: Mujeres y empoderamiento rural",
+			"titulo_normalizado":"8m-mujeres-y-empoderamiento-rural",
+			"autor":"Beatriz Calva",
+			"imagen": "pda-1.jpg",
+			"fecha":"10/03/23"
+		},
+		{
+			"titulo":"Concluye la conmemoraci\u00F3n del D\u00EDa Mundial del Suelo",
+			"titulo_normalizado":"concluye-la-conmemoracion-del-dia-mundial-del-suelo",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "clausura-simposium1.gif",
+			"fecha":"08/12/21"
+		},
+		{
+			"titulo":"8M: Reconoce Arag\u00F3n la importancia del sector femenino en el medio rural",
+			"titulo_normalizado":"8m-reconoce-aragon-la-importancia-del-sector-femenino-en-el-medio-rural",
+			"autor":"Miguel Palacios",
+			"imagen": "ocho-eme-1.jpg",
+			"fecha":"08/03/22"
+		},
+		{
+			"titulo":"Un llamado a la reflexi\u00F3n a trav\u00E9s del conocimiento",
+			"titulo_normalizado":"un-llamado-a-la-reflexion-a-traves-del-conocimiento",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "un-llamado-a-la-reflexion-del-conocimiento-1.jpg",
+			"fecha":"07/12/21"
+		},
+		{
+			"titulo":"El conocimiento y el cuidado del suelo",
+			"titulo_normalizado":"el-conocimiento-y-el-cuidado-del-suelo",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "el-conocimiento-y-el-cuidado-del-suelo-1.jpg",
+			"fecha":"07/12/21"
+		},
+		{
+			"titulo":"Tecnolog\u00EDa amigable con el suelo y el ma\u00EDz",
+			"titulo_normalizado":"tecnologia-amigable-con-el-suelo-y-el-maiz",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "tecnologia-amigable-con-el-suelo-y-el-maiz-1.jpg",
+			"fecha":"07/12/21"
+		},
+		{
+			"titulo":"Saberes para transformar nuestro entorno",
+			"titulo_normalizado":"saberes-para-transformar-nuestro-entorno",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "saberes-para-transformar-nuestro-entorno-1.jpg",
+			"fecha":"07/12/21"
+		},
+		{
+			"titulo":"Inauguraci\u00F3n del Simposium en conmemoraci\u00F3n por el D\u00EDa Mundial del Suelo",
+			"titulo_normalizado":"inauguracion-del-simposium-en-conmemoracion-por-el-dia-mundial-del-suelo",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "inauguracion-del-simposium-en-conmemoracion-1.jpg",
+			"fecha":"06/12/21"
+		},
+		{
+			"titulo":"Conmemoraci\u00F3n del D\u00EDa Mundial del Suelo",
+			"titulo_normalizado":"conmemoracion-del-dia-mundial-del-suelo",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "suelo1.gif",
+			"fecha":"05/12/21"
+		},
+		{
+			"titulo":"\u00BFQu\u00E9 nos depara el futuro si no cuidamos el suelo?",
+			"titulo_normalizado":"que-nos-depara-el-futuro-si-no-cuidamos-el-suelo",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "que-nos-depara-el-futuro-si-no-cuidamos-el-suelo-1.jpg",
+			"fecha":"05/12/20"
+		},
+		{
+			"titulo":"CIADS: Diagn\u00F3sticos accesibles de ciencias sociales, clave para la investigaci\u00F3n",
+			"titulo_normalizado":"ciads-diagnosticos-accesibles-de-ciencias-sociales-clave-para-la-investigacion",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "diagnosticos-accesibles-de-ciencias-sociales-clave-para-la-investigacion-1.jpg",
+			"fecha":"05/05/23"
+		},
+		{
+			"titulo":"Relaci\u00F3n suelo-vegetaci\u00F3n",
+			"titulo_normalizado":"relacion-suelo-vegetacion",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "relacion-suelo-vegetacion-1.jpg",
+			"fecha":"04/12/20"
+		},
+		{
+			"titulo":"CIADS: Investigar para poder planificar",
+			"titulo_normalizado":"ciads-investigar-para-poder-planificar",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "investigar-para-poder-planificar-1.jpg",
+			"fecha":"04/05/23"
+		},
+		{
+			"titulo":"Importancia del recurso suelo",
+			"titulo_normalizado":"importancia-del-recurso-suelo",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "importancia-del-recurso-suelo-1.jpg",
+			"fecha":"03/12/20"
+		},
+		{
+			"titulo":"CIADS: Planificaci\u00F3n rural a trav\u00E9s de la tecnolog\u00EDa",
+			"titulo_normalizado":"ciads-planificacion-rural-a-traves-de-la-tecnologia",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "planificacion-rural-a-traves-de-la-tecnologia-1.jpg",
+			"fecha":"03/05/23"
+		},
+		{
+			"titulo":"La importancia del suelo mexicano",
+			"titulo_normalizado":"la-importancia-del-suelo-mexicano",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "la-importancia-del-suelo-mexicano-1.jpg",
+			"fecha":"02/12/22"
+		},
+		{
+			"titulo":"Oportunidades para las y los planificadores",
+			"titulo_normalizado":"oportunidades-para-las-y-los-planificadores",
+			"autor":"Daniel Mart\u00EDnez y Gabriel Hern\u00E1ndez",
+			"imagen": "oportunidades-para-las-y-los-planificadores-1.jpg",
+			"fecha":"01/10/21"
+		},
+		{
+			"titulo":"Experiencia internacional de docentes de PDA",
+			"titulo_normalizado":"experiencia-internacional-de-docentes-de-pda",
+			"autor":"C\u00E9sar Estrada y Alexis Camacho",
+			"imagen": "Experiencia-internacional-de-docentes-de-PDA-1.jpg",
+			"fecha":"01/03/19"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"titulo": "Bienvenida en la Atl\u00E1ntida",
+	"titulo_normalizado": "bienvenida-en-la-atlantida",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Aranza Ramos",
+	"fecha": "17/08/22",
+	"contenido": "<p class=\"ql-align-justify\">Como parte de las actividades de difusi\u00F3n cultural por el inicio del semestre 2023-I, la Unidad de Extensi\u00F3n Universitaria de Facultad de Estudios Superiores Arag\u00F3n junto con la jefatura de Comunicaci\u00F3n y Periodismo coordinaron esfuerzos con la compa\u00F1\u00EDa teatral <em>Los Pinches Chamacos<\/em> para presentar la obra “Pap\u00E1 est\u00E1 en la Atl\u00E1ntida”, original de Javier Malpica publicada en el a\u00F1o 2005.<\/p><p class=\"ql-align-justify\">La puesta en escena protagonizada por Esteban Castellanos junto a Erick Israel Consuelo, opta por un formato minimalista: dos actores, una mesa e iluminaci\u00F3n. Realzada con un fondo de flores secas, un vestuario sobrio y unos pocos elementos como mochilas, manteles y peque\u00F1as l\u00E1mparas, se obtiene una atm\u00F3sfera \u00EDntima y conmovedora.<\/p><p class=\"ql-align-justify\">La funci\u00F3n retrata la historia de dos hermanos hu\u00E9rfanos, quienes tras atravesar una serie de adversidades en su corta vida, as\u00ED como, unidos por una entra\u00F1able fraternidad deciden migrar hacia los Estados Unidos de Am\u00E9rica cruzando el desierto de Sonora. Una narraci\u00F3n escrita hace quince a\u00F1os, la cual, a\u00FAn refleja las amplias complejidades de la migraci\u00F3n en nuestro pa\u00EDs sin dejar de lado las caravanas migrantes provenientes de distintos lugares de Latinoam\u00E9rica qui\u00E9nes atraviesan por nuestro territorio.<\/p><p class=\"ql-align-justify\">Al finalizar la presentaci\u00F3n, Castellanos reconoci\u00F3 a la productora Alma Curiel agregando que la puesta en escena guarda un lugar especial para \u00E9l, pues su familia migr\u00F3 a la Ciudad de M\u00E9xico desde Oaxaca, por ello espera inspirar al alumnado a discutir m\u00E1s sobre el tema, consider\u00E1ndolo como una realidad cercana.<\/p>",
+	"imagenes": [
+		{
+			"imagen": "PapáestáenlaAtlantida1 (1).JPG"
+		},
+		{
+			"imagen": "PapáestáenlaAtlántida2 (1).JPG"
+		},
+		{
+			"imagen": "PapáestáenlaAtlantida3 (1).JPG"
+		}	]
+
+}

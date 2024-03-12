@@ -1,0 +1,28 @@
+{
+	"titulo": "Copa de voleibol Arag\u00F3n",
+	"titulo_normalizado": "copa-de-voleibol-aragon",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Brenda Alaniz",
+	"fecha": "18/06/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Del 14 al 18 de junio, en el Gimnasio de Parquet, el Departamento de Actividades Deportivas y Recreativas llev\u00F3 a cabo la 8.a edici\u00F3n del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Torneo de Copa Universitaria de Voleibol de Sala FES Arag\u00F3n<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. La competencia se conform\u00F3 por cuatro grupos, dos por cada rama, femenil y varonil; donde los cinco equipos de cada uno se enfrentaron en un sistema de todos contra todos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con un total de cuarenta partidos en la fase de grupos, cuatro de semifinales y dos de la final, el equipo femenil de la FES Arag\u00F3n sali\u00F3 triunfante, mientras que la FES Cuautitl\u00E1n qued\u00F3 en segundo lugar y Acatl\u00E1n en tercero. En cambio, de los diez equipos de la rama varonil, Pumas C. U. fue el vencedor, Arag\u00F3n obtuvo el segundo puesto y el tercero la Universidad Estatal del Valle de Ecatepec (UNEVE).<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Si te apasiona este deporte, puedes revivir los partidos en el Facebook de Extensi\u00F3n Universitaria Arag\u00F3n, ah\u00ED encontrar\u00E1s las transmisiones de cada encuentro.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "copa-de-voleibol-aragon-1.jpg"
+		},
+		{
+			"imagen": "copa-de-voleibol-aragon-2.jpg"
+		},
+		{
+			"imagen": "copa-de-voleibol-aragon-3.jpg"
+		}	]
+
+}

@@ -1,0 +1,25 @@
+{
+	"titulo": "8M: No hay ciencia sin mujeres",
+	"titulo_normalizado": "8m-no-hay-ciencia-sin-mujeres",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		},
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor": "No\u00E9 \u00C1lvarez",
+	"fecha": "10/03/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la ponencia “El quehacer cient\u00EDfico… \u00BFSin Mujeres?”, organizada por la carrera de Ingenier\u00EDa Mec\u00E1nica de la FES Arag\u00F3n, se destac\u00F3 el papel de la mujer dentro de la actividad cient\u00EDfica.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este sentido, la ponente, Gabriella Piccinelli, asegur\u00F3 que derivado de los importantes avances cient\u00EDficos realizados por mujeres a lo largo de la historia contempor\u00E1nea, el quehacer cient\u00EDfico no se puede realizar sin ellas; sin embargo, estos aportes han sido invisibilizados. “La historia rara vez ofrece modelos a seguir para las cient\u00EDficas, pero a menudo estos modelos las vuelve invisibles a estas mujeres”, dijo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al respecto, comparti\u00F3 una experiencia donde estudiando su doctorado, acerca de la inflaci\u00F3n c\u00F3smica, se convirti\u00F3 en la primera persona en M\u00E9xico en hablar sobre el tema; no obstante, ese m\u00E9rito le fue concedido a su asesor.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Enfatiz\u00F3 que las mujeres pueden aportar un punto de vista diferente al de los hombres, pero a\u00FAn falta mucho camino por recorrer para las mujeres, no obstante, existe un gran acompa\u00F1amiento por parte de las cient\u00EDficas mexicanas, que se ayudan para visibilizar sus contribuciones.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "8m-no-hay-ciencia-sin-mujeres-1.jpg"
+		},
+		{
+			"imagen": "8m-no-hay-ciencia-sin-mujeres-2.jpg"
+		}	]
+
+}

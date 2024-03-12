@@ -1,0 +1,34 @@
+{
+	"titulo": "M\u00FAsica y amor",
+	"titulo_normalizado": "musica-y-amor",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "17/02/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte del Festival del amor y la amistad, la Unidad de Extensi\u00F3n Universitaria llev\u00F3 a cabo un concierto en las escalinatas del Teatro Jos\u00E9 Vasconcelos, donde se presentaron actos musicales con la participaci\u00F3n de bandas de rock como Telegramas Ajenos, Ven y Mira, Un Perro Andaluz y Valgur<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">. <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Gracias a esto las y los aragoneses disfrutaron bailando y cantando toda la&nbsp; tarde.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los grupos musicales interpretaron temas como <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Chapultepec<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> de los Telegramas Ajenos, quienes tendr\u00E1n musica nueva en marzo, asimismo Ven y Mira estren\u00F3 su nuevo sencillo titulado <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">21-12; <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">por su parte Perro Andaluz encendi\u00F3 a la audiencia con su canci\u00F3n <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Un charco <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">canci\u00F3n, que habla sobre la vida en Ecatepec; por \u00FAltimo, Valgur deleit\u00F3 con un performance \u00FAnico y su nueva canci\u00F3n <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mu\u00F1eca mec\u00E1nica<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Bandas1.gif"
+		},
+		{
+			"imagen": "Bandas2.gif"
+		},
+		{
+			"imagen": "Bandas3.gif"
+		},
+		{
+			"imagen": "Bandas4.gif"
+		},
+		{
+			"imagen": "Bandas5.gif"
+		}	]
+
+}

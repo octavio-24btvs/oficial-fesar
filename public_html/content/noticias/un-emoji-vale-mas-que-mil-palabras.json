@@ -1,0 +1,28 @@
+{
+	"titulo": "Un emoji vale m\u00E1s que mil palabras",
+	"titulo_normalizado": "un-emoji-vale-mas-que-mil-palabras",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "UNAM",
+			"seccion_normalizada": "unam"
+		}
+	],
+	"autor": "Luis Gonz\u00E1lez",
+	"fecha": "20/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la d\u00E9cima edici\u00F3n de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Fiesta de las Ciencias y Humanidades<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, organizada por la Direcci\u00F3n General de Divulgaci\u00F3n de la Ciencia, se llev\u00F3 a cabo la pl\u00E1tica “Emojis y Comunicaci\u00F3n”, en la que participaron las ponentes Idanely Mora, docente de la Facultad de Filosof\u00EDa y Letras, Laura Sandoval, conductora de estudios de comunicaci\u00F3n digital y Jackeline L\u00F3pez, psic\u00F3loga egresada de la UNAM. El evento cont\u00F3 con la moderaci\u00F3n de Omar Ch\u00E1vez, catedr\u00E1tico en la Facultad de Ciencias Pol\u00EDticas y Sociales, y fue transmitido a trav\u00E9s del Facebook del Museo de la Luz.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La tem\u00E1tica estuvo centrada en el uso de emojis como herramienta para la comunicaci\u00F3n de personas con Trastorno del Espectro Autista (TEA), del cual Mora dio una breve contextualizaci\u00F3n y de su competencia comunicativa y ling\u00FC\u00EDstica. L\u00F3pez por su parte explic\u00F3 las dificultades sufridas por las personas dentro del espectro, y el apoyo que significan los elementos visuales para una mejor comunicaci\u00F3n. Sandoval habl\u00F3 sobre la importancia y universalidad de las im\u00E1genes y representaciones, expresando que el uso de los emojis complementan la ayuda en busca de la comunicaci\u00F3n verbal y gestual con las personas con TEA.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las tres ponentes expresaron su opini\u00F3n acerca del uso de estos \u00EDconos, los cuales apuntan a ser un buen m\u00E9todo, aunque la misma naturaleza de abstracci\u00F3n de la enfermedad es diversa y \u00FAnica en cada una de los pacientes, por lo que el esfuerzo debe centrarse en enriquecer el lenguaje, no sustituirlo.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "emoji-1.gif"
+		},
+		{
+			"imagen": "emoji-2.gif"
+		},
+		{
+			"imagen": "emoji-3.gif"
+		}	]
+
+}

@@ -1,0 +1,868 @@
+{
+	"id": 7,
+	"titulo": "Comunicaci\u00F3n y Periodismo",
+	"icono": "icon-comunicacion-y-peridismo",
+	"noticias": [
+		{
+			"titulo":"Br\u00FAjula en Mano: Tu gu\u00EDa educativa",
+			"titulo_normalizado":"brujula-en-mano-tu-guia-educativa",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Brujula1.gif",
+			"fecha":"31/07/23"
+		},
+		{
+			"titulo":"SeCom23: Igualdad en los deportes",
+			"titulo_normalizado":"secom23-igualdad-en-los-deportes",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "secom23-igualdad-en-los-deportes.jpg",
+			"fecha":"31/03/23"
+		},
+		{
+			"titulo":"SeCom23: Tecnolog\u00EDa y narrativas",
+			"titulo_normalizado":"secom23-tecnologia-y-narrativas",
+			"autor":"Alejandro Trujillo",
+			"imagen": "n+1.gif",
+			"fecha":"31/03/23"
+		},
+		{
+			"titulo":"SeCom23: La experiencia hace al periodista",
+			"titulo_normalizado":"secom23-la-experiencia-hace-al-periodista",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "secom23-la-experiencia-hace-al-periodista-1.jpg",
+			"fecha":"31/03/23"
+		},
+		{
+			"titulo":"SeCom23: De ligues, ventas y cavernas digitales",
+			"titulo_normalizado":"secom23-de-ligues-ventas-y-cavernas-digitales",
+			"autor":"Elisa Jacobo",
+			"imagen": "marketing-1.jpg",
+			"fecha":"31/03/23"
+		},
+		{
+			"titulo":"La distorsi\u00F3n de la mujer en los medios",
+			"titulo_normalizado":"la-distorsion-de-la-mujer-en-los-medios",
+			"autor":"Alexia Ochoa",
+			"imagen": "la-distorsion-de-la-mujer-en-los-medios-1.jpg",
+			"fecha":"30/11/20"
+		},
+		{
+			"titulo":"El perfil docente y su lado humano",
+			"titulo_normalizado":"el-perfil-docente-y-su-lado-humano",
+			"autor":"Alexis Camacho",
+			"imagen": "el-perfil-docente-y-su-lado-humano-1.jpg",
+			"fecha":"30/04/19"
+		},
+		{
+			"titulo":"La otra infancia retratada",
+			"titulo_normalizado":"la-otra-infancia-retratada",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "la-otra-infancia-retratada-1.jpg",
+			"fecha":"30/04/19"
+		},
+		{
+			"titulo":"SeCom23: FES Arag\u00F3n, Acatl\u00E1n y la FCPyS, unidas por la comunicaci\u00F3n",
+			"titulo_normalizado":"secom23-fes-aragon-acatlan-y-la-fcpys-unidas-por-la-comunicacion",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "secom23-fes-aragon-acatlan-y-la-fcpys-unidas-por-la-comunicacion-1.jpg",
+			"fecha":"30/03/23"
+		},
+		{
+			"titulo":"SeCom23: Mujeres artistas cineastas",
+			"titulo_normalizado":"secom23-mujeres-artistas-cineastas",
+			"autor":"Monserrat Jimenez",
+			"imagen": "CineM1.gif",
+			"fecha":"30/03/23"
+		},
+		{
+			"titulo":"SeCom23: Deportes electr\u00F3nicos, m\u00E1s all\u00E1 de una pantalla",
+			"titulo_normalizado":"secom23-deportes-electronicos-mas-alla-de-una-pantalla",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "deportes-1.jpg",
+			"fecha":"30/03/23"
+		},
+		{
+			"titulo":"Sonidos de la historia",
+			"titulo_normalizado":"sonidos-de-la-historia",
+			"autor":"Francisco Olivares",
+			"imagen": "sonidos-de-la-historia-1.jpg",
+			"fecha":"29/10/21"
+		},
+		{
+			"titulo":"Caleidoscopio: Narrativas que la fotograf\u00EDa presenta a la sociolog\u00EDa",
+			"titulo_normalizado":"caleidoscopio-narrativas-que-la-fotografia-presenta-a-la-sociologia",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Caleidoscopio1.gif",
+			"fecha":"29/09/23"
+		},
+		{
+			"titulo":"SECOM 2021: La desinformaci\u00F3n, otra enfermedad",
+			"titulo_normalizado":"secom-2021-la-desinformacion-otra-enfermedad",
+			"autor":"Orlando Ortega",
+			"imagen": "la-desinformacion-otra-enfermedad-1.jpg",
+			"fecha":"29/04/21"
+		},
+		{
+			"titulo":"SeCom23: Los secretos para una investigaci\u00F3n exitosa",
+			"titulo_normalizado":"secom23-los-secretos-para-una-investigacion-exitosa",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "secom23-los-secretos-para-una-investigacion-exitosa-1.jpg",
+			"fecha":"29/03/23"
+		},
+		{
+			"titulo":"SeCom23: El futuro es “gamer” y “friki”",
+			"titulo_normalizado":"secom23-el-futuro-es----gamer----y----friki---",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "secom23-el-futuro-es-gamer-y-friki-1.jpg",
+			"fecha":"29/03/23"
+		},
+		{
+			"titulo":"SeCom23: La Estafa Maestra",
+			"titulo_normalizado":"secom23-la-estafa-maestra",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Estafa1.gif",
+			"fecha":"29/03/23"
+		},
+		{
+			"titulo":"Caleidoscopio 2023: celebran estudiantes concurso fotogr\u00E1fico",
+			"titulo_normalizado":"caleidoscopio-2023-celebran-estudiantes-concurso-fotografico",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "caleidoscopio-1.gif",
+			"fecha":"28/09/23"
+		},
+		{
+			"titulo":"Caleidoscopio 2023: celebran estudiantes concurso fotogr\u00E1fico",
+			"titulo_normalizado":"caleidoscopio-2023-celebran-estudiantes-concurso-fotografico",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "caleidoscopio-1.gif",
+			"fecha":"28/09/23"
+		},
+		{
+			"titulo":"La fotograf\u00EDa como expresi\u00F3n del territorio",
+			"titulo_normalizado":"la-fotografia-como-expresion-del-territorio",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "lafoto-1.jpg",
+			"fecha":"28/09/23"
+		},
+		{
+			"titulo":"La comunicaci\u00F3n pol\u00EDtica de AMLO",
+			"titulo_normalizado":"la-comunicacion-politica-de-amlo",
+			"autor":"Rosa Francisco",
+			"imagen": "la-comunicacion-politica-de-amlo-1.jpg",
+			"fecha":"28/09/21"
+		},
+		{
+			"titulo":"SeCom23: Fotos sin autor, mujeres del pasado",
+			"titulo_normalizado":"secom23-fotos-sin-autor-mujeres-del-pasado",
+			"autor":"Elisa Jacobo",
+			"imagen": "fotos-y-mujeres-1.jpg",
+			"fecha":"28/03/23"
+		},
+		{
+			"titulo":"SeCom23: Periodismo de salud, m\u00E1s all\u00E1 de COVID-19 y la est\u00E9tica",
+			"titulo_normalizado":"secom23-periodismo-de-salud-mas-alla-de-covid-19-y-la-estetica",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "periodismo-de-salud-mas-alla-de-covid-19-y-la-estetica-1.jpg",
+			"fecha":"28/03/23"
+		},
+		{
+			"titulo":"SeCom23: Videojuegos y g\u00E9nero",
+			"titulo_normalizado":"secom23-videojuegos-y-genero",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Juegos1.gif",
+			"fecha":"28/03/23"
+		},
+		{
+			"titulo":"Comunicadoras y comunicadores emprendedores",
+			"titulo_normalizado":"comunicadoras-y-comunicadores-emprendedores",
+			"autor":"Rosa Francisco",
+			"imagen": "comunicadoras-y-comunicadores-emprendedores-1.jpg",
+			"fecha":"27/10/21"
+		},
+		{
+			"titulo":"SeCom23: Periodismo, entre el “clic” digital y los medios tradicionales",
+			"titulo_normalizado":"secom23-periodismo-entre-el----clic----digital-y-los-medios-tradicionales",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "periodismo-entre-el-clic-digital-y-los-medios-tradicionales-1.jpg",
+			"fecha":"27/03/23"
+		},
+		{
+			"titulo":"SeCom23: Inteligencia artificial, complemento de la creatividad humana",
+			"titulo_normalizado":"secom23-inteligencia-artificial-complemento-de-la-creatividad-humana",
+			"autor":"Beatriz Calva",
+			"imagen": "inteligencia-1.jpg",
+			"fecha":"27/03/23"
+		},
+		{
+			"titulo":"SeCom23: Recorrido te\u00F3rico de la propaganda pol\u00EDtica",
+			"titulo_normalizado":"secom23-recorrido-teorico-de-la-propaganda-politica",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "recorrido-teorico-de-la-propaganda-politica-1.jpg",
+			"fecha":"27/03/23"
+		},
+		{
+			"titulo":"Poder militar y seguridad nacional",
+			"titulo_normalizado":"poder-militar-y-seguridad-nacional",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "poder-militar-y-seguridad-nacional-1.jpg",
+			"fecha":"27/03/19"
+		},
+		{
+			"titulo":"El gran negocio de las plataformas de entretenimiento",
+			"titulo_normalizado":"el-gran-negocio-de-las-plataformas-de-entretenimiento",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "gran-negocio-plataformas-entretenimiento-1.jpg",
+			"fecha":"26/05/21"
+		},
+		{
+			"titulo":"Llamado a la improvisaci\u00F3n, teatro en la FES",
+			"titulo_normalizado":"llamado-a-la-improvisacion-teatro-en-la-fes",
+			"autor":"Aranza Ramos",
+			"imagen": "teatro-fes-1.jpg",
+			"fecha":"25/05/22"
+		},
+		{
+			"titulo":"Hablemos del conflicto Rusia - Ucrania",
+			"titulo_normalizado":"hablemos-del-conflicto-rusia---ucrania",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "conflicto-ur-1.jpg",
+			"fecha":"25/02/22"
+		},
+		{
+			"titulo":"Vinculaci\u00F3n con la Universidad YMCA",
+			"titulo_normalizado":"vinculacion-con-la-universidad-ymca",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "vinculacion-con-la-universidad-ymca-1.png",
+			"fecha":"24/10/18"
+		},
+		{
+			"titulo":"El concepto de la muerte a trav\u00E9s de la lente",
+			"titulo_normalizado":"el-concepto-de-la-muerte-a-traves-de-la-lente",
+			"autor":"Erik Pliego",
+			"imagen": "Panteón1.gif",
+			"fecha":"23/11/21"
+		},
+		{
+			"titulo":"Caleidoscopio: exhibici\u00F3n fotogr\u00E1fica sobre el movimiento del Ser",
+			"titulo_normalizado":"caleidoscopio-exhibicion-fotografica-sobre-el-movimiento-del-ser",
+			"autor":"Rosa Francisco",
+			"imagen": "exhibicion-fotografica-sobre-el-movimiento-del-ser-1.jpg",
+			"fecha":"23/09/21"
+		},
+		{
+			"titulo":"Observatorio de Medios aragon\u00E9s",
+			"titulo_normalizado":"observatorio-de-medios-aragones",
+			"autor":"Redacci\u00F3n",
+			"imagen": "observatorio-de-medios-de-aragon-1.jpg",
+			"fecha":"23/08/21"
+		},
+		{
+			"titulo":"Herramientas de comunicaci\u00F3n: el  cartel",
+			"titulo_normalizado":"herramientas-de-comunicacion-el--cartel",
+			"autor":"Alexis Rey",
+			"imagen": "Cartel1.gif",
+			"fecha":"23/05/22"
+		},
+		{
+			"titulo":"Medios alternativos de comunicaci\u00F3n a prueba de virus",
+			"titulo_normalizado":"medios-alternativos-de-comunicacion-a-prueba-de-virus",
+			"autor":"Francisco Olivares",
+			"imagen": "medios-alternativos-de-comunicacion-a-prueba-de-virus-1.jpg",
+			"fecha":"22/11/21"
+		},
+		{
+			"titulo":"SECOM 2021: La prensa escrita vs la digital",
+			"titulo_normalizado":"secom-2021-la-prensa-escrita-vs-la-digital",
+			"autor":"Sashel Gonz\u00E1lez",
+			"imagen": "la-prensa-escrita-vs-la-digital-1.jpg",
+			"fecha":"22/03/21"
+		},
+		{
+			"titulo":"SECOM 2021: Periodismo a la antigua",
+			"titulo_normalizado":"secom-2021-periodismo-a-la-antigua",
+			"autor":"Gustavo Becerra",
+			"imagen": "periodismo-a-la-antigua-1.jpg",
+			"fecha":"22/03/21"
+		},
+		{
+			"titulo":"SECOM 2021: Inicia la Semana de la Comunicaci\u00F3n",
+			"titulo_normalizado":"secom-2021-inicia-la-semana-de-la-comunicacion",
+			"autor":"Redacci\u00F3n",
+			"imagen": "inicia-la-semana-de-la-comunicacion-1.jpg",
+			"fecha":"22/03/21"
+		},
+		{
+			"titulo":"La pol\u00EDtica en plataformas digitales",
+			"titulo_normalizado":"la-politica-en-plataformas-digitales",
+			"autor":"Francisco Olivares",
+			"imagen": "la-politica-en-plataformas-digitales-1.jpg",
+			"fecha":"21/10/21"
+		},
+		{
+			"titulo":"El otro lado de la p\u00E1gina",
+			"titulo_normalizado":"el-otro-lado-de-la-pagina",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "Los-fabuladores1.gif",
+			"fecha":"21/09/21"
+		},
+		{
+			"titulo":"SECOM 2021: La vida a trav\u00E9s de Zoom",
+			"titulo_normalizado":"secom-2021-la-vida-a-traves-de-zoom",
+			"autor":"Alexia Ochoa",
+			"imagen": "la-vida-a-traves-de-zoom-1.jpg",
+			"fecha":"21/04/21"
+		},
+		{
+			"titulo":"Elementos de nuestros or\u00EDgenes y la libertad plasmados en carteles",
+			"titulo_normalizado":"elementos-de-nuestros-origenes-y-la-libertad-plasmados-en-carteles",
+			"autor":"Diego Flores",
+			"imagen": "elementos-de-nuestros-origenes-y-la-libertad-plasmados-en-carteles-1.jpg",
+			"fecha":"20/05/22"
+		},
+		{
+			"titulo":"SECOM 2021: La locuci\u00F3n como herramienta",
+			"titulo_normalizado":"secom-2021-la-locucion-como-herramienta",
+			"autor":"Gustavo Becerra",
+			"imagen": "la-locucion-como-herramienta-1.jpg",
+			"fecha":"20/04/21"
+		},
+		{
+			"titulo":"Narrativas, guerra por la historia",
+			"titulo_normalizado":"narrativas-guerra-por-la-historia",
+			"autor":"Beatriz Calva",
+			"imagen": "fisgón-2.jpg",
+			"fecha":"20/02/23"
+		},
+		{
+			"titulo":"Entrega de diplomas Comunicaci\u00F3n y Periodismo",
+			"titulo_normalizado":"entrega-de-diplomas-comunicacion-y-periodismo",
+			"autor":"Kenia Brodman",
+			"imagen": "Diplomas1.gif",
+			"fecha":"19/04/22"
+		},
+		{
+			"titulo":"Reconoce Arag\u00F3n a egresados de la generaci\u00F3n 2018-2021",
+			"titulo_normalizado":"reconoce-aragon-a-egresados-de-la-generacion-2018-2021",
+			"autor":"Miguel Palacios",
+			"imagen": "diplomas-1.jpg",
+			"fecha":"19/04/22"
+		},
+		{
+			"titulo":"Presentaci\u00F3n del libro 19S El d\u00EDa que cimbr\u00F3 M\u00E9xico",
+			"titulo_normalizado":"presentacion-del-libro-19s-el-dia-que-cimbro-mexico",
+			"autor":"Alison Vargas",
+			"imagen": "img-1.jpg",
+			"fecha":"17/09/18"
+		},
+		{
+			"titulo":"Bienvenida en la Atl\u00E1ntida",
+			"titulo_normalizado":"bienvenida-en-la-atlantida",
+			"autor":"Aranza Ramos",
+			"imagen": "PapáestáenlaAtlantida1 (1).JPG",
+			"fecha":"17/08/22"
+		},
+		{
+			"titulo":"G\u00E9nesis y evoluci\u00F3n de la TV en M\u00E9xico",
+			"titulo_normalizado":"genesis-y-evolucion-de-la-tv-en-mexico",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "genesis-y-evolucion-de-la-tv-en-mexico-1.jpg",
+			"fecha":"16/11/21"
+		},
+		{
+			"titulo":"Especialistas en comunicaci\u00F3n organizan encuentro",
+			"titulo_normalizado":"especialistas-en-comunicacion-organizan-encuentro",
+			"autor":"Erick Sol\u00EDs",
+			"imagen": "especialistas-en-comunicacion-organizan-encuentro-1.jpg",
+			"fecha":"16/10/20"
+		},
+		{
+			"titulo":"SECOM 2021: Una vista del otro lado del charco",
+			"titulo_normalizado":"secom-2021-una-vista-del-otro-lado-del-charco",
+			"autor":"Isa\u00EDas Hern\u00E1ndez",
+			"imagen": "una-vista-del-otro-lado-del-charco-1.jpg",
+			"fecha":"16/04/21"
+		},
+		{
+			"titulo":"SECOM 2021: TV UNAM y la importancia del periodismo durante la pandemia",
+			"titulo_normalizado":"secom-2021-tv-unam-y-la-importancia-del-periodismo-durante-la-pandemia",
+			"autor":"Orlando Ortega",
+			"imagen": "tv--unam-y-la-importancia-del-periodismo-1.jpg",
+			"fecha":"16/04/21"
+		},
+		{
+			"titulo":"30 a\u00F1os creando periodistas radiales aragoneses",
+			"titulo_normalizado":"30-anos-creando-periodistas-radiales-aragoneses",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "creando-periodistas-radiales-aragoneses-1.jpg",
+			"fecha":"14/10/21"
+		},
+		{
+			"titulo":"Streaming y formatos audiovisuales",
+			"titulo_normalizado":"streaming-y-formatos-audiovisuales",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "streaming-y-formatos-audiovisuales-1.jpg",
+			"fecha":"14/09/21"
+		},
+		{
+			"titulo":"SECOM 2021: Estrategias propagand\u00EDsticas en el poder pol\u00EDtico",
+			"titulo_normalizado":"secom-2021-estrategias-propagandisticas-en-el-poder-politico",
+			"autor":"Orlando Ortega",
+			"imagen": "estrategias-propagandisticas-en-el-poder-politico-1.jpg",
+			"fecha":"14/04/21"
+		},
+		{
+			"titulo":"SECOM 2021: La violencia simb\u00F3lica dentro de la comunicaci\u00F3n",
+			"titulo_normalizado":"secom-2021-la-violencia-simbolica-dentro-de-la-comunicacion",
+			"autor":"Alexia Ochoa",
+			"imagen": "la-violencia-simbolica-dentro-de-la-comunicacion-1.jpg",
+			"fecha":"14/04/21"
+		},
+		{
+			"titulo":"SECOM 2021: La comunicaci\u00F3n pol\u00EDtica en M\u00E9xico",
+			"titulo_normalizado":"secom-2021-la-comunicacion-politica-en-mexico",
+			"autor":"Erick Sol\u00EDs",
+			"imagen": "la-comunicacion-politica-en-mexico-1.jpg",
+			"fecha":"14/04/21"
+		},
+		{
+			"titulo":"Antecedentes para la formaci\u00F3n del periodismo",
+			"titulo_normalizado":"antecedentes-para-la-formacion-del-periodismo",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "Periodismo1.gif",
+			"fecha":"13/08/21"
+		},
+		{
+			"titulo":"SECOM 2021: Prensa, AMLO y elecciones intermedias",
+			"titulo_normalizado":"secom-2021-prensa-amlo-y-elecciones-intermedias",
+			"autor":"Orlando Ortega",
+			"imagen": "prensa-amlo-y-elecciones-intermedias-1.jpg",
+			"fecha":"13/04/21"
+		},
+		{
+			"titulo":"Violencia futbolera",
+			"titulo_normalizado":"violencia-futbolera",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Fut1.gif",
+			"fecha":"10/03/22"
+		},
+		{
+			"titulo":"Aragonesa destaca en concurso de Punto de partida",
+			"titulo_normalizado":"aragonesa-destaca-en-concurso-de-punto-de-partida",
+			"autor":"Redacci\u00F3n",
+			"imagen": "aragonesa-destaca-en-concurso-de-punto-de-partida-1.jpg",
+			"fecha":"09/09/21"
+		},
+		{
+			"titulo":"Periodismo: pasi\u00F3n y convicci\u00F3n",
+			"titulo_normalizado":"periodismo-pasion-y-conviccion",
+			"autor":"Redacci\u00F3n",
+			"imagen": "periodismo-pasion-y-conviccion-1.jpg",
+			"fecha":"09/08/21"
+		},
+		{
+			"titulo":"8M: Mujeres en los medios, aportes y retos",
+			"titulo_normalizado":"8m-mujeres-en-los-medios-aportes-y-retos",
+			"autor":"Rodrigo Perea",
+			"imagen": "mujeres-en-los-mediosa-aportes-retos-1.jpg",
+			"fecha":"09/03/21"
+		},
+		{
+			"titulo":"ForoTok22: Mis historias en un podcast",
+			"titulo_normalizado":"forotok22-mis-historias-en-un-podcast",
+			"autor":"Edna Reyes",
+			"imagen": "mis-historias-en-un-podcast-1.jpg",
+			"fecha":"08/09/22"
+		},
+		{
+			"titulo":"ForoTok22: Aprender ciencia es m\u00E1s sencillo de lo que imaginas",
+			"titulo_normalizado":"forotok22-aprender-ciencia-es-mas-sencillo-de-lo-que-imaginas",
+			"autor":"Edna Reyes",
+			"imagen": "aprender-ciencia-es-mas-sencillo-de-lo-que-imaginas-1.jpg",
+			"fecha":"08/09/22"
+		},
+		{
+			"titulo":"ForoTok22: Del derecho al hecho",
+			"titulo_normalizado":"forotok22-del-derecho-al-hecho",
+			"autor":"Aranza Ramos",
+			"imagen": "Del-derecho-al-hecho_1.JPG",
+			"fecha":"08/09/22"
+		},
+		{
+			"titulo":"SECOM22: \u00BFY para qu\u00E9 el SEO?",
+			"titulo_normalizado":"secom22-y-para-que-el-seo",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "SEO1.gif",
+			"fecha":"08/04/22"
+		},
+		{
+			"titulo":"SECOM22: Predominante, el papel de la tecnolog\u00EDa durante la pandemia",
+			"titulo_normalizado":"secom22-predominante-el-papel-de-la-tecnologia-durante-la-pandemia",
+			"autor":"Diego Flores",
+			"imagen": "predominante-el-papel-de-la-tecnologia-durante-la-pandemia-1.jpg",
+			"fecha":"08/04/22"
+		},
+		{
+			"titulo":"SECOM22: Corresponsal\u00EDa, una labor que exige y prepara periodistas",
+			"titulo_normalizado":"secom22-corresponsalia-una-labor-que-exige-y-prepara-periodistas",
+			"autor":"Miguel Palacios",
+			"imagen": "HRS-1.JPG",
+			"fecha":"08/04/22"
+		},
+		{
+			"titulo":"SECOM 2021: Primeras experiencias en el periodismo",
+			"titulo_normalizado":"secom-2021-primeras-experiencias-en-el-periodismo",
+			"autor":"Erick Sol\u00EDs",
+			"imagen": "primeras-experiencias-en-el-periodismo-1.jpg",
+			"fecha":"08/04/21"
+		},
+		{
+			"titulo":"SECOM 2021: Efecto COVID en las producciones",
+			"titulo_normalizado":"secom-2021-efecto-covid-en-las-producciones",
+			"autor":"Alexia Ochoa",
+			"imagen": "efecto-covid-en-las-producciones-1.jpg",
+			"fecha":"08/04/21"
+		},
+		{
+			"titulo":"Nueva \u00E9poca de la Revista Mexicana de Comunicaci\u00F3n",
+			"titulo_normalizado":"nueva-epoca-de-la-revista-mexicana-de-comunicacion",
+			"autor":"Alexis Camacho",
+			"imagen": "Nueva-epoca-de-la-revista-mexicana-de-comunicacion-1.jpg",
+			"fecha":"08/03/19"
+		},
+		{
+			"titulo":"ForoTok22: Influencias en la creaci\u00F3n de contenido",
+			"titulo_normalizado":"forotok22-influencias-en-la-creacion-de-contenido",
+			"autor":"Edna Reyes",
+			"imagen": "influencias-en-la-creacion-de-contenido-1.jpg",
+			"fecha":"07/09/22"
+		},
+		{
+			"titulo":"ForoTok22: Ense\u00F1anza de la historia en TikTok",
+			"titulo_normalizado":"forotok22-ensenanza-de-la-historia-en-tiktok",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "img1.gif",
+			"fecha":"07/09/22"
+		},
+		{
+			"titulo":"ForoTok22: Conoce m\u00E1s de la medicina a trav\u00E9s de TikTok",
+			"titulo_normalizado":"forotok22-conoce-mas-de-la-medicina-a-traves-de-tiktok",
+			"autor":"Edna Reyes",
+			"imagen": "conoce-mas-de-la-medicina-a-traves-de-tiktok-1.jpg",
+			"fecha":"07/09/22"
+		},
+		{
+			"titulo":"ForoTok22: \u00BFC\u00F3mo crear t\u00FA p\u00FAblico en redes sociales?",
+			"titulo_normalizado":"forotok22-como-crear-tu-publico-en-redes-sociales",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "tk1.gif",
+			"fecha":"07/09/22"
+		},
+		{
+			"titulo":"ForoTok22: Compartiendo la diversi\u00F3n: Streaming",
+			"titulo_normalizado":"forotok22-compartiendo-la-diversion-streaming",
+			"autor":"Aranza Ramos",
+			"imagen": "Compartir-la-diversión_-streaming_1.JPG",
+			"fecha":"07/09/22"
+		},
+		{
+			"titulo":"SECOM22: Mujeres creadoras: audiovisuales",
+			"titulo_normalizado":"secom22-mujeres-creadoras-audiovisuales",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "audiovisuales-1.jpg",
+			"fecha":"07/04/22"
+		},
+		{
+			"titulo":"SECOM22: Discurso pol\u00EDtico: el logos, pathos y ethos",
+			"titulo_normalizado":"secom22-discurso-politico-el-logos-pathos-y-ethos",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "PL1.gif",
+			"fecha":"07/04/22"
+		},
+		{
+			"titulo":"SECOM22: Pensando im\u00E1genes",
+			"titulo_normalizado":"secom22-pensando-imagenes",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Imágenes1.gif",
+			"fecha":"07/04/22"
+		},
+		{
+			"titulo":"Esfuerzo y compromiso en labor comunicativa",
+			"titulo_normalizado":"esfuerzo-y-compromiso-en-labor-comunicativa",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "Esfuerzo-y-compromiso-en-labor-comunicativa-1.jpg",
+			"fecha":"07/03/19"
+		},
+		{
+			"titulo":"Encuentro de miradas: Caleidoscopio",
+			"titulo_normalizado":"encuentro-de-miradas-caleidoscopio",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Encuentro-de-miradas-Caleidoscopio-01.jpg",
+			"fecha":"06/11/19"
+		},
+		{
+			"titulo":"ForoTok22: Creando a partir de una pandemia",
+			"titulo_normalizado":"forotok22-creando-a-partir-de-una-pandemia",
+			"autor":"Aranza Ramos",
+			"imagen": "Creando-a-partir-de-una-pandemia_1.JPG",
+			"fecha":"06/09/22"
+		},
+		{
+			"titulo":"ForoTok22: Aprendiendo con Tiktok",
+			"titulo_normalizado":"forotok22-aprendiendo-con-tiktok",
+			"autor":"Aranza Ramos",
+			"imagen": "aprendiendo-tiktok-1.jpg",
+			"fecha":"06/09/22"
+		},
+		{
+			"titulo":"ForoTok22: Lo que necesitas saber para crear contenido",
+			"titulo_normalizado":"forotok22-lo-que-necesitas-saber-para-crear-contenido",
+			"autor":"Edna Reyes",
+			"imagen": "lo-que-necesitas-saber-para-crear-contenido-1.jpg",
+			"fecha":"06/09/22"
+		},
+		{
+			"titulo":"ForoTok22: Impacto de los medios digitales en la vida cotidiana",
+			"titulo_normalizado":"forotok22-impacto-de-los-medios-digitales-en-la-vida-cotidiana",
+			"autor":"Edna Reyes",
+			"imagen": "impacto-de-los-medios-digitales-en-la-vida-cotidiana-1.jpg",
+			"fecha":"06/09/22"
+		},
+		{
+			"titulo":"SECOM22: Provocadoras y problem\u00E1ticas, as\u00ED son las barras dentro del futbol",
+			"titulo_normalizado":"secom22-provocadoras-y-problematicas-asi-son-las-barras-dentro-del-futbol",
+			"autor":"Diego Flores",
+			"imagen": "provocadoras-y-problematicas-asi-son-las-barras-dentro-del-futbol-1.jpg",
+			"fecha":"06/04/22"
+		},
+		{
+			"titulo":"SECOM22: La pandemia cambi\u00F3 al cine",
+			"titulo_normalizado":"secom22-la-pandemia-cambio-al-cine",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "la-pandemia-cambio-al-cine-1.jpg",
+			"fecha":"06/04/22"
+		},
+		{
+			"titulo":"SECOM22: Con una obra period\u00EDstica alzan la voz por los que desaparecieron",
+			"titulo_normalizado":"secom22-con-una-obra-periodistica-alzan-la-voz-por-los-que-desaparecieron",
+			"autor":"Miguel Palacios",
+			"imagen": "libro-1.JPG",
+			"fecha":"06/04/22"
+		},
+		{
+			"titulo":"SECOM22: Redescubriendo espacios danzando",
+			"titulo_normalizado":"secom22-redescubriendo-espacios-danzando",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "redescubriendo-espacios-danzando-1.jpg",
+			"fecha":"06/04/22"
+		},
+		{
+			"titulo":"SECOM22: Comunicaci\u00F3n latinoamericana",
+			"titulo_normalizado":"secom22-comunicacion-latinoamericana",
+			"autor":"Kenia Brodman",
+			"imagen": "comunicación1.gif",
+			"fecha":"06/04/22"
+		},
+		{
+			"titulo":"SECOM22: El riesgo de ser periodista en M\u00E9xico",
+			"titulo_normalizado":"secom22-el-riesgo-de-ser-periodista-en-mexico",
+			"autor":"Kenia Brodman",
+			"imagen": "Violencia1.gif",
+			"fecha":"05/04/22"
+		},
+		{
+			"titulo":"SECOM22: Mujeres en la industria de los videojuegos",
+			"titulo_normalizado":"secom22-mujeres-en-la-industria-de-los-videojuegos",
+			"autor":"Diego Flores",
+			"imagen": "mujeres-en-la-industria-de-los-videojuegos-1.jpg",
+			"fecha":"05/04/22"
+		},
+		{
+			"titulo":"SEMCO22: El doblaje: campo de desempe\u00F1o del comunicador",
+			"titulo_normalizado":"semco22-el-doblaje-campo-de-desempeno-del-comunicador",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "doblaje-1.jpg",
+			"fecha":"05/04/22"
+		},
+		{
+			"titulo":"Integrantes de ForoTV comparten su experiencia",
+			"titulo_normalizado":"integrantes-de-forotv-comparten-su-experiencia",
+			"autor":"Luis Bocanegra",
+			"imagen": "integrantes-de-foro-tv- comparten-sus-experiencias-1.jpg",
+			"fecha":"05/04/19"
+		},
+		{
+			"titulo":"Simulacro televisivo para aragoneses",
+			"titulo_normalizado":"simulacro-televisivo-para-aragoneses",
+			"autor":"Alejandro Frias",
+			"imagen": "simulacro-televisivo-para-aragoneses-1.jpg",
+			"fecha":"05/04/19"
+		},
+		{
+			"titulo":"Creatividad y talento en Encuentro de teatro deportivo",
+			"titulo_normalizado":"creatividad-y-talento-en-encuentro-de-teatro-deportivo",
+			"autor":"Alejandro Frias",
+			"imagen": "creatividad-y-talento-en-encuentro-de-teatro-deportivo-1.jpg",
+			"fecha":"05/04/19"
+		},
+		{
+			"titulo":"\u00BFQu\u00E9 periodista quiero ser?",
+			"titulo_normalizado":"que-periodista-quiero-ser",
+			"autor":"Alexis Camacho",
+			"imagen": "Que-periodista-quiero-ser-1.jpg",
+			"fecha":"05/04/19"
+		},
+		{
+			"titulo":"Seguridad inform\u00E1tica e ingenier\u00EDa social",
+			"titulo_normalizado":"seguridad-informatica-e-ingenieria-social",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "seguridad-informatica-e-ingenieria-social-1.jpg",
+			"fecha":"05/04/19"
+		},
+		{
+			"titulo":"Cierre de la Semana de la Comunicaci\u00F3n",
+			"titulo_normalizado":"cierre-de-la-semana-de-la-comunicacion",
+			"autor":"Aurelio Nito",
+			"imagen": "cierre-de-la-semana-de-comunicacion-1.jpg",
+			"fecha":"05/04/19"
+		},
+		{
+			"titulo":"SECOM22: Las mujeres no deben ser extranjeras en el deporte",
+			"titulo_normalizado":"secom22-las-mujeres-no-deben-ser-extranjeras-en-el-deporte",
+			"autor":"Kenia Brodman",
+			"imagen": "Periodismo1.gif",
+			"fecha":"04/04/22"
+		},
+		{
+			"titulo":"SECOM22: La voz de la experiencia fotogr\u00E1fica",
+			"titulo_normalizado":"secom22-la-voz-de-la-experiencia-fotografica",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "etica-foto-1.jpg",
+			"fecha":"04/04/22"
+		},
+		{
+			"titulo":"SECOM22: Brinda Arag\u00F3n conferencia para locutores en potencia",
+			"titulo_normalizado":"secom22-brinda-aragon-conferencia-para-locutores-en-potencia",
+			"autor":"Miguel Palacios",
+			"imagen": "cuatro-voces-1.JPG",
+			"fecha":"04/04/22"
+		},
+		{
+			"titulo":"SECOM22: Aprendizaje a trav\u00E9s del monitoreo de medios",
+			"titulo_normalizado":"secom22-aprendizaje-a-traves-del-monitoreo-de-medios",
+			"autor":"Diego Flores",
+			"imagen": "aprendizaje-a-traves-del-monitoreo-de-medios-1.jpg",
+			"fecha":"04/04/22"
+		},
+		{
+			"titulo":"La voz de la audiencia",
+			"titulo_normalizado":"la-voz-de-la-audiencia",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "la-voz-de-la-audiencia-1.jpg",
+			"fecha":"04/04/19"
+		},
+		{
+			"titulo":"Todo puede ser visto desde una perspectiva period\u00EDstica",
+			"titulo_normalizado":"todo-puede-ser-visto-desde-una-perspectiva-periodistica",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "todo-puede-ser-visto-desde-una-perspectiva-periodistica-2.jpg",
+			"fecha":"04/04/19"
+		},
+		{
+			"titulo":"Cortometrajes inspirados en la labor comunicativa",
+			"titulo_normalizado":"cortometrajes-inspirados-en-la-labor-comunicativa",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "cortometrajes-inspirados-en-la-labor-comunicativa-1.jpg",
+			"fecha":"04/04/19"
+		},
+		{
+			"titulo":"La labor investigativa dentro del periodismo",
+			"titulo_normalizado":"la-labor-investigativa-dentro-del-periodismo",
+			"autor":"Alejandro Frias",
+			"imagen": "la-labor-investigativa-dentro-del-periodismo-3.jpg",
+			"fecha":"04/04/19"
+		},
+		{
+			"titulo":"Comunicaci\u00F3n Pol\u00EDtica en el gobierno de AMLO",
+			"titulo_normalizado":"comunicacion-politica-en-el-gobierno-de-amlo",
+			"autor":"Luis Bocanegra",
+			"imagen": "comunicacion-politica-en-el-gobierno-de-amlo-1.jpg",
+			"fecha":"03/04/19"
+		},
+		{
+			"titulo":"La importancia de cuidar las relaciones p\u00FAblicas",
+			"titulo_normalizado":"la-importancia-de-cuidar-las-relaciones-publicas",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "la-importancia-de-cuidar-las-relaciones-publicas-1.jpg",
+			"fecha":"03/04/19"
+		},
+		{
+			"titulo":"La trascendencia de la verificaci\u00F3n de informaci\u00F3n",
+			"titulo_normalizado":"la-trascendencia-de-la-verificacion-de-informacion",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "la-trascendencia-de-la-verificacion-de-informacion-1.jpg",
+			"fecha":"03/04/19"
+		},
+		{
+			"titulo":"La resignificaci\u00F3n del signo",
+			"titulo_normalizado":"la-resignificacion-del-signo",
+			"autor":"Alejandro Frias",
+			"imagen": "la-resignificacion-del-signo-1.jpg",
+			"fecha":"02/05/19"
+		},
+		{
+			"titulo":"Alberto Lati: Adaptaci\u00F3n y sue\u00F1os",
+			"titulo_normalizado":"alberto-lati-adaptacion-y-suenos",
+			"autor":"Alexis Camacho",
+			"imagen": "alberto-lati-adaptacion-y-suenos-1.jpg",
+			"fecha":"02/04/19"
+		},
+		{
+			"titulo":"La poes\u00EDa de Alberto Peraza",
+			"titulo_normalizado":"la-poesia-de-alberto-peraza",
+			"autor":"Alejandro Frias",
+			"imagen": "la-poesia-de-alberto-peraza-1.jpg",
+			"fecha":"02/04/19"
+		},
+		{
+			"titulo":"Andanzas de un editor de libros",
+			"titulo_normalizado":"andanzas-de-un-editor-de-libros",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "andanzas-de-un-editor-de-libros-1.jpg",
+			"fecha":"02/04/19"
+		},
+		{
+			"titulo":"Historias de n\u00FAmeros y hechos",
+			"titulo_normalizado":"historias-de-numeros-y-hechos",
+			"autor":"Luis Bocanegra",
+			"imagen": "_historias-de-numeros-y-hechos-5.jpg",
+			"fecha":"02/04/19"
+		},
+		{
+			"titulo":"Fotograf\u00EDa: medio de expresi\u00F3n art\u00EDstica",
+			"titulo_normalizado":"fotografia-medio-de-expresion-artistica",
+			"autor":"Diego Flores",
+			"imagen": "fotografia-medio-de-expresion-artistica-1.jpg",
+			"fecha":"01/06/22"
+		},
+		{
+			"titulo":"\u00BFPara qu\u00E9 sirve la comunicaci\u00F3n social?",
+			"titulo_normalizado":"para-que-sirve-la-comunicacion-social",
+			"autor":"Alejandro Frias",
+			"imagen": "para-que-sirve-la-comunicacion-social-1.jpg",
+			"fecha":"01/04/19"
+		},
+		{
+			"titulo":"Arranca la Semana de la Comunicaci\u00F3n",
+			"titulo_normalizado":"arranca-la-semana-de-la-comunicacion",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "arranca-la-semana-de-la-comunicacion-1.jpg",
+			"fecha":"01/04/19"
+		},
+		{
+			"titulo":"Protecci\u00F3n a la libertad de expresi\u00F3n",
+			"titulo_normalizado":"proteccion-a-la-libertad-de-expresion",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "Proteccion-de-la-libertad-de-expresion-1.jpg",
+			"fecha":"01/04/19"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"titulo": "XVCIMI: Pol\u00EDtica desde los j\u00F3venes",
+	"titulo_normalizado": "xvcimi-politica-desde-los-jovenes",
+	"secciones": [
+		{
+			"seccion": "Pedagogía",
+			"seccion_normalizada": "pedagogia"
+		},
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "25/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Una invitaci\u00F3n a la reflexi\u00F3n, acerca del estado de la cultura pol\u00EDtica de los j\u00F3venes estudiantes de bachillerato es el objetivo planteado en&nbsp; el libro titulado <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Destilando la cultura pol\u00EDtica. Estudios en representaciones sociales de j\u00F3venes<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> de Bonifacio Vuelvas; la obra fue presentada como parte de las actividades del <\/span><em style=\"color: rgb(5, 5, 5);\">XV Congreso Internacional Multidisciplinario de Investigaci\u00F3n.&nbsp;<\/em><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La presentadora fue Guadalupe Villegas, del posgrado de Pedagog\u00EDa de la FES Arag\u00F3n, quien realiz\u00F3 una s\u00EDntesis del contenido. Villegas enlist\u00F3 tres dimensiones a tomar en cuenta: convivencia y civilidad, cultura pol\u00EDtica, y representaciones de poder, explic\u00F3 las formas en las que estas fueron conceptualizadas por los estudiantes de bachillerato de diferentes escuelas en la CDMX con edad para votar durante el periodo previo a las elecciones del 2018; coment\u00F3 c\u00F3mo los resultados evidencian una realidad ca\u00F3tica heredada y resalt\u00F3 la necesidad de un compromiso por parte de todas las instituciones para lograr un pleno desarrollo de la ciudadan\u00EDa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esto fue reiterado por Bonifacio Vuelvas quien tambi\u00E9n coment\u00F3 c\u00F3mo las din\u00E1micas de transmisi\u00F3n de esta cultura c\u00EDvica son desfavorecedoras para la democracia y se relacionan con nuestros antecedentes hist\u00F3ricos. Esto ha resultado en una participaci\u00F3n carente, y a\u00FAn as\u00ED, expres\u00F3 Vuelvas, el libro muestra las representaciones sociales de una juventud, que si bien no tuvo la formaci\u00F3n, s\u00ED busca construirse responsablemente, as\u00ED como&nbsp; el di\u00E1logo y la informaci\u00F3n.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "politica-1.gif"
+		},
+		{
+			"imagen": "politica-2.gif"
+		}	]
+
+}

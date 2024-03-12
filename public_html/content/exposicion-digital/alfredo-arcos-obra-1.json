@@ -1,0 +1,40 @@
+{
+    "obra": "Titulo obra", 
+    "obra_normalizada": "titulo-obra", 
+    "autor": "alfredo-arcos", 
+    "imagen": "obra.png", 
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.", 
+    "fragmentos": [
+        {
+            "titulo": "Fragmento Uno", 
+            "titulo_normalizado": "obra-uno", 
+            "imagen": "fragmento-1.png", 
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }, 
+        {
+            "titulo": "Fragmento Dos", 
+            "titulo_normalizado": "obra-dos", 
+            "imagen": "fragmento-2.png", 
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }, 
+        {
+            "titulo": "Fragmento Tres", 
+            "titulo_normalizado": "obra-tres", 
+            "imagen": "fragmento-3.png", 
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    ], 
+    "informacion_adicional": {
+        "sitio_web": [
+            "uno", 
+            "dos"
+        ], 
+        "reportajes": [
+            "uno", 
+            "dos"
+        ], 
+        "entrevistas": [
+            "uno"
+        ]
+    }
+}

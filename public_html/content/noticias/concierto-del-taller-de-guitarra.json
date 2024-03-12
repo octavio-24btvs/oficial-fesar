@@ -1,0 +1,14 @@
+{
+	"titulo": "Concierto del Taller de Guitarra",
+	"titulo_normalizado": "concierto-del-taller-de-guitarra",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		}
+	],
+	"autor":"Isaias Hern\u00E1ndez",
+	"fecha":"10/02/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para cerrar el semestre 2021-1, la Unidad de Extensi\u00F3n Universitaria y su Taller de Guitarra, dirigido por el profesor Josu\u00E9 Urquiza, presentaron un concierto virtual.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el acto se interpretaron temas como: <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cantata 147<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> o <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Jes\u00FAs, alegr\u00EDa de los hombres<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, de Johan Sebastian Bach; <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Vals en sol<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, composici\u00F3n atribuida a Daniel Fortea; <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Vals de la Sonata n\u00FAmero 9,<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> compuesta por Nicolo Paganini; y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Pimpollo<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, una pieza del argentino Pedro A. Iparraguirre.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Derivado de la situaci\u00F3n actual causada por la pandemia, el taller ha continuado trabajando con clases a distancia, el recital de guitarra es el resultado del trabajo constante de alumnas, alumnos y el profesor del taller, siendo esta la primera generaci\u00F3n en su modalidad <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">online<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Puedes ver la transmisi\u00F3n a trav\u00E9s de la cuenta oficial de Extensi\u00F3n Universitaria en Facebook<\/span><\/p>",
+	"imagenes":[{"imagen":"Concierto-guitarra1.gif"},{"imagen":"Concierto-guitarra2.gif"},{"imagen":"Concierto-guitarra3.gif"},{"imagen":"Concierto-guitarra4.gif"},{"imagen":"Concierto-guitarra5.gif"},{"imagen":"Concierto-guitarra6.gif"}]
+}

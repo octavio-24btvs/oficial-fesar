@@ -1,0 +1,18 @@
+{
+	"titulo": "SING22: Estudiar matem\u00E1ticas",
+	"titulo_normalizado": "sing22-estudiar-matematicas",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor": "Ariadna Hern\u00E1ndez",
+	"fecha": "26/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> de la FES Arag\u00F3n, el acad\u00E9mico Humberto Mancilla dio la conferencia “La importancia de las matem\u00E1ticas en la ingenier\u00EDa”, en el Auditorio A9.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El ponente comenz\u00F3 explicando que el principal objetivo de las matem\u00E1ticas es expresar de forma efectiva nuestras concepciones, es decir, ir de lo abstracto a una idea m\u00E1s digerible dentro de un n\u00FAmero u operaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Puntualiz\u00F3 que la ingenier\u00EDa orilla a las y los estudiantes a pensar de una forma l\u00F3gica y estructurada, por ello una de las cualidades que deben tener es un pensamiento abstracto, pues esta disciplina tiene la finalidad de encauzar hacia la soluci\u00F3n de problemas para la colectividad.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "estudiar-matematicas-1.jpg"
+		}	]
+
+}

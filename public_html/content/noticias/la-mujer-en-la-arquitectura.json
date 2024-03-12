@@ -1,0 +1,14 @@
+{
+	"titulo": "La mujer en la arquitectura",
+	"titulo_normalizado": "la-mujer-en-la-arquitectura",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor":"Julio G\u00F3mez",
+	"fecha":"07/05/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las profesionistas han enfrentado retos para desarrollarse en el \u00E1mbito laboral. Por esta raz\u00F3n, la licenciatura en Arquitectura de la FES Arag\u00F3n organiz\u00F3 el Conversatorio con Arquitectas, donde las participantes hablaron acerca de su trayectoria profesional, de c\u00F3mo lograron abrirse camino sorteando obst\u00E1culos y de la transformaci\u00F3n que ha tenido tanto la disciplina arquitect\u00F3nica, como el rol de las mujeres dentro de la sociedad.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las invitadas a esta charla fueron las arquitectas Magdalena V\u00E1zquez, Laura Soto, Lirio Guti\u00E9rrez, Vanessa Salgado, Norma Carlos, Diana Ochoa y Laura Mill\u00E1n; la profesora Mar\u00EDa de Jes\u00FAs Casta\u00F1eda fue la encargada de moderar el encuentro realizado en el Auditorio M. en I. Claudio Carl Merrifield Castro.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El evento tambi\u00E9n cont\u00F3 con la presencia de Roberto Pliego, jefe de carrera, y de Rosa Lucia Mata, jefa de la Divisi\u00F3n de Humanidades y Artes, quienes comentaron que este tipo de charlas buscan fomentar el respeto y motivar a la comunidad estudiantil para continuar sus esfuerzos en las aulas, tomando como ejemplo a estas destacadas mujeres.<\/span><\/p>",
+	"imagenes":[{"imagen":"la-mujer-en-la-arquitectura-1.jpg"},{"imagen":"la-mujer-en-la-arquitectura-2.jpg"},{"imagen":"la-mujer-en-la-arquitectura-3.jpg"},{"imagen":"la-mujer-en-la-arquitectura-4.jpg"},{"imagen":"la-mujer-en-la-arquitectura-5.jpg"},{"imagen":"la-mujer-en-la-arquitectura-7.jpg"},{"imagen":"la-mujer-en-la-arquitectura-8.jpg"},{"imagen":"la-mujer-en-la-arquitectura-9.jpg"}]
+}

@@ -1,0 +1,43 @@
+{
+	"titulo": "Emprender para el futuro",
+	"titulo_normalizado": "emprender-para-el-futuro",
+	"secciones": [
+		{
+			"seccion": "DUACyD",
+			"seccion_normalizada": "duacyd"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Israel Garc\u00EDa",
+	"fecha": "21/08/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con motivo de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">1.<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">era<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Feria InnovaFES de emprendimiento<\/em>.,<span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> la Facultad de Estudios Superiores Arag\u00F3n llev\u00F3 a cabo en el auditorio de la Divisi\u00F3n de Universidad Abierta, Continua y a Distancia (DUACyD) la&nbsp;conferencia magistral “Tour Agenda Emprendedora”, impartida por Claudia Mar\u00EDa V\u00E1zquez, representante del Instituto Mexiquense del Emprendedor (IME).<\/span><\/p><p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">De acuerdo con V\u00E1zquez, esta agenda es un espacio para iniciar o consolidar una idea o negocio mediante estrategias de comercializaci\u00F3n y financiamiento, brindando informaci\u00F3n de expertas y expertos en esta \u00E1rea&nbsp;para que&nbsp;nuevos emprendedores tengan la oportunidad de iniciar, fortalecer&nbsp;y&nbsp;hacer funcionar&nbsp;sus emprendimientos. La agenda se conforma de cinco niveles: idear, implementar, crecer, proyectar y acelerar, cada uno de estos niveles dicho por Claudia Mar\u00EDa “es una metodolog\u00EDa de emprendimiento para desarrollar un modelo de negocio”, menciona.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Finalmente se se\u00F1alaron algunas acciones que ayudar\u00E1n a los emprendimientos a crecer, tales como saber identificar el mercado, mantenerse actualizado, ser innovadores, diferente al resto, registrar marcas, buscar inversionistas e investigar todo acerca de normas y permisos.<\/span><\/p><p><br><\/p>",
+	"imagenes": [
+		{
+			"imagen": "INNOVAFES-3.gif"
+		},
+		{
+			"imagen": "INNOVAFES-2.gif"
+		},
+		{
+			"imagen": "INNOVAFES-4.gif"
+		},
+		{
+			"imagen": "INNOVAFES-5.gif"
+		},
+		{
+			"imagen": "INNOVAFES-6.gif"
+		},
+		{
+			"imagen": "INNOVAFES-7.gif"
+		},
+		{
+			"imagen": "INNOVAFES-8.gif"
+		},
+		{
+			"imagen": "INNOVAFES-1.gif"
+		}	]
+
+}

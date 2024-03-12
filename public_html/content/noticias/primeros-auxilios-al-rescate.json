@@ -1,0 +1,34 @@
+{
+	"titulo": "Primeros auxilios al rescate",
+	"titulo_normalizado": "primeros-auxilios-al-rescate",
+	"secciones": [
+		{
+			"seccion": "Prevención y Seguridad Universitaria",
+			"seccion_normalizada": "prevencion-y-seguridad-universitaria"
+		},
+		{
+			"seccion": "Servicios a la Comunidad",
+			"seccion_normalizada": "servicios-a-la-comunidad"
+		}
+	],
+	"autor": "Jorge Narv\u00E1ez",
+	"fecha": "16/06/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La segunda parte del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Curso Primer Respondiente<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> fue llevada a cabo en el Teatro Auditorio Jos\u00E9 Vasconcelos, gracias a la participaci\u00F3n de la Brigada de Respuesta a Emergencias (BREM) de la FES Zaragoza, en conjunto con el departamento de Prevenci\u00F3n y Seguridad Universitaria y Servicios a la Comunidad de la Facultad de Estudios Superiores Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La continuaci\u00F3n de esta actividad estuvo bajo la direcci\u00F3n de Daniela Mondrag\u00F3n, encargada de la BREM, quien advirti\u00F3 a las y los asistentes al inicio de la sesi\u00F3n que estaban por ver im\u00E1genes altamente gr\u00E1ficas, pues se pretend\u00EDa explicar con ejemplos las lesiones que se pueden llegar a sufrir, con el objetivo de tener una visi\u00F3n m\u00E1s palpable de c\u00F3mo son estas situaciones en la vida real.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Uno de los puntos sobresalientes de la presentaci\u00F3n se enfoc\u00F3 en las diferencias existentes entre los tipos de heridas, por ejemplo, si se trata de un desprendimiento del hueso a la altura de una articulaci\u00F3n, probablemente sea una luxaci\u00F3n, en cambio, si se ve afectada un \u00E1rea del cuerpo donde no existe articulaci\u00F3n, lo m\u00E1s seguro es que se trate de una fractura. Sin importar cu\u00E1n peque\u00F1a sea la sospecha, es importante siempre tratar con el m\u00E1ximo cuidado estos accidentes.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Otro aprendizaje impartido en el curso, fueron las prioridades, donde se explic\u00F3 que dependiendo el tipo y la gravedad se atender\u00E1 primero a cada problema, dando mayor importancia por ejemplo a la limpieza de la zona afectada, detener el sangrado, inmovilizar, etc\u00E9tera, seg\u00FAn sea el caso, haciendo uso de varias formas de vendaje.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las y los participantes llevaron a la pr\u00E1ctica las t\u00E9cnicas ense\u00F1adas, con el apoyo de las y los compa\u00F1eros de la BREM utilizando materiales como gasas, vendas y objetos de uso cotidiano, con la finalidad de simular una situaci\u00F3n de riesgo real.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "rescate-1.jpg"
+		},
+		{
+			"imagen": "rescate-2.jpg"
+		},
+		{
+			"imagen": "rescate-3.jpg"
+		},
+		{
+			"imagen": "rescate-4.jpg"
+		},
+		{
+			"imagen": "rescate-5.jpg"
+		}	]
+
+}

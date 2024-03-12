@@ -1,0 +1,30 @@
+{
+	"titulo": "SA22: Viernes de Smash",
+	"titulo_normalizado": "sa22-viernes-de-smash",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "11/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Alumnas y alumnos entusiastas de los videojuegos de diversas carreras se reunieron con sus controles en mano para presenciar y participar en el “Torneo de videojuegos Super Smash Bros Ultimate” organizado por estudiantes de la FES Arag\u00F3n, dentro del marco de actividades de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Arquitectura<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Compitieron quienes contaban con un registro previo, as\u00ED como quienes hab\u00EDan acudido de \u00FAltimo minuto. Los premios ofrecidos a los tres primeros lugares fueron un control para Nintendo Switch y computadora, y tarjetas de regalo para la tienda de Nintendo con valor de 500 y 200 pesos.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cuatro consolas fueron dispuestas en el sal\u00F3n A916 del edificio de Arquitectura en las cuales los veintiocho concursantes iniciales se turnaron por parejas en cada ronda de enfrentamientos. Al mismo tiempo, algunas de las partidas eran transmitidas por la p\u00E1gina de Facebook de Arquitectura FES Arag\u00F3n, en las cuales Daniel Arenas, organizador principal del evento, y Fernando Andrade, comentarista invitado, explicaban las jugadas en la pantalla cual evento deportivo en vivo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mientras se acercaban las finales el entusiasmo crec\u00EDa, y las y los espectadores, ya fuera por el chat de Facebook o en el sal\u00F3n mostraron apoyo a sus combatientes favoritos. La victoria del primer lugar la gan\u00F3 Erick Rosales de la carrera de Ingenier\u00EDa en Computaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El torneo culmin\u00F3 con la celebraci\u00F3n de los concursantes, quienes construyeron recuerdos, momentos de convivencia y formaron nuevas amistades, no solo en la carrera de Arquitectura, sino con todo el alumnado asistente.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "smash-1.jpg"
+		},
+		{
+			"imagen": "smash-2.jpg"
+		},
+		{
+			"imagen": "smash-3.jpg"
+		},
+		{
+			"imagen": "smash-4.jpg"
+		},
+		{
+			"imagen": "smash-5.jpg"
+		}	]
+
+}

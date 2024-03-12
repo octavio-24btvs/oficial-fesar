@@ -1,0 +1,34 @@
+{
+	"titulo": "Primer Ollin piada de rob\u00F3tica",
+	"titulo_normalizado": "primer-ollin-piada-de-robotica",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "24/02/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">La Facultad de Ingenier\u00EDa (FI), junto con los Departamentos de Computaci\u00F3n, Procesamientos de Se\u00F1ales y Mecatr\u00F3nica, y las asociaciones de CROFI, SOMEFI, CAS, UNAM&nbsp; SPACE, WAYAKS; organizaron en el anexo de la FI la primera Ollin-piada (cuyo emblema fue el s\u00EDmbolo azteca del movimiento, “ollin”) donde se llevaron a cabo 5 competencias de rob\u00F3tica (minisumo aut\u00F3nomo, minisumo RC, seguidor de l\u00EDnea de iniciaci\u00F3n, seguidor de l\u00EDnea avanzada y carrera de insectos).&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Este evento tambi\u00E9n cont\u00F3 con el aval de la Federaci\u00F3n Mexicana de Rob\u00F3tica, en \u00E9l participaron estudiantes de la Facultad de Ingenier\u00EDa, Universidad Aut\u00F3noma del Estado de M\u00E9xico, Tecnol\u00F3gico de Estudios Superiores Tianguistengo, IPN ESIME, Escuela Nacional Preparatoria 9, Instituto Tecnol\u00F3gico de Tl\u00E1huac, Prepa An\u00E1huac, Universidad Aut\u00F3noma de Chapingo, entre otras instituciones, adem\u00E1s de grupos independientes. Las y los participantes presentaron robots con especificaciones concretas en cuanto a peso, altura y materiales seg\u00FAn cada competencia; por ejemplo, en el caso de minisumos, ten\u00EDan que ser capaces de empujar al oponente fuera de un \u00E1rea circular.&nbsp;&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Luis Sergio Valencia, coordinador de la carrera de Ingenier\u00EDa en Computaci\u00F3n;&nbsp; V\u00EDctor Javier Gonz\u00E1lez, del Departamento de Ingenier\u00EDa Mecatr\u00F3nica ; y el docente Neftaly Elorza, los tres de la FI, reconocieron en la inauguraci\u00F3n, el esfuerzo de quienes participaron con sus proyectos de rob\u00F3tica. Por su parte, el grupo WAYAKS, al fungir como un v\u00EDnculo entre nuestra facultad y la de Ingenier\u00EDa, apoy\u00F3 en la organizaci\u00F3n del evento y dio a conocer los \u00FAltimos trabajos en rob\u00F3tica de su inventario.&nbsp;&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Entre ellos se encuentran manos rob\u00F3ticas, drones, un robot capaz de realizar la Goya y otras creaciones que relucieron al ser creadas por este grupo de estudiantes enfocados en la innovaci\u00F3n y desarrollo de proyectos en beneficio de la sociedad, con lo cual fomentan el desarrollo de sus habilidades profesionales. Cualquier persona con inter\u00E9s en formar parte puede acercarse a ellos a trav\u00E9s de su p\u00E1gina web: &nbsp;<\/span><a href=\"https:\/\/wayaksteamunam.org\/\" target=\"_blank\" style=\"color: rgb(17, 85, 204); background-color: transparent;\">wayaksteamunam.org<\/a><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Ollin1.gif"
+		},
+		{
+			"imagen": "Ollin2.gif"
+		},
+		{
+			"imagen": "Ollin3.gif"
+		},
+		{
+			"imagen": "Ollin4.gif"
+		},
+		{
+			"imagen": "Ollin6.gif"
+		}	]
+
+}

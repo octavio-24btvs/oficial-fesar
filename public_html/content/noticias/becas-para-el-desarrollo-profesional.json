@@ -1,0 +1,35 @@
+{
+	"titulo": "Becas para el desarrollo profesional",
+	"titulo_normalizado": "becas-para-el-desarrollo-profesional",
+	"secciones": [
+		{
+			"seccion": "Becas",
+			"seccion_normalizada": "becas"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "03/06/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por iniciativa del Gobierno del Estado de M\u00E9xico, el Consejo Mexiquense de Ciencia y Tecnolog\u00EDa (<\/span>COMECYT<span style=\"color: rgb(0, 0, 0); background-color: transparent;\">) reparti\u00F3 680 apoyos del programa “Becas Ciencia EDOMEX” a estudiantes de diez instituciones de educaci\u00F3n superior, entre las cuales se encuentra la FES Arag\u00F3n, cuya comunidad se ver\u00E1 beneficiada con 125 de estos incentivos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para realizar la entrega se llev\u00F3 a cabo un evento en el cual estuvieron presentes Felipe de Jes\u00FAs Guti\u00E9rrez, secretario de Vinculaci\u00F3n y desarrollo, en representaci\u00F3n del director aragon\u00E9s, Fernando Macedo<\/span>; Martha Hilda Gonz\u00E1lez<span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, titular de la Secretar\u00EDa de las Mujeres; <\/span>Bernardo J. Almaraz, director del COMECYT; y Gerardo Dorantes, rector de la Universidad Tecnol\u00F3gica de Nezahualc\u00F3yotl.<\/p><p class=\"ql-align-justify\">Cabe destacar que, pese a ser la primera participaci\u00F3n de la FES en la convocatoria, todas las solicitudes realizadas por el estudiantado de las diferentes ingenier\u00EDas fueron aceptadas en este programa, el cual pretende impulsar el desarrollo profesional de la juventud mexiquense; adem\u00E1s de combatir las desigualdades y brechas de g\u00E9nero, pues m\u00E1s de la mitad del total de becas fueron otorgadas a alumnas universitarias.<\/p><p class=\"ql-align-justify\">Este apoyo econ\u00F3mico implica un seguimiento por parte de COMECYT para su renovaci\u00F3n y est\u00E1 dirigido a la poblaci\u00F3n que cursa los primeros dos a\u00F1os de sus estudios escolarizados de licenciatura, espec\u00EDficamente, de las \u00E1reas Matem\u00E1ticas, F\u00EDsicas, Qu\u00EDmica, Biolog\u00EDa, Biotecnolog\u00EDa, Agrociencias, Ingenier\u00EDas y Ciencias M\u00E9dicas y de la Salud. Adem\u00E1s, es indispensable ser residente del Estado de M\u00E9xico, tener menos de 25 a\u00F1os, un promedio m\u00EDnimo de 8.0 y llevar sus materias de forma regular.&nbsp;<\/p>",
+	"imagenes": [
+		{
+			"imagen": "Becas1.gif"
+		},
+		{
+			"imagen": "Becas2.gif"
+		},
+		{
+			"imagen": "Becas3.gif"
+		},
+		{
+			"imagen": "Becas4.gif"
+		}	]
+
+}

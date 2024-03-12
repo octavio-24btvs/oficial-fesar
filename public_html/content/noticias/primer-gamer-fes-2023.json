@@ -1,0 +1,46 @@
+{
+	"titulo": "Primer GAMER FES 2023",
+	"titulo_normalizado": "primer-gamer-fes-2023",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Oscar Rafael Cornejo",
+	"fecha": "23/11/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La FES Arag\u00F3n llev\u00F3 a cabo su primer festival de videojuegos GAMER FES dentro del vest\u00EDbulo del Teatro “Jos\u00E9 Vasconcelos”, alumnas y alumnos disfrutaron de t\u00EDtulos como Super Mario Bros, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Genshin Impact<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Just Dance<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Street Fighter<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">,<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Pac Man<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mortal Kombat<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y muchos otros.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Aproximadamente 270 estudiantes se registraron para participar en los diferentes torneos de la feria, la actividad estaba abierta a miembros de la comunidad aragonesa.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El lugar se dividi\u00F3 en cuatro zonas diferentes; una para el torneo de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Genshin Impact<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, otra para el de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Just Dance<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, la zona de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Arcade<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y la de consolas. Adem\u00E1s, Samsung particip\u00F3 en el evento con una extensi\u00F3n de videojuegos ubicada dentro de un autob\u00FAs estacionado a un lado del teatro.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hubo m\u00FAltiples actividades y premios, destacando el concurso de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">cosplay<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, donde la participante “Beidou” se llev\u00F3 el primer lugar. Tambi\u00E9n se organiz\u00F3 una trivia de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Kahoot<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> que gan\u00F3 el equipo “Erik”. C\u00F3mo sorpresa, hubo dos pi\u00F1atas llenas de dulces y cupones intercambiables por alguno de los premios de los <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">stands<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> del GAME FES.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El festival concluy\u00F3 con el torneo en equipos de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Just Dance<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y el sorteo final entre los asistentes registrados. En el primero, se escogi\u00F3 al mejor bailar\u00EDn de cuatro equipos para competir en la final, misma que gan\u00F3 “Funky”. Por otra parte, el gran premio de la rifa se lo llev\u00F3 Diego Israel D\u00EDaz, quien se llev\u00F3 una consola retro de colecci\u00F3n y una taza personalizada.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Gamer1.gif"
+		},
+		{
+			"imagen": "Gamer2.gif"
+		},
+		{
+			"imagen": "Gamer3.gif"
+		},
+		{
+			"imagen": "Gamer4.gif"
+		},
+		{
+			"imagen": "Gamer5.gif"
+		},
+		{
+			"imagen": "Gamer6.gif"
+		},
+		{
+			"imagen": "Gamer8.gif"
+		},
+		{
+			"imagen": "gamer9.gif"
+		},
+		{
+			"imagen": "Gamer10.gif"
+		}	]
+
+}

@@ -1,0 +1,14 @@
+{
+	"titulo": "Aprendizaje arquitect\u00F3nico m\u00E1s all\u00E1 de las aulas",
+	"titulo_normalizado": "aprendizaje-arquitectonico-mas-alla-de-las-aulas",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor":"Norma Cruz",
+	"fecha":"08/08/18",
+	"contenido":"<p class=\"ql-align-justify\">La FES Arag\u00F3n estuvo presente en el Colegio de Arquitectos de la Ciudad de M\u00E9xico para exhibir siete trabajos estudiantiles creados por Cecilia \u00C1lvarez, Adriana Barrera, Karen Guevara, Mar\u00EDa del Carmen Moreno, F\u00E1tima Romero, Brenda Rodr\u00EDguez e Ignacio G\u00F3mez.<\/p><p class=\"ql-align-justify\">&nbsp;La muestra de proyectos fue el resultado de la inquietud del grupo por compartir sus conocimientos m\u00E1s all\u00E1 de s\u00F3lo una presentaci\u00F3n en el sal\u00F3n de clases. Este tipo de dinamismo es lo que se requiere en el \u00E1mbito profesional; las y los estudiantes se deben creer el papel para el que se est\u00E1n preparando, expresaron las profesoras Mar\u00EDa de Jes\u00FAs Casta\u00F1eda y Mar\u00EDa Elsa Mateo Castellanos, asesoras del equipo.<\/p>",
+	"imagenes":[{"imagen":"img-1.jpg"},{"imagen":"img-2.jpg"},{"imagen":"img-3.jpg"},{"imagen":"img-4.jpg"}]
+}

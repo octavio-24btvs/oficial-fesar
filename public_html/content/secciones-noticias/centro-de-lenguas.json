@@ -1,0 +1,238 @@
+{
+	"id": 20,
+	"titulo": "Centro de Lenguas",
+	"icono": "icon-centro-de-lenguas",
+	"noticias": [
+		{
+			"titulo":"25N: Empoderando a la FES",
+			"titulo_normalizado":"25n-empoderando-a-la-fes",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "poderosas-1.jpg",
+			"fecha":"30/11/22"
+		},
+		{
+			"titulo":"Ritmos africanos en Arag\u00F3n",
+			"titulo_normalizado":"ritmos-africanos-en-aragon",
+			"autor":"Liliana Espinosa",
+			"imagen": "ritmos-africanos-en-aragon-1.jpg",
+			"fecha":"30/08/19"
+		},
+		{
+			"titulo":"Se integra comunidad latinoamericana a nuestro curso de ingl\u00E9s incluyente",
+			"titulo_normalizado":"se-integra-comunidad-latinoamericana-a-nuestro-curso-de-ingles-incluyente",
+			"autor":"Redacci\u00F3n",
+			"imagen": "se-integra-comunidad-latinoamericana-a-nuestro-curso-de-ingles-incluyente-1.jpg",
+			"fecha":"28/09/21"
+		},
+		{
+			"titulo":"El conocimiento no es binario",
+			"titulo_normalizado":"el-conocimiento-no-es-binario",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "el-conocimiento-no-es-binario-1.jpg",
+			"fecha":"26/11/21"
+		},
+		{
+			"titulo":"Interpretaciones del n\u00E1huatl",
+			"titulo_normalizado":"interpretaciones-del-nahuatl",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "interpretaciones-del-nahuatl-1.jpg",
+			"fecha":"26/10/21"
+		},
+		{
+			"titulo":"A\u00F1os de legado ruso",
+			"titulo_normalizado":"anos-de-legado-ruso",
+			"autor":"Erika Nejapa y Brenda Martinez",
+			"imagen": "legado-ruso-1.jpg",
+			"fecha":"23/11/20"
+		},
+		{
+			"titulo":"\u00BFQu\u00E9 implica el feminismo?",
+			"titulo_normalizado":"que-implica-el-feminismo",
+			"autor":"Brenda Martinez",
+			"imagen": "que-implica-el-feminismo-1.jpg",
+			"fecha":"23/03/21"
+		},
+		{
+			"titulo":"Poes\u00EDa concreta en portugu\u00E9s",
+			"titulo_normalizado":"poesia-concreta-en-portugues",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "poesia-concreta-en-portugues-1.jpg",
+			"fecha":"22/08/19"
+		},
+		{
+			"titulo":"Ense\u00F1anza de idioma a personas ciegas",
+			"titulo_normalizado":"ensenanza-de-idioma-a-personas-ciegas",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "enseñanza-de-idioma-a-personas-ciegas-1.jpg",
+			"fecha":"21/05/19"
+		},
+		{
+			"titulo":"Una feria para celebrar a las lenguas",
+			"titulo_normalizado":"una-feria-para-celebrar-a-las-lenguas",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "una-feria-para-celebrar-a-las-lenguas-1.jpg",
+			"fecha":"20/05/22"
+		},
+		{
+			"titulo":"Cuarta generaci\u00F3n del curso de ingl\u00E9s para personas con discapacidad visual",
+			"titulo_normalizado":"cuarta-generacion-del-curso-de-ingles-para-personas-con-discapacidad-visual",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "generacion-del-curso-de-ingles-para--personas-con-discapacidad-1.jpg",
+			"fecha":"20/03/21"
+		},
+		{
+			"titulo":"Charla portuguesa",
+			"titulo_normalizado":"charla-portuguesa",
+			"autor":"Rosa Francisco",
+			"imagen": "charla-portuguesa-1.jpg",
+			"fecha":"19/05/21"
+		},
+		{
+			"titulo":"Mitos y realidades de la cultura francesa",
+			"titulo_normalizado":"mitos-y-realidades-de-la-cultura-francesa",
+			"autor":"Aleida Sashel Gonz\u00E1lez",
+			"imagen": "mitos-realidades-cultura-francesa-1.jpg",
+			"fecha":"19/05/21"
+		},
+		{
+			"titulo":"Fin de la era Merkel",
+			"titulo_normalizado":"fin-de-la-era-merkel",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "fin-de-la-era-merkel-1.jpg",
+			"fecha":"19/05/21"
+		},
+		{
+			"titulo":"D\u00EDa de la ni\u00F1a y el ni\u00F1o en Jap\u00F3n",
+			"titulo_normalizado":"dia-de-la-nina-y-el-nino-en-japon",
+			"autor":"Orlando Ortega",
+			"imagen": "dianiño1.gif",
+			"fecha":"19/05/21"
+		},
+		{
+			"titulo":"CLe Arag\u00F3n con certificaci\u00F3n ISO 9001:2015",
+			"titulo_normalizado":"cle-aragon-con-certificacion-iso-90012015",
+			"autor":"Redacci\u00F3n",
+			"imagen": "cle-aragon-con-certificacion-iso-9001-2015-1.jpg",
+			"fecha":"18/06/20"
+		},
+		{
+			"titulo":"Lengua Inglesa para personas con debilidad visual",
+			"titulo_normalizado":"lengua-inglesa-para-personas-con-debilidad-visual",
+			"autor":"Alberto Ochoa",
+			"imagen": "CLe1.gif",
+			"fecha":"18/05/21"
+		},
+		{
+			"titulo":"Un Goya por la inclusi\u00F3n en Arag\u00F3n",
+			"titulo_normalizado":"un-goya-por-la-inclusion-en-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "un-goya-por-la-inclusion-en-aragon-1.jpg",
+			"fecha":"18/02/22"
+		},
+		{
+			"titulo":"Literatura y cultura rusa",
+			"titulo_normalizado":"literatura-y-cultura-rusa",
+			"autor":"Brenda Martinez",
+			"imagen": "literatura-y-cultura-rusa-1.jpg",
+			"fecha":"17/03/21"
+		},
+		{
+			"titulo":"Centenario de Jos\u00E9 Saramago",
+			"titulo_normalizado":"centenario-de-jose-saramago",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Saramago1.gif",
+			"fecha":"16/11/22"
+		},
+		{
+			"titulo":"Acercamiento a las lenguas nativas",
+			"titulo_normalizado":"acercamiento-a-las-lenguas-nativas",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "acercamiento-a-las-lenguas-nativas-1.jpg",
+			"fecha":"15/11/19"
+		},
+		{
+			"titulo":"Cine club CLe",
+			"titulo_normalizado":"cine-club-cle",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "CineClubCLe1.gif",
+			"fecha":"14/10/21"
+		},
+		{
+			"titulo":"Curso de ingl\u00E9s incluyente recibe el reconocimiento de SDSN Youth",
+			"titulo_normalizado":"curso-de-ingles-incluyente-recibe-el-reconocimiento-de-sdsn-youth",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "curso-de-ingles-incluyente-recibe-el-reconocimiento-de-sdsn-youth-1.jpg",
+			"fecha":"13/01/21"
+		},
+		{
+			"titulo":"Arte y guerra en Rusia",
+			"titulo_normalizado":"arte-y-guerra-en-rusia",
+			"autor":"Rosa Francisco",
+			"imagen": "arte-y-guerra-en-rusia-1.jpg",
+			"fecha":"12/05/21"
+		},
+		{
+			"titulo":"Certificaci\u00F3n de portugu\u00E9s en Arag\u00F3n",
+			"titulo_normalizado":"certificacion-de-portugues-en-aragon",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "certificacion-de-portugues-en-aragon-1.jpg",
+			"fecha":"09/11/21"
+		},
+		{
+			"titulo":"Brasil, el cambio hist\u00F3rico-cultural",
+			"titulo_normalizado":"brasil-el-cambio-historico-cultural",
+			"autor":"Rodrigo Castillo",
+			"imagen": "Brasil-elcambio-1.gif",
+			"fecha":"08/09/23"
+		},
+		{
+			"titulo":"8M: Mujeres vuelan en el cielo con mayor inclusi\u00F3n",
+			"titulo_normalizado":"8m-mujeres-vuelan-en-el-cielo-con-mayor-inclusion",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "8m-mujeres-vuelan-en-el-cielo-con-mayor-inclusion-1.jpg",
+			"fecha":"07/03/23"
+		},
+		{
+			"titulo":"Contin\u00FAa curso de ingl\u00E9s para personas con discapacidad visual",
+			"titulo_normalizado":"continua-curso-de-ingles-para-personas-con-discapacidad-visual",
+			"autor":"Redacci\u00F3n",
+			"imagen": "continua-curso-de-ingles-para-personas-con-discapacidad-visual-01.jpg",
+			"fecha":"07/02/20"
+		},
+		{
+			"titulo":"La Universidad Rusa de la Amistad de los Pueblos y universidades de M\u00E9xico: objetivos comunes y nuevas oportunidades de cooperaci\u00F3n",
+			"titulo_normalizado":"la-universidad-rusa-de-la-amistad-de-los-pueblos-y-universidades-de-mexico-objetivos-comunes-y-nuevas-oportunidades-de-cooperacion",
+			"autor":"A. Dolzhikova. Vicerrectora de Educaci\u00F3n Continua, URAP",
+			"imagen": "not-found.jpg",
+			"fecha":"04/06/20"
+		},
+		{
+			"titulo":"Mente sana, cuerpo sano",
+			"titulo_normalizado":"mente-sana-cuerpo-sano",
+			"autor":"Brenda Mart\u00EDnez",
+			"imagen": "mente-sana-cuerpo-sano-1.jpg",
+			"fecha":"03/10/20"
+		},
+		{
+			"titulo":"La violencia en el noviazgo y los ideales de belleza",
+			"titulo_normalizado":"la-violencia-en-el-noviazgo-y-los-ideales-de-belleza",
+			"autor":"Redacci\u00F3n",
+			"imagen": "la-violencia-en-el-noviazgo-y-los-ideales-de-belleza-1.jpg",
+			"fecha":"01/07/20"
+		},
+		{
+			"titulo":"El CLe se suma a los esfuerzos sobre g\u00E9nero",
+			"titulo_normalizado":"el-cle-se-suma-a-los-esfuerzos-sobre-genero",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "el-cle-se-suma-a-los-esfuerzos-sobre-genero-1.jpg",
+			"fecha":"01/07/20"
+		},
+		{
+			"titulo":"El CLe ya aplica examen de certificaci\u00F3n de portugu\u00E9s",
+			"titulo_normalizado":"el-cle-ya-aplica-examen-de-certificacion-de-portugues",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "el-cle-ya-aplica-examen-de-certificacion-de-portugues-1.jpg",
+			"fecha":"01/06/21"
+		}
+	]
+}

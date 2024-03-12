@@ -1,0 +1,14 @@
+{
+	"titulo": "La estad\u00EDstica de museos",
+	"titulo_normalizado": "la-estadistica-de-museos",
+	"secciones": [
+		{
+			"seccion": "Humanidades y Artes",
+			"seccion_normalizada": "humanidades-y-artes"
+		}
+	],
+	"autor":"Redacci\u00F3n",
+	"fecha":"25/02/20",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para los museos de nuestro pa\u00EDs resulta de mucha ayuda obtener y analizar informaci\u00F3n sobre su impacto y funcionamiento, pues gracias a estos datos pueden mejorar sus instalaciones, exhibiciones, estrategias de difusi\u00F3n, etc\u00E9tera. La ponencia “El proyecto de estad\u00EDstica de museos en M\u00E9xico” de Carlos \u00C1valos, del Sistema de Informaci\u00F3n Cultural de la Secretar\u00EDa de Cultura del Gobierno de M\u00E9xico, trat\u00F3 este tema.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En esta sesi\u00F3n del Seminario de Investigaci\u00F3n Museol\u00F3gica (SIM), organizado por la DGDC, \u00C1valos habl\u00F3 de las caracter\u00EDsticas y el proceso para efectuar la estad\u00EDstica de museos a nivel nacional, la cual se realiza cada a\u00F1o con el apoyo del INEGI. Esta actividad busca conocer los recursos y caracter\u00EDsticas de estos recintos, as\u00ED como informaci\u00F3n de sus visitantes.&nbsp;<\/span><\/p>",
+	"imagenes":[{"imagen":"la-estadistica-de-museos-1.jpg"},{"imagen":"la-estadistica-de-museos-2.jpg"}]
+}

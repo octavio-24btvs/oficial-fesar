@@ -1,0 +1,14 @@
+{
+	"titulo": "Una mirada al Estado laico",
+	"titulo_normalizado": "una-mirada-al-estado-laico",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor":"Liliana Espinosa",
+	"fecha":"31/10/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Aula Magna Ing. Javier Barros Sierra fungi\u00F3 como sede de la conferencia “Los derechos de las mujeres y la poblaci\u00F3n LGBTI+ en un estado laico” impartida por la acad\u00E9mica Tania Lizbeth Mel\u00E9ndez, la cual abord\u00F3 la historia de las instituciones religiosas en M\u00E9xico y la influencia que tienen en las creencias individuales y colectivas.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mel\u00E9ndez mencion\u00F3 que el Estado mexicano mantiene una relaci\u00F3n peculiar con dichas instituciones; adem\u00E1s habl\u00F3 de la forma en que ciertos dogmas implantan posturas unilaterales en la sociedad, por ejemplo, la visi\u00F3n del matrimonio heteronormativo, los grupos de personas en contra de los m\u00E9todos anticonceptivos y de otros tipos de familia que est\u00E1n fuera del est\u00E1ndar madre, padre e hijos.<\/span><\/p>",
+	"imagenes":[{"imagen":"una-mirada-a-la-iglesia-y-el-mexico-contemporaneo-1.jpg"},{"imagen":"una-mirada-a-la-iglesia-y-el-mexico-contemporaneo-2.jpg"},{"imagen":"una-mirada-a-la-iglesia-y-el-mexico-contemporaneo-3.jpg"}]
+}

@@ -1,0 +1,35 @@
+{
+	"titulo": "Primer desayuno de la comunidad egresada",
+	"titulo_normalizado": "primer-desayuno-de-la-comunidad-egresada",
+	"secciones": [
+		{
+			"seccion": "Comunidad Egresada",
+			"seccion_normalizada": "comunidad-egresada"
+		},
+		{
+			"seccion": "Derecho",
+			"seccion_normalizada": "derecho"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Tiar\u00E9 Rodr\u00EDguez",
+	"fecha": "12/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Organizado por V\u00EDctor Hugo Rodr\u00EDguez Montiel, egresado de la generaci\u00F3n 87-90 de la carrera de Derecho y actualmente docente aragon\u00E9s, se llev\u00F3 a cabo el primer desayuno del reencuentro de la comunidad egresada. Este evento tuvo lugar en el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">lobby<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> del auditorio Jos\u00E9 Vasconcelos de la Facultad de Estudios Superiores Arag\u00F3n, el organizador espera crear el compromiso de realizar el evento a\u00F1o con a\u00F1o y tener mayor convocatoria de personas egresadas..<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La cita fue a las 9:00 de la ma\u00F1ana, donde a las y los asistentes se les tom\u00F3 una foto grupal en las torres de la Facultad y una segunda afuera del auditorio donde se llev\u00F3 a cabo el evento, para despu\u00E9s pasar al desayuno. Se cont\u00F3 con la presencia de Fernando Pineda Navarro quien fue maestro precursor en la Facultad y la carrera de Derecho.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La apertura se dio con unas palabras de Rodr\u00EDguez y el director de la instituci\u00F3n, Fernando Macedo, coincidiendo en que quienes egresan de Arag\u00F3n aportan sus conocimientos y valor a la sociedad, conscientes de cu\u00E1nto contribuy\u00F3 la Facultad en su formaci\u00F3n profesional. La mayor parte de los asistentes ejercen en el \u00E1mbito jur\u00EDdico, aunque tambi\u00E9n hab\u00EDa algunas personas de Pedagog\u00EDa. Para futuras ediciones de este evento se espera puedan unirse las comunidades de otras ramas del conocimiento.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Desayuno1.gif"
+		},
+		{
+			"imagen": "Desayuno2.gif"
+		},
+		{
+			"imagen": "Desayuno3.gif"
+		},
+		{
+			"imagen": "Desayuno4.gif"
+		}	]
+
+}

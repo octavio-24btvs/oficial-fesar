@@ -1,0 +1,75 @@
+{
+    "institutos": 
+            {
+                "ciencias_fisico_matematicas_y_de_las_ingenierias": [
+                    {
+                        "licenciatura": "Ingeniería Civil", 
+                        "licenciatura_normalizada": "ingenieria-civil"
+                    }, 
+                    {
+                        "licenciatura": "Ingeniería en Computación", 
+                        "licenciatura_normalizada": "ingenieria-en-computacion"
+                    }, 
+                    {
+                        "licenciatura": "Ingeniería Eléctrica Electrónica", 
+                        "licenciatura_normalizada": "ingenieria-electrica-electronica"
+                    }, 
+                    {
+                        "licenciatura": "Ingeniería Industrial", 
+                        "licenciatura_normalizada": "ingenieria-industrial"
+                    }, 
+                    {
+                        "licenciatura": "Ingeniería Mecánica", 
+                        "licenciatura_normalizada": "ingenieria-mecanica"
+                    }
+                ], 
+                "ciencias_sociales": [
+                    {
+                        "licenciatura": "Comunicación y Periodismo", 
+                        "licenciatura_normalizada": "comunicacion-y-periodismo"
+                    }, 
+                    {
+                        "licenciatura": "Derecho", 
+                        "licenciatura_normalizada": "derecho"
+                    }, 
+                    {
+                        "licenciatura": "Economía", 
+                        "licenciatura_normalizada": "economia"
+                    }, 
+                    {
+                        "licenciatura": "Relaciones Internacionales", 
+                        "licenciatura_normalizada": "relaciones-internacionales"
+                    }, 
+                    {
+                        "licenciatura": "Sociología", 
+                        "licenciatura_normalizada": "sociologia"
+                    }
+                ], 
+                "humanidades_y_artes": [
+                    {
+                        "licenciatura": "Arquitectura", 
+                        "licenciatura_normalizada": "arquitectura"
+                    }, 
+                    {
+                        "licenciatura": "Diseño Industrial", 
+                        "licenciatura_normalizada": "diseno-industrial"
+                    }, 
+                    {
+                        "licenciatura": "Pedagogía", 
+                        "licenciatura_normalizada": "pedagogia"
+                    }
+                ],
+                "posgrado": [
+                    {
+                        "licenciatura": "Posgrado", 
+                        "licenciatura_normalizada": "posgrado"
+                    }
+                ],  
+                "cta": [
+                    {
+                        "licenciatura": "Maestría", 
+                        "licenciatura_normalizada": "maestria-y-doctorado"
+                    }
+                ]
+            }
+}

@@ -1,0 +1,21 @@
+{
+	"titulo": "Elecciones del Consejo T\u00E9cnico",
+	"titulo_normalizado": "elecciones-del-consejo-tecnico",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Redacci\u00F3n",
+	"fecha": "06/04/22",
+	"contenido": "",
+	"imagenes": [
+		{
+			"imagen": "1.jpg"
+		},
+		{
+			"imagen": "3.jpg"
+		}	]
+
+}

@@ -1,0 +1,20 @@
+{
+    "titulo": "EsMiDerecho",
+    "imagenes": [
+        {
+            "imagen": "dia-contra-la-censura-en-internet",
+            "alt":"D\u00EDa contra la censura en internet"
+        },
+        {
+            "imagen": "dia-contra-la-homofobia",
+            "alt":"D\u00EDa contra la homofobia"
+        },
+        {
+            "imagen": "familia",
+            "alt":"familia"
+        }
+    ],
+    "pdfs": [
+
+    ]
+}

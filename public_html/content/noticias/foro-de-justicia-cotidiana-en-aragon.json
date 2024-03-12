@@ -1,0 +1,34 @@
+{
+	"titulo": "Foro de Justicia Cotidiana en Arag\u00F3n",
+	"titulo_normalizado": "foro-de-justicia-cotidiana-en-aragon",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "15/08/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Facultad de Estudios Superiores Arag\u00F3n fue escogida como sede del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cuarto Foro de Justicia Cotidiana “Hacia la construcci\u00F3n del C\u00F3digo Nacional de Procedimientos Civiles y Familiares. Retos y an\u00E1lisis”<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, organizado por la C\u00E1mara de Diputados y la C\u00E1mara de Senadores. Este acto tuvo el prop\u00F3sito de escuchar las voces de personas expertas en el sistema probatorio y medidas cautelares.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el evento de inauguraci\u00F3n destac\u00F3 la participaci\u00F3n de Fernando Macedo, director de la Facultad, quien enunci\u00F3 los trabajos requeridos para superar las dificultades de la pandemia, y as\u00ED darle la bienvenida de forma presencial a la generaci\u00F3n de nuevo ingreso. De igual manera, exalt\u00F3 a la ley como la herramienta para regular las relaciones sociales, especialmente las familiares; aplaudiendo el abordar los derechos de las ni\u00F1as y los ni\u00F1os, quienes llegan a ser los principales afectados en disputas de <\/span><span style=\"color: rgb(0, 0, 0);\">esta clase<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al evento se presentaron Rafael Espino, presidente de la Comisi\u00F3n de Justicia del Senado de la Rep\u00FAblica; Rub\u00E9n Moreira, presidente de la Junta de Coordinaci\u00F3n Pol\u00EDtica de la C\u00E1mara de Diputados; Aleida Alavez, Coordinadora del Grupo de Trabajo de Justicia Cotidiana; Rafael Guerra, presidente del Tribunal Superior de Justicia de la Ciudad de M\u00E9xico y de la Comisi\u00F3n Nacional de Tribunales Superiores de Justicia de los EUM; Guillermo Escamilla, presidente del Colegio Nacional de Notariado Mexicano; Netza\u00ED Sandoval, director general del Instituto de la Defensor\u00EDa P\u00FAblica; Jos\u00E9 Luis Amaro, director de Cooperaci\u00F3n Procesal Internacional de la Secretar\u00EDa de Relaciones Exteriores; adem\u00E1s de representantes de la Barra Mexicana de Abogados, as\u00ED como integrantes de los distintos tribunales superiores de justicia del pa\u00EDs: Sonora, Jalisco, Estado de M\u00E9xico, Puebla, entre otros.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Foto1.gif"
+		},
+		{
+			"imagen": "Foto2.gif"
+		},
+		{
+			"imagen": "Foto3.gif"
+		},
+		{
+			"imagen": "Foto4.gif"
+		},
+		{
+			"imagen": "Foto5.gif"
+		}	]
+
+}

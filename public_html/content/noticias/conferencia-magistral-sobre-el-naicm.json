@@ -1,0 +1,14 @@
+{
+	"titulo": "Conferencia magistral sobre el NAICM",
+	"titulo_normalizado": "conferencia-magistral-sobre-el-naicm",
+	"secciones": [
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor":"Yutsil Hern\u00E1ndez",
+	"fecha":"25/10/18",
+	"contenido":"<p class=\"ql-align-justify\">Como parte de las actividades realizadas en el primer coloquio <em>An\u00E1lisis, cr\u00EDtica y propuestas para el proyecto del Nuevo Aeropuerto Internacional de la Ciudad de M\u00E9xico (NAICM) y su impacto econ\u00F3mico, social y ambiental en su entorno 2016-2021<\/em>, el Ing. Ra\u00FAl Gonz\u00E1lez Apaolaza, director corporativo de infraestructura en la construcci\u00F3n de NAICM, ofreci\u00F3 la conferencia magistral donde se\u00F1al\u00F3 las ventajas de esta nueva construcci\u00F3n.<\/p><p class=\"ql-align-justify\">&nbsp;Durante su participaci\u00F3n destac\u00F3 que el proyecto est\u00E1 respaldado por 64 estudios que consideran el espacio a\u00E9reo, topograf\u00EDa, medio ambiente, funcionamiento hidr\u00E1ulico, entre otros factores. Tambi\u00E9n resalt\u00F3 que se ubica en una zona estrat\u00E9gica a s\u00F3lo 14 km de distancia del actual aeropuerto. <\/p>",
+	"imagenes":[{"imagen":"IMG_0017.png"},{"imagen":"IMG_9747.png"},{"imagen":"IMG_9792.jpg"}]
+}

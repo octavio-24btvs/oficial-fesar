@@ -1,0 +1,31 @@
+{
+	"titulo": "Feria de Salud Sexual 2023",
+	"titulo_normalizado": "feria-de-salud-sexual-2023",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Servicios a la Comunidad",
+			"seccion_normalizada": "servicios-a-la-comunidad"
+		}
+	],
+	"autor": "\u00D3scar Rafael Cornejo",
+	"fecha": "04/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La FES Arag\u00F3n conmemor\u00F3 el D\u00EDa de la Salud Sexual con la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Feria de Salud Sexual 2023<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, a cargo de los profesores Berenice Cano y Roberto Miranda, quienes se encargaron de seleccionar las exposiciones que estar\u00EDan presentes este a\u00F1o.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este evento tuvo lugar en el Foro M\u00F3vil, y en \u00E9l se encontraron diversas actividades; como retos, cuestionarios, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">stands <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">de fotos, pl\u00E1ticas informativas, entre otras. A lo largo del d\u00EDa, alumnas y alumnas participaron para recibir algunos regalos. Por ejemplo, pastillas anticonceptivas de emergencia, toallitas h\u00FAmedas, bolsas ecol\u00F3gicas, folletos informativos y toallas corporales.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Instituciones como el Centro de Salud Impulsora y el Instituto de la Juventud (INJUVE) estuvieron aplicando de forma gratuita vacunas contra el sarampi\u00F3n, t\u00E9tanos y rub\u00E9ola, adem\u00E1s de obsequiar preservativos, dar pl\u00E1ticas de salud sexual y de prevenci\u00F3n de enfermedades. Las pruebas gratuitas del virus de inmunodeficiencia adquirida (VIH) se hicieron confidenciales y con resultados al momento. El colectivo feminista Morado Violeta particip\u00F3 en esta feria dando informaci\u00F3n sobre cuidados corporales, metodos seguros para mujeres y como actuar en caso de una agresi\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este evento se realiza anualmente y tiene el fin de informar y concientizar a toda la comunidad estudiantil sobre las enfermedades de transmisi\u00F3n sexual (ETS), y lo importante de protegerse para no correr ning\u00FAn riesgo y seguir disfrutando de su vida sexual, sanamente. <\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Feriasex1.gif"
+		},
+		{
+			"imagen": "Feriasex2.gif"
+		},
+		{
+			"imagen": "Feriasex3.gif"
+		},
+		{
+			"imagen": "Feriasex4.gif"
+		}	]
+
+}

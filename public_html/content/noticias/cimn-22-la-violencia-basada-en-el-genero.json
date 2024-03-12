@@ -1,0 +1,38 @@
+{
+	"titulo": "CIMN 22: La violencia basada en el g\u00E9nero",
+	"titulo_normalizado": "cimn-22-la-violencia-basada-en-el-genero",
+	"secciones": [
+		{
+			"seccion": "DUACyD",
+			"seccion_normalizada": "duacyd"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "13/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro del marco de los objetivos de desarrollo sostenible, se llev\u00F3 a cabo v\u00EDa zoom la mesa n\u00FAmero 3 del Congreso Mujeres UNAM, la cual forma parte del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">4.to Congreso Internacional: Mujeres y ni\u00F1as desde una doble perspectiva: G\u00E9nero y Derechos Humanos<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Esta cont\u00F3 con la participaci\u00F3n de las investigadoras y expertas en materia de g\u00E9nero, Mar\u00EDa Enr\u00EDquez, Hilda Salmer\u00F3n, Veronica Quijada, Gabriela Sald\u00EDvar, Luz Rangel y Victor Ulloa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante esta mesa se presentaron diversos temas importantes sobre la violencia contra las mujeres y ni\u00F1as en M\u00E9xico, la invisibilizaci\u00F3n de algunos datos en la medici\u00F3n de violencia por parte de las instituciones mexicanas y el incremento de la violencia machista en los ultimos a\u00F1os. Asimismo, se abord\u00F3 la violencia hacia las mujeres en cuanto a derechos humanos frente a la pandemia, pues ha tra\u00EDdo fuertes problem\u00E1ticas a las causas humanitarias, adem\u00E1s de la vulnerabilidad como factor de riesgo en la Ciudad y Estado de M\u00E9xico, lugares con el mayor n\u00FAmero de delitos de este tipo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, se abord\u00F3 el inicio de la vida sexual y los problemas en la autonom\u00EDa sexual dentro del noviazgo, adem\u00E1s de la problem\u00E1tica de los hoteles, el tercer lugar donde ocurren m\u00E1s feminicidios, pues algunos de ellos acumulan m\u00E1s de un caso dentro de sus instalaciones, lo que nos expone la gran problem\u00E1tica que se vive dentro de nuestro pa\u00EDs.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Violencia1.gif"
+		},
+		{
+			"imagen": "Violencia2.gif"
+		},
+		{
+			"imagen": "Violencia3.gif"
+		},
+		{
+			"imagen": "Violencia4.gif"
+		},
+		{
+			"imagen": "Violencia5.gif"
+		}	]
+
+}

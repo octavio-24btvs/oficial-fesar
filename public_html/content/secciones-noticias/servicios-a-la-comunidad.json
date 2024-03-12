@@ -1,0 +1,476 @@
+{
+	"id": 33,
+	"titulo": "Servicios a la Comunidad",
+	"icono": "icon-servicio-a-la-comunidad",
+	"noticias": [
+		{
+			"titulo":"Tutores para la salud emocional",
+			"titulo_normalizado":"tutores-para-la-salud-emocional",
+			"autor":"\u00D3scar Rafael Cornejo",
+			"imagen": "Tutorias1.gif",
+			"fecha":"31/08/23"
+		},
+		{
+			"titulo":"3a Jornada de Inclusi\u00F3n y Discapacidad",
+			"titulo_normalizado":"3a-jornada-de-inclusion-y-discapacidad",
+			"autor":"Rodrigo Perea",
+			"imagen": "3a-jornada-de-inclusion-y-discapacidad-1.jpg",
+			"fecha":"31/08/20"
+		},
+		{
+			"titulo":"\u00C1mbito laboral de las personas con discapacidad",
+			"titulo_normalizado":"ambito-laboral-de-las-personas-con-discapacidad",
+			"autor":"Rosa Francisco",
+			"imagen": "ambito-laboral-de-las-personas-con-discapacidad-1.jpg",
+			"fecha":"30/11/21"
+		},
+		{
+			"titulo":"25N: Machismos en mi sopa",
+			"titulo_normalizado":"25n-machismos-en-mi-sopa",
+			"autor":"Elisa Jacobo",
+			"imagen": "MICROMACHISMOS-1 (1).jpg",
+			"fecha":"29/11/22"
+		},
+		{
+			"titulo":"Para una buena salud sexual, bienestar emocional",
+			"titulo_normalizado":"para-una-buena-salud-sexual-bienestar-emocional",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "Sexualidad1.gif",
+			"fecha":"29/09/21"
+		},
+		{
+			"titulo":"Hablemos sobre el c\u00E1ncer de mama",
+			"titulo_normalizado":"hablemos-sobre-el-cancer-de-mama",
+			"autor":"Isa\u00EDas Hern\u00E1ndez",
+			"imagen": "Cancecer-de-mama1.gif",
+			"fecha":"26/10/21"
+		},
+		{
+			"titulo":"Autocuidado emocional",
+			"titulo_normalizado":"autocuidado-emocional",
+			"autor":"Alberto Ochoa",
+			"imagen": "Autocuidado1.gif",
+			"fecha":"26/05/21"
+		},
+		{
+			"titulo":"Estrategias ante un diagn\u00F3stico de COVID-19",
+			"titulo_normalizado":"estrategias-ante-un-diagnostico-de-covid-19",
+			"autor":"Thalia Ortega",
+			"imagen": "estrategias-ante-un-diagnostico-de-covid-19-1.jpg",
+			"fecha":"26/05/20"
+		},
+		{
+			"titulo":"25N: De t\u00F3xicos y t\u00F3xicas",
+			"titulo_normalizado":"25n-de-toxicos-y-toxicas",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "de-toxicos-y-toxicas-1.jpg",
+			"fecha":"25/11/21"
+		},
+		{
+			"titulo":"Que el estr\u00E9s no te controle",
+			"titulo_normalizado":"que-el-estres-no-te-controle",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Estrés-1.gif",
+			"fecha":"25/05/21"
+		},
+		{
+			"titulo":"Proceso alternativo y Justicia restaurativa",
+			"titulo_normalizado":"proceso-alternativo-y-justicia-restaurativa",
+			"autor":"Kenia Brodman",
+			"imagen": "Justicia4.gif",
+			"fecha":"25/04/22"
+		},
+		{
+			"titulo":"Hacer conciencia para prevenir el suicidio",
+			"titulo_normalizado":"hacer-conciencia-para-prevenir-el-suicidio",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "hacer-conciencia-para-prevenir-el-suicidio-1.jpg",
+			"fecha":"24/10/19"
+		},
+		{
+			"titulo":"5JID: En busca de una sociedad incluyente",
+			"titulo_normalizado":"5jid-en-busca-de-una-sociedad-incluyente",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "estrategias-1 (1).jpg",
+			"fecha":"24/02/23"
+		},
+		{
+			"titulo":"Consejos para minimizar el estr\u00E9s",
+			"titulo_normalizado":"consejos-para-minimizar-el-estres",
+			"autor":"Miguel Palacios",
+			"imagen": "charla-estres-1.jpg",
+			"fecha":"24/02/22"
+		},
+		{
+			"titulo":"Listos para actuar",
+			"titulo_normalizado":"listos-para-actuar",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "primer-respondiente-1 (1).jpg",
+			"fecha":"23/06/23"
+		},
+		{
+			"titulo":"Habilidades blandas, identificar al mejor talento",
+			"titulo_normalizado":"habilidades-blandas-identificar-al-mejor-talento",
+			"autor":"Beatriz Calva",
+			"imagen": "habilidades-blandas-2.jpg",
+			"fecha":"22/02/23"
+		},
+		{
+			"titulo":"5JID: Ayuda para la integraci\u00F3n de personas con Asperger",
+			"titulo_normalizado":"5jid-ayuda-para-la-integracion-de-personas-con-asperger",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "aperger-1.jpg",
+			"fecha":"22/02/23"
+		},
+		{
+			"titulo":"5JID: Sexualidad distinta: permitirnos sentir",
+			"titulo_normalizado":"5jid-sexualidad-distinta-permitirnos-sentir",
+			"autor":"Elisa Jacobo",
+			"imagen": "sexus-1.jpg",
+			"fecha":"22/02/23"
+		},
+		{
+			"titulo":"5JID: Diversidad visible",
+			"titulo_normalizado":"5jid-diversidad-visible",
+			"autor":"Beatriz Calva",
+			"imagen": "accesibilidad-1.jpg",
+			"fecha":"22/02/23"
+		},
+		{
+			"titulo":"5JID: Capacidad de inspirar",
+			"titulo_normalizado":"5jid-capacidad-de-inspirar",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "expo-foto-1.jpg",
+			"fecha":"20/02/23"
+		},
+		{
+			"titulo":"5JID: Mujeres reales, vivir sin l\u00EDmites",
+			"titulo_normalizado":"5jid-mujeres-reales-vivir-sin-limites",
+			"autor":"Beatriz Calva",
+			"imagen": "mujeres-reales-1.jpg",
+			"fecha":"20/02/23"
+		},
+		{
+			"titulo":"Prevenci\u00F3n para el cuidado de la comunidad FES Arag\u00F3n",
+			"titulo_normalizado":"prevencion-para-el-cuidado-de-la-comunidad-fes-aragon",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "prevencion-para-el-cuidado-de-la-comunidad-fes-aragon-1.jpg",
+			"fecha":"20/01/23"
+		},
+		{
+			"titulo":"Espacios libres de violencia",
+			"titulo_normalizado":"espacios-libres-de-violencia",
+			"autor":"Juan G\u00F3mez",
+			"imagen": "Efectos2.gif",
+			"fecha":"19/05/21"
+		},
+		{
+			"titulo":"Aprender a querer",
+			"titulo_normalizado":"aprender-a-querer",
+			"autor":"Rodrigo Perea",
+			"imagen": "aprender-a-querer-1.jpg",
+			"fecha":"19/02/21"
+		},
+		{
+			"titulo":"La diferencia entre tristeza y depresi\u00F3n",
+			"titulo_normalizado":"la-diferencia-entre-tristeza-y-depresion",
+			"autor":"Alberto Ochoa",
+			"imagen": "Depresion1.gif",
+			"fecha":"18/06/21"
+		},
+		{
+			"titulo":"La ONU con mira en 2030",
+			"titulo_normalizado":"la-onu-con-mira-en-2030",
+			"autor":"Alberto Ochoa",
+			"imagen": "ONU1.gif",
+			"fecha":"18/05/21"
+		},
+		{
+			"titulo":"Impulsan a estudiantes con discapacidad a ingresar a un posgrado",
+			"titulo_normalizado":"impulsan-a-estudiantes-con-discapacidad-a-ingresar-a-un-posgrado",
+			"autor":"Yamileth Reza",
+			"imagen": "Entrega-de-apoyo-a-personas-con-discapacidad-1.jpg",
+			"fecha":"17/12/21"
+		},
+		{
+			"titulo":"Taller para concientizar sobre la diversidad sexual",
+			"titulo_normalizado":"taller-para-concientizar-sobre-la-diversidad-sexual",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "taller-para-concientizar-sobre-la-diversidad-sexual-1.jpg",
+			"fecha":"17/10/19"
+		},
+		{
+			"titulo":"Comunicaci\u00F3n asertiva en las relaciones interpersonales",
+			"titulo_normalizado":"comunicacion-asertiva-en-las-relaciones-interpersonales",
+			"autor":"Rodrigo Perea",
+			"imagen": "comunicacion-asertiva-en-las-1.jpg",
+			"fecha":"17/09/20"
+		},
+		{
+			"titulo":"Erotismo para ellas",
+			"titulo_normalizado":"erotismo-para-ellas",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "erotismo-para-ellas-1.jpg",
+			"fecha":"17/03/21"
+		},
+		{
+			"titulo":"Informaci\u00F3n para una vida m\u00E1s sana e inclusiva",
+			"titulo_normalizado":"informacion-para-una-vida-mas-sana-e-inclusiva",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "informacion-para-una-vida-mas-sana-e-inclusiva-1.jpg",
+			"fecha":"16/10/19"
+		},
+		{
+			"titulo":"Primeros auxilios al rescate",
+			"titulo_normalizado":"primeros-auxilios-al-rescate",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "rescate-1.jpg",
+			"fecha":"16/06/23"
+		},
+		{
+			"titulo":"8M: Mujeres l\u00EDderes por una sociedad igualitaria 2",
+			"titulo_normalizado":"8m-mujeres-lideres-por-una-sociedad-igualitaria-2",
+			"autor":"Rodrigo Perea",
+			"imagen": "mujeres-lideres-por-una-sociedad-igualitaria-2-1.jpg",
+			"fecha":"15/03/21"
+		},
+		{
+			"titulo":"Enamoramiento",
+			"titulo_normalizado":"enamoramiento",
+			"autor":"Gustavo Becerra",
+			"imagen": "enamoramiento-1.jpg",
+			"fecha":"15/02/21"
+		},
+		{
+			"titulo":"Aragoneses destacan en servicio a la comunidad",
+			"titulo_normalizado":"aragoneses-destacan-en-servicio-a-la-comunidad",
+			"autor":"Redacci\u00F3n",
+			"imagen": "aragoneses-destacan-en-servicio-a-la-comunidad-1.jpg",
+			"fecha":"14/11/19"
+		},
+		{
+			"titulo":"Regulaci\u00F3n del estr\u00E9s",
+			"titulo_normalizado":"regulacion-del-estres",
+			"autor":"Isa\u00EDas Hern\u00E1ndez",
+			"imagen": "Estrés1.gif",
+			"fecha":"14/10/21"
+		},
+		{
+			"titulo":"Conductas depresivas en tiempos de COVID-19",
+			"titulo_normalizado":"conductas-depresivas-en-tiempos-de-covid-19",
+			"autor":"Rodrigo Perea",
+			"imagen": "conductas-depresivas-en-tiempos-de-1.jpg",
+			"fecha":"14/09/20"
+		},
+		{
+			"titulo":"La batalla contin\u00FAa",
+			"titulo_normalizado":"la-batalla-continua",
+			"autor":"Thalia Ortega",
+			"imagen": "la-batalla-continua-1.jpg",
+			"fecha":"14/05/20"
+		},
+		{
+			"titulo":"8M: Futuro sostenible para todas y todos",
+			"titulo_normalizado":"8m-futuro-sostenible-para-todas-y-todos",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "fututo-sostenible-1.jpg",
+			"fecha":"14/03/22"
+		},
+		{
+			"titulo":"Amor Rom\u00E1ntico y Juventudes",
+			"titulo_normalizado":"amor-romantico-y-juventudes",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "amor-romantico-1.jpg",
+			"fecha":"14/02/22"
+		},
+		{
+			"titulo":"Capacidad de superaci\u00F3n",
+			"titulo_normalizado":"capacidad-de-superacion",
+			"autor":"Redacci\u00F3n",
+			"imagen": "capacidad-de-superacion-1.jpg",
+			"fecha":"13/02/20"
+		},
+		{
+			"titulo":"Salvando vidas con conocimiento",
+			"titulo_normalizado":"salvando-vidas-con-conocimiento",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "primer-respondiente-1.jpg",
+			"fecha":"12/06/23"
+		},
+		{
+			"titulo":"8M: Microtaller “Los derechos de las mujeres”",
+			"titulo_normalizado":"8m-microtaller----los-derechos-de-las-mujeres---",
+			"autor":"Orlando Ortega",
+			"imagen": "microtaller-derechos-de-las-mujeres-1.jpg",
+			"fecha":"12/03/21"
+		},
+		{
+			"titulo":"Estrategias de aprendizaje para la educaci\u00F3n a distancia",
+			"titulo_normalizado":"estrategias-de-aprendizaje-para-la-educacion-a-distancia",
+			"autor":"Redacci\u00F3n",
+			"imagen": "estrategias-de-aprendizaje-para-la-educacion-a-distancia-1.jpg",
+			"fecha":"12/02/21"
+		},
+		{
+			"titulo":"Derecho a decidir",
+			"titulo_normalizado":"derecho-a-decidir",
+			"autor":"Gustavo Becerra",
+			"imagen": "derecho-a-decidir-1.jpg",
+			"fecha":"11/11/20"
+		},
+		{
+			"titulo":"Idealizando el amor",
+			"titulo_normalizado":"idealizando-el-amor",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "idealizando1.gif",
+			"fecha":"09/12/21"
+		},
+		{
+			"titulo":"Proceso ante una p\u00E9rdida",
+			"titulo_normalizado":"proceso-ante-una-perdida",
+			"autor":"Gustavo Becerra",
+			"imagen": "proceso-ante-una-perdida-1.jpg",
+			"fecha":"09/04/21"
+		},
+		{
+			"titulo":"Estancias de Investigaci\u00F3n 2023",
+			"titulo_normalizado":"estancias-de-investigacion-2023",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "estancias-1.jpg",
+			"fecha":"09/02/23"
+		},
+		{
+			"titulo":"Nos preparamos para un regreso seguro",
+			"titulo_normalizado":"nos-preparamos-para-un-regreso-seguro",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "nos-preparamos-para-un-regreso-seguro-1.jpg",
+			"fecha":"09/02/22"
+		},
+		{
+			"titulo":"Amor rom\u00E1ntico, cuna de la violencia de g\u00E9nero",
+			"titulo_normalizado":"amor-romantico-cuna-de-la-violencia-de-genero",
+			"autor":"Kenia Brodman",
+			"imagen": "amor-romántico1.gif",
+			"fecha":"08/12/21"
+		},
+		{
+			"titulo":"Reconocer la tristeza y seguir avanzando",
+			"titulo_normalizado":"reconocer-la-tristeza-y-seguir-avanzando",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "reconocer-la-tristeza-1.jpg",
+			"fecha":"08/06/20"
+		},
+		{
+			"titulo":"8M: Mujeres l\u00EDderes por una sociedad igualitaria 1",
+			"titulo_normalizado":"8m-mujeres-lideres-por-una-sociedad-igualitaria-1",
+			"autor":"Rodrigo Perea",
+			"imagen": "mujeres-lideres-por-una-sociedad-igualitaria-1-1.jpg",
+			"fecha":"08/03/21"
+		},
+		{
+			"titulo":"G\u00E9nero, sexo y transici\u00F3n",
+			"titulo_normalizado":"genero-sexo-y-transicion",
+			"autor":"Thalia Ortega",
+			"imagen": "genero-sexo-y-trans-1.jpg",
+			"fecha":"07/10/20"
+		},
+		{
+			"titulo":"Emociones encerradas",
+			"titulo_normalizado":"emociones-encerradas",
+			"autor":"Erik Pliego",
+			"imagen": "Emociones_encerradas_1.jpg",
+			"fecha":"05/05/20"
+		},
+		{
+			"titulo":"Feria de Salud Sexual 2023",
+			"titulo_normalizado":"feria-de-salud-sexual-2023",
+			"autor":"\u00D3scar Rafael Cornejo",
+			"imagen": "Feriasex1.gif",
+			"fecha":"04/09/23"
+		},
+		{
+			"titulo":"Hilda Laura: no hay l\u00EDmites",
+			"titulo_normalizado":"hilda-laura-no-hay-limites",
+			"autor":"Thalia Ortega",
+			"imagen": "hilda-laura-no-hay-limites-1.jpg",
+			"fecha":"04/09/20"
+		},
+		{
+			"titulo":"Discapacidad frente a la sociedad",
+			"titulo_normalizado":"discapacidad-frente-a-la-sociedad",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "discapacidad1.gif",
+			"fecha":"03/12/21"
+		},
+		{
+			"titulo":"Lidiar con el duelo",
+			"titulo_normalizado":"lidiar-con-el-duelo",
+			"autor":"Redacci\u00F3n",
+			"imagen": "lidiar-con-el-duelo-1.jpg",
+			"fecha":"03/11/21"
+		},
+		{
+			"titulo":"Primer Congreso Internacional de Cuidados",
+			"titulo_normalizado":"primer-congreso-internacional-de-cuidados",
+			"autor":"Oscar Rafael Cornejo",
+			"imagen": "Primer1.gif",
+			"fecha":"03/10/23"
+		},
+		{
+			"titulo":"Cuidados para personas con discapacidad",
+			"titulo_normalizado":"cuidados-para-personas-con-discapacidad",
+			"autor":"Ang\u00E9lica L\u00F3pez",
+			"imagen": "mesa11-1.JPG",
+			"fecha":"03/10/23"
+		},
+		{
+			"titulo":"Arte, g\u00E9nero y discapacidad",
+			"titulo_normalizado":"arte-genero-y-discapacidad",
+			"autor":"Erik Pliego",
+			"imagen": "Arte,-género-y-discapacidad-1.gif",
+			"fecha":"03/09/20"
+		},
+		{
+			"titulo":"Inauguran lactario en Arag\u00F3n",
+			"titulo_normalizado":"inauguran-lactario-en-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "lua-1.jpg",
+			"fecha":"03/08/22"
+		},
+		{
+			"titulo":"Sin violencia... es amor",
+			"titulo_normalizado":"sin-violencia-es-amor",
+			"autor":"Rodrigo Perea",
+			"imagen": "sin-violencia-es-amor-1.jpg",
+			"fecha":"03/03/21"
+		},
+		{
+			"titulo":"Motivaci\u00F3n y resiliencia en la educaci\u00F3n a distancia",
+			"titulo_normalizado":"motivacion-y-resiliencia-en-la-educacion-a-distancia",
+			"autor":"Juan G\u00F3mez",
+			"imagen": "motivacion-y-resiliencia-en-la-educacion-a-distancia-1.jpg",
+			"fecha":"02/06/21"
+		},
+		{
+			"titulo":"Mi experiencia en la UNAM",
+			"titulo_normalizado":"mi-experiencia-en-la-unam",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "experiencia1.gif",
+			"fecha":"01/12/21"
+		},
+		{
+			"titulo":"Formaci\u00F3n inclusiva de estudiantes con discapacidad",
+			"titulo_normalizado":"formacion-inclusiva-de-estudiantes-con-discapacidad",
+			"autor":"Rosa Francisco",
+			"imagen": "formacion-inclusiva-de-estudiantes-con-discapacidad-1.jpg",
+			"fecha":"01/12/21"
+		},
+		{
+			"titulo":"Acceso a la sexualidad para personas con discapacidad",
+			"titulo_normalizado":"acceso-a-la-sexualidad-para-personas-con-discapacidad",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "acceso-a-la-sexualidad-para-personas-con-discapacidad-1.jpg",
+			"fecha":"01/09/20"
+		}
+	]
+}

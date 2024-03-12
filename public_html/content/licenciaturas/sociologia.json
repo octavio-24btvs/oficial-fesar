@@ -1,0 +1,76 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Plan de estudios",
+        "Mapa curricular",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Reconocimientos y proyectos",
+        "Contacto"
+    ],
+    "titulo": "Sociolog\u00EDa",
+    "icono": "icono-secciones icon-sociologia",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A nombre de toda la Comunidad Universitaria, te damos la m\u00E1s cordial bienvenida, queremos felicitarte y hacerte sentir parte fundamental de la misma. Pertenecer a la UNAM no s\u00F3lo significa obtener conocimientos acad\u00E9micos, sino tambi\u00E9n grandes oportunidades de desarrollo profesional, humano y experiencias invaluables.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Aprovecha al m\u00E1ximo el tiempo con dedicaci\u00F3n, esfuerzo y trabajo y si\u00E9ntete con la gran responsabilidad de estudiar y de adquirir mayor conciencia. Est\u00E1s en un ambiente donde la ciencia, la cultura, el deporte y diversas actividades acad\u00E9micas te proporcionar\u00E1n una formaci\u00F3n integral.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">\u00A1Enhorabuena y muchas felicidades!<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad profesional en Sociolog\u00EDa es capaz de desarrollar habilidades orientadas al dise\u00F1o de diagn\u00F3sticos sociales, docencia e investigaci\u00F3n multidisciplinaria, con bases te\u00F3ricas y metodol\u00F3gicas; que le permiten comprender, explicar y diagnosticar el entorno de la vida social en todas sus manifestaciones. Esta disciplina implica un compromiso permanente con la reflexi\u00F3n y el pensamiento cr\u00EDtico dentro del campo de la promoci\u00F3n social que engloba la participaci\u00F3n comunitaria, la investigaci\u00F3n y la docencia. Asimismo, la profesi\u00F3n demanda una renovaci\u00F3n constante de actitudes y aptitudes que se ven reflejadas en el beneficio de la sociedad mexicana.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Quienes han elegido la carrera de Sociolog\u00EDa adquieren la responsabilidad de reaccionar ante los acontecimientos nacionales en el marco de los cambios que vive nuestra sociedad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Sociolog\u00EDa tiene como objetivo formar profesionales comprometidos con la sociedad y todas sus manifestaciones y representaciones, as\u00ED como fomentar en estudiantes el inter\u00E9s por la investigaci\u00F3n en las Ciencias Sociales. La carrera est\u00E1 comprometida en ofrecer todos los medios acad\u00E9micos que se requieran para la formaci\u00F3n de grandes profesionales en Sociolog\u00EDa.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad aspirante a la licenciatura en Sociolog\u00EDa debe reunir las siguientes caracter\u00EDsticas:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">inquietud por el conocimiento y el an\u00E1lisis de los problemas sociales, as\u00ED como creatividad para proponer alternativas viables de soluci\u00F3n de los mismos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">inter\u00E9s por la lectura, el an\u00E1lisis de textos y capacidad para expresarse en forma oral y escrita;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">deseos de estudiar otros idiomas y conocer otras culturas;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">gusto por la investigaci\u00F3n de campo, bibliohemerogr\u00E1fica y todo aquello que coadyuve a una formaci\u00F3n intelectual s\u00F3lida.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad egresada de la licenciatura en Sociolog\u00EDa obtendr\u00E1 diversos conocimientos, desarrollar\u00E1 habilidades, aptitudes y actitudes que le permitan comprender, analizar, explicar y proponer alternativas en cuanto a lo social.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al concluir su formaci\u00F3n, el egresado:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tendr\u00E1 una formaci\u00F3n te\u00F3rico-metodol\u00F3gica consistente, actual e interdisciplinaria, sin priorizar el manejo o uso de una sola propuesta;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tendr\u00E1 los conocimientos adecuados para sustentar sus evaluaciones anal\u00EDticas sobre temas de actualidad en los medios impresos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">conocer\u00E1 ampliamente las causas pol\u00EDticas, econ\u00F3micas y sociales del fen\u00F3meno de transici\u00F3n democr\u00E1tica en el contexto nacional y regional;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">ser\u00E1 capaz de identificar tem\u00E1ticas de investigaci\u00F3n desde la perspectiva sociol\u00F3gica;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tendr\u00E1 habilidad para el ejercicio de la investigaci\u00F3n (te\u00F3rico y t\u00E9cnico) a fin de explicar cualitativa y cuantitativamente el surgimiento y desarrollo de los nuevos fen\u00F3menos sociales;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tendr\u00E1 habilidad para contribuir por medio de sus conocimientos profesionales a evaluar las tendencias de los procesos pol\u00EDticos y sociales.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/sociologia/plan-de-estudios-sociologia.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/sociologia/mapa-sociologia.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/sociologia/programas-sociologia.pdf"
+        },
+        {
+            "tipo": "pdf", 
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/sociologia-titulacion"
+        }, 
+        {
+            "tipo": "reconocimientos",
+            "texto": {
+                "reconocimiento_docentes": "<ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">La movilidad nacional e internacional se ha incrementado en los \u00FAltimos tres a\u00F1os con la finalidad de enriquecer la formaci\u00F3n acad\u00E9mica de sus estudiantes en diversas universidades para abrir la visi\u00F3n hacia una perspectiva global de la Sociolog\u00EDa;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">las modalidades de titulaci\u00F3n aprobadas en los \u00FAltimos a\u00F1os han posibilitado un incremento considerable de la eficiencia terminal de sus egresados;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">las ofertas de servicio social se han diversificado ampliamente, proporcionando a la comunidad estudiantil mayores posibilidades de elegir el lugar donde desarrollar\u00E1 sus conocimientos y aptitudes;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">la gran cantidad de concursos de oposici\u00F3n registrada recientemente ha posibilitado una mayor estabilidad en el empleo y por lo tanto un mejor rendimiento de la comunidad acad\u00E9mica.<\/span><\/li><\/ul>",
+                "reconocimiento_alumnos": "<p class=\"ql-align-justify\"><br><\/p>"
+            }
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Regina Dorantes",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/sociologia/regina-dorantes.jpg",
+                "genero_jefe_carrera": "1",
+                "secretario_tecnico": "Eduardo Mateo",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/sociologia/eduardo-mateo.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30815 y 30813",
+                "correo_electronico": "sociologia@aragon.unam.mx",
+                "correo_electronico_st": "st.sociologia@aragon.unam.mx",
+                "facebook": "https:\/\/www.facebook.com\/FESAragon.sociologia\/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/sociologia"
+            }
+            
+        }
+    ]
+}

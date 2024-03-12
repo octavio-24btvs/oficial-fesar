@@ -1,0 +1,14 @@
+{
+	"titulo": "OBS para principiantes",
+	"titulo_normalizado": "obs-para-principiantes",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Francisco Olivares",
+	"fecha":"17/08/21",
+	"contenido":"<p><br><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con el prop\u00F3sito de capacitar a nuestra comunidad en el uso de herramientas \u00FAtiles para sus presentaciones y trabajos escolares, as\u00ED como de hacer difusi\u00F3n de los talleres que ofrece, el Departamento de Actividades Culturales brind\u00F3 un minicurso sobre OBS<\/span><span style=\"color: rgb(0, 0, 0);\"> (Open Broadcaster Software), una aplicaci\u00F3n libre y de c\u00F3digo abierto para la grabaci\u00F3n y transmisi\u00F3n de v\u00EDdeo por internet.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Abner Santana, licenciado en Comunicaci\u00F3n y Periodismo por la FES Arag\u00F3n, se encarg\u00F3 de dar esta breve presentaci\u00F3n, donde habl\u00F3 de <\/span><span style=\"color: rgb(0, 0, 0);\">los requerimientos b\u00E1sicos del equipo para el correcto funcionamiento de este <\/span><em style=\"color: rgb(0, 0, 0);\">software<\/em><span style=\"color: rgb(0, 0, 0);\">,<\/span><em style=\"color: rgb(0, 0, 0);\"> <\/em><span style=\"color: rgb(0, 0, 0);\">sus funciones y aplicaciones.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0);\">OBS es una herramienta de gran utilidad en estos tiempos de pandemia y de clases en l\u00EDnea, ayudar\u00E1 tanto a estudiantes como a docentes durante el ciclo que est\u00E1 por comenzar. Puedes descargarla en <\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">https:\/\/obsproject.com\/es<\/span><\/p>",
+	"imagenes":[{"imagen":"obs-para-principiantes-1.jpg"},{"imagen":"obs-para-principiantes-2.jpg"},{"imagen":"obs-para-principiantes-3.jpg"}]
+}

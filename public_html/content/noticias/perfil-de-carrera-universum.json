@@ -1,0 +1,33 @@
+{
+	"titulo": "Perfil de carrera Universum",
+	"titulo_normalizado": "perfil-de-carrera-universum",
+	"secciones": [
+		{
+			"seccion": "Bolsa de Trabajo",
+			"seccion_normalizada": "bolsa-de-trabajo"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "15/03/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Facultad de Estudios Superiores Arag\u00F3n, a trav\u00E9s del Departamento de Bolsa de Trabajo FES Arag\u00F3n, present\u00F3 el seminario digital Perfil de Carrera, un espacio dedicado a las y los estudiantes que buscan conocer las preferencias y expectativas que hay en torno al mercado laboral.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lilia Trejo, responsable del Departamento de Bolsa de Trabajo, en compa\u00F1\u00EDa de Marlene Montes de Oca, egresada de la licenciatura en Relaciones Internacionales por la Universidad Nacional Aut\u00F3noma de M\u00E9xico y maestra en Ciencias Pol\u00EDticas en la Universidad de Uppsala, Suecia, presentaron los perfiles de carrera creados a partir de un modelo elaborado por Universum.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta instituci\u00F3n, con m\u00E1s de 30 a\u00F1os de experiencia, lanza a\u00F1o con a\u00F1o el CareerTest, donde eval\u00FAa el mercado laboral en M\u00E9xico comparado con el resto del mundo. Gracias a la participaci\u00F3n de m\u00E1s de un mill\u00F3n de estudiantes, logran conocer los retos y fortalezas alrededor del mundo en cuanto a ofertas de trabajo, adem\u00E1s de elaborar un modelo basado en las tendencias de la \u00FAltima d\u00E9cada para encontrar los perfiles profesionales m\u00E1s comunes, independientemente de la universidad o carrera.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A partir de los datos e informaci\u00F3n recabada mediante la estrategia denominada <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">clustering<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, Universum cre\u00F3 5 perfiles de carrera con los que pretende conocer hacia d\u00F3nde se est\u00E1n dirigiendo los j\u00F3venes en t\u00E9rminos de su carrera profesional, as\u00ED como reconocer las fortalezas y \u00E1reas de oportunidad para que la comunidad estudiantil est\u00E9 mejor preparada cuando deba enfrentarse al mundo laboral.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "test1.gif"
+		},
+		{
+			"imagen": "test2.gif"
+		},
+		{
+			"imagen": "test3.gif"
+		},
+		{
+			"imagen": "test4.gif"
+		},
+		{
+			"imagen": "test5.gif"
+		},
+		{
+			"imagen": "test6.gif"
+		}	]
+
+}

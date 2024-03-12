@@ -1,0 +1,14 @@
+{
+	"titulo": "Charla portuguesa",
+	"titulo_normalizado": "charla-portuguesa",
+	"secciones": [
+		{
+			"seccion": "Centro de Lenguas",
+			"seccion_normalizada": "centro-de-lenguas"
+		}
+	],
+	"autor":"Rosa Francisco",
+	"fecha":"19/05/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el marco de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de las Lenguas <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">el Centro de Lenguas (CLe) Arag\u00F3n present\u00F3 la videoconferencia “Portugal: do passado ao futuro”, a cargo de Filipa Barreiros, Consejera Pol\u00EDtica de la Embajada de Portugal en M\u00E9xico.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el evento se trataron diversos temas, algunos de ellos fueron la historia de Portugal, el origen de su lengua, la cultura y los tratados en los que participa junto con nuestro pa\u00EDs, asimismo, Barreiros dio algunos consejos para poder aprender correctamente el idioma.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La pl\u00E1tica se llev\u00F3 a cabo en portugu\u00E9s, con el fin de ofrecer a las y los alumnos que estudian esta lengua la oportunidad de poner a prueba sus conocimientos.<\/span><\/p>",
+	"imagenes":[{"imagen":"charla-portuguesa-1.jpg"},{"imagen":"charla-portuguesa-2.jpg"},{"imagen":"charla-portuguesa-3.jpg"}]
+}

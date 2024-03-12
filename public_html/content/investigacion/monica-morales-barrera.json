@@ -1,0 +1,21 @@
+{
+    "nombre": "Mónica Morales Barrera", 
+    "grado_academico": "Doctora", 
+    "correo": [ "monicamorales79@aragon.unam.mx"],
+    "imagen": true,
+    "estudios": [
+        "Licenciatura en Pedagogía. Universidad Nacional Autónoma de México.", 
+        "Maestría en Teoría Psicoanalítica. Centro de Investigaciones y Estudios Psicoanalíticos.", 
+        "Doctorado en Pedagogía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Humanidades.", 
+        "Psicoanálisis y educación.", 
+        "Psicopedagogía."
+    ], 
+    "investigaciones": [
+        "Principio de placer y principio de realidad en la educación.", 
+        "Transferencia y aprendizaje.", 
+        "Elección vocacional en profesores de nivel bachillerato."
+    ]
+}

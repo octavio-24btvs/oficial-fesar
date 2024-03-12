@@ -1,0 +1,81 @@
+{
+    "titulo": "CompromisoUNAM",
+    "imagenes": [
+        {
+            "imagen": "dia-apoyo-a-las-victimas-de-la-tortura",
+            "alt":"D\u00EDa de apoyo a las victimas de la tortura"
+        },
+        {
+            "imagen": "dia-asteriodes",
+            "formato": "gif",
+            "alt":"D\u00EDa de asteroides"
+        },
+        {
+            "imagen": "dia-contra-el-trabajo-infantil",
+            "alt":"D\u00EDa contra el trabajo infantil"
+        },
+        {
+            "imagen": "dia-donante-de-sangre",
+            "formato": "gif",
+            "alt":"D\u00EDa del donante de sangre"
+        },
+        {
+            "imagen": "dia-micro-pequenas-y-medianas-empresas",
+            "alt":"D\u00EDa de las micro pequeñas y medianas empresas"
+        },
+        {
+            "imagen": "dia-toma-de-conciencia-de-abuso-y-maltrato-en-la-vejez",
+            "alt":"D\u00EDa de toma de conciencia de abuso y maltrato en la vejez"
+        },
+        {
+            "imagen": "turismo-sostenible",
+            "alt":"Turismo sostenible"
+        },
+        {
+            "imagen": "viajero-responsable",
+            "alt":"Viajero responsable"
+        }
+    ],
+    "pdfs": [
+        {
+            "titulo": "Aportaciones cient\u00EDficas y tecnol\u00F3gicas de la UNAM",
+            "pdf": "aportaciones-cientificas-y-tecnologicas-de-la-unam"
+        },
+        {
+            "titulo": "Apps y plataformas digitales",
+            "pdf": "apps-y-plataformas-digitales"
+        },
+        {
+            "titulo": "Comunicaci\u00F3n asertiva: la clave de las relaciones interpersonales satisfactorias",
+            "pdf": "comunicacion-asertiva-la-clase-de-las-relaciones-interpersonales-satisfactorias"
+        },
+        {
+            "titulo": "El desarrollo tecnol\u00F3gico y su impacto en la educaci\u00F3n",
+            "pdf": "el-desarrollo-tecnologico-y-su-impacto-en-la-educacion"
+        },
+        {
+            "titulo": "Ense\u00FAar la incertidumbre y ense\u00FAar para la incertidumbre",
+            "pdf": "ensenar-la-incertidumbre-y-ensenar-para-la-incertidumbre"
+        },
+        {
+            "titulo": "La dimensi\u00F3n humana de la tecnolog\u00EDa y el proceso de ense\u00FAanza-aprendizaje",
+            "pdf": "la-dimension-humana-de-la-tecnologia-y-el-proceso-de-ensenanza-aprendizaje"
+        },
+        {
+            "titulo": "La importancia de la ciencia, la tecnolog\u00EDa y su comunicaci\u00F3n",
+            "pdf": "la-importancia-de-la-ciencia-la-tecnologia-y-su-comunicacion"
+        },
+        {
+            "titulo": "La revoluci\u00F3n del marketing digital",
+            "pdf": "la-revolucion-del-marketing-digital"
+        },
+        {
+            "titulo": "¿Qu\u00E9 es la Inteligencia Artificial?",
+            "pdf": "que-es-la-inteligencia-artificial"
+        },
+        {
+            "titulo": "Tecnolog\u00EDa del futuro, hoy",
+            "pdf": "tecnologia-del-futuro-hoy"
+        }
+    ]
+}

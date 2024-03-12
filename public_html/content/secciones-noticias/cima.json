@@ -1,0 +1,203 @@
+{
+	"id": 22,
+	"titulo": "CIMA",
+	"icono": "icon-centro-de-investigacion-aragon",
+	"noticias": [
+		{
+			"titulo":"Nuevos retos del comercio electr\u00F3nico",
+			"titulo_normalizado":"nuevos-retos-del-comercio-electronico",
+			"autor":"Erik Pliego",
+			"imagen": "Ecomerce1.gif",
+			"fecha":"30/08/22"
+		},
+		{
+			"titulo":"XVCIMI: El agua en Tenochtitl\u00E1n",
+			"titulo_normalizado":"xvcimi-el-agua-en-tenochtitlan",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "el-agua-en-tenochtitlan-1.jpg",
+			"fecha":"28/10/22"
+		},
+		{
+			"titulo":"XVCIMI: La propiedad industrial en M\u00E9xico",
+			"titulo_normalizado":"xvcimi-la-propiedad-industrial-en-mexico",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Propiedad1.gif",
+			"fecha":"28/10/22"
+		},
+		{
+			"titulo":"CIMI: Ser docente durante la pandemia",
+			"titulo_normalizado":"cimi-ser-docente-durante-la-pandemia",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "cimi-ser-docente-durante-la-pandemia-1.jpg",
+			"fecha":"28/10/21"
+		},
+		{
+			"titulo":"CIMI: De ciencias sociales y periodistas",
+			"titulo_normalizado":"cimi-de-ciencias-sociales-y-periodistas",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "Periodistas1.gif",
+			"fecha":"28/10/21"
+		},
+		{
+			"titulo":"CIMI: Tecnolog\u00EDa al servicio de la salud y la naturaleza",
+			"titulo_normalizado":"cimi-tecnologia-al-servicio-de-la-salud-y-la-naturaleza",
+			"autor":"Redacci\u00F3n",
+			"imagen": "cimi-tecnologia-al-servicio-de-la-salud-y-la-naturaleza-1.jpg",
+			"fecha":"28/10/21"
+		},
+		{
+			"titulo":"CIMI: Investigaciones en ingenier\u00EDa",
+			"titulo_normalizado":"cimi-investigaciones-en-ingenieria",
+			"autor":"Redacci\u00F3n",
+			"imagen": "investigaciones-en-ingenieria-1.jpg",
+			"fecha":"28/10/21"
+		},
+		{
+			"titulo":"XVCIMI: Reconocimiento de los derechos de las mujeres",
+			"titulo_normalizado":"xvcimi-reconocimiento-de-los-derechos-de-las-mujeres",
+			"autor":"Edna Reyes",
+			"imagen": "reconocimiento-de-los-derechos-de-las-mujeres-1.jpg",
+			"fecha":"27/10/22"
+		},
+		{
+			"titulo":"XVCIMI: La interdisciplina en biolog\u00EDa, qu\u00EDmica y salud",
+			"titulo_normalizado":"xvcimi-la-interdisciplina-en-biologia-quimica-y-salud",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Interdis2.gif",
+			"fecha":"27/10/22"
+		},
+		{
+			"titulo":"XVCIMI: \u00BFLa extinci\u00F3n humana?",
+			"titulo_normalizado":"xvcimi-la-extincion-humana",
+			"autor":"Alexis Rey",
+			"imagen": "ARMAGEDON1.png",
+			"fecha":"27/10/22"
+		},
+		{
+			"titulo":"XVCIMI: El 19-S no es el d\u00EDa con m\u00E1s sismos, comprobado",
+			"titulo_normalizado":"xvcimi-el-19-s-no-es-el-dia-con-mas-sismos-comprobado",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "el-19-s-no-es-el-dia-con-mas-sismos-1.jpg",
+			"fecha":"27/10/22"
+		},
+		{
+			"titulo":"XVCIMI: Procesos de Formaci\u00F3n en Investigaci\u00F3n",
+			"titulo_normalizado":"xvcimi-procesos-de-formacion-en-investigacion",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Procesos1.gif",
+			"fecha":"26/10/22"
+		},
+		{
+			"titulo":"XVCIMI: La independencia intelectual",
+			"titulo_normalizado":"xvcimi-la-independencia-intelectual",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Independencia1.gif",
+			"fecha":"26/10/22"
+		},
+		{
+			"titulo":"XVCIMI: Una perspectiva post pandemia",
+			"titulo_normalizado":"xvcimi-una-perspectiva-post-pandemia",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "una-perspectiva-post-pandemia-1.jpg",
+			"fecha":"26/10/22"
+		},
+		{
+			"titulo":"CIMI: Investigaci\u00F3n en beneficio de la sociedad",
+			"titulo_normalizado":"cimi-investigacion-en-beneficio-de-la-sociedad",
+			"autor":"Redacci\u00F3n",
+			"imagen": "cimi-investigacion-en-beneficio-de-la-sociedad-1.jpg",
+			"fecha":"26/10/21"
+		},
+		{
+			"titulo":"Los desaf\u00EDos del envejecimiento en M\u00E9xico",
+			"titulo_normalizado":"los-desafios-del-envejecimiento-en-mexico",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "los-desafios-del-envejecimiento-en-mexico-1.jpg",
+			"fecha":"26/10/21"
+		},
+		{
+			"titulo":"XVCIMI: Ciencias sociales",
+			"titulo_normalizado":"xvcimi-ciencias-sociales",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "IMG-20221101-WA0012.jpg",
+			"fecha":"25/10/22"
+		},
+		{
+			"titulo":"XVCIMI: Las artes y humanidades multidisciplinarias",
+			"titulo_normalizado":"xvcimi-las-artes-y-humanidades-multidisciplinarias",
+			"autor":"Alexis Rey",
+			"imagen": "Humanidad1.gif",
+			"fecha":"25/10/22"
+		},
+		{
+			"titulo":"XVCIMI: Creatividad docente en busca de mejorar el aprendizaje",
+			"titulo_normalizado":"xvcimi-creatividad-docente-en-busca-de-mejorar-el-aprendizaje",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "creatividad-docente-en busca-de-mejorar-el-aprendizaje-1.jpg",
+			"fecha":"25/10/22"
+		},
+		{
+			"titulo":"Las remesas durante la 4T",
+			"titulo_normalizado":"las-remesas-durante-la-4t",
+			"autor":"Erik Pliego",
+			"imagen": "jaime-linares-1.JPG",
+			"fecha":"20/09/22"
+		},
+		{
+			"titulo":"Participaci\u00F3n ciudadana",
+			"titulo_normalizado":"participacion-ciudadana",
+			"autor":"Erik Pliego",
+			"imagen": "Representaciones1.gif",
+			"fecha":"17/03/22"
+		},
+		{
+			"titulo":"Fortalecer a las PyMEs",
+			"titulo_normalizado":"fortalecer-a-las-pymes",
+			"autor":"Redacci\u00F3n",
+			"imagen": "fortalecer_a_las_pymes02.jpg",
+			"fecha":"10/12/19"
+		},
+		{
+			"titulo":"Serie de exposiciones cient\u00EDficas para la comunidad",
+			"titulo_normalizado":"serie-de-exposiciones-cientificas-para-la-comunidad",
+			"autor":"Alejandro Frias",
+			"imagen": "serie-de-exposiciones-cientificas-para-la-comunidad-1.jpg",
+			"fecha":"09/10/19"
+		},
+		{
+			"titulo":"Sinergia multidisciplinaria",
+			"titulo_normalizado":"sinergia-multidisciplinaria",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "conferencia-magistral-de-alex-didriksson-1.jpg",
+			"fecha":"08/10/19"
+		},
+		{
+			"titulo":"Arag\u00F3n promueve la investigaci\u00F3n de calidad para el pa\u00EDs",
+			"titulo_normalizado":"aragon-promueve-la-investigacion-de-calidad-para-el-pais",
+			"autor":"Redacci\u00F3n",
+			"imagen": "aragon-promueve-la-investigacion-de-calidad-para-el-pais-1.jpg",
+			"fecha":"06/10/19"
+		},
+		{
+			"titulo":"Tecnolog\u00EDa aplicada a la discapacidad intelectual",
+			"titulo_normalizado":"tecnologia-aplicada-a-la-discapacidad-intelectual",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "Arcelia1.gif",
+			"fecha":"05/04/22"
+		},
+		{
+			"titulo":"Pedagog\u00EDa de los alimentos",
+			"titulo_normalizado":"pedagogia-de-los-alimentos",
+			"autor":"Erik Pliego",
+			"imagen": "Carrillo1.gif",
+			"fecha":"04/10/22"
+		},
+		{
+			"titulo":"CIADS: Taller para aplicar la investigaci\u00F3n al desarrollo social",
+			"titulo_normalizado":"ciads-taller-para-aplicar-la-investigacion-al-desarrollo-social",
+			"autor":"Monserrat Jimenez",
+			"imagen": "CIADS1.gif",
+			"fecha":"03/05/23"
+		}
+	]
+}

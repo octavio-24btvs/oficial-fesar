@@ -1,0 +1,31 @@
+{
+	"titulo": "Listos para actuar",
+	"titulo_normalizado": "listos-para-actuar",
+	"secciones": [
+		{
+			"seccion": "Prevención y Seguridad Universitaria",
+			"seccion_normalizada": "prevencion-y-seguridad-universitaria"
+		},
+		{
+			"seccion": "Servicios a la Comunidad",
+			"seccion_normalizada": "servicios-a-la-comunidad"
+		}
+	],
+	"autor": "Jorge Narv\u00E1ez",
+	"fecha": "23/06/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Servicios a la Comunidad y Prevenci\u00F3n y Seguridad Universitaria de la FES Arag\u00F3n, junto con la Brigada de Respuesta a Emergencias (BREM) de la Facultad de Estudios Superiores Zaragoza, impartieron este viernes la \u00FAltima sesi\u00F3n del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Curso Primer Respondiente<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, en el auditorio de la Divisi\u00F3n de Universidad Abierta, Continua y a Distancia (DUACyD).<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La clase tuvo como objetivo mostrar a las y los participantes las diferentes formas de apoyar durante una emergencia, donde la prioridad es actuar r\u00E1pidamente para brindar la mejor asistencia. Los temas impartidos durante la actividad fueron la Reanimaci\u00F3n cardiopulmonar (RCP), la Maniobra de Heimlich y la movilizaci\u00F3n de las y los pacientes.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Daniela Mondrag\u00F3n, quien est\u00E1 a cargo de la BREM, instruy\u00F3 a las y los asistentes sobre los pasos a seguir cuando se trata de una situaci\u00F3n de riesgo, adem\u00E1s de la manera correcta de identificar los s\u00EDntomas en cada paciente. M\u00E1s adelante recalc\u00F3 la importancia de evaluar la situaci\u00F3n antes de actuar, ya que si se atiende de una forma equivocada a la persona en riesgo, se puede ocasionar un da\u00F1o mayor.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al igual que en las sesiones anteriores fue importante practicar las t\u00E9cnicas aprendidas, las y los participantes se organizaron en equipos y con ayuda del personal de la Brigada simularon situaciones de emergencia.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El uso de materiales fue trascendental durante las simulaciones guiadas, ya que al emplearlos se pudo ejemplificar mejor la manera correcta de abordar cada padecimiento. Adem\u00E1s, se puso a la disposici\u00F3n de quienes realizaron las pr\u00E1cticas equipo para movilizar a pacientes, como sillas de ruedas y camillas, las cuales no son las \u00FAnicas formas de hacerlo puesto que tambi\u00E9n se explicaron maneras de transportar a la persona utilizando el propio cuerpo y el apoyo de otros voluntarios.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al finalizar la actividad, la encargada de Servicios a la Comunidad de la FES Arag\u00F3n, Berenice Cano, agradeci\u00F3 a la BREM por haber impartido el curso, as\u00ED como la participaci\u00F3n de las y los asistentes.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "primer-respondiente-1 (1).jpg"
+		},
+		{
+			"imagen": "primer-respondiente-2 (1).jpg"
+		},
+		{
+			"imagen": "primer-respondiente-3 (1).jpg"
+		},
+		{
+			"imagen": "primer-respondiente-4 (1).jpg"
+		}	]
+
+}

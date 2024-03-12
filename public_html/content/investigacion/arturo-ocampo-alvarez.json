@@ -1,0 +1,20 @@
+{
+    "nombre": "Arturo Ocampo Álvarez", 
+    "grado_academico": "Maestro", 
+     "correo": [ "arturoocampo76@aragon.unam.mx "     ],
+    "estudios": [
+        "Licenciatura en Ingeniería en Computación. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ciencias en Ingeniería en Mecatrónica. Tecnológico de Estudios Superiores de Ecatepec."
+    ], 
+    "lineas_investigacion": [
+        "Electrónica.", 
+        "Sistemas embebidos.", 
+        "Robótica evolutiva.", 
+        "Investigación en Ciencias Físico Matemáticas e Ingenierías.", 
+        "Innovación, manufactura y tecnología."
+    ], 
+    "investigaciones": [
+        "Taller de Robótica para inteligencia de enjambres con código abierto.", 
+        "Programación cerebral en sistemas robóticos en tiempo real para el reconocimiento de objetos."
+    ]
+}

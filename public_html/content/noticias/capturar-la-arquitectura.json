@@ -1,0 +1,18 @@
+{
+	"titulo": "Capturar la arquitectura",
+	"titulo_normalizado": "capturar-la-arquitectura",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Civil",
+			"seccion_normalizada": "civil"
+		}
+	],
+	"autor": "Priscila Ch\u00E1vez",
+	"fecha": "22/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el taller “La fotograf\u00EDa en construcci\u00F3n” se abord\u00F3 el tema de la fotograf\u00EDa de arquitectura, enfatizando sus caracter\u00EDsticas e importancia en el \u00E1mbito acad\u00E9mico y profesional. Esta actividad estuvo a cargo de Edgar Yael Guinto, estudiante de Ingenier\u00EDa Civil.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">De acuerdo con Guinto, la fotograf\u00EDa dentro de la arquitectura va m\u00E1s all\u00E1 de la captura de im\u00E1genes, tambi\u00E9n busca retratar la belleza; adem\u00E1s, es importante tanto para las y los profesionales que quieren vender su trabajo, exponer sus proyectos y hacer evaluaciones, as\u00ED como para estudiantes de arquitectura o ingenier\u00EDa civil en busca de completar investigaciones, crear reportes o iniciar un portafolio de evidencias que m\u00E1s adelante le dar\u00E1n una imagen profesional.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Capturar una obra arquitect\u00F3nica, sea de manera externa o interna, requiere ser consciente del espacio, para esto se debe tomar en cuenta la iluminaci\u00F3n de la escena, sombras, l\u00EDneas, contraste, texturas y los mejores \u00E1ngulos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La creatividad es fundamental en la fotograf\u00EDa, pero tambi\u00E9n lo es prestar atenci\u00F3n a todos los elementos y t\u00E9cnicas necesarias para alcanzar una toma fotogr\u00E1fica aut\u00E9ntica. Guinto incluso recomienda la participaci\u00F3n de objetos y sujetos para medir la escala, por ello deber\u00EDan ser considerados al momento de hacer fotograf\u00EDa de arquitectura.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "capturar-la-arquitectura.jpg"
+		}	]
+
+}

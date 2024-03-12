@@ -1,0 +1,15 @@
+{
+    "nombre": "Florina González Camacho", 
+    "grado_academico": "Licenciada", 
+     "correo": [ "floris_g_c@hotmail.com" ],
+    "estudios": [
+        "Licenciatura en Sociología. Universidad Autónoma Metropolitana."
+    ], 
+    "lineas_investigacion": [
+        "Educación.", 
+        "Cultura."
+    ], 
+    "investigaciones": [
+        "Temas de educación y cultura."
+    ]
+}

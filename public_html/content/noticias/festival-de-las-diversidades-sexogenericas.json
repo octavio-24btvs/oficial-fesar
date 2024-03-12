@@ -1,0 +1,35 @@
+{
+	"titulo": "Festival de las Diversidades Sexogen\u00E9ricas",
+	"titulo_normalizado": "festival-de-las-diversidades-sexogenericas",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		},
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		},
+		{
+			"seccion": "Inclusión",
+			"seccion_normalizada": "inclusión"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "17/05/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de la Semana de las Diversidades, la Facultad de Estudios Superiores Arag\u00F3n, a trav\u00E9s de Extensi\u00F3n Universitaria, llev\u00F3 a cabo la celebraci\u00F3n del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Festival de Diversidades Sexogen\u00E9ricas,<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> un espacio para que las y los aragoneses aprendan sobre la comunidad LGBTTTIQA+ a trav\u00E9s de m\u00FAltiples charlas y talleres.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La loter\u00EDa de mitos, el karaoke, la ruleta de la diversidad, la red de familias trans, el matrimonio igualitario, la loter\u00EDa de la igualdad, as\u00ED como actividades deportivas, manualidades, compra de libros y pruebas de VIH, fueron algunos de los espacios de recreaci\u00F3n cultural que se encontraban en el festival.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte, Colectivx Aragonite, un grupo de diversidad sexual de la FES Arag\u00F3n, el cual, organiza y apoya actividades en la Facultad y Ciudad Universitaria, tambi\u00E9n estuvo presente en el evento exhortando a la comunidad estudiantil a participar en la marcha interna del orgullo LGBTTTIQA+, llevada a cabo dentro de la FES el 22 de mayo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Defensor\u00EDa UNAM y el Instituto de la Juventud de la CDMX tambi\u00E9n formaron parte del festival a trav\u00E9s de actividades y charlas, adem\u00E1s brindaron informaci\u00F3n acerca de sus servicios. Las y los estudiantes tuvieron la oportunidad de reunir horas complementarias para su formaci\u00F3n por medio de las actividades de este evento. <\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Diversidades1.gif"
+		},
+		{
+			"imagen": "Diversidades2.gif"
+		},
+		{
+			"imagen": "Diversidades3.gif"
+		},
+		{
+			"imagen": "Diversidades4.gif"
+		}	]
+
+}

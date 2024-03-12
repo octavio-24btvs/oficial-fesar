@@ -1,0 +1,14 @@
+{
+	"titulo": "Mi experiencia en la UNAM",
+	"titulo_normalizado": "mi-experiencia-en-la-unam",
+	"secciones": [
+		{
+			"seccion": "Servicios a la Comunidad",
+			"seccion_normalizada": "servicios-a-la-comunidad"
+		}
+	],
+	"autor":"Isaias Hern\u00E1ndez",
+	"fecha":"01/12/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de las actividades realizadas con motivo de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cuarta Jornada de Inclusi\u00F3n y Discapacidad 2021<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se llev\u00F3 a cabo el conversatorio en el que participaron estudiantes y comunidad universitaria egresada, junto con Montserrat P\u00E9rez, egresada aragonesa; Raymundo Ortiz, tambi\u00E9n aragon\u00E9s; y Amayrani Ram\u00EDrez, egresada de la FES Cuautitl\u00E1n; con el apoyo de Daniel D\u00EDaz, int\u00E9rprete de la lengua de se\u00F1as.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el conversatorio, las y los participantes nos compartieron su experiencia en la Universidad; su proceso de selecci\u00F3n, las dificultades que presentaron en el examen de admisi\u00F3n, las capacidades diferentes que tienen, y a\u00F1adieron que la universidad les ofreci\u00F3 apoyo con int\u00E9rpretes para contestar el examen.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Uno de los temas que destacan son los relacionados con la discriminaci\u00F3n, que si bien la universidad implement\u00F3 programas de inclusi\u00F3n para estudiantes con capacidades diferentes, dicho problema no ha sido erradicado espec\u00EDficamente por la falta de disposici\u00F3n del personal docente.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Un factor importante para este sector de la comunidad universitaria es el ajuste y actualizaci\u00F3n de los programas de estudio y formas de aprendizaje. Asimismo nos dan recomendaciones para que como alumnas y alumnos llevemos un mejor trato,&nbsp; brindando apoyo a compa\u00F1eros con capacidades diferentes.<\/span><\/p>",
+	"imagenes":[{"imagen":"experiencia1.gif"},{"imagen":"experiencia2.gif"},{"imagen":"experiencia3.gif"}]
+}

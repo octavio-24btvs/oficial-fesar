@@ -1,0 +1,31 @@
+{
+	"titulo": "Tercer encuentro de tutorias Interfacultades",
+	"titulo_normalizado": "tercer-encuentro-de-tutorias-interfacultades",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Tutorías",
+			"seccion_normalizada": "tutorias"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "01/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades correspondientes al <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tercer Encuentro de Tutor\u00EDas Inter Facultades de Estudios Superiores<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, la Universidad Nacional Aut\u00F3noma de M\u00E9xico present\u00F3, a trav\u00E9s de la Facultad de Estudios Superiores Arag\u00F3n, el conversatorio “Retos de la tutor\u00EDa en la formaci\u00F3n integral del alumnado”.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el conversatorio, la docente Beatriz Gonz\u00E1lez, secretaria t\u00E9cnica del sistema de tutor\u00EDas,&nbsp; junto a Juana Mercado, M\u00F3nica Monserratt Carranza, Yolanda Lucina G\u00F3mez, Rosa Lucia Mata y Adriana Le\u00F3n, tutoras provenientes de las cinco Facultades, mostraron el balance correspondiente al plan de desarrollo 2019-2023. Destacaron que la cobertura del programa para alumnos de primer ingreso es del 70 %, ayudando directamente, entre otras cuestiones, a mitigar el \u00EDndice de deserci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cabe resaltar que el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Sistema de Institucional de Tutor\u00EDas de la UNAM<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> es un programa estrat\u00E9gico de apoyo hacia el alumnado, el cual pretende acompa\u00F1ar a las y los estudiantes, de manera grupal, o individual, desde los primeros semestres de su formaci\u00F3n (incluido el bachillerato) hasta el \u00FAltimo momento de su licenciatura.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Ya que las necesidades del alumnado var\u00EDan en cada entidad, las tutor\u00EDas operan de manera aut\u00F3noma. Sin embargo, el consenso fue claro, se necesita mayor difusi\u00F3n del programa entre los estudiantes, \u00E1reas designadas para impartir tutor\u00EDas y, sobre todo, un est\u00EDmulo para los tutores, ya que, como se mencion\u00F3, este programa es posible gracias a la “buena voluntad” de los docentes involucrados.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Interfes1.gif"
+		},
+		{
+			"imagen": "Interfes2.gif"
+		},
+		{
+			"imagen": "interfes3.gif"
+		},
+		{
+			"imagen": "interfes4.gif"
+		}	]
+
+}

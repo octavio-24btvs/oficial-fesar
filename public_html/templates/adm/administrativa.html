@@ -1,0 +1,647 @@
+<style>
+    .content h2 {
+        padding-top: 25px;
+    }
+
+
+    .botones .btn-cat {
+        margin: 5px;
+        border: 1px solid #d3af6d;
+        color: red;
+        padding: 0px;
+        text-align: center;
+
+    }
+
+    .botones .btn-cat .icon {
+        position: relative;
+        top: 3px;
+        font-size: 50px;
+        margin: 0px auto 0px;
+    }
+
+
+    .botones .btn-cat .icon img {
+        width: 46px;
+    }
+
+    .botones .btn-cat p {
+        position: relative;
+        top: -6px;
+        margin: 0px;
+        font-size: 13px;
+        text-align: center;
+
+    }
+
+    .botones .btn-cat a {
+        color: #255981;
+    }
+
+    .botones .btn-cat:hover {
+        background-color: #d3af6d;
+    }
+</style>
+<div class="container content" ng-init="showing = 0">
+    <hr>
+    <div class="row encabezado">
+        <div class="col-lg-12 encabezado-titulo animated bounceInUp">
+            <img style="position: relative; top: -11px; filter: grayscale(90%);" width="35px" height="35px" src="public_html/img/adm/secretaria-administrativa.svg" alt="Coerpos colegiados"> <h1>SECRETARÍA ADMINISTRATIVA</h1>
+        </div>
+    </div>
+    <hr>
+    <div class="row justify-content-center ">
+        <div class="col-12 col-lg-10 menu-rapido">
+            <ul class="nav d-flex justify-content-center">
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 0" title="Inicio">
+                        Inicio
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 1" title="WEB de Adquisiciones">
+                        WEB de Adquisiciones
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 2" title="WEB de Clasificaión de Archivo">
+                        WEB de Clasificación de Archivo
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active"
+                        href="http://132.248.44.97/instalacionesacademicas/servicios/vista/login.php" target="_blank"
+                        title="WEB de Instalaciones Académicas">
+                        WEB de Instalaciones Académicas
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div ng-show="showing === 0">
+        <div class="row portafolio justify-content-center">
+            <div class="col-12 col-md-10" style="padding-top: 20px;">
+                <h2 class="pt-5">Bienvenidos</h2>
+                <hr>
+                <p>Bienvenidos a la sección de la Secretaría Administrativa de la Facultad de Estudios Superiores
+                    Aragón.</p>
+            </div>
+            <div class="col-12 col-md-10">
+                <h2 class="pt-5">Formatos existentes</h2>
+                <hr>
+            </div>
+            <div class="col-12 col-md-9">
+                <h2 class="pt-5">Catálogos de servicios</h2>
+                <hr>
+                <div class="row botones justify-content-center">
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category" href="public_html/documents/adm/adm/catalogo-servicios-personal.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Proceso de personal</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category" href="public_html/documents/adm/adm/catalogo-servicios-presupuesto.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Proceso de presupuesto</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category" href="public_html/documents/adm/adm/catalogo-servicios-bienes-suministros.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Proceso de bienes y suministros</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category" href="public_html/documents/adm/adm/catalogo-servicios-generales.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Proceso de servicios generales</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-9">
+                <h2 class="pt-5">Archivos de levantamiento, resguardo, solicitudes y vales</h2>
+                <hr>
+                <div class="row botones justify-content-center">
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Formato_Incidencias_Servicios_Generales.docx"
+                            download="Formato Incidencias Servicios Generales">
+                            <div class="icon"> <img src="public_html/img/adm/word.svg" alt="">
+                            </div>
+                            <p>Formato de Incidencias de Servicios Generales</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Levantamiento_fisico_bienes_inventariables_F01_PBS_0301.xls"
+                            download="Levantamiento físico de bienes de activo fijo">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Levantamiento físico de bienes de activo fijo</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Resguardo_interno_bienes_activo_fijo_F01_GO-BS_0301.xls"
+                            download="Resguardo interno de bienes">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Resguardo interno de bienes</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Solicitud_baja_o_actualizacion_bienes_inventariables_F01_PBS_0302.xls"
+                            download="Solicitud de bajas o actualización de bienes muebles">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Solicitud de bajas o actualización de bienes muebles</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Solicitud_de_servicios_correspondencia_y_paqueteria_F05_PSG_0201.xls"
+                            download="Solicitud de correspondencia y paquetería">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Solicitud de correspondencia y paquetería</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Solicitud_de_reproduccion_y_engargolado_documentos_F02_PSG_0201.xls"
+                            download="Solicitud de reproducción y engargolado de documentos">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Solicitud de reproducción y engargolado de documentos</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Solicitud_de_servicio_a_infraestructura_F02_PSG_0101.xls"
+                            download="Solicitud de servicio a infraestructuras<">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Solicitud de servicio a infraestructuras</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Solicitud_de_servicios_diversos_y_limpieza_F01_PSG_0201.xls"
+                            download="Solicitud-de-servicios-diversos-y-limpieza">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Solicitud de servicios diversos y limpieza</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Solicitud_de_servicio_de_transporte_F04_PSG_0201.xls"
+                            download="solicitud-de-transporte">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Solicitud de transporte</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Solicitud_de_servicios_de_seguridad_F01_PSG_0301.xls"
+                            download="Solicitud de vigilancia para eventos">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Solicitud de vigilancia para eventos</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Solicitud_interna_compra_F01_PBS_0101.xls"
+                            download="Solicitud interna de compra">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Solicitud interna de compra</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Solicitud_de_servicio_a_equipo_y_parque_vehicular.xls"
+                            download="Solicitud de servicio a equipo y parque vehicular">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Solicitud de servicio a equipo y parque vehicular</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Vale_de_salida_de_almacen_F01_PBS_0201.xls"
+                            download="Vale de salida de almacén">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Vale de salida de almacén</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Vale_de_entrada_y_salida_de_equipo_y_mobiliario_F01_PSG_0302.xls"
+                            download="Vale de entrada y salida de equipo y mobiliario">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Vale de entrada y salida de equipo y mobiliario</p>
+                        </a>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="col-12 col-md-9">
+                <h2 class="pt-5">Instrumentos de control y consulta archivística 2014</h2>
+                <hr>
+                <div class="row botones justify-content-center">
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category" href="public_html/documents/adm/adm/instrumentos-archivisticos-2014.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Manual para su uso en PDF</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/adm/Inventariogeneral.xls"
+                            download="Instrumentos de control y consulta archivística 2014">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Instrumentos de control y consulta archivística 2014</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div ng-show="showing === 1">
+        <div class="row portafolio justify-content-center">
+            <div class="col-12 col-md-10" style="padding-top: 20px;">
+                <h2 class="pt-5">Bienvenidos</h2>
+                <hr>
+                <p>Bienvenidos a la sección del Departamento de Adquisiciones de la Facultad de Estudios
+                    Superiores Aragón.</p>
+            </div>
+            <div class="col-12 col-md-5" style="padding-top: 20px;">
+                <h2 class="pt-5">Objetivos del departamento</h2>
+                <hr>
+                <p>Administrar los recursos económicos asignados a la FES Aragón con economía, eficiencia, eficacia,
+                    imparcialidad, honradez y bajo las mejores condiciones de precio, calidad y oportunidad las
+                    adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza.</p>
+            </div>
+            <div class="col-12 col-md-5" style="padding-top: 20px;">
+                <h2 class="pt-5">Funciones del departamento</h2>
+                <hr>
+                <p>Coadyuvar con las acciones relativas a la planeación, programación, presupuestación, contratación,
+                    gasto y control de las adquisiciones, arrendamientos de bienes muebles.</p>
+            </div>
+            <div class="col-12 col-md-10">
+                <h2 class="pt-5">Contacto</h2>
+                <hr>
+                <p style="margin-bottom: 0px;">Cualquier duda o sugerencia estamos a sus órdenes en el siguiente
+                    teléfono:</p>
+                <p>56-23-10-83</p>
+                <p style="margin-bottom: 0px;">En nuestro correo electrónico:</p>
+                <p>adquisiciones@aragon.unam.mx</p>
+            </div>
+            <p><b>Nota:</b> Tú dirección de correo electrónido no será publicada. Los campos necesarios están marcados *</p>
+            <div class="col-12 col-md-10">
+                <h2 class="pt-5">Descargas</h2>
+                <hr>
+            </div>
+            <div class="col-12 col-md-9">
+                <h2 class="pt-5">Formatos existentes</h2>
+                <hr>
+                <p>Aquí se podrá obtener el formato de la "Solicitud interna de compra" de acuerdo a la norma ISO
+                    9001:2015 con su respectivo instructivo de llenado</p>
+                <div class="row botones justify-content-center">
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-adquisiciones/instructivo-de-llenado-solicitud-interna-de-compra.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Instructivo de llenado solicitud interna de compra</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/web-adquisiciones/solicitud-interna-compra.xls"
+                            download="Levantamiento físico de bienes de activo fijo">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Solicitud interna de compra</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-9">
+                <h2 class="pt-5">Circular SADM/007/2019</h2>
+                <hr>
+                <div class="row botones justify-content-center">
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/web-adquisiciones/Formatoppa18Adquisicionesbienes.xlsx"
+                            download="Levantamiento físico de bienes de activo fijo">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Adquisiciones de bienes muebles</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/web-adquisiciones/Formatoppa18Contratoarrenda.xlsx"
+                            download="Levantamiento físico de bienes de activo fijo">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Contrataciones de arrendamientos de bienes muebles</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-5 btn-cat">
+                        <a class="category"
+                            href="public_html/documents/adm/web-adquisiciones/Formatoppa18Servicioscualquiernat.xlsx"
+                            download="Levantamiento físico de bienes de activo fijo">
+                            <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                            </div>
+                            <p>Contrataciones de servicios de cualquier naturaleza,
+                                excepto los relacionados con la obra</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 2">
+        <div class="row portafolio justify-content-center">
+            <div class="col-12 col-md-10" style="padding-top: 20px;">
+                <h2 class="pt-5">Clasificación de Archivos</h2>
+                <hr>
+            </div>
+            <div class="col-12 col-md-9">
+                <h2 class="pt-5">Mesa de trabajo 1: principios y conceptos básicos de la archivística</h2>
+                <hr>
+                <div class="row botones justify-content-center">
+                    <div class="col-12 col-md-10 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/temario_mesa_1.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Temario de trabajo</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-2 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/mesa_dia_1.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Sesión 1</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-2 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/mesa_dia_2.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Sesión 2</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-2 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/mesa_dia_3.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Sesión 3</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-2 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/mesa_dia_4.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Sesión 4</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-2 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/mesa_dia_5.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Sesión 5</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-9">
+                <h2 class="pt-5">Mesa de trabajo 2: aplicación de los instrumentos de control y consulta archívistica de la UNAM</h2>
+                <hr>
+                <div class="row botones justify-content-center">
+                    <div class="col-8 col-md-10 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/mesa2.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Presentación de apoyo</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-9">
+                <h2 class="pt-5">Normatividad</h2>
+                <hr>
+                <div class="row botones justify-content-center">
+                    <div class="col-12 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/constitucion_politica_de_los_estados_unidos_mexicanos_2014.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Constitución política de los estados unidos mexicanos</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/ley_federal_de_archivos.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Ley federal de archivos</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/ley_federal_de_transparencia.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Ley federal de transparencia</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/reglamento_de_transparencia_unam.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Reglamento de transparencia de la UNAM</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-9">
+                <h2 class="pt-5">Documentos</h2>
+                <hr>
+                <div class="row botones justify-content-center">
+                    <div class="col-12 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/cuadro_clasificacion_09-10-2014.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Cuadro de Clasificación Documental</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/cadido-unam-09-10-2014.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Catálogo de Disposición Documental</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/texto_cadido.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Instructivo del Catálogo de Disposición Documental</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/formato_inventario_general.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Formato de Inventario General</p>
+                        </a>
+                    </div>
+                    <div class="col-12 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/inventario_general.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Instructivo de como llenar Formato de Inventario General</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/formato_transferencia_primaria.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Formato de Transferencia Primaria</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/inventario_transferencia_primaria.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Instructivo de como llenar el Formato de Transferencia Primaria</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/formato_transferencia_secundaria.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Formato de Transferencia Secundaria</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/inventario_transferencia_secundaria.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Instructivo de como llenar el Formato de Transferencia Secundaria</p>
+                        </a>
+                    </div>
+                    <div class="col-12 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/formato_de_baja_documental.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Formato de Baja Documental</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/inventario_de_baja_documental.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Instructivo de Baja Documental</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/guia_simple_de_archivos.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Formato de Guía Simple</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/guia_simple.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Instructivo de Guía Simple de Archivo</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-9">
+                <hr>
+            </div>
+            <div class="col-12 col-md-9">
+                <div class="row botones justify-content-center">
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/instrumentos-archivisticos-2014.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Manual instrumentos de control y consulta archivística 2014</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/instrumentos-archivisticos-2017.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Manual instrumentos de control y consulta archivística 2017</p>
+                        </a>
+                    </div>
+                    <div class="col-8 col-md-4 btn-cat">
+                        <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/instrumentos-archivisticos-2018.pdf"  target="_blank">
+                            <div class="icon"> <img src="public_html/img/adm/pdf.svg" alt="">
+                            </div>
+                            <p>Manual instrumentos de control y consulta archivística 2018</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                <div class="col-12 col-md-9">
+                    <hr>
+                </div>
+                <div class="col-12 col-md-9">
+                    <div class="row botones justify-content-center">
+                        <div class="col-8 col-md-4 btn-cat">
+                            <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/Inventariogeneral.xls"
+                            download="Inventario general">
+                                <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                                </div>
+                                <p>Inventario general</p>
+                            </a>
+                        </div>
+                        <div class="col-8 col-md-4 btn-cat">
+                            <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/Guia_Simple_de_Archivos.xlsx"
+                            download="Inventario general">
+                                <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                                </div>
+                                <p>Formato de guía simple de archivo</p>
+                            </a>
+                        </div>
+                        <div class="col-8 col-md-4 btn-cat">
+                            <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/inventario-general2018.xlsx"
+                            download="Inventario general">
+                                <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                                </div>
+                                <p>Inventario general 2018</p>
+                            </a>
+                        </div>
+                        <div class="col-8 col-md-4 btn-cat">
+                            <a class="category" href="public_html/documents/adm/web-clasificacion-archivos/guia-simple-de-archivos2018.xlsx"
+                            download="Inventario general">
+                                <div class="icon"> <img src="public_html/img/adm/excel.svg" alt="">
+                                </div>
+                                <p>Formato de guia simple de archivo 2018</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+    </div>

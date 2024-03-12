@@ -1,0 +1,31 @@
+[
+    {
+		"nombre":"Bolet\u00EDn de enero-febrero",
+		"nombre_normalizado":"boletines/2023/boletin-enero-febrero.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de marzo",
+		"nombre_normalizado":"boletines/2023/boletin-marzo.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de abril",
+		"nombre_normalizado":"boletines/2023/boletin-abril.pdf"
+	},
+	
+	{
+		"nombre":"Bolet\u00EDn de mayo-junio",
+		"nombre_normalizado":"boletines/2023/boletin-mayo-junio.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de julio-agosto",
+		"nombre_normalizado":"boletines/2023/boletin-julio-agosto.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de octubre",
+		"nombre_normalizado":"boletines/2023/boletin-octubre.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de noviembre-diciembre",
+		"nombre_normalizado":"boletines/2023/boletin-noviembre-diciembre.pdf"
+	}
+]

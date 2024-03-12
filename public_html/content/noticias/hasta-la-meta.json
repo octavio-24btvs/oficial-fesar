@@ -1,0 +1,14 @@
+{
+	"titulo": "Hasta la meta",
+	"titulo_normalizado": "hasta-la-meta",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		}
+	],
+	"autor":"Adri\u00E1n Reyes",
+	"fecha":"26/09/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Personas de todas las edades corrieron este s\u00E1bado en la primera Carrera a campo traviesa de la FES Arag\u00F3n. El reto consisti\u00F3 en una pista de 4 km llena de obst\u00E1culos que las y los participantes sortearon entre gritos y aplausos. “No importa la posici\u00F3n en la que finalicen, sino el esfuerzo para llegar al final” se\u00F1al\u00F3 el director Fernando Macedo.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El evento finaliz\u00F3 con la entrega de medallas a los primeros lugares. “Lo importante es mantener el ritmo” declar\u00F3 Stephany V\u00E1zquez, primer premio en la categor\u00EDa femenil. Por su parte, el ganador del ramo varonil, Andr\u00E9s Aculco, destac\u00F3 la participaci\u00F3n de sus compa\u00F1eras y compa\u00F1eros.<\/span><\/p>",
+	"imagenes":[{"imagen":"hasta-la-meta-5.jpg"},{"imagen":"hasta-la-meta-4.jpg"},{"imagen":"hasta-la-meta-3.jpg"},{"imagen":"hasta-la-meta-2.jpg"},{"imagen":"hasta-la-meta-1.jpg"}]
+}

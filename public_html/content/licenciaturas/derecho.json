@@ -1,0 +1,95 @@
+{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Plan de estudios",
+        "Programa de estudios",
+        "Mapa curricular",
+        "Titulación",
+        "Reconocimientos y proyectos",
+        "Contacto"
+    ],
+    "titulo": "Derecho",
+    "icono": "icono-secciones icon-derecho",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Derecho te da la bienvenida a la M\u00E1xima Casa de Estudios, lugar donde adquirir\u00E1s las destrezas, habilidades, aptitudes y conocimientos jur\u00EDdicos y de justicia que te servir\u00E1n tanto para la vida acad\u00E9mica como para el ejercicio profesional, desempe\u00F1ando una importante funci\u00F3n social de consejer\u00EDa jur\u00EDdica. Ser\u00E1s capaz de aplicar y ejercer la profesi\u00F3n tomando como norma de conducta los valores de justicia, respeto, disciplina, tolerancia, no discriminaci\u00F3n y libertad. Recuerda que has adquirido una enorme responsabilidad con la Rep\u00FAblica y la Universidad que te ser\u00E1 premiada o demandada, seg\u00FAn tus esfuerzos durante los siguientes a\u00F1os.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Derecho de la FES Arag\u00F3n tiene como objetivo formar profesionistas capaces de aplicar destrezas, habilidades, aptitudes y conocimientos jur\u00EDdicos en la sociedad. Adem\u00E1s de defender con honestidad, lealtad y decoro los principios fundamentales de esta disciplina. Tambi\u00E9n, busca dotar a estudiantes de actividades reflexivas y creativas que les ayuden a generar una postura cr\u00EDtica.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad aspirante a la licenciatura en Derecho de la FES Arag\u00F3n, adem\u00E1s de haber cursado, preferentemente, el \u00E1rea de las Ciencias Sociales en el bachillerato deber\u00E1 poseer las siguientes caracter\u00EDsticas:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Conocimientos de cultura general, historia universal, historia de M\u00E9xico, nociones de Derecho Positivo Mexicano, t\u00E9cnicas de investigaci\u00F3n, conocimientos elementales de lat\u00EDn, conocimientos elementales de \u00E9tica y deontolog\u00EDa.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Aptitudes y habilidades como capacidad de pensamiento abstracto y de an\u00E1lisis, capacidad de s\u00EDntesis, capacidad persuasiva conciliatoria, habilidad para interrelacionarse con otras personas, sentido de organizaci\u00F3n y capacidad para cuestionar, adquirir conocimientos inherentes al desarrollo del pa\u00EDs.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Actitudes como: inter\u00E9s constante por el estudio, actuar con decoro y respeto, disciplina, respeto por la dignidad humana, responsabilidad y discreci\u00F3n, cuidado en su persona, participaci\u00F3n en el proceso de interacci\u00F3n, deseo de superaci\u00F3n, inter\u00E9s por la profesi\u00F3n, dedicaci\u00F3n, actitud cr\u00EDtica y dial\u00E9ctica.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad egresada reunir\u00E1 las siguientes caracter\u00EDsticas:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Contar\u00E1 con conocimientos como noci\u00F3n universal del Derecho y los conceptos jur\u00EDdicos fundamentales, principios generales de la normatividad positiva del pa\u00EDs, conocimiento del Derecho en sus fuentes y en sus ramas, conocimiento general sobre los aspectos socioecon\u00F3micos que influyen en el Derecho.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Comprender\u00E1 los ideales de justicia, moral, libertad, dignidad y solidaridad, que se encuentran en el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">thelos<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> del Derecho.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Contar con la preespecializaci\u00F3n en diversas orientaciones del Derecho como: Civil, Penal, Constitucional, Mercantil, Internacional o Fiscal, Nociones de los recursos y Necesidades nacionales.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Plan de estudios<\/h2>",
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/derecho/plan1325-programa-tomo1.pdf\" title=\"Plan 1325 (Tomo I)\" target=\"_blank\">Plan 1325 (Tomo I)<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/derecho/plan2254-programa-tomo1.pdf\" title=\"Plan 2254 (Tomo I)\" target=\"_blank\">Plan 2254 (Tomo I)<\/a><\/div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Programa de estudios<\/h2>",
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/derecho/plan1325-programa-tomo2.pdf\" title=\"Plan 1325 (Tomo II)\" target=\"_blank\">Plan 1325 (Tomo II)<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/derecho/plan2254-programa-tomo2.pdf\" title=\"Plan 2254 (Tomo II)\" target=\"_blank\">Plan 2254 (Tomo II)<\/a><\/div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mapa curricular<\/h2>",
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/derecho/mapa-1325.pdf\" title=\"Mapa curricular (1325)\" target=\"_blank\">Mapa curricular (1325)<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/derecho/mapa-2254.pdf\" title=\"Mapa curricular (2254)\" target=\"_blank\">Mapa curricular (2254)<\/a><\/div>"
+        },
+        {
+            "tipo": "pdf", 
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/derecho-titulacion"
+        }, 
+        {
+            "tipo": "reconocimientos",
+            "texto": {
+                "reconocimiento_docentes": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">La Licenciatura en Derecho se dedica a incrementar el conocimiento de la comunidad estudiantil, por lo que a lo largo del periodo 2018-I y 2018-II fueron llevados a cabo m\u00FAltiples conferencias, pr\u00E1cticas y talleres en las instalaciones de la Facultad:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">El martes 22 de mayo del 2018 se celebr\u00F3 la conferencia titulada \"Estrategias de responsabilidad social como mecanismos de un correcto ejercicio de Derechos Humanos\" por la Mtra. Ang\u00E9lica Ch\u00E1vez Guti\u00E9rrez.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">El lunes 14 de mayo del 2018 se celebr\u00F3 la conferencia titulada \"Mecanismos alternativos de soluci\u00F3n de conflictos en materia penal en Colombia y M\u00E9xico\" por la Dra. Eimmy Johana Castro Cadavid.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">El mi\u00E9rcoles 14 de marzo del 2018 se celebr\u00F3 la conferencia titulada \"La \u00C9tica Judicial\" por la Mtra. Herlinda Flores Irene.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">El martes 13 de marzo del 2018 se celebr\u00F3 la conferencia titulada \"La labor del antrop\u00F3logo forense en el \u00E1mbito del derecho\" por el Mtro. Ricardo Ortega Ruiz.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">El lunes 26 de febrero del 2018 se celebr\u00F3 la conferencia titulada \"Guillermo Prieto\" por los ponentes: el Mtro. Julio C\u00E9sar Ponce Quitzam\u00E1n, la Mtra. Luisa Hern\u00E1ndez Cabrera, el Mtro. Marco Antonio Tam\u00E9s Garc\u00EDa y la Mtra. Regina Rojas Garc\u00EDa.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">El martes 14 de noviembre del 2017 se celebr\u00F3 la conferencia titulada \"La labor del antrop\u00F3logo forense en el \u00E1mbito del derecho\" por el Mtro. Ricardo Ortega Ruiz.<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">El martes 10 de octubre del 2017 se celebr\u00F3 la conferencia titulada \"Construyendo una red acad\u00E9mica\" M\u00E9xico-Colombia-Per\u00FA \"El derecho a la paz, el derecho a la humanidad\".<\/span><\/li><\/ul>",
+                "reconocimiento_alumnos": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Club de Oratoria Jur\u00EDdica Arag\u00F3n. Es un taller dedicado al aprendizaje del lenguaje oral y corporal para el manejo de audiencia.<\/span><\/p>"
+            }
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Anayelli García Peñaloza",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/derecho/anayelli-garcia-penaloza.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "",
+                "foto_secretario_tecnico": "",
+                "genero_secretario_tecnico": "0",
+                "secretarios_tecnicos": [
+                    {
+                        "secretario_tecnico": "Carla Castro León",
+                        "foto_secretario_tecnico": "public_html/img/oferta_academica/derecho/carla-castro-leon.jpg",
+                        "genero_secretario_tecnico": "1"
+                    },
+                    {
+                        "secretario_tecnico": "Rodrigo Ibarra Espinosa",
+                        "foto_secretario_tecnico": "public_html/img/oferta_academica/derecho/eliseo-rodrigo-ibarra-espinosa.jpg",
+                        "genero_secretario_tecnico": "0"
+                    },
+                    {
+                        "secretario_tecnico": "Alberto Pérez Tenorio",
+                        "foto_secretario_tecnico": "public_html/img/oferta_academica/derecho/alberto-perez-tenorio.jpg",
+                        "genero_secretario_tecnico": "0"
+                    }
+                ],
+                "horario": "De lunes a viernes de 10:00 a 14:00 h y de 17:00 a 20:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30825 y 30826",
+                "correo_electronico": "derecho@aragon.unam.mx",
+                "correo_electronico_st": "st.derecho@aragon.unam.mx",
+                "facebook": "https://www.facebook.com/FESAragon.derecho00/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/derecho"
+            }
+        }
+    ]
+}

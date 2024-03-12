@@ -1,0 +1,21 @@
+{
+	"titulo": "SING22: Veh\u00EDculos el\u00E9ctricos",
+	"titulo_normalizado": "sing22-vehiculos-electricos",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor": "Ariadna Hern\u00E1ndez",
+	"fecha": "27/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, el capit\u00E1n del proyecto E-KOH TECH de la FES Arag\u00F3n (enfocado en el desarrollo de veh\u00EDculos para la competencia SAE, donde estudiantes universitarios dise\u00F1an y materializan veh\u00EDculos tipo f\u00F3rmula), Sebasti\u00E1n Alejandro Lugo, imparti\u00F3 la conferencia “El verdadero impacto de los veh\u00EDculos el\u00E9ctricos”, programada por la carrera de Ingenier\u00EDa Mec\u00E1nica en el Auditorio A1.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En su intervenci\u00F3n explic\u00F3 los diferentes tipos de contaminantes, provenientes de los sectores alimenticio, manufacturero, de la climatizaci\u00F3n, electricidad y de transporte, los cuales al ser usados todos los d\u00EDas da\u00F1an nuestra salud.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lugo mostr\u00F3 los tipos de veh\u00EDculos el\u00E9ctricos como una alternativa al uso de combustibles f\u00F3siles, empezando con los de bater\u00EDas recargables, de bater\u00EDas intercambiables, los veh\u00EDculos h\u00EDbridos, de los cuales se desprenden tres tipos (semih\u00EDbridos, h\u00EDbridos puros e h\u00EDbridos), y por \u00FAltimo, los veh\u00EDculos de pila de combustible de hidr\u00F3geno.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Estas alternativas, adem\u00E1s de ser mejores para el medioambiente, son m\u00E1s eficientes, pues cada uno de sus componentes tiene una mayor duraci\u00F3n, ahorrando en costo (a largo plazo), su depreciaci\u00F3n es menor, recargarlos es econ\u00F3mico al igual que su mantenimiento.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "vehiculos-electricos-1.jpg"
+		},
+		{
+			"imagen": "vehiculos-electricos-2.jpg"
+		}	]
+
+}

@@ -1,0 +1,19 @@
+{
+    "nombre": "Jaime Linares Zarco", 
+    "grado_academico": "Doctor", 
+     "correo": [ "jaimelinares98@aragon.unam.mx"],
+    "estudios": [
+        "Licenciatura en Economía. Universidad Nacional Autónoma de México.", 
+        "Maestría en Economía de los Negocios. ITESM-CCM.", 
+        "Maestría en Arquitectura. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Historia del Arte. Universidad Autónoma del Estado de Morelos."
+    ], 
+    "lineas_investigacion": [
+        "Economía: Desarrollo Regional Urbano.", 
+        "Investigación en Ciencias Sociales.", 
+        "Procesos metropolitanos."
+    ], 
+    "investigaciones": [
+        "Evaluación del Sistema de Transporte Masivo en el Estado de México. El caso del Mexibús: Línea 1 Ciudad Azteca-Ojo de Agua. Línea 3 Pantitlán-Chimalhuacán."
+    ]
+}

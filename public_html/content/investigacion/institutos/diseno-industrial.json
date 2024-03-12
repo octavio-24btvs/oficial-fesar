@@ -1,0 +1,25 @@
+{
+    "carrera": "Diseño Industrial", 
+    "icono": "icon-diseno-industrial", 
+    "investigadores": [
+        {
+            "nombre": "Carlos Chávez Aguilera", 
+            "nombre_normalizado": "carlos-chavez-aguilera", 
+            "imagen": true
+        }, 
+        {
+            "nombre": "María Fernanda Gutiérrez Torres", 
+            "nombre_normalizado": "maria-fernanda-gutierrez-torres", 
+            "imagen": true
+        },
+        {
+            "nombre": "Patricia Díaz Pérez", 
+            "nombre_normalizado": "patricia-diaz-perez", 
+            "imagen": true
+        }, 
+        {
+            "nombre": "Patricia Herrera Macías", 
+            "nombre_normalizado": "patricia-herrera-macias"
+        }
+    ]
+}

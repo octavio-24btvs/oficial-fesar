@@ -1,0 +1,22 @@
+{
+    "nombre": "José Luis Martínez Marca", 
+    "grado_academico": "Doctor", 
+     "correo": [ ],
+    "estudios": [
+        "Licenciatura en Economía. Universidad Nacional Autónoma de México.",
+        "Maestría en Economía con Especialidad en Financiera. Universidad Nacional Autónoma de México.",
+        "Doctorado en Economía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Sistema financiero mexicano.",
+        "Política económica.",
+        "Finanzas.",
+        "Economía internacional."
+
+    ], 
+    "investigaciones": [
+        "Limitaciones al crecimiento de México.",
+        "Libro: Tipo de cambio y flujos de inversión extranjera: un estudio comparativo entre China y México al inicio del siglo XXI. (Coordinador).",
+        "Libro: Hegemonía, crisis y capital financiero en los albores del siglo XXI. (Coordinador)."  
+    ]
+}

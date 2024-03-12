@@ -1,0 +1,371 @@
+<!-- Actividades Culturales -->
+<div class="container content" ng-init="showing = '0'">
+    <hr>
+    <div class="row pleca-secciones">
+        <div class="col-lg-12 secciones">
+            <i class="icono-secciones icon-actividades-culturales" style="position: relative;top: 11px;"></i>
+            <h1 class="mw-50">Actividades Culturales</h1>
+            <a class="float-right boton-registro btn btn-secondary btn-sm boton-header"
+                href="https://cedco2.aragon.unam.mx/Extunideportiva/public/" target="_blank"
+                title="Actividades culturales">Inscripci&oacute;n actividades culturales</a>
+        </div>
+    </div>
+    <hr>
+    <div class="row mt-3">
+        <div class="col-sm-12 col-md-3 col-lg-3 menu-carreras">
+            <ul class="side-menu list-group text-left">
+                <li class="list-group-item list-group-item-action" ng-class="showing === '0' ? 'active' : ''"
+                    ng-click="showing = '0'">Inicio</li>
+                <li class="list-group-item list-group-item-action" ng-class="showing === '1' ? 'active' : ''"
+                    ng-click="showing = '1'">Recintos culturales</li>
+                <li class="list-group-item list-group-item-action" ng-class="showing === '2' ? 'active' : ''"
+                    ng-click="showing = '2'">Talleres</li>
+                <li class="list-group-item list-group-item-action" ng-class="showing === '3' ? 'active' : ''"
+                    ng-click="showing = '3'">Requisitos y procedimientos de inscripci&oacute;n</li>
+                <li class="list-group-item list-group-item-action" ng-class="showing === '4' ? 'active' : ''"
+                    ng-click="showing = '4'">Preguntas frecuentes</li>
+                <li class="list-group-item list-group-item-action" ng-class="showing === '5' ? 'active' : ''"
+                    ng-click="showing = '5'">Contacto</li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-9 col-lg-9">
+            <div class="content">
+                <div class="tab-pane" ng-show="showing === '0'">
+                    <h2 class="titulo-seccion">Presentaci&oacute;n</h2>
+                    <p>El objetivo del Departamento de Actividades Culturales de la FES Arag&oacute;n es promover y
+                        difundir la cultura entre la comunidad universitaria, al fortalecer la formaci&oacute;n integral
+                        del individuo, al mismo tiempo que se contribuye al desarrollo cultural de la colectividad fuera
+                        de la Universidad.</p>
+                    <p>Nuestra principal funci&oacute;n es planear y organizar las actividades y eventos que ofrecemos
+                        como parte de nuestro plan de desarrollo cultural, para lo cual ofrecemos Talleres en las
+                        &aacute;reas de teatro, danza, m&uacute;sica, proyecci&oacute;n de pel&iacute;culas,
+                        exposiciones y talleres de habilidades pr&aacute;cticas, entre otros.</p>
+                    <p>Los Talleres Culturales participan constantemente en diversos eventos internos y externos. Por
+                        ejemplo, nuestros alumnos se han presentado en foros del Centro Nacional de las Artes y las
+                        instalaciones del Sistema de Transporte Colectivo METRO, as&iacute; como en los Festivales de
+                        Teatro ITI UNESCO, Los amantes del teatro y Morelos de Bronce. Adicionalmente, la FES
+                        Arag&oacute;n es sede del Festival Internacional de Teatro Universitario. </p>
+
+                </div>
+                <div class="tab-pane" ng-show="showing === '1'">
+                    <h2 class="titulo-seccion">Recintos culturales</h2>
+                    <p>El teatro Jos&eacute; Vasconcelos y la sala Diego Rivera de la FES Arag&oacute;n, los cuales
+                        fueron inaugurados en mayo de 1985, son recintos culturales que forman parte del Centro de
+                        Extensi&oacute;n Universitaria.</p>
+                    <p>El Jos&eacute; Vasconcelos posee un escenario tipo italiano, de 12 x 12 metros con 2 camerinos y
+                        489 butacas. Este recinto cuenta con recursos de tramoya, equipo de audio, equipo de
+                        iluminaci&oacute;n y equipo de proyecci&oacute;n, lo que le permite que se presenten tanto
+                        eventos acad&eacute;micos como art&iacute;sticos de calidad, se ha alojado la OFUNAM, la Muestra
+                        Internacional de Cine, el Taller Coreogr&aacute;fico de la UNAM, el Festival Internacional de
+                        Teatro Universitario y producciones teatrales de las obras El fantasma del Hotel Alsace, Colette
+                        y 1812 , el a&ntilde;o que fuimos imperio, entre otras.</p>
+                    <p>Diversas personalidades del espect&aacute;culo se han presentado en el Teatro: Rogelio Guerra,
+                        Leticia Perdig&oacute;n, Julio Alem&aacute;n, H&eacute;ctor Bonilla, Sonia Amelio, Jos&eacute;
+                        G&aacute;lvez, Jaime Garza y Joaqu&iacute;n Cos&iacute;o.</p>
+                    <p>La sala Diego Rivera es un espacio de 130 metros cuadrados destinado a albergar exposiciones;
+                        cuenta con rieles de iluminaci&oacute;n, mamparas rodantes y fijas as&iacute; como
+                        m&oacute;dulos de exhibici&oacute;n. Este recinto ha sido digno marco de presentaci&oacute;n del
+                        trabajo de diversos artistas.</p>
+                </div>
+                <div class="tab-pane" ng-show="showing === '2'">
+                    <h2 class="titulo-seccion">Talleres</h2>
+                    <div class="table-responsive-sm">
+                        <table class="table table-striped texto-pleca fs-13 text-left">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th scope="col">Taller</th>
+                                    <th scope="col">Docente</th>
+                                    <th scope="col">Horario</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Baile de sal&oacute;n</td>
+                                    <td>F&eacute;lix Renter&iacute;a Hern&aacute;ndez</td>
+                                    <td>
+                                        <ul>
+                                            <li>Martes de 13:30 a 15:30 h</li>
+                                            <li>Martes de 17:30 a 19:30 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Canto</td>
+                                    <td>Josu&eacute; Urquiza Cerecedo</td>
+                                    <td>
+                                        <ul>
+                                            <li>Martes de 12:00 a 15:00 h</li>
+                                            <li>Mi&eacute;rcoles de 12:00 a 14:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Coro</td>
+                                    <td>Arturo Salvadores Baled&oacute;n</td>
+                                    <td>
+                                        <ul>
+                                            <li>Martes de 13:00 a 15:30 h</li>
+                                            <li>Jueves de 13:00 a 15:30 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Danza &aacute;rabe</td>
+                                    <td>Mois&eacute;s Ju&aacute;rez Carmona</td>
+                                    <td>
+                                        <ul>
+                                            <li>Lunes de 15:00 a 17:00 h</li>
+                                            <li>Mi&eacute;rcoles de 09:00 a 11:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Danza cl&aacute;sica y contempor&aacute;nea</td>
+                                    <td>Dana&eacute; Barajas Rubio</td>
+                                    <td>
+                                        <ul class="text-left">
+                                            <li>Martes y jueves de 13:00 a 14:30 h (Principiantes)</li>
+                                            <li>Mi&eacute;rcoles de 17:00 a 20:00 h</li>
+                                            <li>Martes y jueves de 14:30 a 16:00 h (Intermedios)</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Danza folcl&oacute;rica</td>
+                                    <td>Dana&eacute; Barajas Rubio</td>
+                                    <td>
+                                        <ul>
+                                            <li>Martes de 10:00 a 12:00 h</li>
+                                            <li>Jueves de 16:00 a 18:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Danza jazz FES Arag&oacute;n</td>
+                                    <td>Felipe G&oacute;mez Padilla</td>
+                                    <td>
+                                        <ul>
+                                            <li>Lunes de 11:00 a 13:00 h</li>
+                                            <li>Mi&eacute;rcoles de 11:00 a 13:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Danza jazz-hip hop</td>
+                                    <td>Felipe G&oacute;mez Padilla</td>
+                                    <td>
+                                        <ul>
+                                            <li>Viernes de 11:00 a 13:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Guitarra</td>
+                                    <td>Josu&eacute; Urquiza Cerecedo</td>
+                                    <td>
+                                        <ul>
+                                            <li>Martes de 11:00 a 13:00 h</li>
+                                            <li>Jueves de 11:00 a 14:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Introducci&oacute;n a la fotograf&iacute;a</td>
+                                    <td>Felipe G&oacute;mez Padilla</td>
+                                    <td>
+                                        <ul>
+                                            <li>Viernes de 15:00 a 16:30 h</li>
+                                            <li>Viernes de 16:30 a 18:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Meditaci&oacute;n</td>
+                                    <td>Patricia P&eacute;rez Clara</td>
+                                    <td>
+                                        <ul>
+                                            <li>Jueves de 11:00 a 14:00 h</li>
+                                            <li>Jueves de 15:00 a 18:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Oratoria. El arte de la palabra</td>
+                                    <td>Ariana Marlen Escamilla Pedraza</td>
+                                    <td>
+                                        <ul>
+                                            <li>Martes de 09:00 a 12:00 h</li>
+                                            <li>Jueves de 17:00 a 20:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Piano “Felipe Villanueva”</td>
+                                    <td>Salvador Alcal&aacute; Canchola</td>
+                                    <td>
+                                        <ul>
+                                            <li>Martes de 15:30 a 18:30 h</li>
+                                            <li>Mi&eacute;rcoles de 15:30 a 18:30 h</li>
+                                            <li>Jueves de 11:00 a 13:00 h</li>
+                                            <li>Viernes de 11:00 a 13:00 h</li>
+                                            <li>Viernes (Externos) de 16:00 a 20:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Pintura</td>
+                                    <td>Jos&eacute; Antonio Ayala Ju&aacute;rez</td>
+                                    <td>
+                                        <ul>
+                                            <li>Lunes de 10:00 a 15:00 h</li>
+                                            <li>Jueves de 10:00 a 15:00 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Salsa on 1 “Estilo Los &Aacute;ngeles”</td>
+                                    <td>Armando Maldonado Rangel</td>
+                                    <td>
+                                        <ul>
+                                            <li>Martes de 11:30 a 13:00 h</li>
+                                            <li>Jueves de 11:30 a 13:00 h</li>
+                                            <li>Martes de 16:00 a 17:30 h</li>
+                                            <li>Jueves de 16:00 a 17:30 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Teatro</td>
+                                    <td>&Eacute;rika Gabriela Ju&aacute;rez Maldonado</td>
+                                    <td>
+                                        <ul>
+                                            <li>Lunes de 11:00 a 13:30 h</li>
+                                            <li>Martes de 11:00 a 13:30 h</li>
+                                            <li>Jueves de 11:00 a 13:30 h</li>
+                                            <li>Viernes de 11:00 a 13:30 h</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="tab-pane" ng-show="showing === '3'">
+                    <h2 class="titulo-seccion">Requisitos y procedimientos de inscripci&oacute;n</h2>
+                    <ul>
+                        <li>Realizar el registro del taller seleccionado a trav&eacute;s de la p&aacute;gina
+                            132.248.173.153/actividades_culturales</li>
+                        <li>Crear una cuenta de usuario y contrase&ntilde;a (la cuenta de usuario y contrase&ntilde;a
+                            ser&aacute;n permanentes y las utilizar&aacute;s siempre que te inscribas).</li>
+                        <li>Imprimir la ficha de inscripci&oacute;n y pasar a las cajas de la Facultad (es importante
+                            checar la vigencia de la ficha de inscripci&oacute;n, y realizar el tr&aacute;mite en las
+                            fechas correspondientes, ya que si no se realiza en la fecha establecida se dar&aacute; de
+                            baja el lugar y el sistema penalizar&aacute; con 3 d&iacute;as tu inscripci&oacute;n, misma
+                            que tendr&aacute;s que realizar nuevamente).</li>
+                        <li>Una vez que pasaste a las cajas, hay que validar tu inscripci&oacute;n en la ventanilla que
+                            se encuentra en el Departamento de Actividades Culturales, en los horarios de 9:30 a 14:30 y
+                            de 16:00 a 20:00 hrs. (para validar la inscripci&oacute;n es necesario traer la
+                            documentaci&oacute;n que se te solicita, de acuerdo a tu estatus, alumno, ex alumno,
+                            trabajador o externo).</li>
+                        <li>Los requisitos para tu inscripci&oacute;n son:
+                            <ul>
+                                <li>Dos fotograf&iacute;as tama&ntilde;o infantil.</li>
+                                <li>Copia de credencial de alumno, exalumno o trabajador, actualizada o tira de
+                                    materias, seg&uacute;n sea el caso.</li>
+                                <li>Beca del sindicato y copia de tal&oacute;n de cheque (trabajadores UNAM).</li>
+                                <li>Copia del Seguro M&eacute;dico Facultativo, IMSS, carnet vigente (primera vez).</li>
+                                <li>Traer a las ventanillas de Culturales dos copias del voucher pagado.</li>
+                            </ul>
+                        </li>
+                        <li>Es importante que realices todos los pasos ya que si no traes la documentaci&oacute;n
+                            completa, no se podr&aacute; validar tu inscripci&oacute;n y perder&aacute;s el lugar en el
+                            taller escogido.</li>
+                        <li>Recomendaciones:
+                            <ul>
+                                <li>Tramita con tiempo tu Seguro M&eacute;dico.</li>
+                                <li>Trae fotograf&iacute;as infantiles que sean recientes, de no m&aacute;s de un
+                                    a&ntilde;o.</li>
+                                <li>F&iacute;jate en la fecha de entrega de documentaci&oacute;n para que no se te
+                                    penalice.</li>
+                                <li>Anota debajo de tu ficha de inscripci&oacute;n tu nombre completo, correo
+                                    electr&oacute;nico y carrera.</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="tab-pane" ng-show="showing === '4'">
+                    <h2 class="titulo-seccion">Preguntas frecuentes</h2>
+                    <ol>
+                        <li>&iquest;D&oacute;nde se encuentra el Departamento de Actividades Culturales?
+                            <p>Nos encontramos en el Teatro Jos&eacute; Vasconcelos, dentro de las oficinas de la Unidad
+                                de Extensi&oacute;n Universitaria, por la entrada de Bosques de Arag&oacute;n.</p>
+                        </li>
+                        <li>&iquest;Cu&aacute;l es el horario de atenci&oacute;n del Departamento de Actividades
+                            Culturales?
+                            <p>El horario de atenci&oacute;n es de 09:00 a 15:00 y 17:00 a 20:00 hrs.</p>
+                        </li>
+                        <li>&iquest;Los Talleres Culturales son abiertos a todo p&uacute;blico?
+                            <p>S&iacute;, son abiertos a todo p&uacute;blico, el &uacute;nico requisito es ser mayor de
+                                edad.</p>
+                        </li>
+                        <li>&iquest;Necesito conocimientos previos para tomar alg&uacute;n taller?
+                            <p>No, los profesores son profesionistas en su labor art&iacute;stica y te ayudan en tu
+                                formaci&oacute;n inicial.</p>
+                        </li>
+                        <li>&iquest;C&oacute;mo es la din&aacute;mica de las clases de los talleres culturales?
+                            <p>Se acomodan los grupos en diferentes horarios y d&iacute;as en que se imparte el taller;
+                                las clases son grupales, con excepci&oacute;n del taller de piano, donde las clases son
+                                personalizadas para un mayor aprovechamiento del piano y as&iacute; lograr una
+                                ense&ntilde;anza personal hacia el alumno.</p>
+                        </li>
+                        <li>&iquest;Cu&aacute;l es el link de inscripci&oacute;n a los Talleres Culturales?
+                            <p>El link de inscripci&oacute;n es: <a
+                                    href="http://132.248.173.153/actividades_culturales/"
+                                    title="Actividades culturales">http://132.248.173.153/actividades_culturales/</a>
+                            </p>
+                        </li>
+                        <li>&iquest;Cu&aacute;les son los medios de comunicaci&oacute;n que tiene el Departamento de
+                            Actividades Culturales?
+                            <p>Nos puedes encontrar en nuestra p&aacute;gina, en <a
+                                    href="http://132.248.173.153/actividades_culturales/"
+                                    title="Actividades culturales">http://132.248.173.153/actividades_culturales/</a>,
+                                as&iacute; como en nuestras redes sociales Facebook /FESAragonCulturales y Twitter
+                                @Cultura_FES. Adem&aacute;s, podemos atenderte en nuestro correo institucional
+                                fesar_cultura@unam.mx as&iacute; como en el tel&eacute;fono 56-23-08-60.</p>
+                        </li>
+                    </ol>
+                </div>
+                <div ng-show="showing === '5'">
+                    <h2>Contacto</h2>
+                    <div class="row pleca">
+                        <div class="col-12 col-lg-4">
+                            <h3>Responsable</h3>
+                            <p class=" nombre-responsable">Jos&eacute; Antonio Linares Lugo</p>
+                            <img class="d-flex justify-content-center rounded-circle img-responsable"
+                                src="public_html/img/vida_universitaria/extension_universitaria/responsable-culturales.jpg"
+                                alt="Jos&eacute; Antonio Linares Lugo" />
+                        </div>
+                        <div class="col-12 col-lg-4 contacto portafolio">
+                            <h3> Horario </h3>
+                            <p>De lunes a viernes de 9:30 a 13:30 h y de 16:00 a 20:00 h</p>
+                            <h3> Tel&eacute;fono(s) </h3>
+                            <p>55 5799 8049</p>
+                            <h3> Correo electr&oacute;nico </h3>
+                            <p class="fs-12"><a class="link-a" href="mailto:culturales@aragon.unam.mx"
+                                    title="correo-electronico">culturales@aragon.unam.mx</a></p>
+                            <h3> ¡&Uacute;nete a nuestro Facebook! </h3>
+                            <a target="_blank"
+                                href="https://www.facebook.com/Extensi%C3%B3n-Universitaria-FES-Arag%C3%B3n-178855336172055/"
+                                class="icon-facebook-official facebook-becas" title="Facebook"> </a>
+                            <div class="galeria">
+                                <a class="contenedor-imagen " target="_blank" href="#!/seccion/culturales"><img
+                                        class="justify-content-center img-fluid " alt="Noticias"
+                                        src="public_html/img/noticias/seccion-de-noticias.png"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> <!-- fin de Actividades Culturales -->

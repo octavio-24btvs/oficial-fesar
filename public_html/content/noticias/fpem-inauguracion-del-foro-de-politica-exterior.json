@@ -1,0 +1,37 @@
+{
+	"titulo": "FPEM: Inauguraci\u00F3n del Foro de Pol\u00EDtica Exterior",
+	"titulo_normalizado": "fpem-inauguracion-del-foro-de-politica-exterior",
+	"secciones": [
+		{
+			"seccion": "DUACyD",
+			"seccion_normalizada": "duacyd"
+		},
+		{
+			"seccion": "Relaciones Internacionales",
+			"seccion_normalizada": "relaciones-internacionales"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "20/04/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Universidad Nacional Aut\u00F3noma de M\u00E9xico, la Facultad de Estudios Superiores Arag\u00F3n, la Divisi\u00F3n de Ciencias Sociales, la Divisi\u00F3n de Universidad Abierta, Contin\u00FAa y a Distancia (DUACyD), en coordinaci\u00F3n con la carrera de Relaciones Internacionales llevaron a cabo la inauguraci\u00F3n del d\u00E9cimo noveno Foro de Pol\u00EDtica Exterior en M\u00E9xico, con el tema: Balance de la pol\u00EDtica exterior mexicana 2018-2023.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para presidir este magno evento, Arturo S\u00E1mano, jefe de la DUACyD; Julio C\u00E9sar Ponce, jefe de la Divisi\u00F3n de Ciencias Sociales; Omar Alejandro Couti\u00F1o, jefe de las carreras de la DUACyD, Daniel Edgar Mu\u00F1oz, jefe de la carrera de Relaciones Internacionales, dirigieron la inauguraci\u00F3n en nuestras instalaciones. Este a\u00F1o el foro cuenta con la participaci\u00F3n de la Facultad de Estudios Superiores Acatl\u00E1n y la Facultad de Ciencias Pol\u00EDticas, esto con el objetivo de contribuir a la formaci\u00F3n de las y los estudiantes de la licenciatura de esta carrera.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A trav\u00E9s de diversas actividades, como presentaciones de libros, foros de profesores y de estudiantes, se busca hacer un balance de lo que nuestro pa\u00EDs realiza en torno a la pol\u00EDtica exterior de M\u00E9xico. Los especialistas Margarita Hilda Vilchis, David Garc\u00EDa, Alejandro Mart\u00EDnez y Rub\u00E9n Ramos, analizaron durante la conferencia los avances que han habido en los cuatro a\u00F1os que lleva a cargo la administraci\u00F3n del sexenio del presidente L\u00F3pez Obrador.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "FPEM1.gif"
+		},
+		{
+			"imagen": "FPEM2.gif"
+		},
+		{
+			"imagen": "FPEM3.gif"
+		},
+		{
+			"imagen": "FPEM4.gif"
+		},
+		{
+			"imagen": "FPEM5.gif"
+		},
+		{
+			"imagen": "FPEM6.gif"
+		}	]
+
+}

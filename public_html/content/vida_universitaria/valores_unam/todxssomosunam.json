@@ -1,0 +1,41 @@
+﻿{
+    "titulo": "todxssomosunam", 
+    "titulo_normalizado": "todxssomosunam", 
+    "imagenes": [
+        {
+            "imagen": "ciencia-desde-la-vision-femenina",
+            "alt": "Ciencia desde la visión femenina"
+        },
+        {
+            "imagen": "dia-de-la-mujer-mexicana",
+            "alt": "Día de la mujer mexicana"
+        },
+        {
+            "imagen": "dia-de-nelson-mandela",
+            "alt": "Día de Nelson Mandela"
+        },
+        {
+            "imagen": "dia-eliminacion-de-la-discriminacion-racial",
+            "alt": "Día eliminación de la discriminación racial"
+        },
+        {
+            "imagen": "dia-inernacional-de-la-cero-discriminacion",
+            "alt": "Día inernacional de la cero discriminación"
+        },
+        {
+            "imagen": "primera-vez-del-voto-de-la-mujer-en-mexico",
+            "alt": "Primera vez del voto de la mujer en México"
+        },
+        {
+            "imagen": "protocolo-de-genero",
+            "alt": "Protocolo de género"
+        },
+        {
+            "imagen": "sororidad",
+            "alt": "La Sororidad"
+        }
+    ],
+    "pdfs": [
+
+    ]
+}

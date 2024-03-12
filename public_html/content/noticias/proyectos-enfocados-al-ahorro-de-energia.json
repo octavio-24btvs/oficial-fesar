@@ -1,0 +1,35 @@
+{
+	"titulo": "Proyectos enfocados al ahorro de energ\u00EDa",
+	"titulo_normalizado": "proyectos-enfocados-al-ahorro-de-energia",
+	"secciones": [
+		{
+			"seccion": "#ProyecciónAragón",
+			"seccion_normalizada": "proyeccion-aragon"
+		},
+		{
+			"seccion": "CTA",
+			"seccion_normalizada": "cta"
+		},
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor": "Cynthia V\u00E1zquez",
+	"fecha": "26/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con un amplio conocimiento en el tema, David Franco trabaja en el Centro Tecnol\u00F3gico Arag\u00F3n, Laboratorio de Diagn\u00F3stico Energ\u00E9tico, donde sus actividades principales est\u00E1n enfocadas al ahorro de energ\u00EDa de uso eficiente. Actualmente da clases en la Facultad Estudios Superiores Arag\u00F3n en la carrera Ingenier\u00EDa Mec\u00E1nica, asimismo en el posgrado aragon\u00E9s de Arquitectura en el \u00E1rea de Tecnolog\u00EDa, donde se desarrollan proyectos relacionados con el aprovechamiento no convencional.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para ello cuenta con la participaci\u00F3n de la comunidad estudiantil de Ingenier\u00EDa Mec\u00E1nica e Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica principalmente, explica que las y los alumnos se integran desde el servicio social donde desarrollan iniciativas de \u00FAtiles para realizar trabajos de investigaci\u00F3n final como es la tesis, “…siempre que est\u00E9n relacionados a la energ\u00EDa [...] aqu\u00ED les abrimos el abanico de proyectos o posibles investigaciones que se podr\u00EDan realizar”.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de los proyectos que vienen se encuentran <\/span><a href=\"https:\/\/www.youtube.com\/watch?v=-W7M1tZhL7g\" target=\"_blank\" style=\"color: rgb(0, 0, 255); background-color: transparent;\">turbinas que funcionan a partir de concentraci\u00F3n solar<\/a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> para generar electricidad; con esto se pretende beneficiar a comunidades donde no cuentan con este servicio b\u00E1sico; el ingeniero explic\u00F3 la necesidad de recurrir a este tipo de recursos pues menciona que las fuentes f\u00F3siles se terminar\u00E1n pronto si no se hace un uso eficiente de ellas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Franco invit\u00F3 a la comunidad aragonesa a sumarse a la iniciativa “es el momento para empezar a desarrollar una cultura energ\u00E9tica, una conciencia ambiental [...] no nada m\u00E1s del \u00E1rea de ingenier\u00EDa sino en t\u00E9rminos generales”. Si deseas m\u00E1s informaci\u00F3n de estos proyectos, puedes acercarte a las jefaturas de carrera, adem\u00E1s de las p\u00E1ginas oficiales de la Universidad.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Energía1.gif"
+		},
+		{
+			"imagen": "Energía2.gif"
+		},
+		{
+			"imagen": "Energía3.gif"
+		},
+		{
+			"imagen": "Energía4.gif"
+		}	]
+
+}

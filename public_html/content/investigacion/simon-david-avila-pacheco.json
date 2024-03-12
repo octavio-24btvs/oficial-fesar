@@ -1,0 +1,22 @@
+{
+    "nombre": "Simón David Ávila Pacheco", 
+    "grado_academico": "Doctor", 
+     "correo": [ "simon_avila_@hotmail.com" ],
+    "estudios": [
+        "Licenciatura en Sociología. Universidad Nacional Autónoma de México.", 
+        "Diplomado en Educación y Capacitación en Competencias Laborales.", 
+        "Maestría en Ciencias en Sociología Rural. Universidad Autónoma de Chapingo.", 
+        "Doctorado en Pedagogía. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ciencias en Educación Agrícola Superior. Universidad Autónoma de Chapingo."
+    ], 
+    "lineas_investigacion": [
+        "Ciencias sociales.", 
+        "Educativa.", 
+        "Programas de desarrollo rural.", 
+        "Desarrollo curricular."
+    ], 
+    "investigaciones": [
+        "Producción de cultivos ilícitos.", 
+        "Educación y empleo en el medio rural."
+    ]
+}

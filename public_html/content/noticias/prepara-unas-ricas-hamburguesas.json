@@ -1,0 +1,14 @@
+{
+	"titulo": "Prepara unas ricas hamburguesas",
+	"titulo_normalizado": "prepara-unas-ricas-hamburguesas",
+	"secciones": [
+		{
+			"seccion": "PDA",
+			"seccion_normalizada": "planificacion-para-el-desarrollo-agropecuario"
+		}
+	],
+	"autor":"No\u00E9 \u00C1lvarez",
+	"fecha":"16/11/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Uno de los platillos que suelen degustar chicos y grandes, son las hamburguesas; sin embargo, aunque su preparaci\u00F3n pareciera ser f\u00E1cil, requiere de diversos pasos para que la carne tenga un sabor inigualable.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este sentido, se imparti\u00F3 el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">webinar <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">“Elaboraci\u00F3n de Hamburguesas”, organizado por la licenciatura en Planificaci\u00F3n para el Desarrollo Agropecuario y dirigido por Marco Antonio Casta\u00F1eda, acad\u00E9mico encargado del Taller de Procesos Agroindustriales de la FES Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">De acuerdo con Casta\u00F1eada, las hamburguesas caseras son mejores porque se pueden preparar del tama\u00F1o preferido, con los mejores ingredientes y acompa\u00F1arlas con lo que m\u00E1s nos guste.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, indic\u00F3 que el prop\u00F3sito del taller es que las y los interesados practiquen con seguridad alimentaria, higiene y sanidad de los alimentos. “Se les ense\u00F1a a trabajar de la mejor manera, bajo las mejores condiciones”.<\/span><\/p>",
+	"imagenes":[{"imagen":"prepara-unas-ricas-hamburguesas-1.jpg"},{"imagen":"prepara-unas-ricas-hamburguesas-2.jpg"}]
+}

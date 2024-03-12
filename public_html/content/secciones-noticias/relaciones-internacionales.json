@@ -1,0 +1,700 @@
+{
+	"id": 12,
+	"titulo": "Relaciones Internacionales",
+	"icono": "icon-relaciones-internacionales",
+	"noticias": [
+		{
+			"titulo":"Arag\u00F3n y Acatl\u00E1n, unidas por la escena internacional",
+			"titulo_normalizado":"aragon-y-acatlan-unidas-por-la-escena-internacional",
+			"autor":"Miguel Palacios",
+			"imagen": "RR-II-1.jpg",
+			"fecha":"31/03/22"
+		},
+		{
+			"titulo":"El multilateralismo frente a la emergencia global",
+			"titulo_normalizado":"el-multilateralismo-frente-a-la-emergencia-global",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "Multilateralismo-1.gif",
+			"fecha":"30/11/20"
+		},
+		{
+			"titulo":"La FES Arag\u00F3n apuesta por la Seguridad P\u00FAblica",
+			"titulo_normalizado":"la-fes-aragon-apuesta-por-la-seguridad-publica",
+			"autor":"Alejandro Trujillo",
+			"imagen": "SEgridad3.gif",
+			"fecha":"30/08/23"
+		},
+		{
+			"titulo":"\u00A1Realiza tu Servicio Social en otro pa\u00EDs!",
+			"titulo_normalizado":"realiza-tu-servicio-social-en-otro-pais",
+			"autor":"Alejandro Frias",
+			"imagen": "realiza-tu-servicio-social-en-otro-pais-1.jpg",
+			"fecha":"30/08/19"
+		},
+		{
+			"titulo":"El mundo de eSports se suma a FES Arag\u00F3n",
+			"titulo_normalizado":"el-mundo-de-esports-se-suma-a-fes-aragon",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "el-mundo-de-esports-se-suma-a-fes-aragon-1.jpg",
+			"fecha":"30/04/19"
+		},
+		{
+			"titulo":"Los deberes de la diplomacia mexicana",
+			"titulo_normalizado":"los-deberes-de-la-diplomacia-mexicana",
+			"autor":"Luis Rodr\u00EDguez",
+			"imagen": "los-deberes-de-la-diplomacia-mexicana-1.jpg",
+			"fecha":"30/03/19"
+		},
+		{
+			"titulo":"Miradas subalternas: ponencias analizan el contexto africano",
+			"titulo_normalizado":"miradas-subalternas-ponencias-analizan-el-contexto-africano",
+			"autor":"Rodrigo Perea",
+			"imagen": "miradas-subalternas-ponencias-analizan-el-contexto-africano-01.jpg",
+			"fecha":"29/10/19"
+		},
+		{
+			"titulo":"\u00C1frica en otra perspectiva",
+			"titulo_normalizado":"africa-en-otra-perspectiva",
+			"autor":"Redacci\u00F3n",
+			"imagen": "africa-en-otra-perspectiva-1.jpg",
+			"fecha":"29/10/19"
+		},
+		{
+			"titulo":"Presentaci\u00F3n de libro sobre Sud\u00E1frica cierra la Semana de \u00C1frica",
+			"titulo_normalizado":"presentacion-de-libro-sobre-sudafrica-cierra-la-semana-de-africa",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Presentacion-de-libro-sobre-Sudafrica-cierra-las-Jornadas-de-Africa-01.jpg",
+			"fecha":"29/10/19"
+		},
+		{
+			"titulo":"Diplomacia: principios para su estudio y pr\u00E1ctica",
+			"titulo_normalizado":"diplomacia-principios-para-su-estudio-y-practica",
+			"autor":"Israel Ram\u00EDrez",
+			"imagen": "diplomacia-principios-para-su-estudio-y-practica-1.jpg",
+			"fecha":"29/10/18"
+		},
+		{
+			"titulo":"Celebrando \u00E9xitos: Graduaci\u00F3n 2020-2023 en Relaciones Internacionales",
+			"titulo_normalizado":"celebrando-exitos-graduacion-2020-2023-en-relaciones-internacionales",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Graduación1.gif",
+			"fecha":"29/09/23"
+		},
+		{
+			"titulo":"An\u00E1lisis de la pol\u00EDtica exterior de M\u00E9xico",
+			"titulo_normalizado":"analisis-de-la-politica-exterior-de-mexico",
+			"autor":"Alejandro Frias",
+			"imagen": "analisis-de-la-politica-exterior-de-mexico-1.jpg",
+			"fecha":"29/03/19"
+		},
+		{
+			"titulo":"La pol\u00EDtica exterior del actual gobierno mexicano",
+			"titulo_normalizado":"la-politica-exterior-del-actual-gobierno-mexicano",
+			"autor":"Aurelio Nito",
+			"imagen": "la-politica-exterior-del-actual-gobierno-mexicano-1.jpg",
+			"fecha":"29/03/19"
+		},
+		{
+			"titulo":"Nuestra tercera ra\u00EDz",
+			"titulo_normalizado":"nuestra-tercera-raiz",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Nuestra-tercera-raiz-01.jpg",
+			"fecha":"28/10/19"
+		},
+		{
+			"titulo":"Colaboraci\u00F3n interfacultativa en la Semana de \u00C1frica",
+			"titulo_normalizado":"colaboracion-interfacultativa-en-la-semana-de-africa",
+			"autor":"Thalia Ortega",
+			"imagen": "colaboracion-interfacultativa-en-la-1.jpg",
+			"fecha":"28/10/19"
+		},
+		{
+			"titulo":"Inicia la Semana de \u00C1frica",
+			"titulo_normalizado":"inicia-la-semana-de-africa",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "inician-las-jornadas-de-africa-1.jpg",
+			"fecha":"28/10/19"
+		},
+		{
+			"titulo":"Directrices internacionales de un nuevo gobierno",
+			"titulo_normalizado":"directrices-internacionales-de-un-nuevo-gobierno",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "directrices-internacionales-de-un-nuevo-gobierno-1.jpg",
+			"fecha":"28/03/19"
+		},
+		{
+			"titulo":"Presentaci\u00F3n del libro La Doctrina Carranza",
+			"titulo_normalizado":"presentacion-del-libro-la-doctrina-carranza",
+			"autor":"Alejandro Frias",
+			"imagen": "presentacion-del-libro-la-doctrina-carranza-1.jpg",
+			"fecha":"28/03/19"
+		},
+		{
+			"titulo":"Inclusi\u00F3n y educaci\u00F3n financiera",
+			"titulo_normalizado":"inclusion-y-educacion-financiera",
+			"autor":"Erik Pliego",
+			"imagen": "Inclusion-y-educacion-financiera-01.jpg",
+			"fecha":"28/02/20"
+		},
+		{
+			"titulo":"El impacto de la cultura oriental",
+			"titulo_normalizado":"el-impacto-de-la-cultura-oriental",
+			"autor":"Redacci\u00F3n",
+			"imagen": "el-impacto-de-la-cultura-oriental-1.jpg",
+			"fecha":"27/04/19"
+		},
+		{
+			"titulo":"Directrices de la pol\u00EDtica exterior japonesa",
+			"titulo_normalizado":"directrices-de-la-politica-exterior-japonesa",
+			"autor":"Redacci\u00F3n",
+			"imagen": "directrices-de-la-politica-exterior-japonesa-3.jpg",
+			"fecha":"27/04/19"
+		},
+		{
+			"titulo":"Todas y todos podemos aprender a cuidar nuestro dinero",
+			"titulo_normalizado":"todas-y-todos-podemos-aprender-a-cuidar-nuestro-dinero",
+			"autor":"Redacci\u00F3n",
+			"imagen": "todas-y-todos-podemos-aprender-a-cuidar-nuestro-dinero-1.jpg",
+			"fecha":"27/02/20"
+		},
+		{
+			"titulo":"La historia de nuestro presente",
+			"titulo_normalizado":"la-historia-de-nuestro-presente",
+			"autor":"Valeria Hern\u00E1ndez",
+			"imagen": "Historia1.gif",
+			"fecha":"27/01/21"
+		},
+		{
+			"titulo":"Mujeres ind\u00EDgenas a trav\u00E9s del arte",
+			"titulo_normalizado":"mujeres-indigenas-a-traves-del-arte",
+			"autor":"Isa\u00EDas Hern\u00E1ndez",
+			"imagen": "Indígenas.gif",
+			"fecha":"26/11/21"
+		},
+		{
+			"titulo":"Trascendencia del Servicio Exterior Mexicano",
+			"titulo_normalizado":"trascendencia-del-servicio-exterior-mexicano",
+			"autor":"Carmen Mel\u00E9ndez y Giovanni Ch\u00E1vez",
+			"imagen": "trascendencia-del-servicio-exterior-mexicano-1.jpg",
+			"fecha":"26/08/19"
+		},
+		{
+			"titulo":"Crecimiento del comercio asi\u00E1tico",
+			"titulo_normalizado":"crecimiento-del-comercio-asiatico",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "crecimiento-del-comercio-asiatico-1.jpg",
+			"fecha":"26/04/19"
+		},
+		{
+			"titulo":"Jornada de Asia: descubriendo otras costumbres",
+			"titulo_normalizado":"jornada-de-asia-descubriendo-otras-costumbres",
+			"autor":"Carmen Mel\u00E9ndez y Edith Granados",
+			"imagen": "jornada-de-asia-descubriendo-otras-costumbres-1.jpg",
+			"fecha":"26/04/19"
+		},
+		{
+			"titulo":"La importancia de la pol\u00EDtica exterior en M\u00E9xico",
+			"titulo_normalizado":"la-importancia-de-la-politica-exterior-en-mexico",
+			"autor":"Erik Pliego",
+			"imagen": "La_Importancia_de_la_Política_Exterior_en_México_01.jpg",
+			"fecha":"26/02/20"
+		},
+		{
+			"titulo":"Realidad cambiante",
+			"titulo_normalizado":"realidad-cambiante",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "realidad1.gif",
+			"fecha":"25/11/21"
+		},
+		{
+			"titulo":"El transporte es lo que mueve a M\u00E9xico",
+			"titulo_normalizado":"el-transporte-es-lo-que-mueve-a-mexico",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "el-transporte-es-lo-que-mueve-a-mexico-1.jpg",
+			"fecha":"25/11/21"
+		},
+		{
+			"titulo":"Herramientas para examinar al mercado internacional",
+			"titulo_normalizado":"herramientas-para-examinar-al-mercado-internacional",
+			"autor":"Redacci\u00F3n",
+			"imagen": "herramientas-para-examinar-al-mercado-internacional-1.jpg",
+			"fecha":"25/10/19"
+		},
+		{
+			"titulo":"China, pr\u00F3xima potencia mundial",
+			"titulo_normalizado":"china-proxima-potencia-mundial",
+			"autor":"Alejandro Frias",
+			"imagen": "china-proxima-potencia-mundial-1.jpg",
+			"fecha":"25/04/19"
+		},
+		{
+			"titulo":"Hablemos del conflicto Rusia - Ucrania",
+			"titulo_normalizado":"hablemos-del-conflicto-rusia---ucrania",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "conflicto-ur-1.jpg",
+			"fecha":"25/02/22"
+		},
+		{
+			"titulo":"Feminismo y las relaciones internacionales",
+			"titulo_normalizado":"feminismo-y-las-relaciones-internacionales",
+			"autor":"Valeria Hern\u00E1ndez",
+			"imagen": "Observatorio-1.gif",
+			"fecha":"24/10/20"
+		},
+		{
+			"titulo":"Herramientas de investigaci\u00F3n para internacionalistas",
+			"titulo_normalizado":"herramientas-de-investigacion-para-internacionalistas",
+			"autor":"Redacci\u00F3n",
+			"imagen": "herramientas-de-investigacion-para-internacionalistas-1.jpg",
+			"fecha":"23/10/19"
+		},
+		{
+			"titulo":"Introducci\u00F3n a las Relaciones Internacionales",
+			"titulo_normalizado":"introduccion-a-las-relaciones-internacionales",
+			"autor":"Redacci\u00F3n",
+			"imagen": "introduccion-a-las-relaciones-internacionales-1.jpg",
+			"fecha":"22/11/19"
+		},
+		{
+			"titulo":"Venezuela en palabras de un venezolano",
+			"titulo_normalizado":"venezuela-en-palabras-de-un-venezolano",
+			"autor":"Yutsil Hern\u00E1ndez",
+			"imagen": "venezuela-en-palabras-de-un-venezolano-1.jpg",
+			"fecha":"22/08/19"
+		},
+		{
+			"titulo":"Herramientas para avanzar profesionalmente",
+			"titulo_normalizado":"herramientas-para-avanzar-profesionalmente",
+			"autor":"Thalia Ortega",
+			"imagen": "herramientas-para-avanzar-1.jpg",
+			"fecha":"22/06/20"
+		},
+		{
+			"titulo":"M\u00E9xico y su participaci\u00F3n en Am\u00E9rica del Sur",
+			"titulo_normalizado":"mexico-y-su-participacion-en-america-del-sur",
+			"autor":"Alejandro Frias",
+			"imagen": "mexico-y-su-participacion-en-america-del-sur-1.jpg",
+			"fecha":"22/05/19"
+		},
+		{
+			"titulo":"FPEM: Presentan libro sobre pol\u00EDtica exterior",
+			"titulo_normalizado":"fpem-presentan-libro-sobre-politica-exterior",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "politica-exterior-de-los-paises-latinoamericanos-1.jpg",
+			"fecha":"21/04/23"
+		},
+		{
+			"titulo":"FPEM: Horizontes Internacionales",
+			"titulo_normalizado":"fpem-horizontes-internacionales",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Horizontes1.gif",
+			"fecha":"21/04/23"
+		},
+		{
+			"titulo":"Diplomacia durante la cuarentena",
+			"titulo_normalizado":"diplomacia-durante-la-cuarentena",
+			"autor":"Erik Pliego",
+			"imagen": "Diplomacia-durante-la-cuarentena-1 (2).gif",
+			"fecha":"20/10/20"
+		},
+		{
+			"titulo":"C\u00E1tedra para internacionalistas",
+			"titulo_normalizado":"catedra-para-internacionalistas",
+			"autor":"Liliana Espinosa",
+			"imagen": "catedra-para-internacionalistas-1.jpg",
+			"fecha":"20/08/19"
+		},
+		{
+			"titulo":"FPEM: Inauguraci\u00F3n del Foro de Pol\u00EDtica Exterior",
+			"titulo_normalizado":"fpem-inauguracion-del-foro-de-politica-exterior",
+			"autor":"Alejandro Trujillo",
+			"imagen": "FPEM1.gif",
+			"fecha":"20/04/23"
+		},
+		{
+			"titulo":"Inteligencia emocional para todas las disciplinas",
+			"titulo_normalizado":"inteligencia-emocional-para-todas-las-disciplinas",
+			"autor":"Adri\u00E1n Reyes",
+			"imagen": "inteligencia-emocional-para-todas-las-disciplinas-1.jpg",
+			"fecha":"19/10/19"
+		},
+		{
+			"titulo":"\u00BFEl idioma chino es tan complicado como parece?",
+			"titulo_normalizado":"el-idioma-chino-es-tan-complicado-como-parece",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "el-idioma-chino-es-tan-complicado-como-parece-1.jpg",
+			"fecha":"19/04/23"
+		},
+		{
+			"titulo":"Reflexionar la realidad internacional",
+			"titulo_normalizado":"reflexionar-la-realidad-internacional",
+			"autor":"Rosa Francisco",
+			"imagen": "reflexionar-la-realidad-internacional-1.jpg",
+			"fecha":"18/11/21"
+		},
+		{
+			"titulo":"Efectos de la pandemia en M\u00E9xico",
+			"titulo_normalizado":"efectos-de-la-pandemia-en-mexico",
+			"autor":"Norma Mora",
+			"imagen": "Efectos1.gif",
+			"fecha":"18/05/21"
+		},
+		{
+			"titulo":"Alto riesgo en Latinoam\u00E9rica: presentaci\u00F3n de libro",
+			"titulo_normalizado":"alto-riesgo-en-latinoamerica-presentacion-de-libro",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Alto-riesgo1.gif",
+			"fecha":"17/03/21"
+		},
+		{
+			"titulo":"El poder de las ciberguerras",
+			"titulo_normalizado":"el-poder-de-las-ciberguerras",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Ciberguerra-2.gif",
+			"fecha":"15/12/20"
+		},
+		{
+			"titulo":"Difusi\u00F3n y pol\u00EDtica cient\u00EDfica en Latinoam\u00E9rica",
+			"titulo_normalizado":"difusion-y-politica-cientifica-en-latinoamerica",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "Difusión1.gif",
+			"fecha":"15/03/22"
+		},
+		{
+			"titulo":"Conoce la cultura de otros pa\u00EDses desde la FES Arag\u00F3n",
+			"titulo_normalizado":"conoce-la-cultura-de-otros-paises-desde-la-fes-aragon",
+			"autor":"Redacci\u00F3n",
+			"imagen": "conoce-la-cultura-de-otros-paises-desde-la-fes-aragon-1.jpg",
+			"fecha":"14/10/19"
+		},
+		{
+			"titulo":"Mujeres en \u00E9poca de pandemia",
+			"titulo_normalizado":"mujeres-en-epoca-de-pandemia",
+			"autor":"Valeria Hern\u00E1ndez",
+			"imagen": "Mujeres-en-epoca1.gif",
+			"fecha":"14/04/21"
+		},
+		{
+			"titulo":"Todas en la Pol\u00EDtica Exterior Feminista",
+			"titulo_normalizado":"todas-en-la-politica-exterior-feminista",
+			"autor":"Alberto Ochoa",
+			"imagen": "OMPEF-1.gif",
+			"fecha":"13/11/20"
+		},
+		{
+			"titulo":"\u00BFCien a\u00F1os de Relaciones internacionales?",
+			"titulo_normalizado":"cien-anos-de-relaciones-internacionales",
+			"autor":"Redacci\u00F3n",
+			"imagen": "Presentación-del-libro-02.jpg",
+			"fecha":"13/11/19"
+		},
+		{
+			"titulo":"Asesinato del general Soleimani, punto de an\u00E1lisis para las RRII",
+			"titulo_normalizado":"asesinato-del-general-soleimani-punto-de-analisis-para-las-rrii",
+			"autor":"Thalia Ortega",
+			"imagen": "asesinato-del-general-soleimani-1.jpg",
+			"fecha":"13/02/20"
+		},
+		{
+			"titulo":"Salvador Allende y el futuro de Chile",
+			"titulo_normalizado":"salvador-allende-y-el-futuro-de-chile",
+			"autor":"Ang\u00E9lica L\u00F3pez",
+			"imagen": "Chile-1.gif",
+			"fecha":"12/09/23"
+		},
+		{
+			"titulo":"Fotograf\u00EDas para celebrar 100 a\u00F1os de RRII",
+			"titulo_normalizado":"fotografias-para-celebrar-100-anos-de-rrii",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Fotografias_para_celebrar_100_annos_de_RRII_01.jpg",
+			"fecha":"12/02/20"
+		},
+		{
+			"titulo":"Asilo a Assange en M\u00E9xico",
+			"titulo_normalizado":"asilo-a-assange-en-mexico",
+			"autor":"Erik Pliego",
+			"imagen": "Assagne-1.gif",
+			"fecha":"12/01/21"
+		},
+		{
+			"titulo":"SUIEV: Acto inaugural",
+			"titulo_normalizado":"suiev-acto-inaugural",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "SUIEV-inauguración-1.gif",
+			"fecha":"11/11/21"
+		},
+		{
+			"titulo":"SUIEV: Primera Mesa Internacional",
+			"titulo_normalizado":"suiev-primera-mesa-internacional",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "SUIEV-mesa-2.gif",
+			"fecha":"11/11/21"
+		},
+		{
+			"titulo":"Los gobiernos locales como medio para un desarrollo social",
+			"titulo_normalizado":"los-gobiernos-locales-como-medio-para-un-desarrollo-social",
+			"autor":"Redacci\u00F3n",
+			"imagen": "los-gobiernos-locales-como-medio-para-un-desarrollo-social-1.jpg",
+			"fecha":"11/11/19"
+		},
+		{
+			"titulo":"La comunidad estudiantil se acerca a Brasil",
+			"titulo_normalizado":"la-comunidad-estudiantil-se-acerca-a-brasil",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "brasil-1.gif",
+			"fecha":"11/09/23"
+		},
+		{
+			"titulo":"Clausura: III Coloquio Internacional",
+			"titulo_normalizado":"clausura-iii-coloquio-internacional",
+			"autor":"Isa\u00EDas Hern\u00E1ndez",
+			"imagen": "Coloquio1.gif",
+			"fecha":"10/11/21"
+		},
+		{
+			"titulo":"A 200 a\u00F1os de la Doctrina Monroe",
+			"titulo_normalizado":"a-200-anos-de-la-doctrina-monroe",
+			"autor":"Rodrigo Castillo",
+			"imagen": "not-found.jpg",
+			"fecha":"10/10/23"
+		},
+		{
+			"titulo":"Plataforma Educativa de RRII: Fuentes del derecho internacional",
+			"titulo_normalizado":"plataforma-educativa-de-rrii-fuentes-del-derecho-internacional",
+			"autor":"Alberto Ochoa",
+			"imagen": "Derecho1.gif",
+			"fecha":"10/10/20"
+		},
+		{
+			"titulo":"El mundo de los negocios internacionales",
+			"titulo_normalizado":"el-mundo-de-los-negocios-internacionales",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Internacional1.gif",
+			"fecha":"10/04/23"
+		},
+		{
+			"titulo":"Violencia futbolera",
+			"titulo_normalizado":"violencia-futbolera",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Fut1.gif",
+			"fecha":"10/03/22"
+		},
+		{
+			"titulo":"Relaciones Internacionales en el Caribe",
+			"titulo_normalizado":"relaciones-internacionales-en-el-caribe",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "relaciones-internacionales-en-el-caribe-1.jpg",
+			"fecha":"09/11/21"
+		},
+		{
+			"titulo":"Una regi\u00F3n magistral",
+			"titulo_normalizado":"una-region-magistral",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "una-region-magistral--2.jpg",
+			"fecha":"09/11/21"
+		},
+		{
+			"titulo":"Comienza a emprender",
+			"titulo_normalizado":"comienza-a-emprender",
+			"autor":"Redacci\u00F3n",
+			"imagen": "comienza-a-emprender-1.jpg",
+			"fecha":"09/11/19"
+		},
+		{
+			"titulo":"Europa desde la desintegraci\u00F3n",
+			"titulo_normalizado":"europa-desde-la-desintegracion",
+			"autor":"Aurelio Nito",
+			"imagen": "europa-desde-la-desintegracion-1.jpg",
+			"fecha":"09/05/19"
+		},
+		{
+			"titulo":"Europa como referente para el mundo",
+			"titulo_normalizado":"europa-como-referente-para-el-mundo",
+			"autor":"Alejandro Frias",
+			"imagen": "europa-como-referente-para-el-mundo-1.jpg",
+			"fecha":"09/05/19"
+		},
+		{
+			"titulo":"Semana de administraci\u00F3n, comercio, negocios y tr\u00E1fico internacional",
+			"titulo_normalizado":"semana-de-administracion-comercio-negocios-y-trafico-internacional",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "Semana-Admn-1.gif",
+			"fecha":"08/11/20"
+		},
+		{
+			"titulo":"En opini\u00F3n de los expertos",
+			"titulo_normalizado":"en-opinion-de-los-expertos",
+			"autor":"Adriana Hinojosa",
+			"imagen": "En-voz-de-1.gif",
+			"fecha":"08/11/20"
+		},
+		{
+			"titulo":"Simulacro del \u00E9xito: “Feria de emprendedores”",
+			"titulo_normalizado":"simulacro-del-exito----feria-de-emprendedores---",
+			"autor":"Erik Pliego",
+			"imagen": "Simulacro-del-exito-01.jpg",
+			"fecha":"08/11/19"
+		},
+		{
+			"titulo":"Think tank para beneficio social",
+			"titulo_normalizado":"think-tank-para-beneficio-social",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "think-tank-para-beneficio-social-1.jpg",
+			"fecha":"08/04/19"
+		},
+		{
+			"titulo":"8M: la mujer en la econom\u00EDa y sociedad",
+			"titulo_normalizado":"8m-la-mujer-en-la-economia-y-sociedad",
+			"autor":"Kenia Brodman",
+			"imagen": "8Meconomía1.gif",
+			"fecha":"08/03/22"
+		},
+		{
+			"titulo":"La importancia de las Exposiciones Universales",
+			"titulo_normalizado":"la-importancia-de-las-exposiciones-universales",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "importancia-de-las-expos-1.gif",
+			"fecha":"08/02/22"
+		},
+		{
+			"titulo":"Los nuevos retos en el comercio internacional: Semana de Administraci\u00F3n, Comercio, Negocios y Tr\u00E1fico Internacional",
+			"titulo_normalizado":"los-nuevos-retos-en-el-comercio-internacional-semana-de-administracion-comercio-negocios-y-trafico-internacional",
+			"autor":"Erik Pliego",
+			"imagen": "Los-nuevos-retos-en-el-comercio-01.jpg",
+			"fecha":"07/11/19"
+		},
+		{
+			"titulo":"Los nuevos retos en el comercio internacional",
+			"titulo_normalizado":"los-nuevos-retos-en-el-comercio-internacional",
+			"autor":"Erik Pliego",
+			"imagen": "Los-nuevos-retos-en-el-comercio-01.jpg",
+			"fecha":"07/11/19"
+		},
+		{
+			"titulo":"China y Pakist\u00E1n en Afganist\u00E1n",
+			"titulo_normalizado":"china-y-pakistan-en-afganistan",
+			"autor":"Redacci\u00F3n",
+			"imagen": "china-y-pakistan-en-afganistan-1.jpg",
+			"fecha":"07/09/21"
+		},
+		{
+			"titulo":"\u00BFEs este un nuevo Medio Oriente?",
+			"titulo_normalizado":"es-este-un-nuevo-medio-oriente",
+			"autor":"Orlando Ortega",
+			"imagen": "es-este-un-nuevo-medio-oriente-1.jpg",
+			"fecha":"07/05/21"
+		},
+		{
+			"titulo":"Ciencia y lazos comerciales; finaliza el XVI Foro de Pol\u00EDtica Exterior de M\u00E9xico",
+			"titulo_normalizado":"ciencia-y-lazos-comerciales-finaliza-el-xvi-foro-de-politica-exterior-de-mexico",
+			"autor":"Adri\u00E1n Reyes",
+			"imagen": "ciencia-y-lazos-comerciales-finaliza-el-xvi-foro-de-politica-exterior-de-mexico-1.jpg",
+			"fecha":"07/03/20"
+		},
+		{
+			"titulo":"Internacionalistas en tiempos de COVID-19",
+			"titulo_normalizado":"internacionalistas-en-tiempos-de-covid-19",
+			"autor":"Rosa Francisco",
+			"imagen": "internacionalistas-en-tiempos-de-covid-19-1.jpg",
+			"fecha":"06/10/21"
+		},
+		{
+			"titulo":"El discurso como sustento del poder",
+			"titulo_normalizado":"el-discurso-como-sustento-del-poder",
+			"autor":"Velia Andrey L\u00F3pez",
+			"imagen": "Discurso1.gif",
+			"fecha":"06/05/21"
+		},
+		{
+			"titulo":"Otaku: Relatos de un Jap\u00F3n contempor\u00E1neo",
+			"titulo_normalizado":"otaku-relatos-de-un-japon-contemporaneo",
+			"autor":"Rosa Francisco",
+			"imagen": "otaku-relatos-de-un-japon-contemporaneo-1.jpg",
+			"fecha":"06/05/21"
+		},
+		{
+			"titulo":"La hermandad entre Indonesia y M\u00E9xico busca fortalecerse",
+			"titulo_normalizado":"la-hermandad-entre-indonesia-y-mexico-busca-fortalecerse",
+			"autor":"Aleida Sashel Gonz\u00E1lez",
+			"imagen": "hermandad-indonesia-mexico-1.jpg",
+			"fecha":"06/05/21"
+		},
+		{
+			"titulo":"M\u00E1s actividades en el Foro de Pol\u00EDtica Exterior",
+			"titulo_normalizado":"mas-actividades-en-el-foro-de-politica-exterior",
+			"autor":"Thalia Ortega",
+			"imagen": "mas-actividades-en-el-foro-1.jpg",
+			"fecha":"06/03/20"
+		},
+		{
+			"titulo":"Nuevos paradigmas en las Relaciones Internacionales",
+			"titulo_normalizado":"nuevos-paradigmas-en-las-relaciones-internacionales",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "nuevos-paradigmas-en-las--relaciones-internacionales-1.jpg",
+			"fecha":"05/11/21"
+		},
+		{
+			"titulo":"El \u00FAltimo l\u00EDder sovi\u00E9tico",
+			"titulo_normalizado":"el-ultimo-lider-sovietico",
+			"autor":"Erik Pliego",
+			"imagen": "Soviet1.gif",
+			"fecha":"05/09/22"
+		},
+		{
+			"titulo":"La problem\u00E1tica del Sahara Occidental",
+			"titulo_normalizado":"la-problematica-del-sahara-occidental",
+			"autor":"Rosa Francisco",
+			"imagen": "la-problematica-del-sahara-occidental-1.jpg",
+			"fecha":"05/05/21"
+		},
+		{
+			"titulo":"El impacto del COVID-19 en \u00C1frica",
+			"titulo_normalizado":"el-impacto-del-covid-19-en-africa",
+			"autor":"Alberto Ochoa",
+			"imagen": "Africa1.gif",
+			"fecha":"05/05/21"
+		},
+		{
+			"titulo":"Nuestra pol\u00EDtica exterior a un a\u00F1o de la 4T",
+			"titulo_normalizado":"nuestra-politica-exterior-a-un-ano-de-la-4t",
+			"autor":"Redacci\u00F3n",
+			"imagen": "nuestra-politica-exterior-a-un-ano-de-la-4t-1.jpg",
+			"fecha":"05/03/20"
+		},
+		{
+			"titulo":"L\u00EDmites y Libertades: salud sexual y los derechos humanos",
+			"titulo_normalizado":"limites-y-libertades-salud-sexual-y-los-derechos-humanos",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Limites-y-libertades-1.gif",
+			"fecha":"04/09/23"
+		},
+		{
+			"titulo":"Emoci\u00F3n en el primer torneo de Clash Royale",
+			"titulo_normalizado":"emocion-en-el-primer-torneo-de-clash-royale",
+			"autor":"Luis Bocanegra",
+			"imagen": "emocion-en-el-primer-torneo-de-clash-royale-1.jpg",
+			"fecha":"04/04/19"
+		},
+		{
+			"titulo":"4T, los hechos y cosas por hacer",
+			"titulo_normalizado":"4t-los-hechos-y-cosas-por-hacer",
+			"autor":"Luis Bocanegra",
+			"imagen": "4t-los-hechos-y-cosas-por-hacer-1.jpg",
+			"fecha":"03/04/19"
+		},
+		{
+			"titulo":"\u00BFQu\u00E9 pasa en Afganist\u00E1n?",
+			"titulo_normalizado":"que-pasa-en-afganistan",
+			"autor":"Brenda Martinez",
+			"imagen": "que-pasa-en-afganistan-1.jpg",
+			"fecha":"02/09/21"
+		},
+		{
+			"titulo":"La ley como arma de injusticia",
+			"titulo_normalizado":"la-ley-como-arma-de-injusticia",
+			"autor":"Beatriz Calva",
+			"imagen": "RRII-1.gif",
+			"fecha":"01/06/23"
+		}
+	]
+}

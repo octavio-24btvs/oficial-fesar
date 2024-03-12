@@ -1,0 +1,19 @@
+{
+    "nombre": "Antonio Carrillo Avelar", 
+    "grado_academico": "Doctor", 
+     "correo": [ "antoniocarrillocaa@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Pedagogía. Universidad Nacional Autónoma de México, Facultad de Filosofía y Letras.",
+        "Maestría en Ciencias Antropológicas. Universidad Autónoma Metropolitana, Iztapalapa.",
+        "Doctorado en Ciencias Antropológicas. Universidad Autónoma Metropolitana, Iztapalapa."
+    ], 
+    "lineas_investigacion": [
+        "Docencia.",
+        "Formación intercultural."
+    ], 
+    "investigaciones": [
+        "Abriendo caminos hacia la interculturalidad, de la mano de los pueblos originarios.",
+        "Vivir el trabajo colaborativo: experiencias de educación superior en México y Brasil.",
+        "Los docentes interculturales, sus procesos formativos y sus prácticas. Diversidad y cruce de culturas."  
+    ]
+}

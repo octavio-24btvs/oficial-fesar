@@ -1,0 +1,38 @@
+{
+	"titulo": "\u00A1Feliz Aniversario SUAyED!",
+	"titulo_normalizado": "feliz-aniversario-suayed",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "SUAyED",
+			"seccion_normalizada": "suayed"
+		},
+		{
+			"seccion": "UNAM",
+			"seccion_normalizada": "unam"
+		}
+	],
+	"autor": "Johana Mart\u00EDnez",
+	"fecha": "23/03/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">La FES Arag\u00F3n llev\u00F3 a cabo una ceremonia para inaugurar las conmemoraciones por el 50 aniversario del Sistema Universidad Abierta y Educaci\u00F3n a Distancia (SUAyED). Este sistema actualmente tiene 28 licenciaturas en modalidad abierta, 22 a distancia, y por primera vez tienen el 50 % del estudiantado en ambas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">“Aprovechemos esta celebraci\u00F3n para resolver los retos de la educaci\u00F3n en el corto plazo”, fueron algunas de las palabras que dedic\u00F3 Melchor S\u00E1nchez, coordinador de Universidad Abierta, Innovaci\u00F3n Educativa y Educaci\u00F3n a Distancia (CUAIEED), antes de que Fernando Macedo, director aragon\u00E9s, diera inicio a las celebraciones en la Sala Diego Rivera con la exposici\u00F3n <\/span><span style=\"color: rgb(0, 0, 0);\">\"50 a\u00F1os del SUAyED en im\u00E1genes\", <\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">de la doctora Mar\u00EDa del Roc\u00EDo Amador, investigadora titular del Instituto de Investigaciones sobre la Universidad y Educaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Posteriormente, <\/span><span style=\"color: rgb(0, 0, 0);\">la Orquesta Sinf\u00F3nica del Instituto de la Juventud de la Ciudad de M\u00E9xico<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> dio un concierto en el Teatro Jos\u00E9 Vasconcelos de la Facultad. Si te los perdiste puedes ver la exposici\u00F3n en la sala Diego Rivera hasta el 22 de abril, y el concierto a trav\u00E9s del siguiente <\/span><a href=\"https:\/\/www.facebook.com\/FESAragon.SUAyED\/videos\/352966426765889\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: transparent;\"><u>enlace<\/u><\/a><u>.<\/u><u style=\"color: rgb(0, 0, 0); background-color: transparent;\">&nbsp;<\/u><\/p>",
+	"imagenes": [
+		{
+			"imagen": "suayed1.gif"
+		},
+		{
+			"imagen": "suayed2.gif"
+		},
+		{
+			"imagen": "suayed3.gif"
+		},
+		{
+			"imagen": "suayed4.gif"
+		},
+		{
+			"imagen": "suayed5.gif"
+		}	]
+
+}

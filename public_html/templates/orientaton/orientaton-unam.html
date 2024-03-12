@@ -1,0 +1,199 @@
+<style>
+    .mainmenu li i {
+    font-size: 25px;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: -1px;
+    color: #fff;
+    }
+    .mainmenu li span {
+    position: relative;
+    float: left;
+    font-size: 12px;
+    color: #000;
+}
+.mainmenu li {
+    float: left;
+    display: block;
+    padding: 5px;
+    cursor: pointer;
+}
+.nav-link {
+    display: block;
+    padding: .5rem .5rem;
+    padding-top: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+}
+.container .yout {
+    font-size: 36px;
+    color: #255981;
+}
+.lema{
+    text-align: justify;
+    color: #255880;
+    padding: 0px;
+}
+@media screen and (max-width: 454px) {
+.mainmenu li {
+    width: 44%;
+    padding: 0px;
+    text-align: left;
+   }
+
+.seccion {
+
+  margin-bottom: 10px;
+}  
+  .btn-cat{
+    margin-bottom: 15px;
+
+    }
+.lema{
+    padding-right: 15px;
+    padding-left: 15px;
+   }
+}
+.boton-header {
+     margin-top: 0px !important;
+     margin-bottom: 16px;
+}
+.icono-secciones {
+    font-size: 50px;
+    width: 20%;
+    /* color: #599e35;*/
+}
+.seccion{
+    border-bottom: 2px solid #d2ae6c;
+    padding-bottom: 0px;
+}
+hr {
+    background-color: #255880;
+}
+
+.botones .btn-cat {
+  margin: 5px;
+  border: 1px solid #d3af6d;
+  color: red;
+  padding: 0px;
+}
+
+.botones .btn-cat .icon {
+    position: relative;
+    top: 3px;
+    font-size: 50px;
+    margin: 0px auto 0px;
+    text-align: center;
+}
+
+
+.botones .btn-cat p{
+    position: relative;
+    top: -13px;
+    margin: 0px;
+    font-size: 13px;
+    text-align: center;
+}
+.botones .btn-cat a{
+    color: #255981;
+  }
+
+.botones .btn-cat:hover{
+  background-color: #255981;
+}
+
+.botones .btn-cat a:hover {
+    color: #fff;
+}
+/* image background 
+
+
+.secciones{
+  background: url(public_html/img/orientaton-unam/fondo.jpg) no-repeat;
+    } 
+    */ 
+</style>
+<div class="container content" style="padding: 0px;"ng-init="showing = 0">
+    <div class="row justify-content-center">
+      <div class="col-lg-12" style="padding: 0px;">
+        <img class="img-fluid" src="public_html/img/orientaton-unam/encuentro-del-manana.gif" alt="Encuentro del maÑana" style="">
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center" style="padding-top: 25px;">
+        <div class="col-md-9 lema">
+        <hr>
+            <h1 style="margin-bottom: 0px;">objetivo</h1>
+        <hr>
+        </div>
+        <div class="col-md-9 lema">
+            <p>Apoyar a los estudiantes en la elección de su futuro académico y profesional, brindando información relevante y oportuna acerca de la oferta educativa, de los apoyos y los servicios que ofrecen la UNAM y las instituciones de educación media superior y superior más importantes del país.</p>
+        </div>
+
+    </div>
+        <div class="row justify-content-center botones" style="padding-top: 25px;">
+                <div class="col-12">
+                  <div class="row justify-content-center">
+                  <div class="col-8 col-md-3 btn-cat">
+                    <a class="category" ui-sref="fis_mat">
+                      <div class="icon icon-cfmi">
+                      </div>
+                      <p>Ciencias Fís.-Mat. y de las Ingenierías</p>
+                    </a>
+                  </div>
+                  <div class="col-8 col-md-3 btn-cat">
+                      <a class="category" ui-sref="cie">
+                        <div class="icon icon-ciencias-sociales">
+                        </div>
+                        <p>Ciencias Sociales</p>
+                      </a>
+                  </div>
+                  <div class="col-8 col-md-3 btn-cat">
+                      <a class="category" ui-sref="hya">
+                        <div class="icon icon-hya">
+                        </div>
+                        <p>Humanidades y Artes</p>
+                      </a>
+                 </div>
+            </div>
+        </div>
+        </div>
+        <div class="row justify-content-center botones">
+            <div class="col-12">
+        <div class="row justify-content-center">
+             <div class="col-8 col-md-3 btn-cat">
+                <a class="category" ui-sref="sua_yed">
+                  <div class="icon icon-suayed">
+                  </div>
+                  <p>SUAyED</p>
+                </a>
+              </div>
+              <div class="col-8 col-md-3 btn-cat">
+                  <a class="category" ui-sref="pos">
+                    <div class="icon icon-posgrados">
+                    </div>
+                    <p>Posgrado</p>
+                  </a>
+              </div>
+              <div class="col-8 col-md-3 btn-cat">
+                  <a class="category" ui-sref="serv">
+                    <div class="icon icon-simbolo-de-la-sumision-del-directorio" style="font-size: 40px;top: 8px;">
+                    </div>
+                    <p style="top: 1px;">Servicios</p>
+                  </a>
+             </div>
+        </div>
+
+    </div>
+    </div>
+    <div class="row justify-content-center align-items-center" style="padding-top: 25px;">
+        <div class="col-12 col-md-3">
+            <div class="seccion"><i class="icono-secciones icon-youtube yout"></i><h1 class="mw-50 ng-binding">¡Checa nuestro video!</h1></div>
+         </div>
+         <div class="col-12 col-md-6">
+            <div class="embed-responsive embed-responsive-16by9" style="padding-top: 20px; border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/TeQjsEGxysg" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</div>

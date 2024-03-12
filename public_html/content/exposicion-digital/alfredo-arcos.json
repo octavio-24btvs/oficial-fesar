@@ -1,0 +1,44 @@
+{
+    "nombre": "Alfredo Arcos", 
+    "nombre_normalizado": "alfredo-arcos", 
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.", 
+    "obras": [
+        {
+            "titulo": "Obra Uno", 
+            "titulo_normalizado": "obra-1", 
+            "imagen": "obra-1.jpg", 
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        }, 
+        {
+            "titulo": "Obra Dos", 
+            "titulo_normalizado": "obra-2", 
+            "imagen": "obra-2.jpg", 
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        }, 
+        {
+            "titulo": "Obra Tres", 
+            "titulo_normalizado": "obra-3", 
+            "imagen": "obra-3.jpg", 
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        }, 
+        {
+            "titulo": "Obra Cuatro", 
+            "titulo_normalizado": "obra-4", 
+            "imagen": "obra-4.jpg", 
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        }
+    ], 
+    "informacion_adicional": {
+        "sitio_web": [
+            "uno", 
+            "dos"
+        ], 
+        "reportajes": [
+            "uno", 
+            "dos"
+        ], 
+        "entrevistas": [
+            "uno"
+        ]
+    }
+}

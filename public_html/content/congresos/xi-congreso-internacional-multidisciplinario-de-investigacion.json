@@ -1,0 +1,27 @@
+{
+    "img":"congreso-imi.jpg",
+    "titulo":"XI Congreso Internacional Multidisciplinario de Investigaci\u00F3n",
+    "sede":"Facultad de Estudios Superiores Arag\u00F3n, UNAM.",
+    "enlaces":[{
+            "texto":"Cartel del Evento",
+            "enlace":"cartel-multidiciplinario-investigacion.pdf" 
+    },{
+            "texto":"Bases",
+            "enlace":"bases-multidiciplinario-investigacion.pdf" 
+    },{
+            "texto":"Categorias",
+            "enlace":"categorias-multidiciplinario-investigacion.pdf" 
+    },{
+            "texto":"Actividades",
+            "enlace":"actividades-multidiciplinario-investigacion.pdf" 
+    },{
+            "texto":"Otro Cartel",
+            "enlace":"cartel-web-multidiciplinario-investigacion.pdf" 
+    },{
+            "texto":"Programa XI Congreso Internacional Multidisciplinario de Investigaci\u00F3n",
+            "enlace":"programa-multidiciplinario-investigacion.pdf" 
+    },{
+            "texto":"Formato de Registro que debe ser enviado a cimaxo2018@gmail.com",
+            "enlace":"pre-registro-congreso-2018.docx" 
+    }]
+}

@@ -1,0 +1,128 @@
+{
+    "botones": [
+        "Inicio", 
+        "Presentaci\u00F3n", 
+        "Perfiles", 
+        "Plan de estudios", 
+        "Titulaci\u00F3n", 
+        "Acreditaci\u00F3n",
+        "Contacto"
+    ], 
+    "titulo": "Ingenier\u00EDa Civil", 
+    "icono": "icono-secciones icon-ingenieria-civil", 
+    "secciones": [
+        {
+            "tipo": "html", 
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Bienvenidos</h2><p>La carrera de Ingenier\u00eda Civil te da la bienvenida a la FES Arag\u00F3n de la UNAM. Ahora eres parte de la comunidad universitaria m\u00e1s grande de M\u00e9xico. Te pedimos colabores con tu esfuerzo para que nuestra Facultad sea un aut\u00e9ntico espacio donde, con libertad y pluralidad, se forje el futuro del pa\u00eds.</p>", 
+            "imagenes": [
+                {
+                    "imagen": "civil/carrusel/capitulo-estudiantil-ante-el-aci.jpg", 
+                    "tipo_hipervinculo": "link", 
+                    "hipervinculo": "https://www.facebook.com/aci.aragon/"
+                },
+                {
+                    "imagen": "civil/carrusel/capitulo-estudiantil-ante-el-cicm-sicma.jpg", 
+                    "tipo_hipervinculo": "link", 
+                    "hipervinculo": "https://www.facebook.com/CECICMARAGON/"
+                },
+                {
+                    "imagen": "civil/carrusel/capitulo-estudiantil-ante-la-amaac.jpg", 
+                    "tipo_hipervinculo": "link", 
+                    "hipervinculo": "https://www.facebook.com/amaac.aragon/"
+                },
+                {
+                    "imagen": "civil/carrusel/capitulo-estudiantil-ante-la-amh.jpg", 
+                    "tipo_hipervinculo": "link", 
+                    "hipervinculo": "https://www.facebook.com/ce.amh.aragon/?hc_ref=SEARCH"
+                },
+                {
+                    "imagen": "civil/carrusel/capitulo-estudiantil-ante-la-aneic.jpg", 
+                    "tipo_hipervinculo": "link", 
+                    "hipervinculo": "https://www.facebook.com/pg/aneicfesaragon/photos/?ref=page_internal"
+                },
+                {
+                    "imagen": "civil/carrusel/capitulo-estudiantil-ante-la-smig.jpg", 
+                    "tipo_hipervinculo": "link", 
+                    "hipervinculo": "chttps://www.facebook.com/CapituloEstudiantilSMIGFesAragon/"
+                },
+                {
+                    "imagen": "civil/carrusel/capitulo-estudiantil-de-la-sociedad-mexicana-de-ingenieria-estructural.jpg", 
+                    "tipo_hipervinculo": "link", 
+                    "hipervinculo": "https://www.facebook.com/SMIE.ARAGON/posts/1275222302652650"
+                }
+            ]
+        }, 
+        {
+            "tipo": "html", 
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n</h2><p><strong>Objetivo General</strong></p><p>Formar profesionales con fundamentos para planear, dise\u00f1ar, construir, desarrollar y evaluar proyectos en las \u00e1reas de estructuras, construcci\u00F3n, geotecnia, sistemas y transportes, hidr\u00e1ulica y ambiental; con la finalidad de dar soluci\u00F3n a las necesidades de creaci\u00F3n, mejora, mantenimiento y rehabilitaci\u00F3n de obras civiles desde un marco de diversidad de la Ingenier\u00eda, aplicando criterios de sustentabilidad con enfoque \u00e9tico y responsable en el ejercicio de la profesi\u00F3n.</p><hr><h2 class=\"titulo-seccion pb-2\">Misi\u00F3n y visi\u00F3n del programa educativo</h2><p><strong>Misi\u00F3n</strong></p><p>Formar profesionistas con una educaci\u00F3n integral y, en especial, con una alta competitividad en el \u00e1rea de la ingenier\u00eda civil, con la finalidad de que en el ejercicio de su profesi\u00F3n busquen atender las necesidades de creaci\u00F3n, mejora, mantenimiento y rehabilitaci\u00F3n de obras civiles desde un marco de diversidad de la Ingenier\u00eda, aplicando criterios de sustentabilidad con enfoque \u00e9tico, responsable y desde una perspectiva que conlleve siempre al beneficio social en la b\u00fasqueda de soluciones a problemas regionales, nacionales e internacionales.</p><p><strong>Visi\u00F3n</strong></p><p>La carrera de Ingenier\u00eda Civil en la Facultad de Estudios Superiores Arag\u00F3n es un programa con un amplio reconocimiento acad\u00e9mico y social dentro de la UNAM, que aspira a colocarse como uno de los ejes principales del \u00e1rea del conocimiento ingenieril de la universidad y consolidarse como un referente en el \u00e1mbito nacional y trascender al internacional.</p><p>Con un amplio compromiso hacia el estudiante y guiado por valores como los de legalidad, transparencia, pasi\u00F3n, innovaci\u00F3n, igualdad y af\u00e1n por el saber, buscamos que nuestros estudiantes y egresados en el ejercicio competitivo de su profesi\u00F3n, o a trav\u00e9s de organizaciones sociales, busquen soluciones integrales a las necesidades econ\u00F3micas, sociales y del medio ambiente.</p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3\">Perfiles<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Perfil de ingreso",
+                    "texto": "<p>La comunidad estudiantil aspirante deber\u00e1 concluir el bachillerato en el \u00e1rea de Ciencias F\u00edsico-Matem\u00e1ticas,tener una fuerte formaci\u00F3n en F\u00edsica y Matem\u00e1ticas, y conocimientos b\u00e1sicos de Qu\u00edmica. Se requerir\u00e1 adem\u00e1s, que tenga facilidad para la planeaci\u00F3n y direcci\u00F3n de trabajos en grupo, inter\u00e9s cient\u00edfico, t\u00e9cnico y administrativo, capacidad de an\u00e1lisis y s\u00edntesis, inclinaci\u00F3n para la soluci\u00F3n de problemas y capacidad para la toma de decisiones, apoyado en su conocimiento.</p> <p>Para valorar los conocimientos y habilidades de los alumnos de primer ingreso, se lleva a cabo un examen diagn\u00F3stico institucional, el cual permite conocer las deficiencias de su formaci\u00F3n previa. Con el resultado de los ex\u00e1menes, se programan actividades extracurriculares que permitan minimizar esas deficiencias y mejorar el tr\u00e1nsito de los alumnos por la licenciatura. Entre esas actividades podemos mencionar: cursos de F\u00edsica y Matem\u00e1ticas para grupos de primer ingreso, y programa de asesor\u00edas para asignaturas con alto \u00edndice de reprobaci\u00F3n.</p>"
+
+                },
+                {
+                    "titulo": "Perfil de egreso",
+                    "texto": "<p>La comunidad egresada estar\u00e1 capacitada para planear, dise\u00f1ar, construir, administrar, mantener y operar obras para el desarrollo urbano, rural, industrial, habitacional y de la infraestructura del pa\u00eds, procurando el mejor aprovechamiento de los recursos materiales y financieros en beneficio de la sociedad.<p>Debe poseer conocimientos de f\u00edsica, matem\u00e1ticas y qu\u00edmica que le permitan lograr la comprensi\u00F3n de las ciencias de la ingenier\u00eda civil; entender los fundamentos de estructuras, geotecnia, hidr\u00e1ulica, construcci\u00F3n, ambiental y sistemas y transportes que le permitan proponer soluciones a los problemas propios de la profesi\u00F3n; aplicar las herramientas de la computaci\u00F3n y de la comunicaci\u00F3n gr\u00e1fica en los proyectos de ingenier\u00eda civil; tener conocimientos generales de administraci\u00F3n y evaluaci\u00F3n de proyectos, y conocer la sociedad en la que desarrollar\u00e1 sus actividades.</p>"
+                },
+                {
+                    "titulo": "Objetivos educacionales",
+                    "texto": "<p>La comunidad egresada de la Licenciatura en Ingenier\u00EDa Civl:</p><ol class=\"zero-fill-list\"><li>dise\u00f1a proyectos de acuerdo con su \u00e1rea de especializaci\u00F3n;</li><li>emplea herramientas computacionales para facilitar el desarrollo de proyectos civiles;</li><li>mantiene contacto con grupos de inter\u00e9s especiales, que le permiten ser competitiva en el ejercicio de la profesi\u00F3n.</li><li>utiliza habilidades de comunicaci\u00F3n para coordinar equipos multidisciplinarios y dar soluciones integrales a las necesidades de la sociedad;</li><li>se incorpora en actividades de educaci\u00F3n continua como estudios de posgrado, especializaciones, diplomados y cursos de actualizaci\u00F3n profesional, para asimilar los cambios y avances de la profesi\u00F3n.</li></ol>"
+                },
+                {
+                    "titulo": "Atributos de egreso",
+                    "texto": "<p>La comunidad egresada de la carrera de Ingenier\u00eda Civil:</p><ol class=\"alpha-numeric-list\"><li>identifica, formula y resuelve problemas de ingenier\u00eda aplicando los principios de ingenier\u00eda, ciencias y matem\u00e1ticas</li><li>aplica, analiza y sintetiza procesos de dise\u00f1o de ingenier\u00eda que resulten en proyectos que cumplan las necesidades especificadas</li><li>desarrolla y conduce experimentaci\u00F3n adecuada; analiza e interpreta datos y utiliza el juicio ingenieril para establecer conclusiones</li><li>se comunica efectivamente de forma oral y escrita, con diferentes audiencias y empleando los distintos medios a su alcance</li><li>reconoce sus responsabilidades \u00e9ticas y profesionales en situaciones relevantes para la ingenier\u00eda y realiza juicios informados que deben considerar el impacto de las soluciones de ingenier\u00eda en los contextos global, econ\u00F3mico, ambiental y social</li><li>reconoce la necesidad permanente de conocimiento adicional y de tener la habilidad para localizar, evaluar, integrar y aplicar este conocimiento adecuadamente</li><li>trabaja efectivamente en equipos disciplinarios o multidisciplinarios que establecen objetivos y metas, planean tareas, cumplen fechas l\u00edmite, analizan riesgos e incertidumbre y eval\u00faan resultados</li></ol>"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3\">Aspectos generales<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Requisitos de ingreso",
+                    "texto": "<p class=\"ql-align-justify\"><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Concluir el Bachillerato en el \u00e1rea de las ciencias F\u00edsico – Matem\u00e1tico y tenerconocimientos b\u00e1sicos de Qu\u00edmica, Computaci\u00F3n e ingl\u00e9s, adem\u00e1s de los que establece la Legislaci\u00F3n Universitaria en sus art\u00edculos 2 y 4 del Reglamento General de Inscripciones.<\/span><\/p><p>Art\u00edculo 2º.- Para ingresar a la Universidad es indispensable:<\/p><ol><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Solicitar la inscripci\u00F3n de acuerdo con los instructivos que se establezcan;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Haber obtenido en el ciclo de estudios inmediato anterior un promedio m\u00ednimo de siete o su equivalente;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Ser aceptado mediante concurso de selecci\u00F3n, que comprender\u00e1 una prueba escrita y que deber\u00e1 realizarse dentro de los periodos que al efecto se se\u00f1alen. Art\u00edculo 4o.- Para ingresar al nivel de licenciatura el antecedente acad\u00e9mico indispensable es el bachillerato, cumpliendo con lo prescrito en el art\u00edculo 8o. de este reglamento [...]<\/span><\/li><\/ol>"
+                },
+                {
+                    "titulo": "Requisitos de permanencia",
+                    "texto": "<p><a href=\"public_html/documents/licenciaturas/civil/requisitos-de-permanencia.pdf\"target=\"_blank\">Requisitos de permanencia</a></p>"
+                },                
+                {
+                    "titulo": "Duraci\u00F3n",
+                    "texto": "<p>La estructura comprende una duraci\u00F3n de nueve semestres, en los que se deber\u00e1n cursar un m\u00ednimo de 54 asignaturas, de las cuales 45 son obligatorias, y 9 son optativas, de las materias obligatorias , habr\u00e1n de cursar 42 desde el primer hasta el s\u00e9ptimo semestre y 3 en el octavo semestre, La asignaturas optativas, las cursar\u00e1n tres en el octavo semestre, 6 en el noveno semestre y deber\u00e1n cursar una asignatura optativa de cada \u00e1rea de conocimiento indicada, la cual ser\u00e1 seleccionada del bloque correspondiente. A lo largo de la licenciatura se cubrir\u00e1 un total de 420 cr\u00e9ditos, de los cuales 357 son obligatorios (de primero a octavo semestre) y 63 son optativos. El plan de estudios propuesto contempla 48 cr\u00e9ditos en el primero, segundo y tercer semestres, 45 en el cuarto, quinto, sexto, octavo y noveno semestres y 51 cr\u00e9ditos en el s\u00e9ptimo semestre.<\/p>"
+                }
+            ],
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro\" href=\"public_html/documents/licenciaturas/civil/mapa-ing-civil.pdf\" title=\"Malla Curricular\" target=\"_blank\">Malla Curricular<\/a><\/div>"
+        }, 
+        {
+            "tipo": "pdf", 
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/civil-titulacion"
+        }, 
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row justify-content-center\"><div class=\"col-12\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/civil/constancia-de-acreditacion.pdf\" target=\"_blank\" title=\"Servicios Escolares\">Certificado de Acreditaci\u00F3n 2019-2022</a></div></div>"
+        }, 
+    {
+    "tipo": "contacto",
+            "texto": {
+            "jefe_carrera": "Juan Carlos Ortiz Le\u00F3n",
+                    "foto_jefe_de_carrera": "public_html/img/oferta_academica/civil/juan-carlos-ortiz-leon.jpg",
+                    "genero_jefe_carrera": "0",
+                    "secretario_tecnico": "Oniel Garc\u00EDa Balanzar",
+                    "foto_secretario_tecnico": "public_html/img/oferta_academica/civil/oniel-garcia-balanzar.jpg",
+                    "genero_secretario_tecnico": "0",
+                    "horario": "De lunes a viernes de 9:00 a 15:00 h y de 17:00 a 21:00 h",
+                    "telefonos": "55 5623 0222", 
+                    "extension": "Ext. 30821 y 30843",
+                    "correo_electronico": "civil@aragon.unam.mx",
+                    "correo_electronico_st": "st.civil@aragon.unam.mx",
+                    "facebook": "https://www.facebook.com/FESAragon.civil/",
+                    "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/civil"
+            }
+    }
+    ]
+    }

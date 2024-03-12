@@ -1,0 +1,96 @@
+<div class="container fes-content">
+    <hr>
+    <div class="row pleca-secciones">
+        <div class="col-lg-12 secciones">
+            <i class="icono-secciones" ng-class="carrera.icono"></i> <h1 ng-bind-html="carrera.titulo"></h1>
+        </div>
+    </div>
+    <hr>
+</div>
+<div class="row mt-3 pb-5">
+    <div class="col-sm-12 col-md-3 col-lg-3 menu-carreras">
+        <ul class="side-menu list-group text-left">
+            <li class="list-group-item list-group-item-action" ng-class="showing === '0' ? 'active' : ''" ng-click="showing = '0'">Inicio</li>
+            <li class="list-group-item list-group-item-action" ng-show="carrera.proceso_aplicacion !== ''" ng-class="showing === '1' ? 'active' : ''" ng-click="showing = '1'">Proceso de aplicaci&oacute;n</li>
+            <li class="list-group-item list-group-item-action" ng-show="carrera.objetivos_especificos  !== ''" ng-class="showing === '8' ? 'active' : ''" ng-click="showing = '8'">Objetivos específicos</li>
+            <li class="list-group-item list-group-item-action" ng-show="carrera.perfil_ingreso !== ''" ng-class="showing === '2' ? 'active' : ''" ng-click="showing = '2'">Perfil de ingreso</li>
+            <li class="list-group-item list-group-item-action" ng-show="carrera.perfil_egreso !== ''" ng-class="showing === '3' ? 'active' : ''" ng-click="showing = '3'">Perfil de egreso</li>
+            <li class="list-group-item list-group-item-action" ng-show="carrera.campos_conocimiento !== ''" ng-class="showing === '4' ? 'active' : ''" ng-click="showing = '4'">Campos del conocimiento</li>
+            <li class="list-group-item list-group-item-action" ng-show='carrera.plan_estudios !== ""'><a ng-href="public_html/documents/oferta_academica/maestrias/{{carrera.plan_estudios}}" target="_blank" title="Plan de estudios">Plan de estudios</a></li>
+            <li class="list-group-item list-group-item-action" ng-show='carrera.mapa_curricular !== ""'><a ng-href="public_html/documents/oferta_academica/maestrias/{{carrera.mapa_curricular}}" target="_blank" title="Mapa curricular">Mapa curricular</a></li>
+            <li class="list-group-item list-group-item-action" ng-show='carrera.programas !== ""'><a ng-href="public_html/documents/oferta_academica/maestrias/{{carrera.programas}}" target="_blank" title="Programas">Programas</a></li>
+            <li class="list-group-item list-group-item-action" ng-show="carrera.graduacion !== ''" ng-class="showing === '6' ? 'active' : ''" ng-click="showing = '6'">Requisitos de graduaci&oacute;n</li>
+            <li class="list-group-item list-group-item-action" ng-class="showing === '7' ? 'active' : ''" ng-click="showing = '7'">Contacto</li>
+        </ul>
+    </div>
+    <div class="col-sm-12 col-md-9 col-lg-9">
+        <div class="content">
+            <div ng-show="showing === '0'">
+                <h2 class="pb-3">Objetivo general del plan de estudios del programa</h2>
+                <div ng-bind-html="carrera.bienvenida"></div>
+                <div class="row galeria justify-content-center" ng-if="maestria_especializacion === 'especializacion-en-derecho'">
+                    <div class="contenedor-imagen col-11 col-lg-10 pt-3">
+                        <a target="_blank" href="http://derecho.posgrado.unam.mx/site_cpd/public/inicio">
+                            <img class="img-fluid imagen" src="public_html/img/oferta_academica/especializacion-en-derecho/unam-posgrados-derecho.jpg" alt="Im&aacute;gen" />
+                        </a>
+                    </div>
+                </div>
+                <div class="row galeria justify-content-center" ng-if="maestria_especializacion === 'maestria-en-estudios-politicos-y-sociales'">
+                    <div class="contenedor-imagen col-11 col-lg-10 pt-3">
+                        <a target="_blank" href="public_html/documents/oferta_academica/maestrias/pcps/convocatoria-pcps.pdf" title="Convocatoria de Posgrado en Ciencias Políticas y Sociales"> 
+                            <img class="img-fluid" src="public_html/img/slider_principal/convocatoria.jpg" style="border-radius: 15px;" alt="Convocatoria de Posgrado en Ciencias Políticas y Sociales"/>
+                         </a>
+                    </div>
+                </div>
+            </div>
+            <div  ng-show="showing === '1'">
+                <h2 class="pb-3" >Proceso de aplicaci&oacute;n</h2>
+                <div ng-bind-html="carrera.proceso_aplicacion"></div>
+            </div>
+            <div ng-show="showing === '8'">
+                    <h2 class="pb-3">Objetivos específicos</h2>
+                    <div ng-bind-html="carrera.objetivos_especificos"></div>
+                </div>
+            <div ng-show="showing === '2'">
+                <h2 class="pb-3" >Perfil de ingreso</h2>
+                <div ng-bind-html="carrera.perfil_ingreso"></div>
+            </div>
+            <div ng-show="showing === '3'">
+                <h2 class="pb-3" >Perfil de egreso</h2>
+                <div ng-bind-html="carrera.perfil_egreso"></div>
+            </div>
+            <div ng-show="showing === '4'">
+                <h2 class="pb-3" >Campos del conocimiento</h2>
+                <div ng-bind-html="carrera.campos_conocimiento"></div>
+            </div>
+            <div ng-show="showing === '6'">
+                <h2 class="pb-3" >Requisitos de graduaci&oacute;n </h2>
+                <div ng-bind-html="carrera.graduacion"></div>
+            </div>
+            <div ng-show="showing === '7'">
+                <h2 class="pb-3" >Contacto</h2>
+                <div class="row pleca">
+                    <div class="col-12 col-lg-4 text-left encargados-licenciaturas" ng-show="carrera.contacto.foto_jefe_de_carrera !== ''">
+                        <h3 ng-show="carrera.contacto.genero_jefe_carrera === '0'">Jefe acad&eacute;mico</h3>
+                        <h3 ng-show="carrera.contacto.genero_jefe_carrera === '1'">Jefa acad&eacute;mica</h3>
+                        <div>
+                            <div class="fs-13" ng-bind-html="carrera.contacto.jefe_carrera"></div>
+                        </div>
+                        <img class="justify-content-center rounded-circle img-responsable" ng-src="{{carrera.contacto.foto_jefe_de_carrera}}" alt="Jefe de carrera"/>
+                    </div>
+                    <div class="contacto col-12" ng-class="(carrera.contacto.foto_jefe_de_carrera !== '' && carrera.contacto.foto_jefe_academico !== '') ? 'col-lg-4' : 'col - lg - 8'">
+                        <h3> Horario </h3>
+                        <p>{{carrera.contacto.horario}}</p>
+                        <h3> Tel&eacute;fono(s)</h3>
+                        <p class="m-0">{{carrera.contacto.telefonos}}</p>
+                        <p>{{carrera.contacto.extension}}</p>
+                        <h3> Correo electr&oacute;nico</h3>
+                        <p class="fs-12"><a class="link-a" ng-href="mailto:{{carrera.contacto.correo_electronico}}" title="correo-electronico">{{carrera.contacto.correo_electronico}}</a></p>
+                        <p class="m-0"><strong>¡&Uacute;nete a nuestro Facebook!</strong></p>
+                        <a target="_blank" ng-href="https://www.facebook.com/FESAragon.posgrado/ " title="facebook"><i class="icon-facebook-official facebook-becas"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,78 @@
+﻿{
+    "titulo": "Infografías", 
+    "titulo_normalizado": "infografias", 
+    "imagenes": [
+        {
+            "imagen": "1_seguimoscontigo",
+            "alt": "Seguimos contigo"
+        },
+        {
+            "imagen": "2_seguimoscontigo",
+            "alt": "Seguimos contigo"
+        },
+        {
+            "imagen": "3_quehacen",
+            "alt": "¿Qué hacen las personas orientadoras comunitarias (POC´S)?"
+        },
+        {
+            "imagen": "4_quehacen",
+            "alt": "¿Qué hacen las personas orientadoras comunitarias (POC´S)?"
+        },
+        {
+            "imagen": "5_sabesdenunciar",
+            "alt": "¿Sabes cómo denunciar los casos de violencia de género?"
+        },
+        {
+            "imagen": "6_rutadeatencion_a",
+            "alt": "Ruta de atención de quejas por violencia de género"
+        },
+        {
+            "imagen": "6_rutadeatencion_a(1)",
+            "alt": "Ruta de atención de quejas por violencia de género"
+        },
+        {
+            "imagen": "6_rutadeatencion_b",
+            "alt": "Ruta de atención de quejas por violencia de género"
+        },
+        {
+            "imagen": "6_rutadeatencion_b(1)",
+            "alt": "Ruta de atención de quejas por violencia de género"
+        },
+        {
+            "imagen": "7_dondepasalaqueja_a",
+            "alt": "¿Por dónde para la queja y con quién se comunica la defensoría si neceta tener información?"
+        },
+        {
+            "imagen": "7_dondepasalaqueja_b",
+            "alt": "¿Por dónde para la queja y con quién se comunica la defensoría si neceta tener información?"
+        },
+        {
+            "imagen": "8_politicasigualdadygenero_a",
+            "alt": "Políticas institucionales de la unam en materia de igualdad y género"
+        },
+        {
+            "imagen": "8_politicasigualdadygenero_b",
+            "alt": "Políticas institucionales de la unam en materia de igualdad y género"
+        },
+        {
+            "imagen": "9_defensoriaviolenciagenero_a",
+            "alt": "Defensoria de los derechos universitarios y atención de la violencia de género"
+        },
+        {
+            "imagen": "9_defensoriaviolenciagenero_b",
+            "alt": "Defensoria de los derechos universitarios y atención de la violencia de género"
+        },
+        {
+            "imagen": "10_ladefensoriaparaatenderviolenciagenero",
+            "alt": "Defensoria para atender la violencia de género"
+        },
+        {
+            "imagen": "11_arts_95y98",
+            "alt": "arts 95 y 98"
+        },
+        {
+            "imagen": "12_culturadenunciapng",
+            "alt": "Cultura de la denuncia"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "nombre": "María Cristina Camacho Ramos", 
+    "grado_academico": "Maestra", 
+     "correo": [ "dcamacho@unam.mx"     ],
+     "correo2": [ "cristinacamachok5@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Sociología. Universidad Autónoma Metropolitana.", 
+        "Maestría en Sociología. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Sociología en México.", 
+        "Jóvenes.", 
+        "Estudios de género.", 
+        "Subjetividades."
+    ], 
+    "investigaciones": [
+        "PAPIME PE307515 (CORRESPONSABLE): Vinculación teórica metodológica de la docencia, investigación y titulación en sociología, ciencias políticas y trabajo social. Facultad de Ciencias Políticas y Sociales.", 
+        "La configuración teórico metodológica de la investigación sociológica en la FES Aragón UNAM, ante las transformaciones disciplinarias y sociales en México."
+    ]
+}

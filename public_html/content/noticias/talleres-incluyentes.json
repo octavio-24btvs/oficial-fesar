@@ -1,0 +1,14 @@
+{
+	"titulo": "Talleres incluyentes",
+	"titulo_normalizado": "talleres-incluyentes",
+	"secciones": [
+		{
+			"seccion": "Inclusión",
+			"seccion_normalizada": "inclusión"
+		}
+	],
+	"autor":"Liliana Espinosa",
+	"fecha":"17/01/20",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Nuestra Facultad tiene un compromiso con la diversidad e inclusi\u00F3n; por ello, la Coordinaci\u00F3n de Servicios a la Comunidad y el Sistema de Universidad Abierta y Educaci\u00F3n a Distancia de nuestro plantel –junto con la Instancia Ejecutora de los Derechos Humanos de la CDMX<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">– <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">&nbsp;&nbsp;crearon el taller “Aprende lectoescritura braille”, impartido por la acad\u00E9mica Hilda Laura V\u00E1zquez.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La actividad fue abierta a estudiantes de todas las licenciaturas, quienes durante cinco d\u00EDas aprendieron el uso de este sistema de lectura y escritura, as\u00ED como las necesidades b\u00E1sicas de las personas con alguna discapacidad visual.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la clausura del taller, las autoridades responsables invitaron a la comunidad aragonesa a estar al pendiente de este tipo de cursos incluyentes, como los de Lengua de se\u00F1as mexicana (LSM) o ingl\u00E9s para personas con discapacidad visual.<\/span><\/p>",
+	"imagenes":[{"imagen":"talleres-incluyentes-1.jpg"},{"imagen":"talleres-incluyentes-2.jpg"},{"imagen":"talleres-incluyentes-4.jpg"}]
+}

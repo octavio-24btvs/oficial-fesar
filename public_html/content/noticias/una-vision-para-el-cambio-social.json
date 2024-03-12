@@ -1,0 +1,14 @@
+{
+	"titulo": "Una visi\u00F3n para el cambio social",
+	"titulo_normalizado": "una-vision-para-el-cambio-social",
+	"secciones": [
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor":"Edith Granados",
+	"fecha":"29/08/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el encuentro de mesas redondas <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Ciudadan\u00EDa y G\u00E9nero. Aportes anal\u00EDticos desde la Sociolog\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se discutieron temas como g\u00E9nero, feminismo, ciudadan\u00EDa, violencia simb\u00F3lica, sexualidad, masculinidades, entre otros.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los d\u00EDas 29 y 30 de agosto, especialistas en el \u00E1mbito sociol\u00F3gico aportaron sus opiniones en disyuntivas como la separaci\u00F3n por sexos en los vagones del metro, el desempe\u00F1o de las mujeres en empresas, as\u00ED como la capacidad de la ciudadan\u00EDa al emplear las nuevas tecnolog\u00EDas para una mejor comprensi\u00F3n de los dilemas mundiales actuales.<\/span><\/p>",
+	"imagenes":[{"imagen":"img-1.jpg"},{"imagen":"img-2.jpg"},{"imagen":"img-3.jpg"},{"imagen":"img-4.jpg"},{"imagen":"img-5.jpg"}]
+}

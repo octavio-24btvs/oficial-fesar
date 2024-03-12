@@ -1,0 +1,31 @@
+{
+	"titulo": "La importancia del primer empleo",
+	"titulo_normalizado": "la-importancia-del-primer-empleo",
+	"secciones": [
+		{
+			"seccion": "Bolsa de Trabajo",
+			"seccion_normalizada": "bolsa-de-trabajo"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Tiar\u00E9 Rodr\u00EDguez",
+	"fecha": "26/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La FES Arag\u00F3n present\u00F3 la ponencia “Mi primer empleo”, impartida por Patricia \u00C1vila, del equipo de Recursos Humanos de la empresa multinacional de jabones, UNILEVER, y encargada de los programas de talento joven, junto con las internas Samantha Cervantes, de la Escuela Superior de Comercio y Administraci\u00F3n (ESCA) Unidad Santo Tom\u00E1s, y Maria Fernanda Abundis, de la Universidad An\u00E1huac, con el objetivo de hablar sobre el primer empleo y por qu\u00E9 vale la pena abordarlo desde una perspectiva de recursos humanos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Seg\u00FAn la ponente, a veces como estudiantes no dimensionamos el impacto de nuestro primer trabajo y no tomamos decisiones a tiempo sobre nuestra carrera profesional; sin embargo, es fundamental buscar experiencia profesional desde la carrera, tener claridad en intereses y objetivos para profundizar en el empleo que queremos encontrar, prepararnos y definir nuestras metas.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, mencion\u00F3 la importancia de crear un <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">curriculum vitae <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">con los elementos m\u00E1s relevantes y pensar en la audiencia o empresa a la que va dirigido. Lo siguiente ser\u00EDa la entrevista, en donde el punto clave es tener confianza estructurando el discurso. Todo parte del autoconocimiento para saber qu\u00E9 historia queremos contar en un proceso de reclutamiento.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al final de la presentaci\u00F3n, Cervantes, y Abundis contaron su experiencia siendo internas en la organizaci\u00F3n, incentivando a la comunidad a formar parte del mismo programa.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Empleo1.gif"
+		},
+		{
+			"imagen": "Empleo2.gif"
+		},
+		{
+			"imagen": "Empleo3.gif"
+		},
+		{
+			"imagen": "Empleo4.gif"
+		}	]
+
+}

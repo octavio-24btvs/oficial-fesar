@@ -1,0 +1,14 @@
+{
+	"titulo": "SEMING: Auge de los metaversos",
+	"titulo_normalizado": "seming-auge-de-los-metaversos",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor":"Gabriel Hern\u00E1ndez",
+	"fecha":"29/10/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, la carrera de Ingenier\u00EDa Mec\u00E1nica present\u00F3 la conferencia “Frontera, una visi\u00F3n a la innovaci\u00F3n virtual”, con la participaci\u00F3n de Hasem Tovar, responsable de Frontera, grupo interdisciplinario formado por estudiantes de la FES Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dicho grupo tiene la misi\u00F3n de crear ambientes virtuales interactivos como herramienta de desarrollo educativo y social a trav\u00E9s de la programaci\u00F3n, artes visuales y el dise\u00F1o.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la conferencia, Tovar explic\u00F3 que un metaverso es un mundo virtual donde podemos interactuar mediante un sistema de realidad aumentada sin limitaciones a la hora de crear e innovar. Ejemplifico c\u00F3mo diferentes empresas han comenzado una nueva era en la creaci\u00F3n de metaversos, entre ellas XRSPACE, Microsoft, Epic Games y recientemente Facebook.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta innovadora tecnolog\u00EDa ha tenido un mayor auge debido a la pandemia, en las clases, trabajo y otras actividades, lo que ha tra\u00EDdo beneficios hasta en el cambio clim\u00E1tico, debido a la reducci\u00F3n de la combusti\u00F3n de di\u00F3xido de carbono, ejemplo del c\u00F3mo los metaversos pueden ser una soluci\u00F3n para varios problemas mundiales.<\/span><\/p>",
+	"imagenes":[{"imagen":"auge-de-los-metaversos-1.jpg"},{"imagen":"auge-de-los-metaversos-2.jpg"},{"imagen":"auge-de-los-metaversos-3.jpg"},{"imagen":"auge-de-los-metaversos-4.jpg"}]
+}

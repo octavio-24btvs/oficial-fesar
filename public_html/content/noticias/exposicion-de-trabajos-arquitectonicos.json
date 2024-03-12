@@ -1,0 +1,14 @@
+{
+	"titulo": "Exposici\u00F3n de trabajos arquitect\u00F3nicos",
+	"titulo_normalizado": "exposicion-de-trabajos-arquitectonicos",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor":"Alejandro Frias",
+	"fecha":"06/05/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el vest\u00EDbulo de la Biblioteca Jes\u00FAs Reyes Heroles de la FES Arag\u00F3n, se inaugur\u00F3 una muestra arquitect\u00F3nica con los trabajos de la comunidad estudiantil. Roberto Pliego, jefe de la carrera de Arquitectura, explic\u00F3 que tres de los proyectos expuestos concursaron en el d\u00E9cimo octavo Intercambio Acad\u00E9mico Internacional de Escuelas de Arquitectura, donde uno de ellos lleg\u00F3 a la final y obtuvo menci\u00F3n honor\u00EDfica.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Adem\u00E1s de las felicitaciones a las y los participantes, Pliego se\u00F1al\u00F3 que la formaci\u00F3n que se busca dar en la Facultad tiene un objetivo m\u00E1s all\u00E1 de la <\/span>inserci\u00F3n en el campo laboral<span style=\"color: rgb(0, 0, 0); background-color: transparent;\">; explic\u00F3 que la Universidad pretende <\/span>crear l\u00EDderes<span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> que sepan coordinar y organizar grupos profesionales, as\u00ED como proponer nuevos proyectos.&nbsp;<\/span><\/p>",
+	"imagenes":[{"imagen":"exposicion-de-trabajos-arquitectonicos-1.jpg"},{"imagen":"exposicion-de-trabajos-arquitectonicos-2.jpg"},{"imagen":"exposicion-de-trabajos-arquitectonicos-3.jpg"},{"imagen":"exposicion-de-trabajos-arquitectonicos-4.jpg"},{"imagen":"exposicion-de-trabajos-arquitectonicos-5.jpg"},{"imagen":"exposicion-de-trabajos-arquitectonicos-6.jpg"},{"imagen":"exposicion-de-trabajos-arquitectonicos-7.jpg"},{"imagen":"exposicion-de-trabajos-arquitectonicos-8.jpg"}]
+}

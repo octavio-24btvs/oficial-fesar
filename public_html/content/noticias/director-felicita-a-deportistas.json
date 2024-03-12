@@ -1,0 +1,14 @@
+{
+	"titulo": "Director felicita a deportistas",
+	"titulo_normalizado": "director-felicita-a-deportistas",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		}
+	],
+	"autor":"Alejandro Frias",
+	"fecha":"04/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con motivo de felicitar y expresar su apoyo a estudiantes clasificados a la Universiada Nacional 2019, Fernando Macedo, director de la Facultad de Estudios Superiores Arag\u00F3n, organiz\u00F3 una reuni\u00F3n con las y los atletas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este encuentro, Macedo reconoci\u00F3 el esfuerzo que realizan al practicar un deporte sin descuidar sus estudios y lo importante de su participaci\u00F3n en dicha competencia deportiva. Adem\u00E1s mencion\u00F3 que tienen todo el apoyo de la Universidad para que obtengan el mejor desempe\u00F1o posible; de igual manera, les record\u00F3 esforzarse al m\u00E1ximo para llenar de orgullo a la Instituci\u00F3n.<\/span><\/p>",
+	"imagenes":[{"imagen":"director-felicita-a-deportistas-4.jpg"},{"imagen":"director-felicita-a-deportistas-3.jpg"},{"imagen":"director-felicita-a-deportistas-6.jpg"}]
+}

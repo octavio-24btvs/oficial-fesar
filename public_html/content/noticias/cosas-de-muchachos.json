@@ -1,0 +1,14 @@
+{
+	"titulo": "Cosas de muchachos",
+	"titulo_normalizado": "cosas-de-muchachos",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Adri\u00E1n Reyes",
+	"fecha":"16/11/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Una educaci\u00F3n eficaz a temprana edad es indispensable en el desarrollo social de las y los j\u00F3venes, por ese motivo la compa\u00F1\u00EDa de teatro de la FES Arag\u00F3n, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">INSHA-INICTE<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, present\u00F3 la obra teatral <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cosas de muchachos<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> en el Auditorio de la DUACyD.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La puesta en escena –bajo la direcci\u00F3n de Antonio Linares y con las actuaciones de Daniela D\u00EDaz y Carlos S\u00E1nchez– toca temas como el noviazgo, embarazo en la adolescencia, matrimonio juvenil y pobreza; con el prop\u00F3sito de concientizar sobre los riesgos de la desinformaci\u00F3n al comienzo de la vida sexual, as\u00ED como fomentar una buena comunicaci\u00F3n en el n\u00FAcleo familiar.<\/span><\/p>",
+	"imagenes":[{"imagen":"cosas-de-muchachos-1.jpg"},{"imagen":"cosas-de-muchachos-2.jpg"},{"imagen":"cosas-de-muchachos-3.jpg"},{"imagen":"cosas-de-muchachos-4.jpg"},{"imagen":"cosas-de-muchachos-5.jpg"},{"imagen":"cosas-de-muchachos-6.jpg"},{"imagen":"cosas-de-muchachos-7.jpg"}]
+}

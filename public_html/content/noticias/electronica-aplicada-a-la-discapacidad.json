@@ -1,0 +1,31 @@
+{
+	"titulo": "Electr\u00F3nica aplicada a la discapacidad",
+	"titulo_normalizado": "electronica-aplicada-a-la-discapacidad",
+	"secciones": [
+		{
+			"seccion": "#ProyecciónAragón",
+			"seccion_normalizada": "proyeccion-aragon"
+		},
+		{
+			"seccion": "Ingeniería Eléctrica Electrónica",
+			"seccion_normalizada": "electrica-electronica"
+		}
+	],
+	"autor": "Cynthia V\u00E1zquez",
+	"fecha": "19/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con la inquietud por crear proyectos enfocados en el tema de la inclusi\u00F3n, Ismael D\u00EDaz, Juan Manuel Hern\u00E1ndez, Juan Gastaldi y Alejandro Serapio, profesores de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica, adem\u00E1s de integrantes del <\/span><span style=\"color: rgb(0, 0, 0);\">Grupo IDEA (Ingenier\u00EDa y Desarrollo con Electr\u00F3nica Aplicada)<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, desarrollan un “Sistema aumentativo y alternativo de comunicaci\u00F3n”, mediante el Programa de Apoyo a Proyectos de Investigaci\u00F3n e Innovaci\u00F3n Tecnol\u00F3gica (PAPIIT).<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este proyecto cuenta con la participaci\u00F3n de estudiantes de los \u00FAltimos semestres de la carrera, pues Grupo IDEA pretende que la comunidad participante identifique necesidades dentro de la sociedad y estas se resuelvan con la aplicaci\u00F3n de la electr\u00F3nica.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">El p\u00FAblico objetivo del proyecto son aquellas personas quienes han perdido la motricidad fina y la capacidad de hablar: pacientes con esclerosis lateral o m\u00FAltiple, traumatismo craneoencef\u00E1lico. Esto se logra mediante pictogramas y botones controlados a trav\u00E9s de sistemas desarrollados por estudiantes. El equipo de trabajo ha logrado crear dispositivos desde cero, es decir desde la impresi\u00F3n de los materiales hasta la aplicaci\u00F3n de <\/span><em style=\"color: rgb(0, 0, 0);\">softwares <\/em><span style=\"color: rgb(0, 0, 0);\">para el funcionamiento de aparatos, los cuales permiten la comunicaci\u00F3n de manera no verbal.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Para conocer m\u00E1s acerca de este proyecto se pueden consultar publicaciones como tesis ubicadas en la biblioteca de la UNAM, adem\u00E1s de peri\u00F3dicos, revistas y congresos donde se ha expuesto. Los investigadores invitaron a las y los estudiantes interesados a sumarse a dicho proyecto para continuar aportando a la sociedad.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "IDEA1.gif"
+		},
+		{
+			"imagen": "IDEA2.gif"
+		},
+		{
+			"imagen": "IDEA3.gif"
+		},
+		{
+			"imagen": "IDEA4.gif"
+		}	]
+
+}

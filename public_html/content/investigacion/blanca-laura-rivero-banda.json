@@ -1,0 +1,22 @@
+{
+    "nombre": "Blanca Laura Rivero Banda", 
+    "grado_academico": "Doctora", 
+    "correo": [ "blancarivero23@aragon.unam.mx"], 
+    "estudios": [
+        "Licenciatura en Derecho. Universidad Nacional Autónoma de México.", 
+        "Maestría en Desarrollo Humano. Centro Jurídico Universitario.", 
+        "Maestría en Amparo. Centro Jurídico Universitario.", 
+        "Maestría en Derecho (Ciencias Penales). Universidad Nacional Autónoma de México.", 
+        "Doctorado en Política Criminal. Centro Jurídico Universitario."
+    ], 
+    "lineas_investigacion": [
+        "Procesal constitucional.", 
+        "Derechos de menores e incapaces.", 
+        "Cumplimiento de ejecutorías de amparo."
+    ], 
+    "investigaciones": [
+        "Coordinación de una compilación respecto a temas de derecho de familia involucrando menores e incapaces.", 
+        "Investigación de violación a Derechos Humanos por la prensa.", 
+        "Declaratoria General de Inconstitucionalidad como medio de Control Constitucional."
+    ]
+}

@@ -1,0 +1,658 @@
+{
+	"id": 36,
+	"titulo": "G\u00E9nero",
+	"icono": "icon-genero",
+	"noticias": [
+		{
+			"titulo":"Una mirada al Estado laico",
+			"titulo_normalizado":"una-mirada-al-estado-laico",
+			"autor":"Liliana Espinosa",
+			"imagen": "una-mirada-a-la-iglesia-y-el-mexico-contemporaneo-1.jpg",
+			"fecha":"31/10/19"
+		},
+		{
+			"titulo":"25N: Mujeres sin violencia, mujeres libres",
+			"titulo_normalizado":"25n-mujeres-sin-violencia-mujeres-libres",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "mujeres-sin-violencia-mujeres-libres-1.jpg",
+			"fecha":"30/11/22"
+		},
+		{
+			"titulo":"25N: Alzan la voz contra la violencia hacia la mujer",
+			"titulo_normalizado":"25n-alzan-la-voz-contra-la-violencia-hacia-la-mujer",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "alzan-la-voz-contra-la-violencia-hacia-la-mujer-1.jpg",
+			"fecha":"30/11/22"
+		},
+		{
+			"titulo":"Pensamientos que excluyen",
+			"titulo_normalizado":"pensamientos-que-excluyen",
+			"autor":"Alberto Ochoa",
+			"imagen": "Pensamientos1.gif",
+			"fecha":"30/06/21"
+		},
+		{
+			"titulo":"SeCom23: Mujeres artistas cineastas",
+			"titulo_normalizado":"secom23-mujeres-artistas-cineastas",
+			"autor":"Monserrat Jimenez",
+			"imagen": "CineM1.gif",
+			"fecha":"30/03/23"
+		},
+		{
+			"titulo":"25N: Circuito de crossfit femenil",
+			"titulo_normalizado":"25n-circuito-de-crossfit-femenil",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "crossfit-femenil-1.jpg",
+			"fecha":"29/11/22"
+		},
+		{
+			"titulo":"Aragonesa presenta iniciativa sobre g\u00E9nero",
+			"titulo_normalizado":"aragonesa-presenta-iniciativa-sobre-genero",
+			"autor":"Erik Pliego",
+			"imagen": "Pleno1.gif",
+			"fecha":"29/06/23"
+		},
+		{
+			"titulo":"25N: Una forma de denunciar violencias ocultas",
+			"titulo_normalizado":"25n-una-forma-de-denunciar-violencias-ocultas",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "una-forma-de-denunciar-violencias-ocultas-1.jpg",
+			"fecha":"28/11/22"
+		},
+		{
+			"titulo":"Eliminar la violencia con el juego",
+			"titulo_normalizado":"eliminar-la-violencia-con-el-juego",
+			"autor":"Redacci\u00F3n",
+			"imagen": "eliminar_la_violencia_con_el_juego-1.jpg",
+			"fecha":"28/11/19"
+		},
+		{
+			"titulo":"El drag como transgresi\u00F3n",
+			"titulo_normalizado":"el-drag-como-transgresion",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "Drag1.gif",
+			"fecha":"28/06/21"
+		},
+		{
+			"titulo":"La necesidad de profesionales de la salud LGBT",
+			"titulo_normalizado":"la-necesidad-de-profesionales-de-la-salud-lgbt",
+			"autor":"Sianya S\u00E1nchez",
+			"imagen": "la-necesidad-de-profesionales-de-la-salud-lgbt-1.jpg",
+			"fecha":"28/06/21"
+		},
+		{
+			"titulo":"Movimientos del orgullo: visibilizando las diversidades",
+			"titulo_normalizado":"movimientos-del-orgullo-visibilizando-las-diversidades",
+			"autor":"Rosa Francisco",
+			"imagen": "movimientos-del-orgullo-visibilizando-las-diversidades-1.jpg",
+			"fecha":"28/06/21"
+		},
+		{
+			"titulo":"Las letras de nuestra diversidad",
+			"titulo_normalizado":"las-letras-de-nuestra-diversidad",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "letras-nuestra-diversidad-1.jpg",
+			"fecha":"28/06/21"
+		},
+		{
+			"titulo":"SeCom23: Videojuegos y g\u00E9nero",
+			"titulo_normalizado":"secom23-videojuegos-y-genero",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Juegos1.gif",
+			"fecha":"28/03/23"
+		},
+		{
+			"titulo":"Para entender mejor la violencia de g\u00E9nero",
+			"titulo_normalizado":"para-entender-mejor-la-violencia-de-genero",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "Para-entender-mejor-la-violencia-de-genero-1.jpg",
+			"fecha":"28/02/19"
+		},
+		{
+			"titulo":"25N: Cuentos de buenas noches para ni\u00F1as rebeldes",
+			"titulo_normalizado":"25n-cuentos-de-buenas-noches-para-ninas-rebeldes",
+			"autor":"Rodrigo Perea",
+			"imagen": "cuentos-de-buenas-noches-para-ninas-1.jpg",
+			"fecha":"27/11/20"
+		},
+		{
+			"titulo":"25N: Mujeres en carreras de STEM",
+			"titulo_normalizado":"25n-mujeres-en-carreras-de-stem",
+			"autor":"Alexia Ochoa",
+			"imagen": "mujeres-en-carreras-de-stem-1.jpg",
+			"fecha":"27/11/20"
+		},
+		{
+			"titulo":"25N: Ley Olimpia, una muestra de valent\u00EDa",
+			"titulo_normalizado":"25n-ley-olimpia-una-muestra-de-valentia",
+			"autor":"Rodrigo Perea",
+			"imagen": "ley-olimpia-muestra-de-1.jpg",
+			"fecha":"27/11/20"
+		},
+		{
+			"titulo":"Acciones contundentes: creaci\u00F3n del Comit\u00E9 de G\u00E9nero FES Arag\u00F3n",
+			"titulo_normalizado":"acciones-contundentes-creacion-del-comite-de-genero-fes-aragon",
+			"autor":"Redacci\u00F3n",
+			"imagen": "comite-de-genero-1.jpg",
+			"fecha":"27/02/20"
+		},
+		{
+			"titulo":"25N: Entre la realidad y un cuento",
+			"titulo_normalizado":"25n-entre-la-realidad-y-un-cuento",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "entre-la-realidad-y-un-cuento-1.jpg",
+			"fecha":"26/11/21"
+		},
+		{
+			"titulo":"25N: Generando cambios",
+			"titulo_normalizado":"25n-generando-cambios",
+			"autor":"Redacci\u00F3n",
+			"imagen": "25n-generando-cambios-1.jpg",
+			"fecha":"26/11/20"
+		},
+		{
+			"titulo":"25N: Pedalear al \u00E9xito: ciclista mexicana inspira a seguir los sue\u00F1os",
+			"titulo_normalizado":"25n-pedalear-al-exito-ciclista-mexicana-inspira-a-seguir-los-suenos",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "pedalear-al-exito-ciclista-mexicana-inspira-a-seguir-los-suenos-1.jpg",
+			"fecha":"25/11/22"
+		},
+		{
+			"titulo":"25N: Jornada contra la violencia hacia las mujeres",
+			"titulo_normalizado":"25n-jornada-contra-la-violencia-hacia-las-mujeres",
+			"autor":"Redacci\u00F3n",
+			"imagen": "25n-jornada-contra-la-violencia-hacia-las-mujeres-1.jpg",
+			"fecha":"25/11/20"
+		},
+		{
+			"titulo":"Apoyo en casos de violencia de g\u00E9nero",
+			"titulo_normalizado":"apoyo-en-casos-de-violencia-de-genero",
+			"autor":"Alejandro Frias",
+			"imagen": "apoyo-en-casos-de-violencia-1_.jpg",
+			"fecha":"25/02/19"
+		},
+		{
+			"titulo":"Nociones sobre g\u00E9nero y diversidad sexual",
+			"titulo_normalizado":"nociones-sobre-genero-y-diversidad-sexual",
+			"autor":"Yutsil Montesinos",
+			"imagen": "nociones-sobre-genero-y-diversidad-sexual-1.jpg",
+			"fecha":"24/05/19"
+		},
+		{
+			"titulo":"El orgullo de la diversidad",
+			"titulo_normalizado":"el-orgullo-de-la-diversidad",
+			"autor":"Rosa Francisco",
+			"imagen": "el-orgullo-de-la-diversidad-1.jpg",
+			"fecha":"23/06/22"
+		},
+		{
+			"titulo":"Mujeres, fundamentales para el desarrollo econ\u00F3mico",
+			"titulo_normalizado":"mujeres-fundamentales-para-el-desarrollo-economico",
+			"autor":"Luis Bocanegra",
+			"imagen": "mujeres-fundamentales-para-el-desarrollo-economico-1.jpg",
+			"fecha":"23/04/19"
+		},
+		{
+			"titulo":"Pensemos las diversidades sexo-gen\u00E9ricas todo el a\u00F1o",
+			"titulo_normalizado":"pensemos-las-diversidades-sexo-genericas-todo-el-ano",
+			"autor":"Diego Flores",
+			"imagen": "pensemos-las-diversidades-sexo-genericas-1.jpg",
+			"fecha":"22/06/22"
+		},
+		{
+			"titulo":"La participaci\u00F3n femenina en el campo agr\u00EDcola",
+			"titulo_normalizado":"la-participacion-femenina-en-el-campo-agricola",
+			"autor":"Yutsil Hern\u00E1ndez",
+			"imagen": "img-1.jpg",
+			"fecha":"21/10/18"
+		},
+		{
+			"titulo":"Movimientos feministas en pro del avance social",
+			"titulo_normalizado":"movimientos-feministas-en-pro-del-avance-social",
+			"autor":"Marisol Gonz\u00E1lez",
+			"imagen": "IMG_8521.png",
+			"fecha":"21/10/18"
+		},
+		{
+			"titulo":"Perspectiva de g\u00E9nero en Semana de PDA",
+			"titulo_normalizado":"perspectiva-de-genero-en-semana-de-pda",
+			"autor":"Alison Vargas",
+			"imagen": "Rubén Hernández impartiendo la conferencia del CIEG.jpg",
+			"fecha":"20/10/18"
+		},
+		{
+			"titulo":"Incluyendo a todas las personas",
+			"titulo_normalizado":"incluyendo-a-todas-las-personas",
+			"autor":"Carmen Melendez",
+			"imagen": "incluyendo-a-todas-las-personas-1.jpg",
+			"fecha":"20/03/19"
+		},
+		{
+			"titulo":"Exhibici\u00F3n de futbol para crear conciencia",
+			"titulo_normalizado":"exhibicion-de-futbol-para-crear-conciencia",
+			"autor":"Edith Granados",
+			"imagen": "Exhibicion-de-futbol-para-crear-conciencia-1.jpg",
+			"fecha":"20/03/19"
+		},
+		{
+			"titulo":"Muxes, el tercer g\u00E9nero",
+			"titulo_normalizado":"muxes-el-tercer-genero",
+			"autor":"Alberto Sosa",
+			"imagen": "muxes-el-tercer-genero-1.jpg",
+			"fecha":"17/10/18"
+		},
+		{
+			"titulo":"Festival de las Diversidades Sexogen\u00E9ricas",
+			"titulo_normalizado":"festival-de-las-diversidades-sexogenericas",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Diversidades1.gif",
+			"fecha":"17/05/23"
+		},
+		{
+			"titulo":"Educaci\u00F3n para la Inclusi\u00F3n: La Cartilla LGBTTTIQA+",
+			"titulo_normalizado":"educacion-para-la-inclusion-la-cartilla-lgbtttiqa",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "CArtilla2.gif",
+			"fecha":"15/11/23"
+		},
+		{
+			"titulo":"CIMN22: Inclusi\u00F3n social",
+			"titulo_normalizado":"cimn22-inclusion-social",
+			"autor":"Alexis Rey",
+			"imagen": "Inclusivo1.gif",
+			"fecha":"15/10/22"
+		},
+		{
+			"titulo":"11F: La mujer en el arte",
+			"titulo_normalizado":"11f-la-mujer-en-el-arte",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "11f-la-mujer-en-el-arte-1.jpg",
+			"fecha":"15/02/23"
+		},
+		{
+			"titulo":"11F: Ser mujer en las ingenier\u00EDas",
+			"titulo_normalizado":"11f-ser-mujer-en-las-ingenierias",
+			"autor":"Redacci\u00F3n",
+			"imagen": "11f-ser-mujer-en-las-ingenierias-1.jpg",
+			"fecha":"15/02/23"
+		},
+		{
+			"titulo":"Redes Sociales y su influencia en  g\u00E9nero y feminismo",
+			"titulo_normalizado":"redes-sociales-y-su-influencia-en--genero-y-feminismo",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "redes-sociales-y-su-influencia-buena-y-mala-en-genero-y-feminismo-1.jpg",
+			"fecha":"14/10/19"
+		},
+		{
+			"titulo":"Una vida sin violencia de g\u00E9nero",
+			"titulo_normalizado":"una-vida-sin-violencia-de-genero",
+			"autor":"Mohamed Lomel\u00ED y Marisol Gonz\u00E1lez",
+			"imagen": "img-1.jpg",
+			"fecha":"14/10/18"
+		},
+		{
+			"titulo":"8M: Ejes de acci\u00F3n contra la violencia de g\u00E9nero",
+			"titulo_normalizado":"8m-ejes-de-accion-contra-la-violencia-de-genero",
+			"autor":"Kenia Brodman",
+			"imagen": "Ejes1.gif",
+			"fecha":"14/03/22"
+		},
+		{
+			"titulo":"Dialogar por la igualdad",
+			"titulo_normalizado":"dialogar-por-la-igualdad",
+			"autor":"Adri\u00E1n Reyes",
+			"imagen": "dialogar-por-la-igualdad-1.jpg",
+			"fecha":"14/03/20"
+		},
+		{
+			"titulo":"CIMN22: El impacto de las mujeres en sociedad",
+			"titulo_normalizado":"cimn22-el-impacto-de-las-mujeres-en-sociedad",
+			"autor":"Alexis Rey",
+			"imagen": "Sociedad1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN 22: La violencia basada en el g\u00E9nero",
+			"titulo_normalizado":"cimn-22-la-violencia-basada-en-el-genero",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Violencia1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN22: La violencia basada en el g\u00E9nero",
+			"titulo_normalizado":"cimn22-la-violencia-basada-en-el-genero",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Foto1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN22: Derechos de las mujeres ind\u00EDgenas",
+			"titulo_normalizado":"cimn22-derechos-de-las-mujeres-indigenas",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Mujeres1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"Hermila Galindo: legado de activismo feminista",
+			"titulo_normalizado":"hermila-galindo-legado-de-activismo-feminista",
+			"autor":"Beatriz Calva",
+			"imagen": "auditorio-1.jpg",
+			"fecha":"13/03/23"
+		},
+		{
+			"titulo":"Mujeres de acci\u00F3n",
+			"titulo_normalizado":"mujeres-de-accion",
+			"autor":"Thalia Ortega",
+			"imagen": "mujeres-de-accion-1.jpg",
+			"fecha":"13/03/20"
+		},
+		{
+			"titulo":"Nuevas masculinidades",
+			"titulo_normalizado":"nuevas-masculinidades",
+			"autor":"Erik Pliego",
+			"imagen": "Nuevas-masculinidades-01.jpg",
+			"fecha":"13/03/20"
+		},
+		{
+			"titulo":"11F: Por un estudio igualitario",
+			"titulo_normalizado":"11f-por-un-estudio-igualitario",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "11f-por-un-estudio-igualitario-1.jpg",
+			"fecha":"13/02/23"
+		},
+		{
+			"titulo":"CIMN22: Mujeres en la ciencia y sociedad",
+			"titulo_normalizado":"cimn22-mujeres-en-la-ciencia-y-sociedad",
+			"autor":"Alexis Rey",
+			"imagen": "Ciencia1.gif",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"Expresiones por la inclusi\u00F3n",
+			"titulo_normalizado":"expresiones-por-la-inclusion",
+			"autor":"Erik Pliego",
+			"imagen": "expresiones-por-la-inclusion-1.jpg",
+			"fecha":"12/03/20"
+		},
+		{
+			"titulo":"Transformar por medio del deporte",
+			"titulo_normalizado":"transformar-por-medio-del-deporte",
+			"autor":"Thalia Ortega",
+			"imagen": "transformar-por-medio-del-deporte-1.jpg",
+			"fecha":"12/03/20"
+		},
+		{
+			"titulo":"8M: Taller Mujeres en las profesiones",
+			"titulo_normalizado":"8m-taller-mujeres-en-las-profesiones",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Taller1.gif",
+			"fecha":"11/03/22"
+		},
+		{
+			"titulo":"Jornada de reflexi\u00F3n, denuncia y defensa",
+			"titulo_normalizado":"jornada-de-reflexion-denuncia-y-defensa",
+			"autor":"Erik Pliego",
+			"imagen": "jornada-de-reflexion-denuncia-y-defensa-1.jpg",
+			"fecha":"11/03/20"
+		},
+		{
+			"titulo":"Poes\u00EDa feminista prof\u00E9tica y m\u00FAsica",
+			"titulo_normalizado":"poesia-feminista-profetica-y-musica",
+			"autor":"Thalia Ortega",
+			"imagen": "poesia-feminista-profetica-y-musica-1.jpg",
+			"fecha":"11/03/20"
+		},
+		{
+			"titulo":"Abogada General de la UNAM visita la FES Arag\u00F3n",
+			"titulo_normalizado":"abogada-general-de-la-unam-visita-la-fes-aragon",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "abogada-general-de-la-unam-visita-la-fes-aragon-1.jpg",
+			"fecha":"11/03/20"
+		},
+		{
+			"titulo":"Diputadas y aragonesas se divierten en partido de futbol",
+			"titulo_normalizado":"diputadas-y-aragonesas-se-divierten-en-partido-de-futbol",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "diputadas-y-aragonesas-se-divierten-en-partido-de-futbol-1.jpg",
+			"fecha":"11/03/20"
+		},
+		{
+			"titulo":"Unidxs por -Roles + Igualdad",
+			"titulo_normalizado":"unidxs-por--roles--igualdad",
+			"autor":"Thalia Ortega",
+			"imagen": "unidxs-por-roles-1.jpg",
+			"fecha":"11/03/20"
+		},
+		{
+			"titulo":"Clase espejo sobre derechos humanos",
+			"titulo_normalizado":"clase-espejo-sobre-derechos-humanos",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "clase-espejo-sobre-derechos-1.jpg",
+			"fecha":"11/03/19"
+		},
+		{
+			"titulo":"11F: Mujeres cient\u00EDficamente extraordinarias",
+			"titulo_normalizado":"11f-mujeres-cientificamente-extraordinarias",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "mujeres-cientificas-1.gif",
+			"fecha":"11/02/22"
+		},
+		{
+			"titulo":"11F: Mujeres en el SNI de la FES Arag\u00F3n",
+			"titulo_normalizado":"11f-mujeres-en-el-sni-de-la-fes-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "ONCE-EFE-1.jpg",
+			"fecha":"11/02/22"
+		},
+		{
+			"titulo":"8M: \u00BFQu\u00E9 podemos aprender del estafador de Tinder?",
+			"titulo_normalizado":"8m-que-podemos-aprender-del-estafador-de-tinder",
+			"autor":"Rosa Francisco",
+			"imagen": "8m-que-podemos-aprender-del-estafador-de-tinder-1.jpg",
+			"fecha":"10/03/22"
+		},
+		{
+			"titulo":"8M: No hay ciencia sin mujeres",
+			"titulo_normalizado":"8m-no-hay-ciencia-sin-mujeres",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "8m-no-hay-ciencia-sin-mujeres-1.jpg",
+			"fecha":"10/03/22"
+		},
+		{
+			"titulo":"Se inauguran las actividades - Roles + Igualdad",
+			"titulo_normalizado":"se-inauguran-las-actividades---roles--igualdad",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Se_inaugura_la_semana_-Roles_+Igualdad02.jpg",
+			"fecha":"10/03/20"
+		},
+		{
+			"titulo":"Redefinir conceptos sobre Derecho Familiar",
+			"titulo_normalizado":"redefinir-conceptos-sobre-derecho-familiar",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": " Redefinir-conceptos-sobre-derecho-familiar-3.jpg",
+			"fecha":"10/03/19"
+		},
+		{
+			"titulo":"Colaboraci\u00F3n en pro de la inclusi\u00F3n",
+			"titulo_normalizado":"colaboracion-en-pro-de-la-inclusion",
+			"autor":"Carmen Melendez",
+			"imagen": "colaboracion-en-pro-de-la-inclusion-1.jpg",
+			"fecha":"10/01/19"
+		},
+		{
+			"titulo":"Perspectiva de g\u00E9nero",
+			"titulo_normalizado":"perspectiva-de-genero",
+			"autor":"Aurelio Nito",
+			"imagen": "perspectiva-de-genero-1.jpg",
+			"fecha":"09/04/19"
+		},
+		{
+			"titulo":"Primera sesi\u00F3n de la CInIG",
+			"titulo_normalizado":"primera-sesion-de-la-cinig",
+			"autor":"Erik Pliego",
+			"imagen": "Comisión1.gif",
+			"fecha":"09/03/22"
+		},
+		{
+			"titulo":"La masculinidad durante el 9M",
+			"titulo_normalizado":"la-masculinidad-durante-el-9m",
+			"autor":"Erik Pliego",
+			"imagen": "la-masculinidad-durante-el-9m-1.jpg",
+			"fecha":"09/03/20"
+		},
+		{
+			"titulo":"Mujeres en situaci\u00F3n de vulnerabilidad",
+			"titulo_normalizado":"mujeres-en-situacion-de-vulnerabilidad",
+			"autor":"Edith Granados",
+			"imagen": "mujeres-en-situacion-de-vulnerabilidad-1.jpg",
+			"fecha":"08/11/18"
+		},
+		{
+			"titulo":"8M: Investigadoras unidas",
+			"titulo_normalizado":"8m-investigadoras-unidas",
+			"autor":"Diego Flores",
+			"imagen": "8m-investigadoras-unidas.jpg",
+			"fecha":"08/03/22"
+		},
+		{
+			"titulo":"De la violencia a la sororidad",
+			"titulo_normalizado":"de-la-violencia-a-la-sororidad",
+			"autor":"Alex Frias",
+			"imagen": "De-la-violencia-a-la-sororidad-1.jpg",
+			"fecha":"08/03/19"
+		},
+		{
+			"titulo":"Mujeres destacadas",
+			"titulo_normalizado":"mujeres-destacadas",
+			"autor":"Redacci\u00F3n",
+			"imagen": "mujeres-destacadas-1.jpg",
+			"fecha":"08/03/19"
+		},
+		{
+			"titulo":"Para entender el feminismo",
+			"titulo_normalizado":"para-entender-el-feminismo",
+			"autor":"Alejandro Frias",
+			"imagen": "para-entender-el-feminismo-1.jpg",
+			"fecha":"08/02/19"
+		},
+		{
+			"titulo":"Espacio para informar sobre perspectivas de g\u00E9nero",
+			"titulo_normalizado":"espacio-para-informar-sobre-perspectivas-de-genero",
+			"autor":"Carmen Melendez",
+			"imagen": "espacio-sobre-perspectivas-de-genero-1.jpg",
+			"fecha":"07/11/18"
+		},
+		{
+			"titulo":"La mujer en la arquitectura",
+			"titulo_normalizado":"la-mujer-en-la-arquitectura",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "la-mujer-en-la-arquitectura-1.jpg",
+			"fecha":"07/05/19"
+		},
+		{
+			"titulo":"Condecoraci\u00F3n a acad\u00E9micas universitarias",
+			"titulo_normalizado":"condecoracion-a-academicas-universitarias",
+			"autor":"Daniela Reyes",
+			"imagen": "Condecoracion-a-academicas-universitarias-1.jpg",
+			"fecha":"07/03/19"
+		},
+		{
+			"titulo":"Una mejor convivencia a trav\u00E9s de la inclusi\u00F3n",
+			"titulo_normalizado":"una-mejor-convivencia-a-traves-de-la-inclusion",
+			"autor":"Redacci\u00F3n",
+			"imagen": "una-mejor-convivencia-a-traves-de-la-inclucion-1.jpg",
+			"fecha":"06/11/19"
+		},
+		{
+			"titulo":"8M: Reflexiones sobre igualdad sustantiva",
+			"titulo_normalizado":"8m-reflexiones-sobre-igualdad-sustantiva",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "Igualdad1.gif",
+			"fecha":"06/03/22"
+		},
+		{
+			"titulo":"Acci\u00F3n tutorial y espacios sin violencia",
+			"titulo_normalizado":"accion-tutorial-y-espacios-sin-violencia",
+			"autor":"Erik Pliego",
+			"imagen": "accion-tutorial-y-espacios-sin-violencia-1.jpg",
+			"fecha":"06/03/20"
+		},
+		{
+			"titulo":"Perspectiva feminista de Roma",
+			"titulo_normalizado":"perspectiva-feminista-de-roma",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "Perspectiva-feminista-de-Roma-1.jpg",
+			"fecha":"06/03/19"
+		},
+		{
+			"titulo":"Defensa personal para aragonesas",
+			"titulo_normalizado":"defensa-personal-para-aragonesas",
+			"autor":"Alex Frias",
+			"imagen": "Defensa-personal-para-aragonesas-1.jpg",
+			"fecha":"06/03/19"
+		},
+		{
+			"titulo":"Violencia entre pareja, asunto serio",
+			"titulo_normalizado":"violencia-entre-pareja-asunto-serio",
+			"autor":"Ricardo V\u00E1zquez",
+			"imagen": "violencia-entre-pareja-1.jpg",
+			"fecha":"06/03/19"
+		},
+		{
+			"titulo":"Informaci\u00F3n de salud para la mujer",
+			"titulo_normalizado":"informacion-de-salud-para-la-mujer",
+			"autor":"Edith Granados",
+			"imagen": "Informacion-de-salud-para-la-mujer-1.jpg",
+			"fecha":"06/03/19"
+		},
+		{
+			"titulo":"Cuidados comunitarios: un di\u00E1logo transformador",
+			"titulo_normalizado":"cuidados-comunitarios-un-dialogo-transformador",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Comunitarios2.gif",
+			"fecha":"05/10/23"
+		},
+		{
+			"titulo":"Ciclo de lectura feminista",
+			"titulo_normalizado":"ciclo-de-lectura-feminista",
+			"autor":"Daniela Reyes",
+			"imagen": "Ciclo-de-lectura-feminista-1.jpg",
+			"fecha":"05/03/19"
+		},
+		{
+			"titulo":"SECOM22: Las mujeres no deben ser extranjeras en el deporte",
+			"titulo_normalizado":"secom22-las-mujeres-no-deben-ser-extranjeras-en-el-deporte",
+			"autor":"Kenia Brodman",
+			"imagen": "Periodismo1.gif",
+			"fecha":"04/04/22"
+		},
+		{
+			"titulo":"Reflexiones sobre los cuidados",
+			"titulo_normalizado":"reflexiones-sobre-los-cuidados",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Cuidados1.gif",
+			"fecha":"03/10/23"
+		},
+		{
+			"titulo":"8M: Prevenci\u00F3n de violencia digital",
+			"titulo_normalizado":"8m-prevencion-de-violencia-digital",
+			"autor":"Alejandro Trujillo",
+			"imagen": "8m-1.JPG",
+			"fecha":"03/03/23"
+		},
+		{
+			"titulo":"Rostros de mujeres ind\u00EDgenas",
+			"titulo_normalizado":"rostros-de-mujeres-indigenas",
+			"autor":"Marisol Gonz\u00E1lez",
+			"imagen": "img-1.jpg",
+			"fecha":"02/09/18"
+		},
+		{
+			"titulo":"Compromiso en contra de la violencia de g\u00E9nero",
+			"titulo_normalizado":"compromiso-en-contra-de-la-violencia-de-genero",
+			"autor":"Thalia Ortega",
+			"imagen": "firma-de-convenio-1.jpg",
+			"fecha":"02/07/20"
+		}
+	]
+}

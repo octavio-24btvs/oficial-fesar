@@ -1,0 +1,189 @@
+{
+	"id": 6,
+	"titulo": "Ciencias Sociales",
+	"icono": "icon-ciencias-sociales",
+	"noticias": [
+		{
+			"titulo":"Las matem\u00E1ticas en Sociolog\u00EDa",
+			"titulo_normalizado":"las-matematicas-en-sociologia",
+			"autor":"Kenia Brodman",
+			"imagen": "MAte5.gif",
+			"fecha":"30/03/22"
+		},
+		{
+			"titulo":"XVCIMI: \u00BFLa extinci\u00F3n humana?",
+			"titulo_normalizado":"xvcimi-la-extincion-humana",
+			"autor":"Alexis Rey",
+			"imagen": "ARMAGEDON1.png",
+			"fecha":"27/10/22"
+		},
+		{
+			"titulo":"XVCIMI: La independencia intelectual",
+			"titulo_normalizado":"xvcimi-la-independencia-intelectual",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Independencia1.gif",
+			"fecha":"26/10/22"
+		},
+		{
+			"titulo":"XVCIMI: Ciencias sociales",
+			"titulo_normalizado":"xvcimi-ciencias-sociales",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "IMG-20221101-WA0012.jpg",
+			"fecha":"25/10/22"
+		},
+		{
+			"titulo":"Hablemos del conflicto Rusia - Ucrania",
+			"titulo_normalizado":"hablemos-del-conflicto-rusia---ucrania",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "conflicto-ur-1.jpg",
+			"fecha":"25/02/22"
+		},
+		{
+			"titulo":"CCH Oriente: testimonios en su 50 aniversario",
+			"titulo_normalizado":"cch-oriente-testimonios-en-su-50-aniversario",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "CCH1.gif",
+			"fecha":"23/08/23"
+		},
+		{
+			"titulo":"Los retos de la 4T: perspectivas sociales",
+			"titulo_normalizado":"los-retos-de-la-4t-perspectivas-sociales",
+			"autor":"Luis Bocanegra",
+			"imagen": "Los-retos-de-la-4t-perspectivas-sociales-1.jpg",
+			"fecha":"21/03/19"
+		},
+		{
+			"titulo":"El Congreso reconoce el m\u00E9rito docente aragon\u00E9s",
+			"titulo_normalizado":"el-congreso-reconoce-el-merito-docente-aragones",
+			"autor":"Erik Pliego",
+			"imagen": "Ponce1.gif",
+			"fecha":"18/05/23"
+		},
+		{
+			"titulo":"Adi\u00F3s al 68",
+			"titulo_normalizado":"adios-al-68",
+			"autor":"Aurelio Nito",
+			"imagen": "presentacion-del-libro-adios-al-68-1.jpg",
+			"fecha":"12/03/19"
+		},
+		{
+			"titulo":"Ameno recital para despedir el a\u00F1o en la FES Arag\u00F3n",
+			"titulo_normalizado":"ameno-recital-para-despedir-el-ano-en-la-fes-aragon",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "Ameno-recital-para-despedir-el-año-FES-Aragón-1.jpg",
+			"fecha":"10/12/18"
+		},
+		{
+			"titulo":"Violencia futbolera",
+			"titulo_normalizado":"violencia-futbolera",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Fut1.gif",
+			"fecha":"10/03/22"
+		},
+		{
+			"titulo":"Inversiones y Premios: Reto Actinver 2023",
+			"titulo_normalizado":"inversiones-y-premios-reto-actinver-2023",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Actinver2.gif",
+			"fecha":"09/10/23"
+		},
+		{
+			"titulo":"Explorando la moda y la belleza desde los desaf\u00EDos culturales",
+			"titulo_normalizado":"explorando-la-moda-y-la-belleza-desde-los-desafios-culturales",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Moda.gif",
+			"fecha":"08/11/23"
+		},
+		{
+			"titulo":"Entre las cuerdas y la cultura: Explorando la lucha libre mexicana",
+			"titulo_normalizado":"entre-las-cuerdas-y-la-cultura-explorando-la-lucha-libre-mexicana",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Lucha1.gif",
+			"fecha":"08/11/23"
+		},
+		{
+			"titulo":"Conoce la maqueta h\u00E1ptica de la FES Arag\u00F3n",
+			"titulo_normalizado":"conoce-la-maqueta-haptica-de-la-fes-aragon",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "conoce-maqueta-haptica-de-la-fes-aragon-1.jpg",
+			"fecha":"07/12/21"
+		},
+		{
+			"titulo":"Las nuevas normalidades: Los contextos que cambian una sociedad",
+			"titulo_normalizado":"las-nuevas-normalidades-los-contextos-que-cambian-una-sociedad",
+			"autor":"Axel Garc\u00EDa",
+			"imagen": "Normalidades1.gif",
+			"fecha":"07/11/23"
+		},
+		{
+			"titulo":"Reacreditaci\u00F3n de dos licenciaturas de Ciencias Sociales",
+			"titulo_normalizado":"reacreditacion-de-dos-licenciaturas-de-ciencias-sociales",
+			"autor":"Luis Bocanegra",
+			"imagen": "reacreditacion-de-dos-licenciaturas-de-ciencias-sociales-1.jpg",
+			"fecha":"07/05/19"
+		},
+		{
+			"titulo":"Termina Conversatorio FES Arag\u00F3n Inspira",
+			"titulo_normalizado":"termina-conversatorio-fes-aragon-inspira",
+			"autor":"Thalia Ortega",
+			"imagen": "termina-conversatorio-fes-aragon-inspira-1.jpg",
+			"fecha":"06/11/19"
+		},
+		{
+			"titulo":"Vivencias que motivan",
+			"titulo_normalizado":"vivencias-que-motivan",
+			"autor":"Redacci\u00F3n",
+			"imagen": "vivencias-que-motivan-1.jpg",
+			"fecha":"06/11/19"
+		},
+		{
+			"titulo":"Aragoneses con \u00E9xito sirviendo a la sociedad",
+			"titulo_normalizado":"aragoneses-con-exito-sirviendo-a-la-sociedad",
+			"autor":"Liliana Espinosa",
+			"imagen": "aragoneses-con-exito-sirviendo-a-la-sociedad-1.jpg",
+			"fecha":"05/11/19"
+		},
+		{
+			"titulo":"Escribir buenas historias",
+			"titulo_normalizado":"escribir-buenas-historias",
+			"autor":"Thalia Ortega",
+			"imagen": "escribir-buenas-historias-1.jpg",
+			"fecha":"05/11/19"
+		},
+		{
+			"titulo":"Reacreditan a Sociolog\u00EDa y Comunicaci\u00F3n y Periodismo",
+			"titulo_normalizado":"reacreditan-a-sociologia-y-comunicacion-y-periodismo",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "Reacreditacion-a-planes-de-estudio-1.jpg",
+			"fecha":"05/03/19"
+		},
+		{
+			"titulo":"Aspectos jur\u00EDdicos de la revocaci\u00F3n de mandato",
+			"titulo_normalizado":"aspectos-juridicos-de-la-revocacion-de-mandato",
+			"autor":"Rosa Francisco",
+			"imagen": "aspectos-juridicos-de-la-revocacion-de-mandato-1-1.jpg",
+			"fecha":"04/04/22"
+		},
+		{
+			"titulo":"Visibilizar la violencia pol\u00EDtica contra las mujeres",
+			"titulo_normalizado":"visibilizar-la-violencia-politica-contra-las-mujeres",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "visibilizar-la-violencia-politica-contra-las-mujeres-1.jpg",
+			"fecha":"03/03/23"
+		},
+		{
+			"titulo":"La COVID-19 analizada por las ciencias sociales",
+			"titulo_normalizado":"la-covid-19-analizada-por-las-ciencias-sociales",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "COVID-19_DESDE_LAS_CIENCIAS_SOCIALES04.png",
+			"fecha":"02/07/20"
+		},
+		{
+			"titulo":"SESO: \u00BFQu\u00E9 preocupa a los j\u00F3venes de Iberoam\u00E9rica?",
+			"titulo_normalizado":"seso-que-preocupa-a-los-jovenes-de-iberoamerica",
+			"autor":"Kenia Brodman",
+			"imagen": "Jovenes1.gif",
+			"fecha":"02/05/22"
+		}
+	]
+}

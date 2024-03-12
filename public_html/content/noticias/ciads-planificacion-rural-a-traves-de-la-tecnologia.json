@@ -1,0 +1,24 @@
+{
+	"titulo": "CIADS: Planificaci\u00F3n rural a trav\u00E9s de la tecnolog\u00EDa",
+	"titulo_normalizado": "ciads-planificacion-rural-a-traves-de-la-tecnologia",
+	"secciones": [
+		{
+			"seccion": "PDA",
+			"seccion_normalizada": "planificacion-para-el-desarrollo-agropecuario"
+		}
+	],
+	"autor": "Priscila Ch\u00E1vez",
+	"fecha": "03/05/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La inauguraci\u00F3n del coloquio <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Investigaci\u00F3n Aplicada al Desarrollo Social <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">se llev\u00F3 a cabo en la Facultad de Estudios Superiores Arag\u00F3n por parte de la carrera de Planificaci\u00F3n para el Desarrollo Agropecuario, en presencia de la jefa de carrera Esthela Huerta y del director de la Facultad, Fernando Macedo, en el auditorio Ing. Pablo Ortiz Macedo. La primera conferencia fue \"Prospectiva integral de la planeaci\u00F3n del desarrollo rural en M\u00E9xico: la relaci\u00F3n entre variables f\u00EDsicas y sociales. Proyecto UNAM-AMAZON\", impartida por David Ju\u00E1rez.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Uno de los objetivos del proyecto es correlacionar las variables f\u00EDsicas y las sociales a trav\u00E9s de datos cuantitativos que sirvan como evidencias para generar procesos de planificaci\u00F3n a largo plazo, efectivos y espec\u00EDficos, para cada regi\u00F3n a nivel estado.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Algunas de las variables f\u00EDsicas a considerar son la radiaci\u00F3n solar, el clima, la lluvia, vegetaci\u00F3n, entre otras; dentro de las sociales est\u00E1n las tasas de mortalidad, fecundidad, natalidad, migraci\u00F3n, los niveles de pobreza y desempleo, la alfabetizaci\u00F3n. La informaci\u00F3n arrojada ser\u00E1 parte de una gran base de datos con el fin de generar modelos de planificaci\u00F3n e investigaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este trabajo necesita de un equipo de computaci\u00F3n avanzado para la revisi\u00F3n hist\u00F3rica de este tipo de datos del pa\u00EDs, por lo tanto, requiere de la comprensi\u00F3n e incorporaci\u00F3n de las nuevas tecnolog\u00EDas en pro del desarrollo y el bienestar humano. Como parte de su metodolog\u00EDa, algunas de las estrategias son: generar n\u00FAmeros y datos concisos, abastecer de informaci\u00F3n a otras \u00E1reas de estudio y organizaciones, implementar tecnolog\u00EDa especializada y construir estrategias en beneficio del desarrollo rural de M\u00E9xico.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "planificacion-rural-a-traves-de-la-tecnologia-1.jpg"
+		},
+		{
+			"imagen": "planificacion-rural-a-traves-de-la-tecnologia-2.jpg"
+		},
+		{
+			"imagen": "planificacion-rural-a-traves-de-la-tecnologia-3.jpg"
+		}	]
+
+}

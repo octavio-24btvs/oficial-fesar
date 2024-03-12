@@ -1,0 +1,24 @@
+{
+	"titulo": "13EFP: En busca de creativos",
+	"titulo_normalizado": "13efp-en-busca-de-creativos",
+	"secciones": [
+		{
+			"seccion": "Bolsa de Trabajo",
+			"seccion_normalizada": "bolsa-de-trabajo"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "23/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Feria de Empleo ExpoFuturo Profesional<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se llev\u00F3 a cabo la pl\u00E1tica de Central Interactiva, a trav\u00E9s de la plataforma Zoom, en la cual se detall\u00F3 una oferta de trabajo en publicidad, dirigida a estudiantes de Comunicaci\u00F3n y Periodismo y carreras afines.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tania Boj\u00F3rquez y Fernanda Garc\u00EDa, miembros de la empresa Central Interactiva, compartieron experiencias y ejemplos de sus trabajos publicitarios con diversos clientes. Garc\u00EDa destac\u00F3 las posibilidades y satisfacciones que proporciona este trabajo partiendo desde su propio testimonio, en la labor de un creativo publicitario se encuentra la posibilidad de contar historias, involucrarse en las causas sociales de gran impacto y la oportunidad de interactuar con el receptor de las distintas publicidades en las que ha trabajado; donde uno de los elementos clave es la creatividad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la sesi\u00F3n de preguntas y respuestas Boj\u00F3rquez dio especificaciones con respecto al proceso de postulaci\u00F3n y selecci\u00F3n, en donde son factores clave los ex\u00E1menes y la actitud. Se detallaron las din\u00E1micas de trabajo que las y los aspirantes podr\u00EDan esperar de esta oferta laboral.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Concluy\u00F3 la pl\u00E1tica con una invitaci\u00F3n a dejar el miedo, y el agradecimiento a los espacios proporcionados por la Bolsa de Trabajo de la FES Arag\u00F3n, organizadora del evento.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "creativos-1.jpg"
+		},
+		{
+			"imagen": "creativos-2.jpg"
+		},
+		{
+			"imagen": "creativos-3.jpg"
+		}	]
+
+}

@@ -1,0 +1,84 @@
+{
+	"id": 56,
+	"titulo": "Inclusi\u00F3n",
+	"icono": "icon-genero",
+	"noticias": [
+		{
+			"titulo":"Jornada de inclusi\u00F3n en la FES Arag\u00F3n",
+			"titulo_normalizado":"jornada-de-inclusion-en-la-fes-aragon",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "jornada-de-inclusion-en-la-fes-aragon-1.jpg",
+			"fecha":"29/11/21"
+		},
+		{
+			"titulo":"Los pendientes de las universidades para la inclusi\u00F3n",
+			"titulo_normalizado":"los-pendientes-de-las-universidades-para-la-inclusion",
+			"autor":"Edith Granados y Carmen Mel\u00E9ndez",
+			"imagen": "Los-pendientes-de-las-universidades-para-la-inclusión-1.jpg",
+			"fecha":"21/03/19"
+		},
+		{
+			"titulo":"Ayudar a personas con discapacidad en emergencias",
+			"titulo_normalizado":"ayudar-a-personas-con-discapacidad-en-emergencias",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "ayudar-a-personas-con-discapacidad-en-emergencias-1.png",
+			"fecha":"21/03/19"
+		},
+		{
+			"titulo":"Introducci\u00F3n a la lengua de se\u00F1as",
+			"titulo_normalizado":"introduccion-a-la-lengua-de-senas",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "introduccion-a-la-lengua-de-señas-1.jpg",
+			"fecha":"21/03/19"
+		},
+		{
+			"titulo":"Segunda Jornada de Inclusi\u00F3n y Discapacidad",
+			"titulo_normalizado":"segunda-jornada-de-inclusion-y-discapacidad",
+			"autor":"C\u00E9sar Estrada y Omar Villegas",
+			"imagen": "Segunda-jornada-de-inclusion-y-discapacidad-1.jpg",
+			"fecha":"20/03/19"
+		},
+		{
+			"titulo":"Taller de braille para una mayor inclusi\u00F3n",
+			"titulo_normalizado":"taller-de-braille-para-una-mayor-inclusion",
+			"autor":"Alejandro Frias",
+			"imagen": "Taller-de-braille-para-una-mayor-inclusion-1.jpg",
+			"fecha":"20/03/19"
+		},
+		{
+			"titulo":"Expresiones culturales artesanales",
+			"titulo_normalizado":"expresiones-culturales-artesanales",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "Expresiones-culturales-artesanales-1.jpg",
+			"fecha":"19/03/19"
+		},
+		{
+			"titulo":"Festival de las Diversidades Sexogen\u00E9ricas",
+			"titulo_normalizado":"festival-de-las-diversidades-sexogenericas",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Diversidades1.gif",
+			"fecha":"17/05/23"
+		},
+		{
+			"titulo":"Talleres incluyentes",
+			"titulo_normalizado":"talleres-incluyentes",
+			"autor":"Liliana Espinosa",
+			"imagen": "talleres-incluyentes-1.jpg",
+			"fecha":"17/01/20"
+		},
+		{
+			"titulo":"Lo que me falt\u00F3 por decir",
+			"titulo_normalizado":"lo-que-me-falto-por-decir",
+			"autor":"C\u00E9sar Estrada",
+			"imagen": "lo-que-me-falto-por-decir-1.jpg",
+			"fecha":"03/04/19"
+		},
+		{
+			"titulo":"Una mirada a la discapacidad y la inclusi\u00F3n",
+			"titulo_normalizado":"una-mirada-a-la-discapacidad-y-la-inclusion",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Una-mirada-a-la-discapacidad-y-la-inclusión-01.jpg",
+			"fecha":"02/09/20"
+		}
+	]
+}

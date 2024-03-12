@@ -1,0 +1,14 @@
+{
+	"titulo": "Literatura y cultura rusa",
+	"titulo_normalizado": "literatura-y-cultura-rusa",
+	"secciones": [
+		{
+			"seccion": "Centro de Lenguas",
+			"seccion_normalizada": "centro-de-lenguas"
+		}
+	],
+	"autor":"Brenda Martinez",
+	"fecha":"17/03/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Centro de Lenguas (CLe) de la FES Arag\u00F3n llev\u00F3 a cabo la conferencia magistral “Un paseo por la literatura rusa”, impartida por Jos\u00E9 Luis Flores, doctor en Letras Rusas.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La intenci\u00F3n del evento fue acercar a la comunidad universitaria a la cultura rusa a trav\u00E9s de sus letras. De acuerdo con el especialista, la literatura rusa tiene la particularidad de ser social, pues para las personas de ese pa\u00EDs es importante saber cu\u00E1l es el lugar que ocupan como individuos, cultura y naci\u00F3n.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, sienten un profundo aprecio, reconocimiento y orgullo por sus autores, algo que en comparaci\u00F3n con M\u00E9xico no siempre sucede; por ello, invit\u00F3 a las y los espectadores a reflexionar sobre esta situaci\u00F3n.<\/span><\/p>",
+	"imagenes":[{"imagen":"literatura-y-cultura-rusa-1.jpg"},{"imagen":"literatura-y-cultura-rusa-2.jpg"},{"imagen":"literatura-y-cultura-rusa-3.jpg"}]
+}

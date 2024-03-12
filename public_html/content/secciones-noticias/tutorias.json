@@ -1,0 +1,56 @@
+{
+	"id": 26,
+	"titulo": "Tutor\u00EDas",
+	"icono": "icon-tutorias",
+	"noticias": [
+		{
+			"titulo":"Tutores para la salud emocional",
+			"titulo_normalizado":"tutores-para-la-salud-emocional",
+			"autor":"\u00D3scar Rafael Cornejo",
+			"imagen": "Tutorias1.gif",
+			"fecha":"31/08/23"
+		},
+		{
+			"titulo":"Fomentando el aprendizaje colaborativo",
+			"titulo_normalizado":"fomentando-el-aprendizaje-colaborativo",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "fomentando-1.gif",
+			"fecha":"31/08/23"
+		},
+		{
+			"titulo":"Resignificar las tutor\u00EDas",
+			"titulo_normalizado":"resignificar-las-tutorias",
+			"autor":"Erik Pliego",
+			"imagen": "Montiel1.gif",
+			"fecha":"13/09/22"
+		},
+		{
+			"titulo":"Reflexiones y aprendizaje",
+			"titulo_normalizado":"reflexiones-y-aprendizaje",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "ejes-1.gif",
+			"fecha":"01/09/23"
+		},
+		{
+			"titulo":"Tercer encuentro de tutorias Interfacultades",
+			"titulo_normalizado":"tercer-encuentro-de-tutorias-interfacultades",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Interfes1.gif",
+			"fecha":"01/09/23"
+		},
+		{
+			"titulo":"Cierre y pase de estafeta",
+			"titulo_normalizado":"cierre-y-pase-de-estafeta",
+			"autor":"Ang\u00E9lica L\u00F3pez",
+			"imagen": "encuentro-1.gif",
+			"fecha":"01/09/23"
+		},
+		{
+			"titulo":"Salud mental, fundamental para la educaci\u00F3n",
+			"titulo_normalizado":"salud-mental-fundamental-para-la-educacion",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "salud-1.gif",
+			"fecha":"01/09/23"
+		}
+	]
+}

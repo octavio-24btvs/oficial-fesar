@@ -1,0 +1,21 @@
+{
+	"id": 24,
+	"titulo": "Servicios Escolares",
+	"icono": "icon-servicios-escolares",
+	"noticias": [
+		{
+			"titulo":"PC Puma: Un vistazo a la transformaci\u00F3n digital en M\u00E9xico",
+			"titulo_normalizado":"pc-puma-un-vistazo-a-la-transformacion-digital-en-mexico",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "PCPUMA1.gif",
+			"fecha":"31/10/23"
+		},
+		{
+			"titulo":"ExxonMobil brinda apoyo para tu titulaci\u00F3n",
+			"titulo_normalizado":"exxonmobil-brinda-apoyo-para-tu-titulacion",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "exxonmobil-brinda-apoyo-para-tu-titulacion-1.jpg",
+			"fecha":"25/10/21"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+﻿[
+    {
+        "imagen": "comunicado.png",
+        "descripcion": "Comunicado Docentes",
+        "hipervinculo": ""
+    },
+    {
+        "imagen": "banner-esquela.jpg",
+        "descripcion": "Esquela",
+        "hipervinculo": ""
+    },
+    {
+        "imagen": "generacion-2020.jpg",
+        "descripcion": "Bienvenida Generación 2020",
+        "hipervinculo": ""
+    },
+    {
+        "imagen": "caledarioescolar-2020-1.jpg",
+        "descripcion": "Caledario Escolar 2020-1",
+        "hipervinculo": "public_html/documents/calendarios/caledario-escolar-2020-1.pdf"
+    },
+    {
+        "imagen": "violencia-de-genero.jpg",
+        "descripcion": "Violencia de género",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/primera-respuesta/genero"
+    },
+    {
+        "imagen": "sendero-seguro-para-la-comunidad-aragonesa.jpg",
+        "descripcion": "Sendero Seguro para la Comunidad Aragonesa",
+        "hipervinculo": "public_html/documents/slider_principal/sendero-seguro-para-la-comunidad-aragonesa.pdf"
+    },
+    {
+        "imagen": "90-annos-de-autonomia-unam.jpg",
+        "descripcion": "90 años de autonomía UNAM",
+        "hipervinculo": "http://www.dgcs.unam.mx/boletin/bdboletin/2019_274.html"
+    },
+    {
+        "imagen": "talleres-2020-I.jpg",
+        "descripcion": "Talleres 2020-I",
+        "hipervinculo": "public_html/documents/slider_principal/talleres-2020-I.pdf"
+    },
+    {
+        "imagen": "xix-feria-de-empleo-unam.jpg",
+        "descripcion": "XIX Feria de Empleo UNAM",
+        "hipervinculo": "http://www.feriadelempleo.unam.mx/"
+    },
+    {
+        "imagen": "congreso-internacional-de-economia.jpg",
+        "descripcion": "5 Congreso Internacional de Economía",
+        "hipervinculo": "https://posgradoeconomiaar.wixsite.com/5tocongresofesaragon"
+    },
+    {
+        "imagen": "congreso-internacional.jpg",
+        "descripcion": "Congreso Internacional",
+        "hipervinculo": "public_html/documents/slider_principal/congreso-internacional.pdf"
+    },
+    {
+        "imagen": "congreso-internacional-multidisciplinario-de-investigancion.jpg",
+        "descripcion": "Congreso Internacional Multidisciplinario de Investigancion",
+        "hipervinculo": "https://www.aragon.unam.mx/fes-aragon/#!/congreso-cima"
+    }
+]

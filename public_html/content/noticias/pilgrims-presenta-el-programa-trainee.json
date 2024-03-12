@@ -1,0 +1,34 @@
+{
+	"titulo": "Pilgrim's presenta el programa Trainee",
+	"titulo_normalizado": "pilgrims-presenta-el-programa-trainee",
+	"secciones": [
+		{
+			"seccion": "Bolsa de Trabajo",
+			"seccion_normalizada": "bolsa-de-trabajo"
+		},
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "16/08/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Universidad Nacional Aut\u00F3noma de M\u00E9xico, a trav\u00E9s de la Facultad de Estudios Superiores Arag\u00F3n, celebr\u00F3 la sesi\u00F3n informativa “Programa Pilgrim's 11a Generaci\u00F3n”, donde Mili Gonz\u00E1lez y Aranzaz\u00FA Hern\u00E1ndez, responsables del programa de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Trainee <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">exhortaron a la comunidad aragonesa a ser parte de una experiencia laboral en un equipo de clase mundial.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con la responsabilidad de alimentar a las familias de todo el mundo, JBS S. A. (empresa de alimentaci\u00F3n brasile\u00F1a fundada por <\/span><span style=\"color: rgb(32, 33, 34);\">Jos\u00E9 Batista Sobrinho)<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> a trav\u00E9s de Pilgrim's, l\u00EDder en el sector av\u00EDcola de nuestro pa\u00EDs, desarrollaron un modelo de entrenamiento que busca brindar una oportunidad laboral a cientos de j\u00F3venes mexicanos.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta experiencia consta de una formaci\u00F3n pr\u00E1ctica desarrollando proyectos de mejora y reforzando habilidades como el liderazgo, la soluci\u00F3n de problemas y el trabajo en equipo. Como supervisor de proceso la interesada o el interesado aprender\u00E1 los procesos a corto plazo.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El programa va dirigido a personas egresadas de Ingenier\u00EDa Industrial, Mecatr\u00F3nica, Ambiental, Biotecnolog\u00EDa y afines. Algunos de los requisitos son haber egresado entre enero 2020 y julio 2023, un nivel de ingl\u00E9s conversacional, as\u00ED como la disponibilidad para rolar turnos y disponibilidad para cambiar de residencia.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Pilgrim1.gif"
+		},
+		{
+			"imagen": "Pilgrim2.gif"
+		},
+		{
+			"imagen": "Pilgrim3.gif"
+		},
+		{
+			"imagen": "Pilgrim4.gif"
+		},
+		{
+			"imagen": "Pilgrim5.gif"
+		}	]
+
+}

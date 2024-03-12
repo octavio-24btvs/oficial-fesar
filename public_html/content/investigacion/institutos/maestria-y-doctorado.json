@@ -1,0 +1,36 @@
+{
+    "carrera": "Maestría y Doctorado", 
+    "icono": "icon-posgrados", 
+    "investigadores": [
+        {
+            "nombre": "David Franco Martínez", 
+            "nombre_normalizado": "david-franco-martinez"
+        },
+        {
+            "nombre": "Gabriella Piccinelli Bocchi", 
+            "nombre_normalizado": "gabriella-piccinelli-bocchi",
+            "imagen": true
+        },
+        {
+            "nombre": "Jacinto Cortés Pérez", 
+            "nombre_normalizado": "jacinto-cortes-perez"
+        },
+        {
+            "nombre": "José Daniel Castro Díaz", 
+            "nombre_normalizado": "jose-daniel-castro-diaz" 
+        }, 
+        {
+            "nombre": "Leobardo Hernández Audelo", 
+            "nombre_normalizado": "leobardo-hernandez-audelo"
+        }, 
+        {
+            "nombre": "María del Carmen Ulloa del Río", 
+            "nombre_normalizado": "maria-del-carmen-ulloa-del-rio"
+        }, 
+        {
+            "nombre": "Sergio Alfonso Martínez González", 
+            "nombre_normalizado": "sergio-alfonso-martinez-gonzalez", 
+            "imagen": true
+        }      
+    ]
+}

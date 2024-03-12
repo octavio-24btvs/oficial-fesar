@@ -1,0 +1,413 @@
+{
+	"id": 40,
+	"titulo": "General",
+	"icono": "icon-administracion",
+	"noticias": [
+		{
+			"titulo":"Perspectivas sobre el NAICM",
+			"titulo_normalizado":"perspectivas-sobre-el-naicm",
+			"autor":"Carmen Melendez",
+			"imagen": "perspectivas-sobre-el-naicm-1.png",
+			"fecha":"31/10/18"
+		},
+		{
+			"titulo":"Br\u00FAjula en Mano: Tu gu\u00EDa educativa",
+			"titulo_normalizado":"brujula-en-mano-tu-guia-educativa",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Brujula1.gif",
+			"fecha":"31/07/23"
+		},
+		{
+			"titulo":"Implementar TIC en la ense\u00F1anza",
+			"titulo_normalizado":"implementar-tic-en-la-ensenanza",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "implementar-tic-en-la-ensenanza-1.jpg",
+			"fecha":"30/11/18"
+		},
+		{
+			"titulo":"BIM hacia la construcci\u00F3n 4.0",
+			"titulo_normalizado":"bim-hacia-la-construccion-40",
+			"autor":"Redacci\u00F3n",
+			"imagen": "IMG_0192.png",
+			"fecha":"30/10/18"
+		},
+		{
+			"titulo":"Comprensi\u00F3n de la vejez y envejecimiento",
+			"titulo_normalizado":"comprension-de-la-vejez-y-envejecimiento",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "comprension-de-la-vejez-y-envejecimiento-1.jpg",
+			"fecha":"30/09/19"
+		},
+		{
+			"titulo":"Presentaci\u00F3n de libro sobre constitucionalidad",
+			"titulo_normalizado":"presentacion-de-libro-sobre-constitucionalidad",
+			"autor":"Laura Garc\u00EDa",
+			"imagen": "presentacion-de-libro-sobre-constitucionalidad-1.png",
+			"fecha":"29/10/18"
+		},
+		{
+			"titulo":"Universitarios solidarios para una mejor comunidad",
+			"titulo_normalizado":"universitarios-solidarios-para-una-mejor-comunidad",
+			"autor":"Carmen Melendez",
+			"imagen": "img-1.jpg",
+			"fecha":"29/08/18"
+		},
+		{
+			"titulo":"Una visi\u00F3n para el cambio social",
+			"titulo_normalizado":"una-vision-para-el-cambio-social",
+			"autor":"Edith Granados",
+			"imagen": "img-1.jpg",
+			"fecha":"29/08/18"
+		},
+		{
+			"titulo":"Realizan actividades para nueva generaci\u00F3n",
+			"titulo_normalizado":"realizan-actividades-para-nueva-generacion",
+			"autor":"Redacci\u00F3n",
+			"imagen": "realizan-actividades-para-nueva-generacion-10.jpg",
+			"fecha":"29/07/19"
+		},
+		{
+			"titulo":"Perspectivas mundiales a trav\u00E9s del arte",
+			"titulo_normalizado":"perspectivas-mundiales-a-traves-del-arte",
+			"autor":"Mohamed Lomel\u00ED",
+			"imagen": "Concierto_ Canciones a contratiempo.png",
+			"fecha":"28/09/18"
+		},
+		{
+			"titulo":"Conferencia magistral sobre el NAICM",
+			"titulo_normalizado":"conferencia-magistral-sobre-el-naicm",
+			"autor":"Yutsil Hern\u00E1ndez",
+			"imagen": "IMG_0017.png",
+			"fecha":"25/10/18"
+		},
+		{
+			"titulo":"Arag\u00F3n presente en concurso de sat\u00E9lites enlatados",
+			"titulo_normalizado":"aragon-presente-en-concurso-de-satelites-enlatados",
+			"autor":"Redacci\u00F3n",
+			"imagen": "aragon-presente-en-el-concurso-de-satelites-enlatados-1.jpg",
+			"fecha":"25/05/19"
+		},
+		{
+			"titulo":"Por un pleno conocimiento de nuestros derechos",
+			"titulo_normalizado":"por-un-pleno-conocimiento-de-nuestros-derechos",
+			"autor":"Laura Garc\u00EDa",
+			"imagen": "por-un-pleno-conocimiento-de-nuestros-derechos-1.jpg",
+			"fecha":"24/10/18"
+		},
+		{
+			"titulo":"Impulsar la protecci\u00F3n civil en los museos mexicanos",
+			"titulo_normalizado":"impulsar-la-proteccion-civil-en-los-museos-mexicanos",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "impulsar-la-proteccion-civil-en-los-museos-mexicanos-1.jpg",
+			"fecha":"24/09/19"
+		},
+		{
+			"titulo":"Conocimiento para desarrollar ideas productivas",
+			"titulo_normalizado":"conocimiento-para-desarrollar-ideas-productivas",
+			"autor":"Redacci\u00F3n",
+			"imagen": "img-1.jpg",
+			"fecha":"24/09/18"
+		},
+		{
+			"titulo":"M\u00E1s conciencia para erradicar la discriminaci\u00F3n por g\u00E9nero",
+			"titulo_normalizado":"mas-conciencia-para-erradicar-la-discriminacion-por-genero",
+			"autor":"Sara Ignacio",
+			"imagen": "img-1.jpg",
+			"fecha":"24/08/18"
+		},
+		{
+			"titulo":"Deja de fumar",
+			"titulo_normalizado":"deja-de-fumar",
+			"autor":"Thalia Ortega",
+			"imagen": "deja-de-fumar-1.jpg",
+			"fecha":"24/02/20"
+		},
+		{
+			"titulo":"Youth Challenge M\u00E9xico: Una idea puede cambiar al mundo",
+			"titulo_normalizado":"youth-challenge-mexico-una-idea-puede-cambiar-al-mundo",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "youth-challenge-mexico.jpg",
+			"fecha":"23/10/19"
+		},
+		{
+			"titulo":"La marihuana desde una perspectiva legal",
+			"titulo_normalizado":"la-marihuana-desde-una-perspectiva-legal",
+			"autor":"Mohamed Lomel\u00ED",
+			"imagen": "la-marihuana-desde-una-perspectiva-legal-1.png",
+			"fecha":"23/10/18"
+		},
+		{
+			"titulo":"El sue\u00F1o romano: aprendizajes did\u00E1cticos",
+			"titulo_normalizado":"el-sueno-romano-aprendizajes-didacticos",
+			"autor":"Carmen Melendez y Edith Granados",
+			"imagen": "el-sueno-romano-aprendizajes-didacticos-1.png",
+			"fecha":"22/11/18"
+		},
+		{
+			"titulo":"Competencia deportiva para promover valores",
+			"titulo_normalizado":"competencia-deportiva-para-promover-valores",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "img-1.jpg",
+			"fecha":"22/10/18"
+		},
+		{
+			"titulo":"Xoloc en contra del nuevo aeropuerto",
+			"titulo_normalizado":"xoloc-en-contra-del-nuevo-aeropuerto",
+			"autor":"Alejandro Frias",
+			"imagen": "xoloc-en-contra-del-nuevo-aeropuerto-1.jpg",
+			"fecha":"22/05/19"
+		},
+		{
+			"titulo":"Sexting, una moda peligrosa",
+			"titulo_normalizado":"sexting-una-moda-peligrosa",
+			"autor":"Israel Ram\u00EDrez",
+			"imagen": "img-1.jpg",
+			"fecha":"21/09/18"
+		},
+		{
+			"titulo":"Final del tercer debate intercarreras",
+			"titulo_normalizado":"final-del-tercer-debate-intercarreras",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "final-del-tercer-debate-intercarreras-1.jpg",
+			"fecha":"21/05/19"
+		},
+		{
+			"titulo":"Auditorio de la DUACyD, foro televisivo por un d\u00EDa",
+			"titulo_normalizado":"auditorio-de-la-duacyd-foro-televisivo-por-un-dia",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "auditorio-de-la-duacyd-foro-televisivo-por-un-dia-1.jpg",
+			"fecha":"21/02/20"
+		},
+		{
+			"titulo":"La FES Arag\u00F3n celebra la excelencia acad\u00E9mica",
+			"titulo_normalizado":"la-fes-aragon-celebra-la-excelencia-academica",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Reconocimiento-5.gif",
+			"fecha":"20/06/23"
+		},
+		{
+			"titulo":"Un d\u00EDa para el movimiento cann\u00E1bico",
+			"titulo_normalizado":"un-dia-para-el-movimiento-cannabico",
+			"autor":"Erik Pliego",
+			"imagen": "420-2.gif",
+			"fecha":"20/04/22"
+		},
+		{
+			"titulo":"La Ciudad de M\u00E9xico en el tiempo",
+			"titulo_normalizado":"la-ciudad-de-mexico-en-el-tiempo",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "IMG_8688.png",
+			"fecha":"19/10/18"
+		},
+		{
+			"titulo":"Macrosimulacro para prevenir y concientizar",
+			"titulo_normalizado":"macrosimulacro-para-prevenir-y-concientizar",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "img-1.jpg",
+			"fecha":"19/09/18"
+		},
+		{
+			"titulo":"Pr\u00F3ximo taller “Estrategias para modelar tu idea de negocio”",
+			"titulo_normalizado":"proximo-taller----estrategias-para-modelar-tu-idea-de-negocio---",
+			"autor":"Liliana Espinosa",
+			"imagen": "Taller estrategias para modelar tu idea de negocio(1).jpg",
+			"fecha":"19/08/19"
+		},
+		{
+			"titulo":"Inspiraci\u00F3n rompiendo barreras",
+			"titulo_normalizado":"inspiracion-rompiendo-barreras",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "inspiracion-rompiendo-barreras-1.jpg",
+			"fecha":"18/11/18"
+		},
+		{
+			"titulo":"Honrar la memoria de un gran profesor",
+			"titulo_normalizado":"honrar-la-memoria-de-un-gran-profesor",
+			"autor":"Alison Vargas",
+			"imagen": "honrar-la-memoria-de-un-gran-profesor-1.jpg",
+			"fecha":"17/10/18"
+		},
+		{
+			"titulo":"Trabajo colaborativo en busca de impacto social",
+			"titulo_normalizado":"trabajo-colaborativo-en-busca-de-impacto-social",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "trabajo-colaborativo-en-busca-de-impacto-social-1.jpg",
+			"fecha":"17/05/19"
+		},
+		{
+			"titulo":"Presentaci\u00F3n de libro sobre el TLCAN",
+			"titulo_normalizado":"presentacion-de-libro-sobre-el-tlcan",
+			"autor":"Laura Garc\u00EDa",
+			"imagen": "presentacion-de-libro-sobre-el-tlcan-1.jpg",
+			"fecha":"16/11/18"
+		},
+		{
+			"titulo":"\u00A1No te pierdas Elements of Vogue!",
+			"titulo_normalizado":"no-te-pierdas-elements-of-vogue",
+			"autor":"Redacci\u00F3n",
+			"imagen": "No_te_pierdas_Elements_of_Vogue01.jpg",
+			"fecha":"15/11/19"
+		},
+		{
+			"titulo":"Papel destacado de la FES en Modelo de Naciones Unidas",
+			"titulo_normalizado":"papel-destacado-de-la-fes-en-modelo-de-naciones-unidas",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "monuunam-1.jpg",
+			"fecha":"15/11/19"
+		},
+		{
+			"titulo":"Foro de Justicia Cotidiana en Arag\u00F3n",
+			"titulo_normalizado":"foro-de-justicia-cotidiana-en-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "Foto1.gif",
+			"fecha":"15/08/22"
+		},
+		{
+			"titulo":"\u00C9tica en la justicia",
+			"titulo_normalizado":"etica-en-la-justicia",
+			"autor":"Alison Vargas",
+			"imagen": "etica-en-la-justicia-1.jpg",
+			"fecha":"13/11/18"
+		},
+		{
+			"titulo":"Cooperaci\u00F3n diplom\u00E1tica sin fronteras",
+			"titulo_normalizado":"cooperacion-diplomatica-sin-fronteras",
+			"autor":"Yutsil Hern\u00E1ndez y Alberto Sosa",
+			"imagen": "cooperacion-diplomatica-sin-fronteras-1.jpg",
+			"fecha":"13/11/18"
+		},
+		{
+			"titulo":"La migraci\u00F3n como una acci\u00F3n de sobrevivencia",
+			"titulo_normalizado":"la-migracion-como-una-accion-de-sobrevivencia",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "la-migracion-como-una-accion-de-sobrevivencia-1.jpg",
+			"fecha":"13/05/19"
+		},
+		{
+			"titulo":"Propuestas solidarias en desastres naturales",
+			"titulo_normalizado":"propuestas-solidarias-en-desastres-naturales",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "Capa 5.jpg",
+			"fecha":"12/11/18"
+		},
+		{
+			"titulo":"Siempre contendientes en puentes de madera",
+			"titulo_normalizado":"siempre-contendientes-en-puentes-de-madera",
+			"autor":"Redacci\u00F3n",
+			"imagen": "siempre-contendientes-en-los-puentes-de-madera-1.jpg",
+			"fecha":"12/10/18"
+		},
+		{
+			"titulo":"Implicaciones de la prisi\u00F3n preventiva",
+			"titulo_normalizado":"implicaciones-de-la-prision-preventiva",
+			"autor":"Adri\u00E1n Reyes",
+			"imagen": "implicaciones-de-la-prision-preventiva-1.jpg",
+			"fecha":"11/05/19"
+		},
+		{
+			"titulo":"Bienestar sin distinci\u00F3n para todas las personas",
+			"titulo_normalizado":"bienestar-sin-distincion-para-todas-las-personas",
+			"autor":"Redacci\u00F3n",
+			"imagen": "Capa 1.jpg",
+			"fecha":"10/11/18"
+		},
+		{
+			"titulo":"Exposici\u00F3n de materiales para la construcci\u00F3n",
+			"titulo_normalizado":"exposicion-de-materiales-para-la-construccion",
+			"autor":"Alberto Sosa",
+			"imagen": "exposicion-de-materiales-para-la-construccion-1.png",
+			"fecha":"10/10/18"
+		},
+		{
+			"titulo":"Leyes pensionarias del ISSSTE",
+			"titulo_normalizado":"leyes-pensionarias-del-issste",
+			"autor":"Marisol Gonz\u00E1lez",
+			"imagen": "leyes-pensionarias-del-issste-1.png",
+			"fecha":"09/10/18"
+		},
+		{
+			"titulo":"A favor de la diversidad ling\u00FC\u00EDstica",
+			"titulo_normalizado":"a-favor-de-la-diversidad-linguistica",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "img-1.jpg",
+			"fecha":"07/08/18"
+		},
+		{
+			"titulo":"Soluciones para Am\u00E9rica Latina",
+			"titulo_normalizado":"soluciones-para-america-latina",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "img-1.jpg",
+			"fecha":"06/10/18"
+		},
+		{
+			"titulo":"Maestr\u00EDa en para\u00EDso brasile\u00F1o",
+			"titulo_normalizado":"maestria-en-paraiso-brasileno",
+			"autor":"Alejandro Frias",
+			"imagen": "maestria-en-paraiso-brasileno-1_.jpg",
+			"fecha":"06/09/19"
+		},
+		{
+			"titulo":"El comienzo de algo excepcional",
+			"titulo_normalizado":"el-comienzo-de-algo-excepcional",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "img-1.jpg",
+			"fecha":"06/08/18"
+		},
+		{
+			"titulo":"Propuesta para manejar pol\u00E9micas en futbol",
+			"titulo_normalizado":"propuesta-para-manejar-polemicas-en-futbol",
+			"autor":"Alberto Sosa",
+			"imagen": "propuesta-para-manejar-polemicas-en-futbol-1.jpg",
+			"fecha":"05/11/18"
+		},
+		{
+			"titulo":"La importancia de representar a un pa\u00EDs",
+			"titulo_normalizado":"la-importancia-de-representar-a-un-pais",
+			"autor":"Israel Ram\u00EDrez",
+			"imagen": "img-1.jpg",
+			"fecha":"05/10/18"
+		},
+		{
+			"titulo":"Proyecto arquitect\u00F3nico para fomentar el desarrollo sostenible",
+			"titulo_normalizado":"proyecto-arquitectonico-para-fomentar-el-desarrollo-sostenible",
+			"autor":"Marisol Gonz\u00E1lez",
+			"imagen": "IMG_5448.png",
+			"fecha":"05/10/18"
+		},
+		{
+			"titulo":"Un texto para entender la pol\u00EDtica exterior mexicana",
+			"titulo_normalizado":"un-texto-para-entender-la-politica-exterior-mexicana",
+			"autor":"Sara Ignacio",
+			"imagen": "un-texto-para-entender-la-politica-exterior-mexicana-1.png",
+			"fecha":"04/10/18"
+		},
+		{
+			"titulo":"Salud sexual: educaci\u00F3n y prevenci\u00F3n",
+			"titulo_normalizado":"salud-sexual-educacion-y-prevencion",
+			"autor":"Alison Vargas",
+			"imagen": "img-1.jpg",
+			"fecha":"04/09/18"
+		},
+		{
+			"titulo":"Becas para el desarrollo profesional",
+			"titulo_normalizado":"becas-para-el-desarrollo-profesional",
+			"autor":"Erik Pliego",
+			"imagen": "Becas1.gif",
+			"fecha":"03/06/22"
+		},
+		{
+			"titulo":"Segundo Informe de Actividades",
+			"titulo_normalizado":"segundo-informe-de-actividades",
+			"autor":"Erik Pliego",
+			"imagen": "Informe1.gif",
+			"fecha":"03/02/23"
+		},
+		{
+			"titulo":"Debate intercarreras sobre cuestiones sociales",
+			"titulo_normalizado":"debate-intercarreras-sobre-cuestiones-sociales",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "debate-intercarreras-sobre-cuestiones-sociales-1.jpg",
+			"fecha":"02/05/19"
+		}
+	]
+}

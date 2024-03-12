@@ -1,0 +1,16 @@
+{
+    "carrera": "Sociología", 
+    "icono": "icon-sociologia", 
+    "investigadores": [
+        {
+            "nombre": "Manuel Ramírez Mercado", 
+            "nombre_normalizado": "manuel-ramirez-mercado", 
+            "imagen": true
+        }, 
+        {
+            "nombre": "María Cristina Camacho Ramos", 
+            "nombre_normalizado": "maria-cristina-camacho-ramos", 
+            "imagen": true
+        }
+    ]
+}

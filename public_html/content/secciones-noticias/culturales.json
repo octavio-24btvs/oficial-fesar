@@ -1,0 +1,245 @@
+{
+	"id": 57,
+	"titulo": "Culturales",
+	"icono": "icon-actividades-culturales",
+	"noticias": [
+		{
+			"titulo":"Inauguraci\u00F3n de Bus cultural Arag\u00F3n",
+			"titulo_normalizado":"inauguracion-de-bus-cultural-aragon",
+			"autor":"Alejandro Frias",
+			"imagen": "inauguracion-bus-cultural-aragon-1.jpg",
+			"fecha":"29/09/19"
+		},
+		{
+			"titulo":"Insha-Inicte presenta Cosas de muchachos",
+			"titulo_normalizado":"insha-inicte-presenta-cosas-de-muchachos",
+			"autor":"Alejandro Frias",
+			"imagen": "insha-inicte-presenta-cosas-de-muchachos-1.jpg",
+			"fecha":"27/03/19"
+		},
+		{
+			"titulo":"Fuerte y Pegaduro, obra infantil",
+			"titulo_normalizado":"fuerte-y-pegaduro-obra-infantil",
+			"autor":"Alejandro Frias",
+			"imagen": "fuerte-y-pegaduro-obra-infantil-1.jpg",
+			"fecha":"26/04/19"
+		},
+		{
+			"titulo":"Artistas infantiles se apoderan del escenario",
+			"titulo_normalizado":"artistas-infantiles-se-apoderan-del-escenario",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "artistas-infantiles-se-apoderan-del-escenario-1.jpg",
+			"fecha":"25/11/22"
+		},
+		{
+			"titulo":"Celebraci\u00F3n del D\u00EDa de Muertos",
+			"titulo_normalizado":"celebracion-del-dia-de-muertos",
+			"autor":"Israel Ram\u00EDrez",
+			"imagen": "celebracion-del-dia-de-muertos-1.png",
+			"fecha":"25/10/18"
+		},
+		{
+			"titulo":"Artistas celebran con evento danc\u00EDstico",
+			"titulo_normalizado":"artistas-celebran-con-evento-dancistico",
+			"autor":"Redacci\u00F3n",
+			"imagen": "artistas-celebran-con-evento-dancistico-1.jpg",
+			"fecha":"25/04/19"
+		},
+		{
+			"titulo":"M\u00FAsica le pone el ritmo al aprendizaje",
+			"titulo_normalizado":"musica-le-pone-el-ritmo-al-aprendizaje",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "musica-le-pone-el-ritmo-al-aprendizaje-1.jpg",
+			"fecha":"25/02/23"
+		},
+		{
+			"titulo":"Expresiones musicales reciben la temporada invernal",
+			"titulo_normalizado":"expresiones-musicales-reciben-la-temporada-invernal",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "expresiones-musicales-reciben-la-temporada-invernal-1.jpg",
+			"fecha":"24/11/22"
+		},
+		{
+			"titulo":"REUC, por la difusi\u00F3n cultural",
+			"titulo_normalizado":"reuc-por-la-difusion-cultural",
+			"autor":"Erik Pliego",
+			"imagen": "REUC1.gif",
+			"fecha":"23/09/22"
+		},
+		{
+			"titulo":"Libros, libros y m\u00E1s libros",
+			"titulo_normalizado":"libros-libros-y-mas-libros",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "libros-libros-y-mas-libros-1.jpg",
+			"fecha":"23/04/19"
+		},
+		{
+			"titulo":"SUAyED cierra celebraci\u00F3n con \u00F3pera y cine",
+			"titulo_normalizado":"suayed-cierra-celebracion-con-opera-y-cine",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "suayed-cierra-celebracion-con-opera-y-cine-1.jpg",
+			"fecha":"22/04/22"
+		},
+		{
+			"titulo":"Reconocen a participantes del Curso de Verano FES Arag\u00F3n 2022",
+			"titulo_normalizado":"reconocen-a-participantes-del-curso-de-verano-fes-aragon-2022",
+			"autor":"Diego Flores",
+			"imagen": "reconocen-a-participantes-del-curso-de-verano-fes-aragon-2022-1.jpg",
+			"fecha":"20/08/22"
+		},
+		{
+			"titulo":"Presentaci\u00F3n folcl\u00F3rica para celebrar a M\u00E9xico",
+			"titulo_normalizado":"presentacion-folclorica-para-celebrar-a-mexico",
+			"autor":"Marisol Gonz\u00E1lez",
+			"imagen": "img-1.jpg",
+			"fecha":"19/09/18"
+		},
+		{
+			"titulo":"Expresarnos a trav\u00E9s del baile",
+			"titulo_normalizado":"expresarnos-a-traves-del-baile",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Baile-1.gif",
+			"fecha":"19/02/21"
+		},
+		{
+			"titulo":"Noche de trova en Arag\u00F3n",
+			"titulo_normalizado":"noche-de-trova-en-aragon",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "trova-1.jpg",
+			"fecha":"17/11/22"
+		},
+		{
+			"titulo":"M\u00FAsica y amor",
+			"titulo_normalizado":"musica-y-amor",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Bandas1.gif",
+			"fecha":"17/02/23"
+		},
+		{
+			"titulo":"Teatro en l\u00EDnea",
+			"titulo_normalizado":"teatro-en-linea",
+			"autor":"Valeria Hern\u00E1ndez",
+			"imagen": "Teatro-en-línea1.gif",
+			"fecha":"17/02/21"
+		},
+		{
+			"titulo":"Rock en el Vasconcelos",
+			"titulo_normalizado":"rock-en-el-vasconcelos",
+			"autor":"Israel Ram\u00EDrez",
+			"imagen": "img-1.jpg",
+			"fecha":"16/08/18"
+		},
+		{
+			"titulo":"Arag\u00F3n celebra el dia del amor y la amistad con un karaoke",
+			"titulo_normalizado":"aragon-celebra-el-dia-del-amor-y-la-amistad-con-un-karaoke",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Karaoke1.gif",
+			"fecha":"16/02/23"
+		},
+		{
+			"titulo":"Lectura: La visi\u00F3n de los vencidos",
+			"titulo_normalizado":"lectura-la-vision-de-los-vencidos",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Visión1.gif",
+			"fecha":"12/10/21"
+		},
+		{
+			"titulo":"Verano de aprendizaje en la FES Arag\u00F3n",
+			"titulo_normalizado":"verano-de-aprendizaje-en-la-fes-aragon",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "Verano2.gif",
+			"fecha":"12/08/23"
+		},
+		{
+			"titulo":"Taller de Canto en concierto",
+			"titulo_normalizado":"taller-de-canto-en-concierto",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "Taller-de-Canto1.gif",
+			"fecha":"12/02/21"
+		},
+		{
+			"titulo":"8M: Resistencia y feminismo en el arte",
+			"titulo_normalizado":"8m-resistencia-y-feminismo-en-el-arte",
+			"autor":"Valeria Hern\u00E1ndez",
+			"imagen": "Resistencia-y-feminismo1.gif",
+			"fecha":"11/03/21"
+		},
+		{
+			"titulo":"Entre sones y m\u00FAsica latinoamericana",
+			"titulo_normalizado":"entre-sones-y-musica-latinoamericana",
+			"autor":"Edna Reyes",
+			"imagen": "entre-sones-y-musica-latinoamericana-1.jpg",
+			"fecha":"10/11/22"
+		},
+		{
+			"titulo":"Concierto del Taller de Guitarra",
+			"titulo_normalizado":"concierto-del-taller-de-guitarra",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "Concierto-guitarra1.gif",
+			"fecha":"10/02/21"
+		},
+		{
+			"titulo":"Pi\u00F1atas aragonesas",
+			"titulo_normalizado":"pinatas-aragonesas",
+			"autor":"Redacci\u00F3n",
+			"imagen": "pinatas-aragonesas-1.jpg",
+			"fecha":"09/12/22"
+		},
+		{
+			"titulo":"Un recorrido por la tradici\u00F3n musical mexicana",
+			"titulo_normalizado":"un-recorrido-por-la-tradicion-musical-mexicana",
+			"autor":"Edna Reyes",
+			"imagen": "un-recorrido-por-la-tradicion-musical-mexicana-1.jpg",
+			"fecha":"09/11/22"
+		},
+		{
+			"titulo":"8M: El eterno femenino",
+			"titulo_normalizado":"8m-el-eterno-femenino",
+			"autor":"Erik Pliego",
+			"imagen": "Eterno-femenino1.gif",
+			"fecha":"09/03/21"
+		},
+		{
+			"titulo":"Tienes una cita con el cine franc\u00E9s en Arag\u00F3n",
+			"titulo_normalizado":"tienes-una-cita-con-el-cine-frances-en-aragon",
+			"autor":"Redacci\u00F3n",
+			"imagen": "tienes-una-cita-con-la-muestra-de-cine-frances-en-aragon-1.jpg",
+			"fecha":"07/10/19"
+		},
+		{
+			"titulo":"Danza cl\u00E1sica cautiva a la comunidad",
+			"titulo_normalizado":"danza-clasica-cautiva-a-la-comunidad",
+			"autor":"Thalia Ortega",
+			"imagen": "danza-clasica-cautiva-a-la-comunidad-1.jpg",
+			"fecha":"06/11/18"
+		},
+		{
+			"titulo":"Carmen, una tragedia apasionante",
+			"titulo_normalizado":"carmen-una-tragedia-apasionante",
+			"autor":"Aurelio Nito",
+			"imagen": "Carmen-una-tragedia-apasionante-1.jpg",
+			"fecha":"06/03/19"
+		},
+		{
+			"titulo":"Cierra FES Arag\u00F3n una temporada m\u00E1s de cultura",
+			"titulo_normalizado":"cierra-fes-aragon-una-temporada-mas-de-cultura",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "cierra-fes-aragon-una-temporada-mas-de-cultura-1.jpg",
+			"fecha":"05/06/19"
+		},
+		{
+			"titulo":"Con mezclas de ritmos, DJ’s crean ambiente",
+			"titulo_normalizado":"con-mezclas-de-ritmos-dj---s-crean-ambiente",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "con-mezclas-de-ritmos-djs-crean-ambiente-1.jpg",
+			"fecha":"01/04/19"
+		},
+		{
+			"titulo":"Para ampliar el gusto por la lectura",
+			"titulo_normalizado":"para-ampliar-el-gusto-por-la-lectura",
+			"autor":"Carmen Mel\u00E9ndez y Edith Granados",
+			"imagen": "Para-ampliar-el-gusto-por-la-lectura-1.jpg",
+			"fecha":"01/03/19"
+		}
+	]
+}

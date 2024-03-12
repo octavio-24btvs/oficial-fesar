@@ -1,0 +1,21 @@
+{
+    "nombre": "Manuel Ramírez Mercado", 
+    "grado_academico": "Doctor", 
+    "correo":[ "manuelmercadoi9@aragon.unam.mx" ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Sociología. Universidad Nacional Autónoma de México.", 
+        "Maestría en Estudios Políticos y Sociales. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ciencias Políticas y Sociales. Orientación Sociología. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Cultura política.", 
+        "Participación electoral.", 
+        "Ciudadanía.", 
+        "Procesos políticos y electorales.", 
+        "Historia y sociedad en México."
+    ], 
+    "investigaciones": [
+        "Cultura política y participación electoral en el contexto de la modernización del Estado mexicano."
+    ]
+}

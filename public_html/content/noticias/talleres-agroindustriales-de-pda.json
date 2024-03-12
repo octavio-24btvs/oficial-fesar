@@ -1,0 +1,14 @@
+{
+	"titulo": "Talleres agroindustriales de PDA",
+	"titulo_normalizado": "talleres-agroindustriales-de-pda",
+	"secciones": [
+		{
+			"seccion": "PDA",
+			"seccion_normalizada": "planificacion-para-el-desarrollo-agropecuario"
+		}
+	],
+	"autor":"Carmen Melendez y Edith Granados",
+	"fecha":"22/10/18",
+	"contenido":"<p class=\"ql-align-justify\">Durante el Taller de Procesos Agroindustriales, el 24 de octubre, se ense\u00F1\u00F3 a la comunidad estudiantil de primer semestre de la licenciatura en Planificaci\u00F3n para el Desarrollo Agropecuario, los pasos a seguir para la preparaci\u00F3n de mermeladas artesanales.<\/p><p class=\"ql-align-justify\">&nbsp;A fin de introducir al estudiantado en el campo productivo y conocieran una de las \u00E1reas que pueden aprovechar al concluir su formaci\u00F3n acad\u00E9mica, se cont\u00F3 con el apoyo de dos egresadas, quienes brindaron la informaci\u00F3n necesaria. Al finalizar, cada participante adquiri\u00F3 una porci\u00F3n de la mermelada que elabor\u00F3. <\/p>",
+	"imagenes":[{"imagen":"img-1.jpg"},{"imagen":"img-2.jpg"},{"imagen":"img-3.jpg"},{"imagen":"img-4.jpg"}]
+}

@@ -1,0 +1,20 @@
+{
+    "nombre": "María del Carmen Ulloa del Río", 
+    "grado_academico": "Doctora en Arquitectura, UNAM.",
+    "ubicacion": [ "Laboratorio de Rehabilitación Urbana del Centro Tecnológico Aragón" ],
+     "telefono": [ "55 5623 0967"],
+     "correo": [ "carmenulloa87@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Arquitectura. Universidad Nacional Autónoma de México/ENEP ARAGÓN.", 
+        "Maestría en Restauración de monumentos arquitectónicos, arqueológicos  y urbanos, INAH/ENCRyM.", 
+        "Doctorado en Arquitectura. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [ 
+        "Rehabilitación Urbana.", 
+        "Arquitectura histórica, Urbanismo y Patrimonio."
+    ], 
+    "investigaciones": [
+        "Decoraciones y escenografías efímeras de la fiesta nacional. Ciudad de México (1825-1910).",  
+        "100 años de evolución urbano-arquitectónica de la plaza Guardiola. (1850-1950)."
+    ]
+}

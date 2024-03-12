@@ -1,0 +1,18 @@
+{
+    "nombre": "Javier Jiménez García", 
+    "grado_academico": "Doctor en Ingeniería", 
+     "correo": [ "reivajj69@unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Ingeniería Mecánica Electricista. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería Mecánica. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ingeniería Mecánica por la División de estudios de Posgrado. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Mecánica de Materiales.", 
+        "Mejora tecnológica continúa de los procesos productivos metales mecánicos.", 
+        "Estudio tribológico de aleaciones ferrosas y no ferrosas.", 
+        "Selección de materiales para usos mecánicos."
+    ], 
+    "investigaciones": [
+    ]
+}

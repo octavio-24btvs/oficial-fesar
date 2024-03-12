@@ -1,0 +1,14 @@
+{
+	"titulo": "Dialogar por la igualdad",
+	"titulo_normalizado": "dialogar-por-la-igualdad",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor":"Adri\u00E1n Reyes",
+	"fecha":"14/03/20",
+	"contenido":"<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el contexto de la lucha contra la desigualdad de g\u00E9nero –y como parte de la semana <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">- Roles + Igualdad<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">– se llev\u00F3 a cabo una charla interactiva entre estudiantes de SUA, moderada por las personas orientadoras contra la violencia de g\u00E9nero de la FES Arag\u00F3n, X\u00F3chitl Elvira Serrato y Gloria Enr\u00EDquez.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la actividad se debatieron los papeles que mujeres y hombres desarrollan en la sociedad; quienes asistieron platicaron sus experiencias en temas como la educaci\u00F3n en casa o los movimientos sociales. Gracias a este di\u00E1logo identificaron las conductas machistas fomentadas por nuestra cultura y se comentaron estrategias para modificarlas en busca de la igualdad.<\/span><\/p>",
+	"imagenes":[{"imagen":"dialogar-por-la-igualdad-1.jpg"},{"imagen":"dialogar-por-la-igualdad-2.jpg"},{"imagen":"dialogar-por-la-igualdad-3.jpg"}]
+}

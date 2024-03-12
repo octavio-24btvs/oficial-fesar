@@ -1,0 +1,39 @@
+{
+	"titulo": "Karaoke mexicano para celebrar la Independencia",
+	"titulo_normalizado": "karaoke-mexicano-para-celebrar-la-independencia",
+	"secciones": [
+		{
+			"seccion": "Sociología",
+			"seccion_normalizada": "sociologia"
+		}
+	],
+	"autor": "Rodrigo Castillo",
+	"fecha": "14/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Con motivo del mes patrio la carrera de Sociolog\u00EDa present\u00F3 el \u00A8Concurso de Karaoke Mexicano\u00A8, en el auditorio A1 Hermelia Galindo, de la FES Arag\u00F3n.&nbsp; Remarcando que quien pasara a cantar se pod\u00EDa llevar un dulce t\u00EDpico mexicano, y solo se pod\u00EDan cantar canciones interpretadas por cantantes mexicanos, la primera canci\u00F3n en abrir el evento fue “El Noa, Noa” de Juan Gabriel.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Las canciones siguieron fluyendo y algunos de los cantantes m\u00E1s interpretados por las alumnas y alumnos fueron Luis Miguel, \u00C1ngela Aguilar y Juan Gabriel, Vicente Fern\u00E1ndez, Yuridia, Juan Sebasti\u00E1n, Alberto V\u00E1zquez y Pepe Aguilar.<\/span><\/p><p><br><\/p><p><br><\/p>",
+	"imagenes": [
+		{
+			"imagen": "karaoke-1.gif"
+		},
+		{
+			"imagen": "karaoke-2.gif"
+		},
+		{
+			"imagen": "karaoke-3.gif"
+		},
+		{
+			"imagen": "karaoke-4.gif"
+		},
+		{
+			"imagen": "karaoke-5.gif"
+		},
+		{
+			"imagen": "karaoke-6.gif"
+		},
+		{
+			"imagen": "karaoke-7.gif"
+		},
+		{
+			"imagen": "karaoke-8.gif"
+		}	]
+
+}

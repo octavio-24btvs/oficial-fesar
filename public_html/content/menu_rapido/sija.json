@@ -1,0 +1,42 @@
+[
+    { 
+        "concurso": "Diciembre, 2020",
+        "concurso_normalizado": "Diciembre-2020",
+        "pdfs": [
+            {
+                "titulo": "Invitaci\u00F3n a Proceso de Selecci\u00F3n SIJA Plaza Comunicaci\u00F3n y Periodismo",
+                "titulo_normalizado": "invitacion-a-concurso-plaza-comunicacion-y-periodismo"
+            }
+        ]
+    },
+    { 
+        "concurso": "Septiembre, 2020",
+        "concurso_normalizado": "septiembre-2020",
+        "pdfs": [
+            {
+                "titulo": "Invitaci\u00F3n a Proceso de Selecci\u00F3n SIJA Plaza Arquitectura",
+                "titulo_normalizado": "programa-sija-arquitectura"
+            }
+        ]
+    },
+    {
+        "concurso": "Octubre, 2019",
+        "concurso_normalizado": "octubre-2019",
+        "pdfs": [
+            {
+                "titulo": "Invitaci\u00F3n a Proceso de Selecci\u00F3n SIJA Plaza Ingenier\u00EDa Civil",
+                "titulo_normalizado": "programa-sija-ingenieria-civil"
+            }
+        ]
+    }, 
+    { 
+        "concurso": "Junio, 2019",
+        "concurso_normalizado": "junio-2019",
+        "pdfs": [
+            {
+                "titulo": "Invitaci\u00F3n a Proceso de Selecci\u00F3n SIJA Plaza Econom\u00EDa",
+                "titulo_normalizado": "programa-sija-economia"
+            }
+        ]
+    }
+]

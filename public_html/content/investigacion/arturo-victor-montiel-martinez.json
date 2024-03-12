@@ -1,0 +1,24 @@
+{
+    "nombre": "Arturo Víctor Montiel Martínez", 
+    "grado_academico": "Doctor", 
+     "correo": [ "arturomontield5@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Psicología. Universidad Autónoma Metropolitana.", 
+        "Especialidad en Formación Docente. CISE, Universidad Nacional Autónoma de México.", 
+        "Maestría en Filosofía de la Ciencia. Universidad Autónoma Metropolitana.", 
+        "Maestría en Psicología de la Educación en la Perspectiva Psicoanalítica. Instituto Michoacano de Ciencias de la Educación José María Morelos.", 
+        "Doctorado en Investigación Psicoanalítica. Instituto de Estudios de Posgrado en Psicoanálisis y Psicoterapia."
+    ], 
+    "lineas_investigacion": [
+        "Humanística educativa.", 
+        "Psicopedagogía.", 
+        "Tutorías.", 
+        "Problemas de la adolescencia.", 
+        "Seguimiento de estudiantes de la Licenciatura de Pedagogía."
+    ], 
+    "investigaciones": [
+        "La elección de línea eje (área): una visión del campo pedagógico desde la teoría crítica en la formación profesional del pedagogo.", 
+        "Enfoque psicoanalítico en el deseo de saber de los estudiantes de pedagogía: generación 2015 I- 2018 II, Facultad de Estudios Superiores Aragón."
+    ]
+}

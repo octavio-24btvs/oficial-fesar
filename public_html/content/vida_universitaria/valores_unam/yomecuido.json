@@ -1,0 +1,23 @@
+{
+    "titulo":"YoMeCuido",
+    "imagenes": [
+        {
+            "imagen": "telefono-al-volante",
+            "alt":"Tel\u00E9fono al volante"
+        },
+        {
+            "imagen": "un-peaton-responsable",
+            "alt":"Un peaton responsable"
+        }
+    ],
+    "pdfs": [
+        {
+            "titulo": "Aristas de la ciberseguridad",
+            "pdf": "aristas-de-la-ciberseguridad"
+        },
+        {
+            "titulo": "Dec\u00E1logo de seguridad",
+            "pdf": "decalogo-de-seguridad"
+        }
+    ]
+}

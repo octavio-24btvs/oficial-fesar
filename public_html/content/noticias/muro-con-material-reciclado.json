@@ -1,0 +1,35 @@
+{
+	"titulo": "Muro con material reciclado",
+	"titulo_normalizado": "muro-con-material-reciclado",
+	"secciones": [
+		{
+			"seccion": "#ProyecciónAragón",
+			"seccion_normalizada": "proyeccion-aragon"
+		},
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		},
+		{
+			"seccion": "Ingeniería Industrial",
+			"seccion_normalizada": "industrial"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "20/01/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Las grandes construcciones implican un gran impacto en el medio ambiente, entre otras cosas por el consumo de recursos, los cuales muchas veces terminan siendo desechados y sin reciclar tras acabar su vida \u00FAtil. Afortunadamente, gracias a j\u00F3venes como Samantha Victoria Torija, Sharon Mendoza (ambas de Ingenier\u00EDa Industrial) y Cynthia Alejandra Rodr\u00EDguez (Arquitectura) esto podr\u00EDa cambiar.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Entre ellas, y con la asesor\u00EDa del coordinador N\u00E9stor Garc\u00EDa, desarrollaron un tipo de muro el cual se construye a partir de materiales reciclados, principalmente pl\u00E1sticos de un solo uso, como el PVC; es sumamente ligero y evita la propagaci\u00F3n del fuego. Adicionalmente, se tiene el ambicioso prop\u00F3sito de hacer que cada uno de estos muros pueda ser guardado o reutilizado tras su uso en las construcciones.&nbsp;&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El proyecto fue aceptado en la convocatoria J\u00F3venes Emprendedores e Innovadores COMECYT-EDOM\u00C9X 2021; la cual, junto con el Centro Tecnol\u00F3gico Arag\u00F3n y la incubadora de empresas InnovaUNAM, ha apoyado al equipo por considerar el proyecto como un emprendimiento innovador y viable econ\u00F3mica y socialmente. Uno de los principales retos a los que se han enfrentado los integrantes es la aplicaci\u00F3n inmediata de su conocimientos profesionales, adem\u00E1s de coordinar los diferentes saberes en este trabajo multidisciplinario y los retrasos provocados por la pandemia.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este producto est\u00E1 pensado para beneficiar principalmente a las peque\u00F1as y medianas empresas abaratando costes de construcci\u00F3n. Asimismo, la idea destaca por el impacto positivo en el medio ambiente, por ello el equipo recomienda a la comunidad universitaria creer en sus capacidades y acercarse a las personas m\u00E1s experimentadas, a fin de llevar a cabo ideas que puedan beneficiar a todo el planeta.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Puedes ver la capsula sobre el proyecto en el siguiente enlace: <\/span><a href=\"https:\/\/bit.ly\/3Hs9rlo\" target=\"_blank\">https:\/\/bit.ly\/3Hs9rlo<\/a><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Muro1.gif"
+		},
+		{
+			"imagen": "Muro2.gif"
+		},
+		{
+			"imagen": "Muro3.gif"
+		},
+		{
+			"imagen": "Muro4.gif"
+		}
+        ]
+}

@@ -1,0 +1,10 @@
+{
+    "carrera": "Económia SUAYED", 
+    "icono": "icon-economia-suayed", 
+    "investigadores": [
+        {
+            "nombre": "Guadalupe García Balderas", 
+            "nombre_normalizado": "guadalupe-garcia-balderas"
+        }
+    ]
+}

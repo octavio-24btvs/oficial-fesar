@@ -1,0 +1,73 @@
+
+<!-- Formulario para administrativo -->
+<div class="container content">
+    <hr>
+    <div class="row encabezado">
+        <div class="col-lg-12 encabezado-titulo">
+          <i class="icono-encabezado icon-formulario-1"></i>  <h1> Formulario para pasantes </h1>
+        </div>
+    </div>
+    <hr> 
+    <div class="row justify-content-center lista" style="padding-bottom: 15px;">
+        <form ng-submit="submit()" novalidate>
+            <div class="form-group">
+                <strong> Tr&aacute;mite:</strong> <br/>
+                <label> <input type="radio" ng-model="form.tramite" name="radiotramite" value="1" required/> Registro</label><br/>
+                <label> <input type="radio" ng-model="form.tramite" name="radiotramite" value="2" required/> Resello</label><br/>
+            </div>
+            <div class="form-group">
+                <label> <strong> Nombre (paterno, materno y nombres):</strong>
+                </label>
+                <input class="form-control" ng-model="form.nombre" placeholder="Nombre" type="text"  required/> 
+            </div>
+            <div class="form-group">
+                <label>  <strong> N&uacute;mero de cuenta:</strong></label>
+                <input class="form-control" ng-model="form.numero_cuenta" placeholder=" N&uacute;mero de cuenta" type="number" required number/>
+            </div>
+            <div class="form-group">
+                <strong> &Aacute;rea Acad&eacute;mica:</strong>
+                <br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="0" required/> Arquitectura</label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="1" required/> Comunicaci&oacute;n y Periodismo</label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="2" required/> Derecho</label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="3" required/> Dise&ntilde;o Industrial </label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="4" required/> Econom&iacute;a </label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="5" required/> Ing. Civil</label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="6" required/> Ing. en Computaci&oacute;n </label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="7" required/> Ing. El&eacute;ctrica Electr&oacute;nica </label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="8" required/> Ing. Industrial</label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="9" required/> Ing. Mec&aacute;nica</label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="10" required/> Posgrado </label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="11" required/> Pedagog&iacute;a </label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="12" required/> Planificaci&oacute;n p/d Agropecuario</label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="13" required/> Relaciones Internacionales</label><br/>
+                <label><input type="radio" name="radiocarrera" ng-model="form.carrera" value="14" required/> Sociolog&iacute;a</label><br/><br/>
+            </div>
+            <div class="form-group">
+                <label><strong> Domicilio:</strong> </label>
+                <textarea class="form-control" ng-model="form.domicilio" placeholder="Calle, n&uacute;mero, colonia, CP, Delegaci&oacute;n/Municipio, Estado" required></textarea>
+            </div>
+            <div class="form-group">
+                <label><strong> Tel&eacute;fono particular:</strong></label>
+                <input class="form-control" ng-model="form.telefono_particular" placeholder="Tel&eacute;fono particular" type="number" required number/> 
+            </div>
+            <div class="form-group">
+                <label><strong> Tel&eacute;fono m&oacute;vil:</strong></label>
+                <input class="form-control" ng-model="form.telefono_movil" placeholder="Tel&eacute;fono m&oacute;vil:" type="number" number required/> 
+            </div>
+            <div class="form-group">
+                <label> <strong> Correo electr&oacute;nico: </strong></label>
+                <input class="form-control" ng-model="form.correo_electronico" placeholder="Correo electr&oacute;nico:" type="email" required email/> 
+            </div>
+            <div class="form-group">
+                <label><strong> Mensaje:</strong> </label>
+                <textarea class="form-control" ng-model="form.mensaje" placeholder="Mensaje"> </textarea>
+            </div>
+            <button class="btn btn-success float-right ml-10 boton-radius" type="submit">Enviar</button>
+            <button class="btn btn-danger float-right boton-radius" ng-click="cancelar()" type="button">Cancelar</button>
+        </form>
+    </div>
+
+
+</div>
+

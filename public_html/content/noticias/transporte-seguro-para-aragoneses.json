@@ -1,0 +1,14 @@
+{
+	"titulo": "Transporte seguro para aragoneses",
+	"titulo_normalizado": "transporte-seguro-para-aragoneses",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor":"Alejandro Frias",
+	"fecha":"27/02/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para mejorar el traslado de la comunidad aragonesa, la Secretar\u00EDa de Movilidad del Estado de M\u00E9xico implement\u00F3 el programa <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Sendero Seguro<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, en el cual estudiantes, acad\u00E9micos y trabajadores podr\u00E1n realizar el trayecto de la estaci\u00F3n del metro Impulsora a la instituci\u00F3n &nbsp;–y viceversa– de manera \u00E1gil y segura.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el ‘’banderazo’’ inicial de este servicio, realizado el 27 de febrero, estuvieron representantes del Sistema de Transportes y Movilidad del Estado de M\u00E9xico;<\/span><span style=\"color: rgb(0, 0, 0);\"> de la Secretar\u00EDa de Prevenci\u00F3n, Atenci\u00F3n y Seguridad Universitaria de la UNAM<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">; Juan Hugo de la Rosa, presidente municipal de Nezahualc\u00F3yotl, quien resalt\u00F3 la importancia que tiene la FES Arag\u00F3n en dicho municipio, y el director de nuestra Facultad, Fernando Macedo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este proyecto beneficiar\u00E1 a todos los aragoneses, al disminuir los riesgos de desplazarse. Por s\u00F3lo 5 pesos en cada viaje, se podr\u00E1 hacer uso de este transporte de lunes a viernes, presentando la credencial de la Facultad, en la bah\u00EDa vehicular ubicada en el acceso de la avenida Rancho Seco, as\u00ED como en la salida del metro Impulsora del lado norte a un costado de la tienda Oxxo. Los horarios de este servicio son: de 6:30 a 9:00, de 11:00 a 13:00, de 14:30 a 17:00 y de 20:00 a 22:15.<\/span><\/p>",
+	"imagenes":[{"imagen":"transporte-seguro-para-6.jpg"},{"imagen":"transporte-seguro-para-5.jpg"},{"imagen":"transporte-seguro-para-4.jpg"},{"imagen":"transporte-seguro-para-3.jpg"},{"imagen":"transporte-seguro-para-2.jpg"},{"imagen":"transporte-seguro-para-1.jpg"}]
+}

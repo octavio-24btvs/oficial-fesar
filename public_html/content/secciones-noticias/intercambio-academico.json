@@ -1,0 +1,70 @@
+{
+	"id": 27,
+	"titulo": "Intercambio Acad\u00E9mico",
+	"icono": "icon-intercambio-academico",
+	"noticias": [
+		{
+			"titulo":"Emotiva despedida a personas beneficiarias de movilidad acad\u00E9mica",
+			"titulo_normalizado":"emotiva-despedida-a-personas-beneficiarias-de-movilidad-academica",
+			"autor":"Beatriz Calva",
+			"imagen": "despedida-1.gif",
+			"fecha":"30/05/23"
+		},
+		{
+			"titulo":"Ceremonia de despedida del PITAAE",
+			"titulo_normalizado":"ceremonia-de-despedida-del-pitaae",
+			"autor":"Erik Pliego",
+			"imagen": "Ceremonia1.gif",
+			"fecha":"29/06/22"
+		},
+		{
+			"titulo":"Pl\u00E1tica informativa Beca ExxonMobil",
+			"titulo_normalizado":"platica-informativa-beca-exxonmobil",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "Platica-beca-exonmobil-1.jpg",
+			"fecha":"23/10/20"
+		},
+		{
+			"titulo":"Experiencias en Brasil",
+			"titulo_normalizado":"experiencias-en-brasil",
+			"autor":"Redacci\u00F3n",
+			"imagen": "Experiencias-en-Brasil-1.jpg",
+			"fecha":"22/02/19"
+		},
+		{
+			"titulo":"Verano Puma en Reino Unido",
+			"titulo_normalizado":"verano-puma-en-reino-unido",
+			"autor":"Alejandro Frias",
+			"imagen": "verano-puma-en-reino-unido-1.jpg",
+			"fecha":"19/08/19"
+		},
+		{
+			"titulo":"Becas y programas de movilidad a Taipei",
+			"titulo_normalizado":"becas-y-programas-de-movilidad-a-taipei",
+			"autor":"Alejandro Trujillo",
+			"imagen": "ATC_0055.jpg",
+			"fecha":"19/02/23"
+		},
+		{
+			"titulo":"La despedida y bienvenida de un gran sue\u00F1o",
+			"titulo_normalizado":"la-despedida-y-bienvenida-de-un-gran-sueno",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "la-despedida-y-bienvenida-de-un-gran-sueno-1.jpg",
+			"fecha":"10/12/18"
+		},
+		{
+			"titulo":"\u00A1A volar por el mundo!",
+			"titulo_normalizado":"a-volar-por-el-mundo",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "Habitos1.gif",
+			"fecha":"04/11/21"
+		},
+		{
+			"titulo":"Forja tu liderazgo en el Reino Unido",
+			"titulo_normalizado":"forja-tu-liderazgo-en-el-reino-unido",
+			"autor":"Redacci\u00F3n",
+			"imagen": "forja-tu-liderazgo-en-el-reino-unido-1.jpg",
+			"fecha":"01/10/19"
+		}
+	]
+}

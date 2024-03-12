@@ -1,0 +1,112 @@
+<style type="text/css">
+    /* 
+    REGLAS CSS INDEPENDIENTES DEL PROYECTO
+    */
+    .side-bar {
+        background-color: #c92228;
+        color: #fff;
+        position: relative;
+    }
+    .side-bar h2 {
+        font-size: 2rem;
+        transform: rotate(-90deg);
+        position: absolute;
+        bottom: 50%;
+        left: -100px;
+        width: 300px;
+    }
+    p {
+        font-size: 0.9rem;
+    }
+    @media screen and (max-width: 576px) {
+        #img-menu {
+            width: 210px;
+        }
+        .side-bar {
+            text-align: center;
+            margin-bottom: 5px;
+        }    
+        .side-bar h2 {
+            transform: none;
+            position: static;
+            bottom: 0;
+            left: 0;
+            width: auto;
+            margin-top: 10px;
+        }
+    }
+    @media (min-width: 577px) and (max-width: 768px) {
+        .side-bar {
+            text-align: center;
+            margin-bottom: 5px;
+        }    
+        .side-bar h2 {
+            transform: none;
+            position: static;
+            bottom: 0;
+            left: 0;
+            width: auto;
+            margin-top: 10px;
+        }
+    }
+    @media (min-width: 769px) and (max-width: 992px) {
+        .side-bar h2 {
+            font-size: 1.5rem;
+            left: -115px;
+        }
+    }
+    @media (min-width: 993px) and (max-width: 1200px) {
+        .side-bar h2 {
+            font-size: 1.8rem;
+            left: -110px;
+        }
+    }
+</style>
+<h1 class="sr-only">GALER&Iacute;A DIGITAL FES ARAG&Oacute;N, UNAM M&Eacute;XICO</h1>
+<div class="row my-3">
+    <div class="col-12 col-md-1 side-bar">
+        <h2>GALER&Iacute;A DIGITAL</h2>
+    </div>
+    <div class="col-12 col-md-11">
+        <div class="row">
+            <div class="col-12">
+                <hr />
+                <h2 style="
+                    text-align: center;
+                    font-size: 1.5rem; 
+                    font-weight: 400;">
+                    {{artista.nombre}}
+                </h2>
+                <hr />
+            </div>
+            <div class="col-12">
+                <p>
+                    {{artista.descripcion}}
+                </p>
+            </div>
+            <div class="col-12" style="z-index: 0;margin-top: 8px;">
+                <div class="row justify-content-md-center">
+                    <div class="col-12 col-md-8">
+                        <div ng-if="artista.obras.length > 0">
+                            <div class="d-inline-block mr-3" ng-repeat="obra in artista.obras">
+                                <a ui-sref="obra_exposicion_digital({artista: artista.nombre_normalizado, obra: obra.titulo_normalizado})" 
+                                   title="{{obra.titulo}}">
+                                    <img ng-src="public_html/img/exposicion-digital/artistas/{{artista.nombre_normalizado}}/obras/{{obra.imagen}}" 
+                                         style="margin-left: 35%;"
+                                         class="img-fluid ml-md-0 my-3 my-md-0" 
+                                         alt="{{obra.titulo}}"/>
+                                    <div class="d-block d-md-none">
+                                        <div class="text-left">
+                                            <strong>{{obra.titulo}}</strong>
+                                        </div>
+                                        {{obra.descripcion}}
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

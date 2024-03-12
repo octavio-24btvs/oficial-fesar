@@ -1,0 +1,25 @@
+{
+	"titulo": "SESO: \u00BFQu\u00E9 preocupa a los j\u00F3venes de Iberoam\u00E9rica?",
+	"titulo_normalizado": "seso-que-preocupa-a-los-jovenes-de-iberoamerica",
+	"secciones": [
+		{
+			"seccion": "Ciencias Sociales",
+			"seccion_normalizada": "ciencias-sociales"
+		},
+		{
+			"seccion": "Sociología",
+			"seccion_normalizada": "sociologia"
+		}
+	],
+	"autor": "Kenia Brodman",
+	"fecha": "02/05/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Sociolog\u00EDa 2022<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, el investigador Jes\u00FAs Garc\u00EDa desarroll\u00F3 la conferencia “La experiencia participativa en el tr\u00E1nsito de la infancia a la adolescencia. Las voces de chicos y chicas de Barcelona, Buenos Aires y Ciudad de M\u00E9xico”, moderada por la docente Guadalupe Regina Dorantes, la cual englob\u00F3 el proyecto CITADEL, ciudades inteligentes para nuevos ciudadanos en pa\u00EDses de Iberoam\u00E9rica.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con palabras de Garc\u00EDa, el proyecto tuvo como objetivo estudiar la brecha existente en la experiencia c\u00EDvica de los j\u00F3venes entre 15 a 18 a\u00F1os de edad, en espacios de educaci\u00F3n formal y su vida como ciudadanos, partiendo de un proceso de investigaci\u00F3n participativa. En resumen, el inter\u00E9s gir\u00F3 en torno a qu\u00E9 piensa ese sector poblacional. Dentro de las instituciones participantes destacaron la Universidad Complutense de Madrid, Universidad de Buenos Aires, de San Paulo y la Universidad Nacional Aut\u00F3noma de M\u00E9xico.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En ese sentido, los principales temas que preocupan a los j\u00F3venes son: la falta de oportunidades en Brasil (empleo), la privaci\u00F3n de derechos por no ser mayores de edad, as\u00ED como los espacios para participar o expresarse, por mencionar algunos. Por \u00FAltimo, Garc\u00EDa resalt\u00F3 la importancia de la reconciliaci\u00F3n entre la pol\u00EDtica y juventud, al igual que los lugares para lanzar sus opiniones respecto a los asuntos que les afectan diariamente o a sus comunidades, a fin de impulsar su desarrollo integral.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Jovenes1.gif"
+		},
+		{
+			"imagen": "Jovenes2.gif"
+		}	]
+
+}

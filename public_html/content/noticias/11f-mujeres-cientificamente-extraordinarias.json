@@ -1,0 +1,34 @@
+{
+	"titulo": "11F: Mujeres cient\u00EDficamente extraordinarias",
+	"titulo_normalizado": "11f-mujeres-cientificamente-extraordinarias",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		},
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor": "Romina Mel\u00E9ndez",
+	"fecha": "11/02/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A trav\u00E9s de la Unidad de Extensi\u00F3n Universitaria de la Facultad de Estudios Superiores Arag\u00F3n, se llev\u00F3 a cabo la charla titulada ”De ni\u00F1a a cient\u00EDfica” en conmemoraci\u00F3n al <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">11F, D\u00EDa Internacional de las Mujeres, las J\u00F3venes y las Ni\u00F1as en las Ciencias.<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Con el objetivo de visibilizar y valorizar el trabajo de las mujeres investigadoras en el mundo, as\u00ED como fomentar la vocaci\u00F3n cient\u00EDfica en las ni\u00F1as.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dicha conversaci\u00F3n estuvo a cargo del equipo de Servicio Social de G\u00E9nero de la misma Facultad. Algunos integrantes del equipo dieron a conocer la vida y obra de personalidades cient\u00EDficas. Karen Bautista de la <\/span><span style=\"color: rgb(0, 0, 0);\">licenciatura <\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">de Pedagog\u00EDa habl\u00F3 de Barbara McClintock, cient\u00EDfica en citogen\u00E9tica,&nbsp; Elizabeth Kelly Ocampo de la misma carrera, present\u00F3 a Carolina Herschel, astr\u00F3noma, Julio Raymundo Baena de Derecho, expuso a Chien-Shiung Wu, f\u00EDsica y finalmente Claudia Alejandra Guti\u00E9rrez de Relaciones Internacionales present\u00F3 a Susana L\u00F3pez, vir\u00F3loga.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante estas participaciones, dieron a conocer c\u00F3mo cada una de las cient\u00EDficas rompieron esquemas desde ni\u00F1as; su desarrollo acad\u00E9mico, vivencias personales, obst\u00E1culos y triunfos demuestran el camino recorrido para poder dejar huella en el mundo. Sin lugar a dudas, hubo un sesgo hist\u00F3rico, pol\u00EDtico y social en sus vidas, teniendo diferente nacionalidad y educaci\u00F3n se enfrentaron a distintos retos pero, todas convergen en la capacidad de resiliencia constante para lograr sus objetivos y el descubrimiento del mundo cient\u00EDfico.<\/span><\/p><p><br><\/p><p><br><\/p>",
+	"imagenes": [
+		{
+			"imagen": "mujeres-cientificas-1.gif"
+		},
+		{
+			"imagen": "mujeres-cientificas-2.gif"
+		},
+		{
+			"imagen": "mujeres-cientificas-3.gif"
+		},
+		{
+			"imagen": "mujeres-cientificas-4.gif"
+		},
+		{
+			"imagen": "mujeres-cientificas-5.gif"
+		}	]
+
+}

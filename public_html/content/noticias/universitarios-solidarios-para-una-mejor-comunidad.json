@@ -1,0 +1,14 @@
+{
+	"titulo": "Universitarios solidarios para una mejor comunidad",
+	"titulo_normalizado": "universitarios-solidarios-para-una-mejor-comunidad",
+	"secciones": [
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor":"Carmen Melendez",
+	"fecha":"29/08/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Estudiantes de nuestra Facultad han realizado actividades de servicio voluntario para apoyar a diversas poblaciones. Dada la disposici\u00F3n de la comunidad estudiantil aragonesa, Ver\u00F3nica Palma, presidenta del Pacto de Am\u00E9rica Latina por la Educaci\u00F3n con Calidad Humana (PALECH) invit\u00F3 a m\u00E1s personas sumarse en este proyecto. <\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">PALECH es un movimiento social sin fines de lucro que busca generar cambios positivos en el entorno mediante el compromiso, la empat\u00EDa y el fomento a la calidad humana desde la educaci\u00F3n. <\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para ser parte del voluntariado se requiere tener entre 17 y 25 a\u00F1os, y pueden participar estudiantes de cualquier carrera a fin de desarrollar un producto e integrarlo a una comunidad. Si quieres colaborar con PALECH puedes encontrar m\u00E1s informaci\u00F3n en <\/span><a href=\"http:\/\/palech.org\/\" target=\"_blank\" style=\"color: rgb(17, 85, 204); background-color: transparent;\">http:\/\/palech.org\/<\/a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p>",
+	"imagenes":[{"imagen":"img-1.jpg"},{"imagen":"img-2.jpg"}]
+}

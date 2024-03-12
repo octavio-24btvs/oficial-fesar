@@ -1,0 +1,14 @@
+{
+	"titulo": "A\u00F1o nuevo, espacios renovados",
+	"titulo_normalizado": "ano-nuevo-espacios-renovados",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor":"Liliana Espinosa",
+	"fecha":"24/01/20",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para brindar espacios funcionales que beneficien a la comunidad aragonesa, se han realizado varios trabajos de remodelaci\u00F3n en distintas partes de las instalaciones.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">\u00C1reas deportivas –como la cancha de futbol 7, la de b\u00E9isbol y la pista–, la Biblioteca Jes\u00FAs Reyes Heroles, una completa transformaci\u00F3n de los n\u00FAcleos sanitarios, pasillos, jardineras de la explanada central, entre otros, son algunos de los lugares renovados.<\/span><\/p>",
+	"imagenes":[{"imagen":"ano-nuevo-espacios-renovados-1.jpg"},{"imagen":"ano-nuevo-espacios-renovados-2.jpg"},{"imagen":"ano-nuevo-espacios-renovados-3.jpg"},{"imagen":"ano-nuevo-espacios-renovados-4.jpg"},{"imagen":"ano-nuevo-espacios-renovados-5.jpg"},{"imagen":"ano-nuevo-espacios-renovados-6.jpg"},{"imagen":"ano-nuevo-espacios-renovados-8.jpg"},{"imagen":"ano-nuevo-espacios-renovados-9.jpg"}]
+}

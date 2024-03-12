@@ -1,0 +1,31 @@
+{
+	"titulo": "CIII: Ingenier\u00EDa Industrial y la Empresa Familiar",
+	"titulo_normalizado": "ciii-ingenieria-industrial-y-la-empresa-familiar",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Ingeniería Industrial",
+			"seccion_normalizada": "industrial"
+		}
+	],
+	"autor": "Johana Mart\u00EDnez",
+	"fecha": "24/03/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con motivo del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">1.er<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Congreso Internacional de Ingenier\u00EDa industrial UNAM 2022, <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">cuyo tema central es el “Impacto y aplicaci\u00F3n en la industria a trav\u00E9s del tiempo”, se llev\u00F3 a cabo la conferencia magistral \"Empresas familiares y la Ingenier\u00EDa industrial\" impartida por el doctor Allan Discua, director del Centro de Negocios familiares de la Universidad de Lancaster.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Discua transform\u00F3 parte de su finca en una f\u00E1brica tras la muerte de su padre. Para lograrlo debi\u00F3 realizar un an\u00E1lisis de los recursos, las opciones y las inversiones necesarias. Adem\u00E1s a\u00F1adi\u00F3: “durante la carrera se les proporcionan las herramientas para poder analizar, no solo el entorno empresarial, sino, al mismo tiempo, c\u00F3mo utilizar los recursos”.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las empresas familiares, de acuerdo con el ponente, existen desde antes del imperio romano, pues esta relaci\u00F3n (empresa-familia) es tan antigua como lo es la historia y ha impulsado las diferentes revoluciones en las industrias. Explic\u00F3 tambi\u00E9n que no existe una definici\u00F3n espec\u00EDfica debido a que cada una nace en su propio contexto.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, destac\u00F3 la importancia de las y los ingenieros industriales dentro de estas organizaciones. Adem\u00E1s de los desaf\u00EDos que enfrentan al buscar el balance entre los objetivos familiares y empresariales.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Ciii1.gif"
+		},
+		{
+			"imagen": "Ciii2.gif"
+		},
+		{
+			"imagen": "ciii3.gif"
+		},
+		{
+			"imagen": "Ciii4.gif"
+		}	]
+
+}

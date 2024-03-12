@@ -1,0 +1,112 @@
+{
+	"id": 13,
+	"titulo": "Humanidades y Artes",
+	"icono": "icon-hya",
+	"noticias": [
+		{
+			"titulo":"Por un mundo lleno de paz",
+			"titulo_normalizado":"por-un-mundo-lleno-de-paz",
+			"autor":"Carmen Melendez  y Edith Granados",
+			"imagen": "por-un-mundo-lleno-de-paz-1.JPG",
+			"fecha":"30/01/19"
+		},
+		{
+			"titulo":"En busca de exhibiciones perfectas en nuestros museos",
+			"titulo_normalizado":"en-busca-de-exhibiciones-perfectas-en-nuestros-museos",
+			"autor":"Redacci\u00F3n",
+			"imagen": "en-busca-de-la-exhibiciones-perfectas-en-nuestros-museos-universitarios-1.jpg",
+			"fecha":"29/10/19"
+		},
+		{
+			"titulo":"Impulsar el h\u00E1bito de visitar museos",
+			"titulo_normalizado":"impulsar-el-habito-de-visitar-museos",
+			"autor":"Aurelio Nito",
+			"imagen": "impulsar-el-hábito-de-visitar-museos-1.jpg",
+			"fecha":"28/05/19"
+		},
+		{
+			"titulo":"\u00BFSon educativos los museos?",
+			"titulo_normalizado":"son-educativos-los-museos",
+			"autor":"Redacci\u00F3n",
+			"imagen": "son-educativos-los-museos-1.jpg",
+			"fecha":"28/01/20"
+		},
+		{
+			"titulo":"El inter\u00E9s de los j\u00F3venes por los museos",
+			"titulo_normalizado":"el-interes-de-los-jovenes-por-los-museos",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "el-interes-de-los-jovenes-por-los-museos-1.jpg",
+			"fecha":"27/08/19"
+		},
+		{
+			"titulo":"Contribuciones de nuestros museos universitarios",
+			"titulo_normalizado":"contribuciones-de-nuestros-museos-universitarios",
+			"autor":"Redacci\u00F3n",
+			"imagen": "contribuciones-de-nuestros-museos-universitarios-1.jpg",
+			"fecha":"26/11/19"
+		},
+		{
+			"titulo":"La estad\u00EDstica de museos",
+			"titulo_normalizado":"la-estadistica-de-museos",
+			"autor":"Redacci\u00F3n",
+			"imagen": "la-estadistica-de-museos-1.jpg",
+			"fecha":"25/02/20"
+		},
+		{
+			"titulo":"La libertad de la educaci\u00F3n",
+			"titulo_normalizado":"la-libertad-de-la-educacion",
+			"autor":"Francisco Olivares",
+			"imagen": "la-libertad-de-la-educacion-1.jpg",
+			"fecha":"19/11/21"
+		},
+		{
+			"titulo":"Movimientos juveniles en Brasil",
+			"titulo_normalizado":"movimientos-juveniles-en-brasil",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "movimientos-juveniles-en-brasil-1.jpg",
+			"fecha":"15/02/22"
+		},
+		{
+			"titulo":"JIM-B: Universalidad, Internacionalizaci\u00F3n y Pol\u00EDticas P\u00FAblicas en la \u00E9poca contempor\u00E1nea",
+			"titulo_normalizado":"jim-b-universalidad-internacionalizacion-y-politicas-publicas-en-la-epoca-contemporanea",
+			"autor":"Miguel Palacios",
+			"imagen": "foro-axel-didriksson-1.jpg",
+			"fecha":"15/02/22"
+		},
+		{
+			"titulo":"JIM-B: La riqueza intercultural para la educaci\u00F3n",
+			"titulo_normalizado":"jim-b-la-riqueza-intercultural-para-la-educacion",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "foro-mexico-brasil-1.jpg",
+			"fecha":"12/02/22"
+		},
+		{
+			"titulo":"8M: Prevenci\u00F3n en la trata de personas",
+			"titulo_normalizado":"8m-prevencion-en-la-trata-de-personas",
+			"autor":"Alberto Ochoa",
+			"imagen": "Trata-de-1.gif",
+			"fecha":"09/03/21"
+		},
+		{
+			"titulo":"Brasil, el cambio hist\u00F3rico-cultural",
+			"titulo_normalizado":"brasil-el-cambio-historico-cultural",
+			"autor":"Rodrigo Castillo",
+			"imagen": "Brasil-elcambio-1.gif",
+			"fecha":"08/09/23"
+		},
+		{
+			"titulo":"Fortalecimiento de los programas tutoriales",
+			"titulo_normalizado":"fortalecimiento-de-los-programas-tutoriales",
+			"autor":"Redacci\u00F3n",
+			"imagen": "fortalecimiento-de-los-programas-tutoriales-1.jpg",
+			"fecha":"08/09/21"
+		},
+		{
+			"titulo":"Institucionalizaci\u00F3n de la tutor\u00EDa",
+			"titulo_normalizado":"institucionalizacion-de-la-tutoria",
+			"autor":"Rosa Francisco",
+			"imagen": "institucionalizacion-de-la-tutoria-1.jpg",
+			"fecha":"08/09/21"
+		}
+	]
+}

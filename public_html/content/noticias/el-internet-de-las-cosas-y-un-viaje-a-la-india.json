@@ -1,0 +1,36 @@
+{
+	"titulo": "El internet de las cosas y un viaje a la india",
+	"titulo_normalizado": "el-internet-de-las-cosas-y-un-viaje-a-la-india",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		}
+	],
+	"autor": "Alejandro Trujillo",
+	"fecha": "21/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(32, 33, 36);\">Continuando con la <\/span><em style=\"color: rgb(32, 33, 36);\">Semana de la ingenier\u00EDa<\/em><span style=\"color: rgb(32, 33, 36);\"> en la Facultad de Estudios Superiores Arag\u00F3n, ingenier\u00EDa en computaci\u00F3n present\u00F3 la conferencia \"IoT: Conocimientos y experiencias desde la India\" en el Centro Tecnol\u00F3gico Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(32, 33, 36);\">Para este magno evento, los docentes de la carrera, Efr\u00E9n Lozano y Jorge Iv\u00E1n Campos, presentaron la experiencia que vivieron a inicios del a\u00F1o 2023, relacionado con el internet de las cosas, aplicados a los nuevos modelos de agricultura automatizados utilizando estas tecnolog\u00EDas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(32, 33, 36);\">Las y los ingenieros interesados en las m\u00FAltiples aplicaciones de las nuevas tecnolog\u00EDas dentro del \u00E1rea de la agricultura, pudieron aprender de primera mano c\u00F3mo fue la experiencia de los especialistas en el Programa de Cooperaci\u00F3n T\u00E9cnica y Econ\u00F3mica de la India (ITEC) fundado en 1964. Dise\u00F1ado con la intenci\u00F3n de crear un sistema de cooperaci\u00F3n internacional para compartir conocimientos y tecnolog\u00EDas entre la India y m\u00E1s de 160 pa\u00EDses.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(32, 33, 36);\">Luego de relatar las experiencias durante su viaje, los docentes exhortaron a las y los aragoneses a indagar m\u00E1s para adquirir conocimientos a trav\u00E9s de m\u00FAltiples fuentes, pues por mencionar alguno, este programa no solo ofrece cursos enfocados a las aplicaciones del internet de las cosas, la p\u00E1gina oficial del ITEC tiene una oferta acad\u00E9mica de m\u00E1s de 400 cursos donde abarcan t\u00F3picos como la electr\u00F3nica b\u00E1sica, c\u00F3mputo cu\u00E1ntico y hasta yoga.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Cosas1.gif"
+		},
+		{
+			"imagen": "Cosas2.gif"
+		},
+		{
+			"imagen": "Cosas3.gif"
+		},
+		{
+			"imagen": "Cosas4.gif"
+		},
+		{
+			"imagen": "Cosas5.gif"
+		},
+		{
+			"imagen": "Cosas6.gif"
+		},
+		{
+			"imagen": "Cosas7.gif"
+		}	]
+
+}

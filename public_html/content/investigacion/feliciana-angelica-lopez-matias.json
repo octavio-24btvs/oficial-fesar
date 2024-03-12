@@ -1,0 +1,18 @@
+{
+    "nombre": "Feliciana Angélica López Matías", 
+    "grado_academico": "Licenciada", 
+     "correo": [ "felicianalopez3y@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Periodismo y Comunicación Colectiva. Universidad Nacional Autónoma de México.",
+        "Estudios de Posgrado en Comunicación en Ciencias Políticas y Sociales, FCPyS, UNAM. Tesis en proceso."
+
+    ], 
+    "lineas_investigacion": [
+        "La Radio en México.",
+        "Investigación en Ciencias Sociales."
+    ], 
+    "investigaciones": [
+        "Construcción de ciudadanía en la radio.",
+        "Un manual de producción radiofónica."
+    ]
+}

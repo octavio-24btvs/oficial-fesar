@@ -1,0 +1,14 @@
+{
+	"titulo": "Incluyendo a todas las personas",
+	"titulo_normalizado": "incluyendo-a-todas-las-personas",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor":"Carmen Melendez",
+	"fecha":"20/03/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la Segunda Jornada de Inclusi\u00F3n y Discapacidad, Jaqueline Delgado del “Colectivo la Lata” proyect\u00F3 dos documentales sobre mujeres con discapacidad con el objetivo de sensibilizar y acercar a la sociedad a este tema.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se transmiti\u00F3 el corto “Tambi\u00E9n somos mujeres” en el cual puede verse la autonom\u00EDa de mujeres espa\u00F1olas con discapacidad intelectual. Mientras que en el documental “Fiesta divierte”, creado por una de la integrantes del colectivo, Ivet Vallejo, quien padece de discapacidad intelectual, la autora mostr\u00F3 su vida cotidiana y personal, dando peso a que su condici\u00F3n no le impide realizar sus sue\u00F1os y metas, sino al contrario la impulsa a conseguir lo que se propone.<\/span><\/p>",
+	"imagenes":[{"imagen":"incluyendo-a-todas-las-personas-1.jpg"},{"imagen":"incluyendo-a-todas-las-personas-2.jpg"},{"imagen":"incluyendo-a-todas-las-personas-3.jpg"}]
+}

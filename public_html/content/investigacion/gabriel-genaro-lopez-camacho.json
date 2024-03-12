@@ -1,0 +1,20 @@
+{
+    "nombre": "Gabriel Genaro López Camacho", 
+    "grado_academico": "Doctor", 
+     "correo2": [ "gabrielcamachod6@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Arquitectura. Universidad Nacional Autónoma de México.", 
+        "Maestría en Arquitectura. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Educación. UNIABI de San Luis Potosí"
+    ], 
+    "lineas_investigacion": [
+        "Administración, gestión y costos.", 
+        "Investigación en Humanidades.", 
+        "Investigación en Artes."
+    ], 
+    "investigaciones": [
+        "Eficiencia terminal de los alumnos de Arquitectura en su etapa de formación.", 
+        "Evaluación \"La carrera de Arquitectura de la FES Aragón – UNAM\"."
+    ]
+}

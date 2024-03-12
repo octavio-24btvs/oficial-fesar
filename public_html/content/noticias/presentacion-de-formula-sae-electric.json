@@ -1,0 +1,34 @@
+{
+	"titulo": "Presentaci\u00F3n de F\u00F3rmula SAE Electric",
+	"titulo_normalizado": "presentacion-de-formula-sae-electric",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor": "Tiar\u00E9 Rodr\u00EDguez",
+	"fecha": "19/08/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La carrera de Ingenier\u00EDa Mec\u00E1nica realiz\u00F3 la presentaci\u00F3n de F\u00F3rmula SAE-Electric en el auditorio de la DUACyD. El presidio estuvo compuesto por Fernando Macedo, director de la Facultad; Sebasti\u00E1n Lugo, capit\u00E1n del equipo E-Koh Tech; Hasel Tovar, l\u00EDder del proyecto Frontera; Julio C\u00E9sar Ponce, jefe de la Divisi\u00F3n de las Ciencias Sociales, Mario Sosa, jefe de la Divisi\u00F3n de las Ciencias&nbsp; F\u00EDsico-Matem\u00E1ticas y de las Ingenier\u00EDas; Manuel Arellano, jefe de la Unidad de Sistemas, en representaci\u00F3n de Felipe de Jes\u00FAs Guti\u00E9rrez, secretario de Vinculaci\u00F3n y Desarrollo; y C\u00E1ndido Garrido, en representaci\u00F3n de Rosa Lucia Mata, jefa de la Divisi\u00F3n de Humanidades y Artes.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La SAE (S<\/span><span style=\"color: rgb(32, 33, 34);\">ociety of Automotive Engineers)<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> es una asociaci\u00F3n con el objetivo de que estudiantes de todo el mundo encuentren un entorno profesional dentro de proyectos de alto nivel ingenieril. Una de estas competencias es la Formula SAE, la cual se divide en tres: F\u00F3rmula SAE de combusti\u00F3n, F\u00F3rmula SAE Hybrid, F\u00F3rmula SAE Electric, el equipo se enfoca en esta \u00FAltima.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">E-Koh Tech es un equipo multidisciplinario que busca dise\u00F1ar, manufacturar, probar y conducir un veh\u00EDculo tipo f\u00F3rmula, propulsado por un motor 100% el\u00E9ctrico para competencia. Est\u00E1 conformado por integrantes de las ingenier\u00EDas Mec\u00E1nica, Industrial, El\u00E9ctrica Electr\u00F3nica, Computaci\u00F3n y Dise\u00F1o Industrial. Dentro del proyecto se han realizado colaboraciones con: ANSIS Grupo SSC y Frontera.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "SAE1.gif"
+		},
+		{
+			"imagen": "SAE2.gif"
+		},
+		{
+			"imagen": "SAE3.gif"
+		},
+		{
+			"imagen": "SAE4.gif"
+		},
+		{
+			"imagen": "SAE5.gif"
+		}	]
+
+}

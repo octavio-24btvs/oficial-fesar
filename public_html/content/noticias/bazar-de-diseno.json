@@ -1,0 +1,14 @@
+{
+	"titulo": "Bazar de Dise\u00F1o",
+	"titulo_normalizado": "bazar-de-diseno",
+	"secciones": [
+		{
+			"seccion": "Diseño Industrial",
+			"seccion_normalizada": "diseno-industrial"
+		}
+	],
+	"autor":"Yutsil Hern\u00E1ndez",
+	"fecha":"27/11/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Pasillo Cultural de la FES Arag\u00F3n fue el escenario donde estudiantes de la carrera de Dise\u00F1o Industrial mostraron a toda la comunidad, productos y dise\u00F1os en los que reflejaron sus conocimientos y creatividad. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A modo de bazar, presentaron una amplia oferta de utensilios como collares, artesan\u00EDas de barro, l\u00E1mparas de acr\u00EDlico, libretas de madera, bolsas de algod\u00F3n bordadas, cajas de madera para guardar art\u00EDculos, etc. Adem\u00E1s de objetos l\u00FAdicos que iban desde juegos er\u00F3ticos hasta llaveros de resina con im\u00E1genes de animales mexicanos en peligro de extinci\u00F3n.<\/span><\/p>",
+	"imagenes":[{"imagen":"Bazar-de-diseño-1.jpg"},{"imagen":"Bazar-de-diseño-2.jpg"},{"imagen":"Bazar-de-diseño-3.jpg"},{"imagen":"Bazar-de-diseño-4.jpg"},{"imagen":"Bazar-de-diseño-5.jpg"},{"imagen":"Bazar-de-diseño-6.jpg"},{"imagen":"Bazar-de-diseño-7.jpg"}]
+}

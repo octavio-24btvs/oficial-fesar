@@ -1,0 +1,61 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Mapa curricular",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Contacto"
+    ],
+    "titulo": "Derecho SUAyED",
+    "icono": "icono-secciones icon-derecho-suayed",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Estudiante que ingresas al Sistema Universidad Abierta y Educaci\u00F3n a Distancia de la FES Arag\u00F3n: te damos la m\u00E1s cordial bienvenida a esta, tu Universidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A partir de hoy formas parte de una instituci\u00F3n llena de historia, extraordinaria por su prestigio, desarrollo, evoluci\u00F3n y un gran compromiso social. Nuestra Facultad est\u00E1 dise\u00F1ada para servir a nuestro pa\u00EDs, formando profesionistas con apego a la \u00E9tica y la justicia, con docentes que tienen inter\u00E9s en transmitir su experiencia y con investigaciones que proponen soluciones acorde con nuestra realidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Aprovecha el privilegio que significa la posibilidad de ingresar a la UNAM y realiza tu mayor esfuerzo para responder al compromiso con nuestra sociedad.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Derecho del SUAyED se caracteriza por formar profesionistas en el \u00E1mbito legal con gran sentido humanista y responsabilidad social, con los conocimientos y habilidades necesarias para comprender y generar propuestas que solucionen la problem\u00E1tica inherente a la disciplina jur\u00EDdica; de esta forma, se lograr\u00E1n los fines y principios de esta \u00E1rea del conocimiento: justicia, equidad, bien com\u00FAn y paz social.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Est\u00E1 sustentada en una educaci\u00F3n integral y de investigaci\u00F3n con esp\u00EDritu de superaci\u00F3n permanente, cultura del esfuerzo y una acreditada calidad acad\u00E9mica. La carrera brinda adem\u00E1s una formaci\u00F3n integral, cient\u00EDfica, human\u00EDstica y \u00E9tica, tanto en lo te\u00F3rico como en lo pr\u00E1ctico, fomentando en la comunidad estudiantil una s\u00F3lida conciencia de su lealtad, compromiso y responsabilidad con la sociedad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad profesional de la licenciatura en Derecho del SUAyED tendr\u00E1 una visi\u00F3n din\u00E1mica del fen\u00F3meno jur\u00EDdico, dotada de las herramientas intelectuales que le permitir\u00E1n encauzar, interpretar y aplicar con justicia el orden normativo, as\u00ED como poner su saber al servicio de la comunidad, a trav\u00E9s de una construcci\u00F3n pedag\u00F3gica interdisciplinaria y multidisciplinaria, mediante una modalidad educativa flexible e innovadora, mediante el uso de las Tecnolog\u00EDas de la Informaci\u00F3n y Comunicaci\u00F3n (TIC).<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad estudiantil que desee inscribirse al plan de estudios de la carrera de Derecho de la FES Arag\u00F3n debe poseer las siguientes caracter\u00EDsticas:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">mantener inter\u00E9s constante por el estudio;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tener capacidad de pensamiento abstracto de an\u00E1lisis y de s\u00EDntesis;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">ser disciplinado;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">actuar con decoro y respeto;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tener capacidad persuasiva conciliatoria;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tener respeto por la dignidad humana;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">contar con habilidad para interrelacionarse;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tener sentido de organizaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">ser responsable;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">saber cuestionar y generar conocimientos inherentes al desarrollo del pa\u00EDs;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">ser sujeto part\u00EDcipe en el proceso de ense\u00F1anza-aprendizaje;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tener deseo de superaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tener inclinaci\u00F3n para la profesi\u00F3n de Licenciado en Derecho;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tener dedicaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">contar con actitud cr\u00EDtica y dial\u00E9ctica;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">poseer un criterio \u00E9tico y deontol\u00F3gico.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad egresada de la carrera en Derecho contar\u00E1 con una visi\u00F3n din\u00E1mica del fen\u00F3meno jur\u00EDdico, dotada de las herramientas intelectuales que le permitir\u00E1n encauzar todo el orden normativo y poner su saber al servicio de la comunidad. Ser\u00E1 un promotor de cambio para mejorar el orden social.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, utilizar\u00E1 los conocimientos de la Ciencia del Derecho para la defensa de intereses de los particulares ante los \u00F3rganos judiciales o en la organizaci\u00F3n legislativa y administrativa del gobierno. Se le puede asimilar como abogado, negociante o consejero.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En los casos del ejercicio de la profesi\u00F3n libre, tambi\u00E9n puede y debe enfrentarse al gobierno, cuando \u00E9ste haya transgredido el derecho de los particulares o haya infringido las leyes tutelares de la Naci\u00F3n, con objeto de defender los intereses leg\u00EDtimos de los gobernados y del Estado mexicano.<\/span><\/p>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/derecho-sua/mapa-derecho-sua.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/derecho-sua/programas-derecho-sua.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/derecho-sua/titulacion-derecho-sua.pdf"
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Omar Alejandro Coutiño Pérez",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/suayed-derecho/omar-alejandro-coutinno-perez.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Luis Alberto Arenas Reyes",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/suayed-derecho/luis-arenas.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h, s\u00E1bado de 09:00 a 14:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 83013",
+                "correo_electronico": "suayed.atencion@aragon.unam.mx",
+                "facebook": "https:\/\/www.facebook.com\/FESAragon.suayed\/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/suayed"
+            }
+        }
+    ]
+}

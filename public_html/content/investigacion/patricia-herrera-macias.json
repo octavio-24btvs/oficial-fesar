@@ -1,0 +1,19 @@
+{
+    "nombre": "Patricia Herrera Macías", 
+    "grado_academico": "Maestra", 
+     "correo": [ "patriciaherrera62@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Arquitectura Urbanista. Universidad Nacional Autónoma de México.", 
+        "Diplomado en Teoría de Historia de las Religiones. Instituto de Investigaciones Estéticas. Universidad Nacional Autónoma de México.", 
+        "Candidata a Maestra en Diseño Industrial. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Proyección de materiales educativos en apoyo de los materiales de estudio.", 
+        "Investigación en Humanidades.", 
+        "Investigación Educativa."
+    ], 
+    "investigaciones": [
+        "Herencia sígnica para diseñadores (Ámbito Artesanías).", 
+        "Arte y tecnología (Ámbito teoría)."
+    ]
+}

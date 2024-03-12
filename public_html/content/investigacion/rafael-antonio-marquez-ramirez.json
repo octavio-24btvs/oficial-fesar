@@ -1,0 +1,18 @@
+{
+    "nombre": "Rafael Antonio Márquez Ramírez", 
+    "grado_academico": "Maestro", 
+     "correo": [ "rafaelmarquezmar@aragon.unam.mx"],
+    "estudios": [
+        "Ingeniero Mecánico Electricista,  Área: Comunicaciones. ENEP Aragón UNAM.",
+        "Maestría en Ciencias en Ingeniería de Cómputo con Especialidad en Sistemas Digitales. Instituto Politécnico Nacional" 
+    ], 
+    "lineas_investigacion": [
+        "Ciencias Físico Matemáticas e Ingenierías."
+    ], 
+    "investigaciones": [
+        "Implementación de sistemas con FPGA.",                       
+        "Investigación para el Diseño de un Núcleo de Procesador Didáctico.",    
+        "Implementación de Interfaces y Sistemas Interactivos Remotos para Laboratorios del L3."
+    ]
+    
+}

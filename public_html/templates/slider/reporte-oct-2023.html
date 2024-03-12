@@ -1,0 +1,246 @@
+<div id="image-modal" class="image-modal" ng-show="modal">
+    <div class="close-image-modal d-block" ng-click="modal = false">&times;</div>
+    <a ng-href="{{image_source}}" download title="Descarga la imagen"> <i
+            class="fas fa-download fs-20 download-image-modal"></i></a>
+    <img class="image-modal-content img-fluid" ng-src="{{image_source}}" alt="{{image_alt}}" />
+    <div id="image-modal-caption">
+    </div>
+</div>
+<div class="container content">
+    <hr>
+    <div class="row encabezado">
+        <div class="col-lg-12 encabezado-titulo animated bounceInUp">
+            <h1>Reporte octubre 2023</h1>
+        </div>
+    </div>
+    <hr>
+    <div class="row justify-content-center pt-2">
+        <div class="col-12 col-lg-6" style="display: flex;justify-content: space-evenly;">
+            <button type="button" class="btn boton-registro btn-group-sm btn-secondary" data-toggle="modal"
+                data-target="#capsula1">Cápsula 1</button>
+            <button type="button" class="btn boton-registro btn-group-sm btn-secondary" data-toggle="modal"
+                data-target="#capsula2">Cápsula 2</button>
+            <button type="button" class="btn boton-registro btn-group-sm btn-secondary" data-toggle="modal"
+                data-target="#capsula3">Cápsula 3</button>
+        </div>
+        <div class="col-12 col-lg-10 pt-4 pb-4">
+                <a target="blank" href="public_html/documents/reporte-oct-2023/fort-prog.pdf"><img
+                        class="img-fluid" src="public_html/img/reporte-oct-2023/fort-prog.png"
+                        alt="Reporte octubre 2023"></a>
+            </div>
+        <div class="col-12 col-lg-10 pt-4 pb-4">
+            <a target="blank" href="public_html/documents/reporte-oct-2023/protocolo-de-accion.pdf"><img
+                    class="img-fluid" src="public_html/img/reporte-oct-2023/protocolo-de-accion.png"
+                    alt="Reporte octubre 2023"></a>
+        </div>
+        <div class="col-12 col-lg-5 pt-4 pb-4">
+            <a target="blank" href="public_html/documents/reporte-oct-2023/plan-de-accion.pdf"><img class="img-fluid"
+                    src="public_html/img/reporte-oct-2023/plan-de-accion.png" alt="Reporte octubre 2023"></a>
+        </div>
+        <div class="col-12 col-lg-5 pt-4 pb-4">
+            <a target="blank" href="public_html/documents/reporte-oct-2023/certificado.pdf"><img class="img-fluid"
+                    src="public_html/img/reporte-oct-2023/certificado.png" alt="Reporte octubre 2023"></a>
+        </div>
+        <div class="col-12 col-lg-10 pt-4 pb-4">
+            <a target="blank" href="https://www.youtube.com/playlist?list=PL6c0B5nMnq0J1C4mMNXNBBrSJymfmsml-"><img
+                    class="img-fluid" src="public_html/img/reporte-oct-2023/material-videografico.png"
+                    alt="Reporte octubre 2023"></a>
+        </div>
+        <div class="col-12 col-lg-10 pt-4 pb-4">
+            <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qwjfTZNa8Tc" frameborder="0"
+                    allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="col-12 col-lg-5 pt-4 pb-4">
+            <a target="blank" href="public_html/documents/reporte-oct-2023/reporte-infografia.pdf"><img
+                    class="img-fluid" src="public_html/img/reporte-oct-2023/reporte-infografia.png"
+                    alt="Infografía-Reporte octubre 2023"></a>
+        </div>
+        <div class="col-12 col-lg-5 pt-4 pb-4">
+            <a target="blank" href="public_html/documents/reporte-oct-2023/reporte-faq.pdf"><img class="img-fluid"
+                    src="public_html/img/reporte-oct-2023/reporte-faq.png" alt="Reporte octubre 2023"></a>
+        </div>
+        <div class="col-12 col-lg-10 pt-4 pb-2">
+            <h2>Primera fumigación</h2>
+            <hr>
+        </div>
+        <div class="col-12 col-lg-10 pt-4 pb-4"
+            ng-class="genero.valor_unam.imagenes_secundarias.length === 0 ? 'offset-md-3' : ''">
+            <div class="col-12 owl-carousel owl-theme contenedor-imagen" style="z-index: 0;margin-top: 8px;">
+                <div class="item conte-img carousel-portal-docente" ng-repeat="imagen in genero.valor_unam.imagenes">
+                    <a ng-click="showModal(imagen, genero.valor_unam.titulo_normalizado)" title="Show Image">
+                        <img class="img-fluid image"
+                            ng-src="public_html/img/{{genero.valor_unam.titulo_normalizado}}/{{imagen.imagen}}.png"
+                            alt="{{imagen.alt}}" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-5 pt-4 pb-4">
+            <a target="blank" href="public_html/documents/reporte-oct-2023/empresa-prosip.pdf"><img class="img-fluid"
+                    src="public_html/img/reporte-oct-2023/empresa-prosip.png" alt="Reporte octubre 2023"></a>
+        </div>
+        <div class="col-12 col-lg-5 pt-4 pb-4">
+            <a target="blank" href="public_html/documents/reporte-oct-2023/ficha-tecnica-prosip.pdf"><img
+                    class="img-fluid" src="public_html/img/reporte-oct-2023/ficha-tecnica-prosip.png"
+                    alt="Reporte octubre 2023"></a>
+        </div>
+        <div class="col-12 col-lg-10 pt-4 pb-2">
+            <h2>Segunda fumigación</h2>
+            <hr>
+        </div>
+        <div class="col-12 col-lg-10 pt-4 pb-4"
+            ng-class="genero.equidad_fes.imagenes_secundarias.length === 0 ? 'offset-md-3' : ''">
+            <div class=" col-12 owl-carousel owl-theme contenedor-imagen" style="z-index: 0;margin-top: 8px;">
+                <div class="item conte-img carousel-portal-docente" ng-repeat="imagen in genero.equidad_fes.imagenes">
+                    <a ng-click="showModal(imagen, genero.equidad_fes.titulo_normalizado)" title="Show Image">
+                        <img class="img-fluid image"
+                            ng-src="public_html/img/{{genero.equidad_fes.titulo_normalizado}}/{{imagen.imagen}}.png"
+                            alt="{{imagen.alt}}" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-5 pt-4 pb-4">
+            <a target="blank" href="public_html/documents/reporte-oct-2023/empresa-servi.pdf"><img class="img-fluid"
+                    src="public_html/img/reporte-oct-2023/empresa-servi.png" alt="Reporte octubre 2023"></a>
+        </div>
+        <div class="col-12 col-lg-5 pt-4 pb-4">
+            <a target="blank" href="public_html/documents/reporte-oct-2023/ficha-tecnica-servi.pdf"><img
+                    class="img-fluid" src="public_html/img/reporte-oct-2023/ficha-tecnica-servi.png"
+                    alt="Reporte octubre 2023"></a>
+        </div>
+        <div class="col-12 col-lg-10 pt-4 pb-2">
+            <h2>Recorridos con estudiantes y docentes</h2>
+            <hr>
+        </div>
+        <div class="col-12 col-lg-10 pt-4 pb-4"
+            ng-class="genero.estudiantes_docentes.imagenes_secundarias.length === 0 ? 'offset-md-3' : ''">
+            <div class="col-12 owl-carousel owl-theme contenedor-imagen" style="z-index: 0;margin-top: 8px;">
+                <div class="item conte-img carousel-portal-docente"
+                    ng-repeat="imagen in genero.estudiantes_docentes.imagenes">
+                    <a ng-click="showModal(imagen, genero.estudiantes_docentes.titulo_normalizado)" title="Show Image">
+                        <img class="img-fluid image"
+                            ng-src="public_html/img/{{genero.estudiantes_docentes.titulo_normalizado}}/{{imagen.imagen}}.png"
+                            alt="{{imagen.alt}}" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-10 pt-5 pb-5 fs-12">
+            <h2>Para saber más...</h2>
+            <hr>
+            <div class="pb-3 column link-act">
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=OYiHPrR4NNghttps://www.youtube.com/watch?v=OYiHPrR4NNg"
+                            target="_blank">En voz del experto: Conoce la situación actual de las chinches, FES
+                            Cuautitlán, UNAM</a></li>
+                    <li><a href="https://www.facebook.com/watch/?v=2048356175530940&extid=WA-UNK-UNK-UNK-AN_GK0T-GK1C&ref=sharing&mibextid=2Rb1fB"
+                            target="_blank">El investigador e infectólogo Alejandro Macías explica el actual fenómeno de
+                            las chinches y por qué no es un problema de salud pública, UNAM</a></li>
+                    <li><a href="https://m.facebook.com/story.php?story_fbid=pfbid02eZDQiQoa6PjGc6vZF466CTg5pJBnzmnU22WD9ScStpKNFB65sAnEDetM9P4a7CeFl&id=100064572194464&sfnsn=scwspwa&mibextid=RUbZ1f"
+                            target="_blank">Ante el reporte de la presencia de chinches de cama, Instituto de Ecología
+                            UNAM</a></li>
+                    <li><a href="https://www.facebook.com/100069887502890/posts/628864129453165/?mibextid=rS40aB7S9Ucbxw6v"
+                            target="_blank">Información que debes saber sobre las chinches de cama, FES Zaragoza</a>
+                    </li>
+                    <li><a href="https://www.facebook.com/photo/?fbid=637626421906562&set=a.390889036580303"
+                            target="_blank">Investigación sobre Riesgos Epidemiológicos y Emergentes, Comisión Local de
+                            Seguridad Facultad de Ciencias UNAM</a></li>
+                    <li><a href="https://www.facebook.com/photo/?fbid=687759713385509&set=a.483420630486086"
+                            target="_blank">Datos interesantes sobre las chinches, FMVZ UNAM</a></li>
+                    <li><a href="https://www.facebook.com/FMVZ.UNAM.Oficial/videos/840898577743695"
+                            target="_blank">Cápsula conoce más sobre las chinches, FMVZ UNAM</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=4qjkGEzWLaI&ab_channel=PUIREEUNAM"
+                            target="_blank">Hipócrates 2.0: Chinches Urbanas, PUIREE UNAM</a></li>
+                    <li><a href="https://www.facebook.com/FacultadMedicinaUNAM/posts/pfbid02FY7xVZXew9DmnGhLJRc1D7Avt2f9uHq38D9JZzTza8ELxrigdhbS8eCFCM1v2XJYl"
+                            target="_blank">Conoce más sobre las chinches, cómo puedes prevenirlas e identifica las
+                            lesiones que ocasionan, Facultad de Medicina UNAM</a></li>
+                    <li><a href="https://www.facebook.com/iztacala.unam.mx/videos/300302566191908"
+                            target="_blank">Diferentes expertos hablan sobre la chinche de cama, FES Iztacala</a></li>
+                    <li><a href="https://www.facebook.com/reel/616331570440948" target="_blank">Perspectivas desde la
+                            Ecología sobre la chinche de cama, FES Iztacala</a></li>
+                    <li><a href="https://www.facebook.com/reel/343206194897788" target="_blank">Perspectivas desde la
+                            Dermatología sobre la chinche de cama, FES Iztacala</a></li>
+                    <li><a href="https://www.facebook.com/reel/1084034029613518" target="_blank">Perspectivas desde las
+                            Ciencias biológicas sobre la chinche de cama, FES Iztacala</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- Cápsulas -->
+    <div class="modal fade" id="capsula1" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable " role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalScrollableTitle">Cápsula 1</h5> <button type="button" class="close"
+                        data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span> </button>
+                </div>
+                <div class="modal-body">
+                    <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                        <!-- Cápsula 1 -->
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/N-0wTHUekQw"
+                            frameborder="0" title="Video de bienvenida" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="capsula2" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable " role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalScrollableTitle">Cápsula 2</h5> <button type="button" class="close"
+                        data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span> </button>
+                </div>
+                <div class="modal-body">
+                    <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                        <!-- Cápsula 2 -->
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ApAF7L_sccI"
+                            frameborder="0" title="Video de bienvenida" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="capsula3" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable " role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalScrollableTitle">Cápsula 3</h5> <button type="button" class="close"
+                        data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span> </button>
+                </div>
+                <div class="modal-body">
+                    <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                        <!-- Cápsula 3 -->
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-2MkfFuAtaw"
+                            frameborder="0" title="Video de bienvenida" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="capsula4" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable " role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalScrollableTitle">Cápsula 4</h5> <button type="button" class="close"
+                        data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span> </button>
+                </div>
+                <div class="modal-body">
+                    <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                        <!-- Cápsula 4 -->
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mqfi7ggD6mk"
+                            frameborder="0" title="Video de bienvenida" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

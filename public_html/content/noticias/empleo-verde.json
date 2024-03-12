@@ -1,0 +1,37 @@
+{
+	"titulo": "Empleo Verde",
+	"titulo_normalizado": "empleo-verde",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		},
+		{
+			"seccion": "#ProyecciónAragón",
+			"seccion_normalizada": "proyeccion-aragon"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "24/02/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El cambio clim\u00E1tico es un tema alarmante que involucra a todas las naciones del mundo. Para contrarrestar sus efectos se han propuesto varias iniciativas, entre ellas la denominada “Econom\u00EDa verde”, la cual implica cuantificar qu\u00E9 tan sustentables son las empresas con el medio ambiente.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este tema ha sido de especial inter\u00E9s para Jaime Llanos, profesor de la carrera de Econom\u00EDa en la FES Arag\u00F3n, quien est\u00E1 realizando un proyecto de investigaci\u00F3n denominado <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Empleo verde: Los avances del desarrollo sostenible despu\u00E9s de R\u00EDo+20<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, segunda parte de un estudio trazado en el 2010, tras la Cumbre de la Tierra en R\u00EDo de Janeiro, Brasil, y cuya l\u00EDnea de investigaci\u00F3n prioriza el an\u00E1lisis de las oportunidades laborales para la juventud egresada.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, Llanos menciona que incluso exist\u00EDa una iniciativa para convertir las universidades t\u00E9cnicas en “universidades t\u00E9cnicas verdes”; sin embargo, debido a la pandemia, se suspendi\u00F3 dicho proyecto. Aunado a esto, destaca la poca participaci\u00F3n del gobierno, pues los indicadores de sustentabilidad verde ni siquiera se han actualizado desde el periodo presidencial pasado.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esto ha dificultado el fomento de la econom\u00EDa verde, el cual es m\u00E1s dif\u00EDcil de incorporar para las peque\u00F1as y medianas empresas en comparaci\u00F3n con los grandes corporativos. Estos \u00FAltimos pueden f\u00E1cilmente implementar medidas ecol\u00F3gicas sostenibles, las cuales se cuantifican para considerar qu\u00E9 porcentaje de los empleos de esa empresa pueden considerarse sostenibles, es decir, verdes.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Aunque, para Llanos, la econom\u00EDa verde a\u00FAn est\u00E1 lejos de ser una realidad cotidiana, considera que podr\u00EDa ser una realidad pr\u00F3xima con el trabajo de las y los universitarios y su deber con la democracia, la igualdad, la equidad y la sustentabilidad.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para ilustrar parte del trabajo de Llanos, las siguientes im\u00E1genes muestran algunas de sus publicaciones m\u00E1s destacadas.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Empleoverde1.gif"
+		},
+		{
+			"imagen": "empleoverde2.gif"
+		},
+		{
+			"imagen": "Empleoverde3.gif"
+		},
+		{
+			"imagen": "Empleoverde4.gif"
+		},
+		{
+			"imagen": "Empleoverde5.gif"
+		},
+		{
+			"imagen": "Empleoverde6.gif"
+		}
+	]
+}

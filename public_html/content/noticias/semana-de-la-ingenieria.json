@@ -1,0 +1,41 @@
+{
+	"titulo": "Semana de la Ingenier\u00EDa",
+	"titulo_normalizado": "semana-de-la-ingenieria",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Civil",
+			"seccion_normalizada": "civil"
+		},
+		{
+			"seccion": "Ingeniería Eléctrica Electrónica",
+			"seccion_normalizada": "electrica-electronica"
+		},
+		{
+			"seccion": "Ingeniería en Computación",
+			"seccion_normalizada": "ingenieria-en-computacion"
+		}
+	],
+	"autor": "Rodrigo Castillo",
+	"fecha": "21/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa 2023<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, distintos auditorios de la Facultad de Estudios Superiores Arag\u00F3n,&nbsp;fueron los encargados de recibir algunas de las conferencias dirigidas para las y los estudiantes de las&nbsp;distintas Ingenier\u00EDas impartidas en la Facultad, una de las primeras se llev\u00F3 a cabo en el Centro Tecnol\u00F3gico, titulada <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tips para posicionarte como un especialista de presente y futuro en AI en M\u00E9xico<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, donde se expusieron los diferentes retos y el compromisos que tienen el mundo los ingenieros con las AI y c\u00F3mo estas&nbsp;pueden ayudarlos a su formaci\u00F3n como trabajadores.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La conferencia impartida en el Auditorio A1 Hermelia Galindo, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Atributos de egreso y objetivos educacionales en ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, expres\u00F3 diferentes&nbsp;preocupaciones de c\u00F3mo el mundo laboral recibir\u00E1 a los ingenieros reci\u00E9n graduados, se explic\u00F3 que la jefatura de carrera de las ingenier\u00EDas hace todo lo posible para su adaptaci\u00F3n en el mercado laboral.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La \u00FAltima conferencia fue la impartida en el Instituto Tecnol\u00F3gico con el nombre de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Aprendizaje e identificaci\u00F3n de personas en ambientes din\u00E1micas para robots de servicio,<\/em><span style=\"background-color: transparent;\"> impartida por Arturo Rodr\u00EDguez, en donde se expusieron las dificultades que tendr\u00EDa un robot al servir a las personas y las diferentes caracter\u00EDsticas que conlleva la creaci\u00F3n y la formaci\u00F3n de estos para un servicio.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "semana-ingenieria-1.gif"
+		},
+		{
+			"imagen": "semana-ingenieria-2.gif"
+		},
+		{
+			"imagen": "semana-ingenieria-3.gif"
+		},
+		{
+			"imagen": "semana-ingenieria-4.gif"
+		},
+		{
+			"imagen": "semana-ingenieria-5.gif"
+		},
+		{
+			"imagen": "semana-ingenieria-6.gif"
+		}	]
+
+}

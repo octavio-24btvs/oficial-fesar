@@ -1,0 +1,34 @@
+{
+	"titulo": "SECOM22: Las mujeres no deben ser extranjeras en el deporte",
+	"titulo_normalizado": "secom22-las-mujeres-no-deben-ser-extranjeras-en-el-deporte",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		},
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor": "Kenia Brodman",
+	"fecha": "04/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el primer d\u00EDa de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Comunicaci\u00F3n 2022<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se llev\u00F3 a cabo la conferencia “Periodistas deportivas, situaci\u00F3n actual y retos”, dirigida por Adrianelly Hern\u00E1ndez y Fernanda Gonz\u00E1lez, especialistas en periodismo deportivo con perspectiva de g\u00E9nero, mismas que abordaron la importancia de las mujeres en las coberturas period\u00EDsticas de actividades como el futbol, tenis, F\u00F3rmula E,&nbsp; entre otras;&nbsp; bajo la moderaci\u00F3n de la egresada ​​D\u00E1maris Bernal.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hern\u00E1ndez abord\u00F3 la historia del deporte durante el siglo XX, cuando tom\u00F3 fuerza a nivel competitivo y econ\u00F3mico. Entre los a\u00F1os 60 y 70 el futbol comenz\u00F3 a masificarse con la transmisiones directas del Mundial de Chile 1962 y posteriormente con M\u00E9xico 1970. Estos eventos se convirtieron en productos de consumo, m\u00E1s all\u00E1 de la competitividad. Sin embargo, hasta los a\u00F1os ochenta las mujeres se apropiaron del territorio deportivo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para esta ponente, el deporte refuerza un sistema patriarcal, deja de lado a las jugadoras, directoras t\u00E9cnicas, \u00E1rbitras y periodistas; “las mujeres no deben ser extranjeras en el deporte”. Para Gonz\u00E1lez, la importancia de hablar de las mujeres tambi\u00E9n radica en el lenguaje; no es retomar su cuerpo o el nuevo outfit que subi\u00F3 en redes sociales la jugadora, sino de sus aciertos, jugadas y galardones.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Periodismo1.gif"
+		},
+		{
+			"imagen": "Periodismo2.gif"
+		},
+		{
+			"imagen": "Periodismo3.gif"
+		},
+		{
+			"imagen": "Periodismo4.gif"
+		},
+		{
+			"imagen": "Periodismo5.gif"
+		}	]
+
+}

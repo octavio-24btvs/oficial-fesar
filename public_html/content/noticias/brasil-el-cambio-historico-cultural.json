@@ -1,0 +1,38 @@
+{
+	"titulo": "Brasil, el cambio hist\u00F3rico-cultural",
+	"titulo_normalizado": "brasil-el-cambio-historico-cultural",
+	"secciones": [
+		{
+			"seccion": "Centro de Lenguas",
+			"seccion_normalizada": "centro-de-lenguas"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "Humanidades y Artes",
+			"seccion_normalizada": "humanidades-y-artes"
+		}
+	],
+	"autor": "Rodrigo Castillo",
+	"fecha": "08/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">La Sala Magna del Centro de Investigaci\u00F3n Multidisciplinaria Arag\u00F3n (CIMA) fue el lugar donde se llev\u00F3 a cabo el Conversatorio “Collage hist\u00F3rico-cultural brasile\u00F1o”; dio inicio con Josefina Jim\u00E9nez, y su tema “El modernismo en la pintura y literatura de Brasil”, en el cual se describi\u00F3 c\u00F3mo los brasile\u00F1os buscaron perpetuar el nacionalismo a trav\u00E9s del arte moderno, para crear nuevas ideas y cambios sociales.<\/span><\/p><p><span style=\"background-color: transparent;\">Laura L\u00F3pez habl\u00F3 de “La dictadura brasile\u00F1a 1964-1985”, se mencion\u00F3 el papel de los estudiantes en la dictadura, ya que la universidad era una amenaza para esta forma de gobierno, algunas demandas eran, fin al imperialismo, resguardar autonom\u00EDa universitaria y que Estado Unidos dejar\u00E1 de inmiscuirse en las pol\u00EDticas educativas de Brasil.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para finalizar Eunice Aguilar comparti\u00F3 la retroalimentaci\u00F3n centr\u00E1ndose en la polarizaci\u00F3n de la pol\u00EDtica de Brasil, en&nbsp; Bolsonaro y sus controversias siendo una de ellas, el hecho de decir que el COVID-19 era una simple gripa, as\u00ED como ser antivacunas, y provocar una cat\u00E1strofe de salud en su pa\u00EDs.<\/span><\/p><p><br><\/p><p><br><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Brasil-elcambio-1.gif"
+		},
+		{
+			"imagen": "Brasil-elcambio-2.gif"
+		},
+		{
+			"imagen": "Brasil-elcambio-3.gif"
+		},
+		{
+			"imagen": "Brasil-elcambio-4.gif"
+		},
+		{
+			"imagen": "Brasil-elcambio-5.gif"
+		}	]
+
+}

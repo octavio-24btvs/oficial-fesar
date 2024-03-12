@@ -1,0 +1,37 @@
+{
+	"titulo": "CIMN22: Ciencia y educaci\u00F3n en voces de mujeres",
+	"titulo_normalizado": "cimn22-ciencia-y-educacion-en-voces-de-mujeres",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "UNAM",
+			"seccion_normalizada": "unam"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "12/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">4to. Congreso Internacional Mujeres y ni\u00F1as desde una doble perspectiva: G\u00E9nero y Derechos Humanos en el marco de los Objetivos del Desarrollo Sostenible <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">se llev\u00F3 a cabo el “Panel 2. Mujeres en las ciencias, TIC y g\u00E9nero”, este fue transmitido por la p\u00E1gina de Facebook del Congreso Mujeres UNAM y moderado por Alejandra Pazar\u00E1n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Diana Rubio, de la direcci\u00F3n general de Educaci\u00F3n Tecnol\u00F3gica e Industrial Quer\u00E9taro, habl\u00F3 de incidir en las alumnas para desarrollar en ellas un pensamiento cient\u00EDfico. Siobhan Guerrero, del Centro de Investigaciones Interdisciplinarias en ciencias y Humanidades de la Universidad Nacional Aut\u00F3noma de M\u00E9xico, aclar\u00F3 c\u00F3mo los problemas que afectan a la comunidad LGBTTTIQ+ y a las mujeres tienen una misma base en un sistema de valores jerarquizante.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Marisol Flores, acad\u00E9mica de la Escuela Nacional de Estudios Superiores&nbsp; Morelia, observ\u00F3 c\u00F3mo los avances tecnol\u00F3gicos no est\u00E1n exentos de desigualdades sociales y al reflexionarlas es necesario tomar en cuenta los matices de nuestro contexto. Izaskun \u00C1lvarez, acad\u00E9mica de la Universidad de las Am\u00E9ricas en Chile, detall\u00F3 las labores de su equipo dedicado a la investigaci\u00F3n inclusiva apuntando a dise\u00F1ar apoyos tecnol\u00F3gicos que permiten a mujeres con discapacidad intelectual lograr autonom\u00EDa. Karla Amozurrutia, de la Coordinaci\u00F3n para la Igualdad de G\u00E9nero, habl\u00F3 de la construcci\u00F3n de mecanismos institucionales en la UNAM para la atenci\u00F3n a los casos de violencia de g\u00E9nero, y la importancia de darlos a conocer en el mejoramiento de nuestros espacios educativos y garantizar nuestros derechos.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Voces 1 (1).jpeg"
+		},
+		{
+			"imagen": "Voces 2 (1).jpeg"
+		},
+		{
+			"imagen": "Voces 3 (1).jpeg"
+		},
+		{
+			"imagen": "Voces 4 (1).jpeg"
+		},
+		{
+			"imagen": "Voces 5 (1).jpeg"
+		},
+		{
+			"imagen": "Voces 6 (1).jpeg"
+		}	]
+
+}

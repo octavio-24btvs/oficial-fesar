@@ -1,0 +1,14 @@
+{
+	"titulo": "Entrega de diplomas a las y los futuros ingenieros civiles",
+	"titulo_normalizado": "entrega-de-diplomas-a-las-y-los-futuros-ingenieros-civiles",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Civil",
+			"seccion_normalizada": "civil"
+		}
+	],
+	"autor":"Erik Pliego",
+	"fecha":"17/01/20",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La generaci\u00F3n 2016-2020 de Ingenier\u00EDa Civil se visti\u00F3 de gala para asistir al Teatro Jos\u00E9 Vasconcelos, donde recibieron los diplomas que acreditan el t\u00E9rmino de su carrera frente a sus familiares y amistades m\u00E1s cercanas.&nbsp;<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El secretario particular de la Direcci\u00F3n Jos\u00E9 Antonio Dimas agradeci\u00F3&nbsp; –en representaci\u00F3n del director Fernando Macedo– a las y los invitados el apoyo brindado a la comunidad estudiantil en el transcurso de sus carreras. El emotivo evento represent\u00F3 una oportunidad para que las autoridades y comunidad aragonesa reconocieran el valor de haber concluido la licenciatura en una instituci\u00F3n de gran exigencia como la FES Arag\u00F3n.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las y los estudiantes con destacables logros acad\u00E9micos y deportivos recibieron un reconocimiento especial y subieron al estrado para concluir la entrega con un efusivo Goya.&nbsp;&nbsp;<\/span><\/p>",
+	"imagenes":[{"imagen":"Entrega_de_diplomas_1.jpg"},{"imagen":"Entrega_de_diplomas_2.jpg"},{"imagen":"Entrega_de_diplomas_3.jpg"},{"imagen":"Entrega_de_diplomas_4.jpg"}]
+}

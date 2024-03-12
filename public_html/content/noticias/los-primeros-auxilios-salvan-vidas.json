@@ -1,0 +1,30 @@
+{
+	"titulo": "Los primeros auxilios salvan vidas",
+	"titulo_normalizado": "los-primeros-auxilios-salvan-vidas",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Civil",
+			"seccion_normalizada": "civil"
+		}
+	],
+	"autor": "Priscila Ch\u00E1vez",
+	"fecha": "19/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades de la semana de la ingenier\u00EDa el estudiante de quinto semestre, Brayan Ram\u00EDrez, imparti\u00F3 una pl\u00E1tica referente a los primeros auxilios, ya que se desempe\u00F1a como param\u00E9dico. Gracias a su experiencia y preparaci\u00F3n, pudo compartir informaci\u00F3n general, consejos y algunas pr\u00E1cticas b\u00E1sicas de primeros auxilios, adem\u00E1s de resolver las dudas de sus compa\u00F1eros y compa\u00F1eras.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para comenzar a clasificar los accidentes que requieren de atenci\u00F3n m\u00E9dica, Brayan defini\u00F3 a la emergencia como una situaci\u00F3n inesperada en la que la vida del paciente se encuentra en peligro y no puede esperar y, por otra parte, la urgencia no representa un riesgo inminente. Gracias a esta diferenciaci\u00F3n, es posible reconocer cu\u00E1ndo es necesario solicitar la atenci\u00F3n de los param\u00E9dicos y cu\u00E1ndo no, a trav\u00E9s de la activaci\u00F3n de los servicios de emergencia.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la pl\u00E1tica, fueron compartidos algunos de los accidentes m\u00E1s comunes as\u00ED como sus posibles causas, caracter\u00EDsticas y algunas maniobras que pueden ser llevadas a cabo dependiendo de la situaci\u00F3n. En el caso de la obstrucci\u00F3n de la v\u00EDa a\u00E9rea (OVACE), los objetos o l\u00EDquidos que pasan por la garganta se quedan atorados provocando la falta de ox\u00EDgeno. Por otra parte, las hemorragias tambi\u00E9n son un accidente com\u00FAn, pero si se le considera arterial, es necesario intervenir r\u00E1pidamente ya que las arterias est\u00E1n conectadas al coraz\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">As\u00ED como estos dos accidentes comunes, est\u00E1n las fracturas, los empalamientos, las amputaciones leves y las quemaduras, en las cuales se recomienda que no haya intervenciones, tales como movimientos bruscos, aplicaci\u00F3n de remedios caseros y la extracci\u00F3n de objetos, por lo que es mejor recibir atenci\u00F3n m\u00E9dica, ya sea trasladando al paciente o activando los servicios de emergencia.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "PrimerosAuxilios1.gif"
+		},
+		{
+			"imagen": "Primerosauxilios2.gif"
+		},
+		{
+			"imagen": "Primerosauxilios3.gif"
+		},
+		{
+			"imagen": "Primerosauxilios4.gif"
+		},
+		{
+			"imagen": "Primerosauxilios5.gif"
+		}	]
+
+}

@@ -1,0 +1,36 @@
+[
+
+	{
+		"nombre":"Bolet\u00EDn de enero-febrero",
+		"nombre_normalizado":"boletines/2021/boletin-enero-febrero-2021.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de marzo",
+		"nombre_normalizado":"boletines/2021/boletin-marzo.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de abril",
+		"nombre_normalizado":"boletines/2021/boletin-abril.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de mayo",
+		"nombre_normalizado":"boletines/2021/boletin-mayo.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de agosto",
+		"nombre_normalizado":"boletines/2021/boletin-agosto.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de septiembre",
+		"nombre_normalizado":"boletines/2021/boletin-septiembre.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de octubre",
+		"nombre_normalizado":"boletines/2021/boletin-octubre.pdf"
+	},
+	{
+		"nombre":"Bolet\u00EDn de noviembre-diciembre",
+		"nombre_normalizado":"boletines/2021/boletin-noviembre-diciembre.pdf"
+	}
+
+]

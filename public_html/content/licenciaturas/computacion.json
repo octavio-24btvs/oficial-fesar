@@ -1,0 +1,121 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfiles",
+        "Plan de estudios",
+        "Titulaci\u00F3n",
+        "Acreditaci\u00F3n",
+        "Contacto"
+    ],
+    "titulo": "Ingenier\u00EDa en Computaci\u00F3n",
+    "icono": "icono-secciones icon-ingenieria-en-computacion",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La carrera de Ingenier\u00EDa en Computaci\u00F3n te da la m\u00E1s c\u00E1lida bienvenida. Ser\u00e1s parte de una generaci\u00F3n que ha crecido con la tecnolog\u00EDa y que ser\u00E1 testigo de cambios importantes en el desarrollo de la ciencia.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Adem\u00E1s, vivir\u00E1s el nuevo paradigma tecnol\u00F3gico denominado la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tercera Plataforma<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. la cual esta sustentada en: movilidad (Mobility), nube (Cloud), an\u00e1lisis de macrodatos (Big Data/Analytics) y negocios sociales (Social Business). La cual ha gener\u00e1do tematicas como:  servicios en la nube (almacenamiento aplicaciones, etc.), ciencia de datos (big data, data mining), tecnolog\u00eda m\u00F3vil y un modelo diferente de negocios.<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta Facultad, la cual ser\u00E1 tu casa los pr\u00F3ximos cuatro a\u00F1os y medio, se siente orgullosa de recibirte para este reto que inicias.<\/span><\/p>",
+            "imagenes": [
+                {
+                    "imagen": "mecanica/carrusel/iso-9001-2015.jpg",
+                    "tipo_hipervinculo": "pdf",
+                    "hipervinculo": "mecanica/certificacion-lab.pdf"
+                },
+                {
+                    "imagen": "computacion/carrusel/academica-y-alumno-de-la-carrera-crean-software-para-aprender-a-leer-y-escribir-a-ninos-con-discapacidad.jpg",
+                      "tipo_hipervinculo": "link", 
+                     "hipervinculo": "https://www.dgcs.unam.mx/boletin/bdboletin/2018_426.html"
+                },
+                {
+                    "imagen": "computacion/carrusel/academico-de-la-carrera-participando-en-concursos-internacionales.jpg",
+                      "tipo_hipervinculo": "link", 
+                     "hipervinculo": "http://golem.iimas.unam.mx/home.php?lang=en&sec=home"
+                },
+                {
+                    "imagen": "computacion/carrusel/academicos-de-la-unam-disenan-tecnologia-de-inclusion.jpg",
+                      "tipo_hipervinculo": "link", 
+                     "hipervinculo": "http://www.unamglobal.unam.mx/?p=50134"
+                },
+                {
+                    "imagen": "computacion/carrusel/disena-app-que-detecta-dislexia-en-ninos.jpg",
+                      "tipo_hipervinculo": "link", 
+                     "hipervinculo": "http://www.unamglobal.unam.mx/?p=33140"
+                },
+                {
+                    "imagen": "computacion/carrusel/organismo-acreditador-conaic.jpg",
+                      "tipo_hipervinculo": "link", 
+                     "hipervinculo": "https://www.conaic.net/"
+                },
+                {
+                    "imagen": "computacion/carrusel/primera-generacion-de-la-licenciatura-de-ciencia-de-datos.jpg",
+                      "tipo_hipervinculo": "link", 
+                     "hipervinculo": "https://cienciadatos.iimas.unam.mx"
+                }
+
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row mb-3\"><div class=\"col-12\"><h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><div class=\"row galeria justify-content-center align-items-center\"><div class=\"col-12 col-lg-6\"><div class=\"embed-responsive embed-responsive-16by9\" style=\"border-radius: 15px;\"> <iframe class=\"embed-responsive-item\" src=\"https:\/\/www.youtube.com\/embed\/hI3vvGqRxjg\" frameborder=\"0\" allowfullscreen><\/iframe><\/div><\/div><div class=\"col-12 col-lg-4\"><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalobjetivo\">Objetivo<\/button><div class=\"modal fade\" id=\"modalobjetivo\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Objetivo<\/h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;<\/span><\/button><\/div><div class=\"modal-body\"><p>Formar profesionales en Ingenier\u00EDa en Computaci\u00F3n l\u00EDderes, con conocimientos te\u00F3ricos y pr\u00E1cticos \u00FAtiles para la soluci\u00F3n de problemas computacionales que la sociedad demanda, comprometidos con las necesidadesque tengan y desarrollo del pa\u00EDs.<\/p><\/div><\/div><\/div><\/div><br><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalMision\">Misi\u00F3n</button><div class=\"modal fade\" id=\"modalMision\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Misi\u00F3n</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>Formar profesionales con un gran esp\u00EDritu universitario, compromiso con el crecimiento del pa\u00EDs, con capacidades para encontrar soluciones innovadoras y con un alto nivel de conocimientos en matem\u00E1ticas, programaci\u00F3n e ingenier\u00EDa de software, procesamiento de la informaci\u00F3n, arquitectura de computadoras, redes, seguridad y control.</p></div></div></div></div><br><button type=\"button\" class=\"btn boton-registro btn-group-sm btn-secondary\" data-toggle=\"modal\" data-target=\"#modalVision\">Visi\u00F3n</button><div class=\"modal fade\" id=\"modalVision\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-header\"><h5 class=\"modal-title\" id=\"exampleModalLabel\">Visi\u00F3n</h5><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button></div><div class=\"modal-body\"><p>Ser una carrera de vanguardia que asegure la actualizaci\u00F3n constante de su planta docente, infraestructura y planes de estudio, para formar profesionales en Ingenier\u00EDa en Computaci\u00F3n capaces de responder a los cambios que demande el pa\u00EDs.<\/p><\/div></div><\/div><\/div>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3\">Perfiles<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Perfil de ingreso",
+                    "texto": "<p>La comunidad estudiantil que desee ingresar a la Licenciatura de Ingenier\u00EDa en Computaci\u00F3n, adem\u00E1s de haber cursado preferentemente el \u00E1rea F\u00EDsico Matem\u00E1ticas, o similar en el Bachillerato, es deseable que tenga las siguientes caracter\u00EDsticas:</p><ul><li>Conocimientos:<ul><li>Matem\u00E1ticas, f\u00EDsica y computaci\u00F3n<\/li><li>Idioma ingl\u00E9s (comprensi\u00F3n de lectura)<\/li><\/ul><\/li><li>Habilidades:<ul><li>Pensamiento l\u00F3gico matem\u00E1tico<\/li><li>Sistematizaci\u00F3n de actividades, constancia y orden en los trabajos emprendidos<\/li><\/ul><\/li><li>Aptitudes:<ul><li>An\u00E1lisis de problemas<\/li><\/ul><\/li><li>Inter\u00E9s:<ul><li>Recopilaci\u00F3n de datos e investigaci\u00F3n<\/li><\/ul><\/li><li>Actitudes:<ul><li>Actividades extra clase como laboratorios, desarrollo de aplicaciones, entre otras<\/li><\/ul><\/li><\/ul>"
+                },
+                {
+                    "titulo": "Perfil de egreso",
+                    "texto": "<p>La comunidad egresada de la Licenciatura de Ingenier\u00EDa en Computaci\u00F3n contar\u00E1 con lo siguiente:<\/p><ul><li>Conocimientos:<ul><li>Matem\u00E1ticas, para modelar y resolver problemas reales<\/li><li>Empresariales, para crear, mantener y hacer crecer organizaciones<\/li><li>Software y hardware, para analizar, dise\u00F1ar, construir, implantar, mejorar y mantener sistemas computacionales y redes de computadoras<\/li><li>Procesamiento de los datos, para obtener informaci\u00F3n \u00FAtil para la toma de decisiones en todos los niveles<\/li><li>Seguridad, para resguardar la informaci\u00F3n de las organizaciones<\/li><li>Idioma ingl\u00E9s, nivel B1 en el Marco Com\u00FAn Europeo de Referencia para las Lenguas<\/li><\/ul><\/li><li>Habilidades:<ul><li>Dirigir organizaciones o liderar su propio negocio<\/li><li>Crear empresas, mantenerlas y hacerlas crecer<\/li><li>Ofrecer soluciones creativas e innovadoras a problemas reales<\/li><li>Resguardar la informaci\u00F3n ante ataques maliciosos<\/li><li>Promover el uso responsable de los recursos inform\u00E1ticos<\/li><\/ul><\/li><li>Aptitudes:<ul><li>Buscar soluciones proactivas a problemas emergentes<\/li><li>Actualizarse de manera constante, de acuerdo con los avances tecnol\u00F3gicos y profesionales de la disciplina<\/li><\/ul><\/li><li>Aptitudes:<ul><li>Lograr soluciones pr\u00E1cticas a problemas planteados<\/li><\/ul><\/li><li>Valores:<ul><li>Compromiso y responsabilidad, para resolver problemas que atiendan necesidades espec\u00EDficas de la sociedad, respetando siempre a los individuos y al medio ambiente<\/li><li>Creatividad e Innovaci\u00F3n, para desarrollar soluciones creativas e innovadoras, capaces de adaptarse a las circunstancias<\/li><li>Honestidad, para poner siempre el conocimiento al servicio de la sociedad<\/li><\/ul><\/li><\/ul>"
+                }
+            ]
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"ml-3\">Aspectos generales<\/h2>",
+            "acordeon": [
+                {
+                    "titulo": "Requisitos de ingreso",
+                    "texto": "<p><a href=\"public_html/documents/licenciaturas/computacion/requisitos-de-ingreso.pdf\"target=\"_blank\">Requisitos de ingreso</a></p>"},
+                    {
+                        "titulo": "Requisitos de permanencia",
+                        "texto": "<p><a href=\"public_html/documents/licenciaturas/computacion/requisitos-de-permanencia.pdf\"target=\"_blank\">Requisitos de permanencia</a></p>"
+                    },
+                    {
+                        "titulo": "Requisitos de egreso",
+                        "texto": "<p><a href=\"public_html/documents/licenciaturas/computacion/requisitos-de-egreso.pdf\"target=\"_blank\">Requisitos de egreso</a></p>"
+                    }
+                
+                    
+            ],
+            "html_button": "<div class=\"d-md-flex d-sm-block mb-2 justify-content-center\"><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"public_html/documents/licenciaturas/computacion/malla-curricular.pdf\" title=\"Malla Curricular\" target=\"_blank\">Malla Curricular<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"https://www.dgae-siae.unam.mx/educacion/planes.php?acc=pde&amp;crr=110&amp;plt=0411\" title=\"Planes de Estudio Hist\u00F3ricos\" target=\"_blank\">Planes de Estudio Hist\u00F3ricos<\/a><a class=\"btn boton-registro btn-group-sm btn-secondary\" href=\"https://www.dgae-siae.unam.mx/educacion/equivalencias.php?plt=411\" title=\"Equivalencias Acad\u00e9micas\" target=\"_blank\">Equivalencias Acad\u00e9micas<\/a><\/div>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/computacion-titulacion"
+        },
+        {
+            "tipo": "html",
+            "texto": "<div class=\"row justify-content-center\"><h2 class=\"col-12\">Acreditaci\u00F3n</h2><p class=\"col-12\">El CONAIC es una organizaci\u00F3n acreditada por el Consejo para la Acreditaci\u00F3n de la Educaci\u00F3n Superior, A.C. (COPAES) gracias a su credibilidad, con cobertura nacional, eficaz y eficiente, que realiza procesos de evaluaci\u00F3n a programas de inform\u00e1tica y computaci\u00F3n con fines de acreditaci\u00F3n, velando por una mejora continua de los procesos acad\u00e9micos de la ense\u00f1anza de la inform\u00e1tica y computaci\u00F3n, con la participaci\u00F3n de los distintos sectores relacionados con la formaci\u00F3n y la pr\u00e1ctica de los profesionales de la inform\u00e1tica y computaci\u00F3n en todos sus campos.<\/p><p class=\"col-12\">As\u00ed mismo, es un organismo que apoya a las Instituciones de Educaci\u00F3n Superior que imparten carreras afines a la inform\u00e1tica y computaci\u00F3n para que Acrediten sus Programas Acad\u00e9micos en el marco de un proceso de mejora continua.<\/p><p class=\"col-12\">El CONAIC es acreedor de reconocimiento internacional, siendo el \u00fanico organismo responsable en M\u00e9xico de los procesos de acreditaci\u00F3n de programas de computaci\u00F3n e inform\u00e1tica.<\/p><\/p><div class=\"col-12\"><a class=\"btn boton-registro btn-secondary\" href=\"public_html/documents/licenciaturas/computacion/constancia-de-creditacion.pdf\" target=\"_blank\" title=\"Certificado de Acreditaci\u00F3n 2013-2018\">Certificado de Acreditaci\u00F3n 2013-2018</a></div></div>"
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Jorge Arturo L\u00F3pez Hern\u00E1ndez",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/computacion/jorge-arturo-lopez-hernandez.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Ana Claudia Reyes Cruz",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/computacion/ana-claudia-reyes-cruz.jpg",
+                "genero_secretario_tecnico": "1",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30820 y 30842",
+                "correo_electronico": "computacion@aragon.unam.mx",
+                "correo_electronico_st": "st.computacion@aragon.unam.mx",
+                "facebook": "https://www.facebook.com/FESAragon.computacion/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/ingenieria-en-computacion"
+            }
+        }
+    ]
+}

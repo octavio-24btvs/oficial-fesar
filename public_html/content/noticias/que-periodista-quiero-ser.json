@@ -1,0 +1,14 @@
+{
+	"titulo": "\u00BFQu\u00E9 periodista quiero ser?",
+	"titulo_normalizado": "que-periodista-quiero-ser",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		}
+	],
+	"autor":"Alexis Camacho",
+	"fecha":"05/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el \u00FAltimo d\u00EDa de la Semana de la Comunicaci\u00F3n en la FES Arag\u00F3n, se llev\u00F3 a cabo la conferencia “M\u00E1s que periodismo financiero en la red” a cargo del director editorial de la revista FORBES M\u00E9xico, Jonathan Torres Escobedo. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El prop\u00F3sito de esta presentaci\u00F3n fue explicar la importancia de crear contenido transmedia (informaci\u00F3n que pueda compartirse tanto en medios tradicionales como web); y a su vez, motivar a la comunidad aragonesa a producir informaci\u00F3n de valor. Para profundizar la reflexi\u00F3n del p\u00FAblico asistente, el editor pidi\u00F3 que se preguntaran: “\u00BFQu\u00E9 periodista quiero ser?”. <\/span><\/p>",
+	"imagenes":[{"imagen":"Que-periodista-quiero-ser-1.jpg"},{"imagen":"Que-periodista-quiero-ser-4.jpg"},{"imagen":"Que-periodista-quiero-ser-2.jpg"}]
+}

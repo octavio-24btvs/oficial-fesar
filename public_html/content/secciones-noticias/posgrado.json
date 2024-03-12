@@ -1,0 +1,539 @@
+{
+	"id": 21,
+	"titulo": "Posgrado",
+	"icono": "icon-posgrados",
+	"noticias": [
+		{
+			"titulo":"La guerra y sus efectos econ\u00F3micos",
+			"titulo_normalizado":"la-guerra-y-sus-efectos-economicos",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Guerra.gif",
+			"fecha":"31/08/23"
+		},
+		{
+			"titulo":"Derechos humanos y los desaf\u00EDos en la impartici\u00F3n de justicia",
+			"titulo_normalizado":"derechos-humanos-y-los-desafios-en-la-imparticion-de-justicia",
+			"autor":"Francisco Olivares",
+			"imagen": "derechos-humanos-y-los-desafios-en-la-imparticion-de-justicia-1.jpg",
+			"fecha":"31/05/21"
+		},
+		{
+			"titulo":"Los desaf\u00EDos de los derechos humanos en Am\u00E9rica",
+			"titulo_normalizado":"los-desafios-de-los-derechos-humanos-en-america",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Derechos1.gif",
+			"fecha":"31/05/21"
+		},
+		{
+			"titulo":"Acceso a la justicia igualitaria",
+			"titulo_normalizado":"acceso-a-la-justicia-igualitaria",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "acceso-justicia-igualitaria-1.jpg",
+			"fecha":"31/05/21"
+		},
+		{
+			"titulo":"Los apremios de las comunidades ind\u00EDgenas en el siglo XXI",
+			"titulo_normalizado":"los-apremios-de-las-comunidades-indigenas-en-el-siglo-xxi",
+			"autor":"Redacci\u00F3n",
+			"imagen": "los-apremios-de-las-comunidades-indigenas-en-este-siglo-xxi-1.jpg",
+			"fecha":"30/10/19"
+		},
+		{
+			"titulo":"Romper con las profesiones masculinizadas",
+			"titulo_normalizado":"romper-con-las-profesiones-masculinizadas",
+			"autor":"Kenia Brodman",
+			"imagen": "profesiones1.gif",
+			"fecha":"29/11/21"
+		},
+		{
+			"titulo":"SPA: Caleidoscopio de la formaci\u00F3n",
+			"titulo_normalizado":"spa-caleidoscopio-de-la-formacion",
+			"autor":"Sianya S\u00E1nchez",
+			"imagen": "caleidoscopio-de-la-formacion-1.jpg",
+			"fecha":"29/10/21"
+		},
+		{
+			"titulo":"Proponen pr\u00E1cticas para erradicar la discriminaci\u00F3n",
+			"titulo_normalizado":"proponen-practicas-para-erradicar-la-discriminacion",
+			"autor":"Aranza Ramos",
+			"imagen": "Discriminacion1 (1).jpg",
+			"fecha":"29/06/22"
+		},
+		{
+			"titulo":"Una crisis diferente",
+			"titulo_normalizado":"una-crisis-diferente",
+			"autor":"Erik Pliego",
+			"imagen": "Crisis2.JPG",
+			"fecha":"28/11/22"
+		},
+		{
+			"titulo":"Narcodelincuencia globalizada y pol\u00EDticas p\u00FAblicas",
+			"titulo_normalizado":"narcodelincuencia-globalizada-y-politicas-publicas",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "Narcodelincuencia-1.jpg",
+			"fecha":"28/04/23"
+		},
+		{
+			"titulo":"Pol\u00EDticas pragm\u00E1ticas en M\u00E9xico",
+			"titulo_normalizado":"politicas-pragmaticas-en-mexico",
+			"autor":"Alexis Rey",
+			"imagen": "Paradigmas1.gif",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"Prevenci\u00F3n como tarea de una sociedad unida",
+			"titulo_normalizado":"prevencion-como-tarea-de-una-sociedad-unida",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "prevencion-1.jpg",
+			"fecha":"27/04/23"
+		},
+		{
+			"titulo":"La crisis econ\u00F3mica no se resolver\u00E1 con la vacuna",
+			"titulo_normalizado":"la-crisis-economica-no-se-resolvera-con-la-vacuna",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "Crisis-economica-vacuna-1.jpg",
+			"fecha":"27/01/21"
+		},
+		{
+			"titulo":"CIE 2022: Econom\u00EDa digitalizada",
+			"titulo_normalizado":"cie-2022-economia-digitalizada",
+			"autor":"Alexis Rey",
+			"imagen": "EconomíaD1.gif",
+			"fecha":"26/08/22"
+		},
+		{
+			"titulo":"Nezahualc\u00F3yotl apuesta por la seguridad ciudadana",
+			"titulo_normalizado":"nezahualcoyotl-apuesta-por-la-seguridad-ciudadana",
+			"autor":"Beatriz Calva",
+			"imagen": "día-1-1.jpg",
+			"fecha":"26/04/23"
+		},
+		{
+			"titulo":"Panorama de la violencia familiar",
+			"titulo_normalizado":"panorama-de-la-violencia-familiar",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "panorama-de-la-violencia-familiar-1.jpg",
+			"fecha":"26/03/19"
+		},
+		{
+			"titulo":"Empoder-Arte",
+			"titulo_normalizado":"empoder-arte",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Empoderarte2.gif",
+			"fecha":"25/11/21"
+		},
+		{
+			"titulo":"XVCIMI: Pol\u00EDtica desde los j\u00F3venes",
+			"titulo_normalizado":"xvcimi-politica-desde-los-jovenes",
+			"autor":"Elisa Jacobo",
+			"imagen": "politica-1.gif",
+			"fecha":"25/10/22"
+		},
+		{
+			"titulo":"SPA: Arranca la Semana de producciones acad\u00E9micas",
+			"titulo_normalizado":"spa-arranca-la-semana-de-producciones-academicas",
+			"autor":"Francisco Olivares",
+			"imagen": "arranca-la-semana-de-producciones-academicas-1.jpg",
+			"fecha":"25/10/21"
+		},
+		{
+			"titulo":"CIE 2022: Presentaci\u00F3n de la revista Hatso Hnini",
+			"titulo_normalizado":"cie-2022-presentacion-de-la-revista-hatso-hnini",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "HAtso3.gif",
+			"fecha":"25/08/22"
+		},
+		{
+			"titulo":"Catherine Walsh y el an\u00E1lisis de la pedagog\u00EDa decolonial",
+			"titulo_normalizado":"catherine-walsh-y-el-analisis-de-la-pedagogia-decolonial",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "catherine-walsh-y-el-analisis-de-la-pedagogia-decolonial-1.jpg",
+			"fecha":"24/04/23"
+		},
+		{
+			"titulo":"CIE 2022: Pol\u00EDtica monetaria y fiscal, ejes de la econom\u00EDa mexicana",
+			"titulo_normalizado":"cie-2022-politica-monetaria-y-fiscal-ejes-de-la-economia-mexicana",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Política1.gif",
+			"fecha":"23/08/22"
+		},
+		{
+			"titulo":"CIE 2022: Aumenta la dependencia a remesas en nuestro pa\u00EDs",
+			"titulo_normalizado":"cie-2022-aumenta-la-dependencia-a-remesas-en-nuestro-pais",
+			"autor":"Aranza Ramos",
+			"imagen": "puntodequiebre-1.JPG",
+			"fecha":"23/08/22"
+		},
+		{
+			"titulo":"CIA23: Inauguraci\u00F3n del segundo congreso de artesan\u00EDas",
+			"titulo_normalizado":"cia23-inauguracion-del-segundo-congreso-de-artesanias",
+			"autor":"Erik Pliego",
+			"imagen": "Voces.gif",
+			"fecha":"23/05/23"
+		},
+		{
+			"titulo":"Arte y dise\u00F1o en la producci\u00F3n artesanal",
+			"titulo_normalizado":"arte-y-diseno-en-la-produccion-artesanal",
+			"autor":"Alexis Rey",
+			"imagen": "Artesanal1.gif",
+			"fecha":"22/09/22"
+		},
+		{
+			"titulo":"CIE 2022: Inauguraci\u00F3n del 6.° Congreso Internacional de Econom\u00EDa",
+			"titulo_normalizado":"cie-2022-inauguracion-del-6---congreso-internacional-de-economia",
+			"autor":"Alexis Rey",
+			"imagen": "Alternativas1.gif",
+			"fecha":"22/08/22"
+		},
+		{
+			"titulo":"A un a\u00F1o del confinamiento",
+			"titulo_normalizado":"a-un-ano-del-confinamiento",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "un-ano-confinamiento-1.jpg",
+			"fecha":"22/03/21"
+		},
+		{
+			"titulo":"Investigadores aragoneses en formaci\u00F3n",
+			"titulo_normalizado":"investigadores-aragoneses-en-formacion",
+			"autor":"Beatriz Calva",
+			"imagen": "semilleros-1.jpg",
+			"fecha":"20/04/23"
+		},
+		{
+			"titulo":"Personas con discapacidad quieren trabajo, movilidad y sensibilidad",
+			"titulo_normalizado":"personas-con-discapacidad-quieren-trabajo-movilidad-y-sensibilidad",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "personas-con-discapacidad-quieren-trabajo-movilidad-y-sensibilidad-1.jpg",
+			"fecha":"20/04/23"
+		},
+		{
+			"titulo":"Formaci\u00F3n docente en contextos de educaci\u00F3n intercultural de M\u00E9xico y Brasil",
+			"titulo_normalizado":"formacion-docente-en-contextos-de-educacion-intercultural-de-mexico-y-brasil",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "RBSB-1.JPG",
+			"fecha":"17/05/22"
+		},
+		{
+			"titulo":"JIM-B: Promoviendo la investigaci\u00F3n",
+			"titulo_normalizado":"jim-b-promoviendo-la-investigacion",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Promoviendo1.gif",
+			"fecha":"17/02/22"
+		},
+		{
+			"titulo":"JIM-B: Experiencias formativas",
+			"titulo_normalizado":"jim-b-experiencias-formativas",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Formativas1.gif",
+			"fecha":"17/02/22"
+		},
+		{
+			"titulo":"Clausura del congreso internacional sobre educaci\u00F3n y docencia intercultural",
+			"titulo_normalizado":"clausura-del-congreso-internacional-sobre-educacion-y-docencia-intercultural",
+			"autor":"Redacci\u00F3n",
+			"imagen": "clausura-del-congreso-internacional-sobre-educacion-y-docencia-intercultural-1.jpg",
+			"fecha":"16/08/19"
+		},
+		{
+			"titulo":"Importancia de la mediaci\u00F3n en la sociedad",
+			"titulo_normalizado":"importancia-de-la-mediacion-en-la-sociedad",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "importancia-de-la-mediacion-en-la-sociedad-1.jpg",
+			"fecha":"16/02/23"
+		},
+		{
+			"titulo":"Libros y nuevas pr\u00E1cticas pedag\u00F3gicas",
+			"titulo_normalizado":"libros-y-nuevas-practicas-pedagogicas",
+			"autor":"Redacci\u00F3n",
+			"imagen": "libros-y-nuevas-practicas-pedagogicas-1.jpg",
+			"fecha":"15/08/19"
+		},
+		{
+			"titulo":"11F: La mujer en el arte",
+			"titulo_normalizado":"11f-la-mujer-en-el-arte",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "11f-la-mujer-en-el-arte-1.jpg",
+			"fecha":"15/02/23"
+		},
+		{
+			"titulo":"JIM-B: Universalidad, Internacionalizaci\u00F3n y Pol\u00EDticas P\u00FAblicas en la \u00E9poca contempor\u00E1nea",
+			"titulo_normalizado":"jim-b-universalidad-internacionalizacion-y-politicas-publicas-en-la-epoca-contemporanea",
+			"autor":"Miguel Palacios",
+			"imagen": "foro-axel-didriksson-1.jpg",
+			"fecha":"15/02/22"
+		},
+		{
+			"titulo":"Movimientos juveniles en Brasil",
+			"titulo_normalizado":"movimientos-juveniles-en-brasil",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "movimientos-juveniles-en-brasil-1.jpg",
+			"fecha":"15/02/22"
+		},
+		{
+			"titulo":"Descubre el Laboratorio de Cultura, Educaci\u00F3n e Innovaci\u00F3n Digital",
+			"titulo_normalizado":"descubre-el-laboratorio-de-cultura-educacion-e-innovacion-digital",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "descubre-el-laboratorio-de-cultura-educacion-e-innovacion-digital-1.jpg",
+			"fecha":"14/12/21"
+		},
+		{
+			"titulo":"Arag\u00F3n abre sus puertas a congreso de docencia intercultural",
+			"titulo_normalizado":"aragon-abre-sus-puertas-a-congreso-de-docencia-intercultural",
+			"autor":"Redacci\u00F3n",
+			"imagen": "aragon-abre-sus-puertas-a-congreso-de-docencia-intercultural-1.jpg",
+			"fecha":"14/08/19"
+		},
+		{
+			"titulo":"Multiculturalidad y lenguaje para una docencia completa",
+			"titulo_normalizado":"multiculturalidad-y-lenguaje-para-una-docencia-completa",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "multiculturalidad-y-pluralidad-para-una-docencia-completa-1.jpg",
+			"fecha":"13/08/19"
+		},
+		{
+			"titulo":"Retroalimentaci\u00F3n acad\u00E9mica con universidad china",
+			"titulo_normalizado":"retroalimentacion-academica-con-universidad-china",
+			"autor":"Redacci\u00F3n",
+			"imagen": "retroalimentacion-academica-con-universidad-china-1.jpg",
+			"fecha":"13/08/19"
+		},
+		{
+			"titulo":"Culminaci\u00F3n de una generaci\u00F3n m\u00E1s de maestr\u00EDa",
+			"titulo_normalizado":"culminacion-de-una-generacion-mas-de-maestria",
+			"autor":"Aurelio Nito",
+			"imagen": "Culminacion-de-una-generacion-mas-de-maestria-1.jpg",
+			"fecha":"13/02/19"
+		},
+		{
+			"titulo":"El peso del d\u00F3lar",
+			"titulo_normalizado":"el-peso-del-dolar",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "el-peso-del-dolar-1.JPG",
+			"fecha":"12/10/23"
+		},
+		{
+			"titulo":"Competitividad, econom\u00EDa regional y revistas de posgrado",
+			"titulo_normalizado":"competitividad-economia-regional-y-revistas-de-posgrado",
+			"autor":"Oscar Rafael Cornejo",
+			"imagen": "Economía1.gif",
+			"fecha":"12/10/23"
+		},
+		{
+			"titulo":"Compromiso por encontrar a personas desaparecidas",
+			"titulo_normalizado":"compromiso-por-encontrar-a-personas-desaparecidas",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "desparecidos-1.jpg",
+			"fecha":"12/04/23"
+		},
+		{
+			"titulo":"Protecci\u00F3n de menores y sus derechos",
+			"titulo_normalizado":"proteccion-de-menores-y-sus-derechos",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "Proteccion-de-menores-y-sus-derechos-1.jpg",
+			"fecha":"12/03/19"
+		},
+		{
+			"titulo":"JIM-B: La riqueza intercultural para la educaci\u00F3n",
+			"titulo_normalizado":"jim-b-la-riqueza-intercultural-para-la-educacion",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "foro-mexico-brasil-1.jpg",
+			"fecha":"12/02/22"
+		},
+		{
+			"titulo":"Publicaci\u00F3n sobre procesos electorales",
+			"titulo_normalizado":"publicacion-sobre-procesos-electorales",
+			"autor":"Edith Granados",
+			"imagen": "publicacion-sobre-procesos-electorales-1.jpg",
+			"fecha":"11/03/19"
+		},
+		{
+			"titulo":"11F: Mujeres en el SNI de la FES Arag\u00F3n",
+			"titulo_normalizado":"11f-mujeres-en-el-sni-de-la-fes-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "ONCE-EFE-1.jpg",
+			"fecha":"11/02/22"
+		},
+		{
+			"titulo":"Econom\u00EDa digital en el mundo actual",
+			"titulo_normalizado":"economia-digital-en-el-mundo-actual",
+			"autor":"Ang\u00E9lica L\u00F3pez",
+			"imagen": "economia-digital-2.jpg",
+			"fecha":"10/10/23"
+		},
+		{
+			"titulo":"Redise\u00F1ar paradigmas ante la crisis clim\u00E1tica",
+			"titulo_normalizado":"redisenar-paradigmas-ante-la-crisis-climatica",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "crisis-1.gif",
+			"fecha":"10/10/23"
+		},
+		{
+			"titulo":"El dominio de la Econom\u00EDa y Am\u00E9rica Latina",
+			"titulo_normalizado":"el-dominio-de-la-economia-y-america-latina",
+			"autor":"Rodrigo Castillo",
+			"imagen": "not-found.jpg",
+			"fecha":"09/10/23"
+		},
+		{
+			"titulo":"Perspectivas econ\u00F3micas",
+			"titulo_normalizado":"perspectivas-economicas",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "perspectivas-1.jpg",
+			"fecha":"09/10/23"
+		},
+		{
+			"titulo":"8M: Una mirada en primera l\u00EDnea, entre la luz y la empat\u00EDa",
+			"titulo_normalizado":"8m-una-mirada-en-primera-linea-entre-la-luz-y-la-empatia",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez y Celia Sim\u00F3n",
+			"imagen": "una-mirada-primera-linea-1.jpg",
+			"fecha":"08/03/21"
+		},
+		{
+			"titulo":"El acoso y violencia sexual en Internet",
+			"titulo_normalizado":"el-acoso-y-violencia-sexual-en-internet",
+			"autor":"Oscar Rafael Cornejo",
+			"imagen": "Digital.gif",
+			"fecha":"07/11/23"
+		},
+		{
+			"titulo":"Encuentro interinstitucional universitario 2022",
+			"titulo_normalizado":"encuentro-interinstitucional-universitario-2022",
+			"autor":"Aranza Ramos",
+			"imagen": "encuentro-1.JPG",
+			"fecha":"07/06/22"
+		},
+		{
+			"titulo":"Encuentro interinstitucional:  din\u00E1micas de investigaci\u00F3n",
+			"titulo_normalizado":"encuentro-interinstitucional--dinamicas-de-investigacion",
+			"autor":"Edna Reyes",
+			"imagen": "encuentro-interinstitucional-dinamicas-de-investigacion-1.jpg",
+			"fecha":"07/06/22"
+		},
+		{
+			"titulo":"Diidxa en el congreso de artesan\u00EDas",
+			"titulo_normalizado":"diidxa-en-el-congreso-de-artesanias",
+			"autor":"Juan G\u00F3mez",
+			"imagen": "diidxa-en-el-congreso-de-artesanias-1.jpg",
+			"fecha":"04/06/21"
+		},
+		{
+			"titulo":"Artesan\u00EDas: conocer para proteger",
+			"titulo_normalizado":"artesanias-conocer-para-proteger",
+			"autor":"Brenda Martinez",
+			"imagen": "artesanias-conocer-para-proteger-1.jpg",
+			"fecha":"04/06/21"
+		},
+		{
+			"titulo":"Primer Congreso Internacional de Cuidados",
+			"titulo_normalizado":"primer-congreso-internacional-de-cuidados",
+			"autor":"Oscar Rafael Cornejo",
+			"imagen": "Primer1.gif",
+			"fecha":"03/10/23"
+		},
+		{
+			"titulo":"La pluriculturalidad del artesano",
+			"titulo_normalizado":"la-pluriculturalidad-del-artesano",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "pluricultura1.gif",
+			"fecha":"03/06/21"
+		},
+		{
+			"titulo":"Luchas del comercio artesanal en M\u00E9xico",
+			"titulo_normalizado":"luchas-del-comercio-artesanal-en-mexico",
+			"autor":"Sianya S\u00E1nchez",
+			"imagen": "luchas-del-comercio-artesanal-en-mexico-1.jpg",
+			"fecha":"03/06/21"
+		},
+		{
+			"titulo":"La incursi\u00F3n artesanal en la vida y en la urbanizaci\u00F3n",
+			"titulo_normalizado":"la-incursion-artesanal-en-la-vida-y-en-la-urbanizacion",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "arteurbano1.gif",
+			"fecha":"03/06/21"
+		},
+		{
+			"titulo":"Recursos naturales: negocio depredador",
+			"titulo_normalizado":"recursos-naturales-negocio-depredador",
+			"autor":"Beatriz Calva",
+			"imagen": "libro-1.jpg",
+			"fecha":"03/03/23"
+		},
+		{
+			"titulo":"Mujeres de ciencia y matem\u00E1ticas",
+			"titulo_normalizado":"mujeres-de-ciencia-y-matematicas",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "mujeres-ciencia1.gif",
+			"fecha":"02/12/21"
+		},
+		{
+			"titulo":"Testimonios artesanales",
+			"titulo_normalizado":"testimonios-artesanales",
+			"autor":"Juan G\u00F3mez",
+			"imagen": "testimonios-artesanales-1.jpg",
+			"fecha":"02/06/21"
+		},
+		{
+			"titulo":"La artesan\u00EDa como identidad de las comunidades y pueblos ind\u00EDgenas",
+			"titulo_normalizado":"la-artesania-como-identidad-de-las-comunidades-y-pueblos-indigenas",
+			"autor":"Francisco Olivares",
+			"imagen": "la-artesania-como-identidad-de-las-comunidades-1.jpg",
+			"fecha":"02/06/21"
+		},
+		{
+			"titulo":"Trabajo an\u00F3nimo",
+			"titulo_normalizado":"trabajo-anonimo",
+			"autor":"Brenda Mart\u00EDnez",
+			"imagen": "Anónimo1.gif",
+			"fecha":"02/06/21"
+		},
+		{
+			"titulo":"La protecci\u00F3n de las y los artesanos y sus saberes",
+			"titulo_normalizado":"la-proteccion-de-las-y-los-artesanos-y-sus-saberes",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "proteccion-artesanos-saberes-1.jpg",
+			"fecha":"01/06/21"
+		},
+		{
+			"titulo":"Protecci\u00F3n de las y los artesanos",
+			"titulo_normalizado":"proteccion-de-las-y-los-artesanos",
+			"autor":"Rosa Francisco",
+			"imagen": "proteccion-de-las-y-los-artesanos-1.jpg",
+			"fecha":"01/06/21"
+		},
+		{
+			"titulo":"El agave y su tradici\u00F3n artesanal",
+			"titulo_normalizado":"el-agave-y-su-tradicion-artesanal",
+			"autor":"Redacci\u00F3n",
+			"imagen": "Agave1.gif",
+			"fecha":"01/06/21"
+		},
+		{
+			"titulo":"Conservaci\u00F3n y color del arte",
+			"titulo_normalizado":"conservacion-y-color-del-arte",
+			"autor":"Velia Andrey L\u00F3pez",
+			"imagen": "arte1.gif",
+			"fecha":"01/06/21"
+		},
+		{
+			"titulo":"Voces de la pluralidad: 1er. congreso de artesan\u00EDas",
+			"titulo_normalizado":"voces-de-la-pluralidad-1er-congreso-de-artesanias",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "voces-pluralidad-congreso-artesania-1.jpg",
+			"fecha":"01/06/21"
+		},
+		{
+			"titulo":"Derechos humanos y artesan\u00EDas",
+			"titulo_normalizado":"derechos-humanos-y-artesanias",
+			"autor":"Alberto Ochoa",
+			"imagen": "Artesanía1.gif",
+			"fecha":"01/06/21"
+		},
+		{
+			"titulo":"Latinoam\u00E9rica y sus desaf\u00EDos en derechos humanos",
+			"titulo_normalizado":"latinoamerica-y-sus-desafios-en-derechos-humanos",
+			"autor":"Celia Guadalupe Sim\u00F3n",
+			"imagen": "latinoamerica-desafios-derechos-humanos-1.jpg",
+			"fecha":"01/06/21"
+		}
+	]
+}

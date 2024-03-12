@@ -1,0 +1,30 @@
+{
+	"titulo": "SA22: Pinceladas hacia la creaci\u00F3n",
+	"titulo_normalizado": "sa22-pinceladas-hacia-la-creacion",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor": "Luis Gonz\u00E1lez",
+	"fecha": "09/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el marco de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Arquitectura <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">de la Facultad de Estudios Superiores Arag\u00F3n, se llev\u00F3 a cabo una muestra pict\u00F3rica de acuarela, en la cual participaron los docentes de la carrera Carlos Bernal, Esmeralda \u00C1vila, Julieta Cort\u00E9s, C\u00E9sar Tenorio, y Laura Rodr\u00EDguez, siendo esta \u00FAltima tambi\u00E9n la curadora de las obras presentadas en la sala Diego Rivera.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La muestra de la obra pl\u00E1stica comenz\u00F3 con una breve inauguraci\u00F3n donde estuvieron presentes la directora de la Divisi\u00F3n de Humanidades y Artes Luc\u00EDa Mata, y el secretario t\u00E9cnico de la carrera Miguel \u00C1ngel Lazo, en representaci\u00F3n de la jefa de carrera Ana Cort\u00E9s. Mata dio unas palabras antes del corte de lazo, destacando el trabajo realizado por los docentes.&nbsp; \"Esto nos da una mayor fuerza para ver como nuestra carrera tiene muchas posibilidades\", agreg\u00F3&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte, Rodr\u00EDguez habl\u00F3 sobre la conexi\u00F3n entre la t\u00E9cnica de acuarela y la arquitectura, la cual busca incentivar a las y los estudiantes con las obras y mostrarla dentro de la misma, adem\u00E1s de destacar su uso terap\u00E9utico. \"Podemos ver la representaci\u00F3n de la personalidad de cada uno de los participantes y c\u00F3mo puede intervenir el \u00E1nimo\", agreg\u00F3.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta presentaci\u00F3n se llev\u00F3 a cabo para mostrar a las y los estudiantes de primeros semestres de la carrera que no solo ver\u00E1n la parte t\u00E9cnica, sino tambi\u00E9n la art\u00EDstica dentro del tronco com\u00FAn de materias. Rodr\u00EDguez mostr\u00F3 su agradecimiento a los estudiantes de quinto semestre Julio Caselis e Ivonne Hern\u00E1ndez, as\u00ED como a Cielo Mart\u00EDnez, servidora social de la docente; quienes ayudaron en el proceso de curadur\u00EDa.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "acuarela-1.jpg"
+		},
+		{
+			"imagen": "acuarela-2.jpg"
+		},
+		{
+			"imagen": "acuarela-3.jpg"
+		},
+		{
+			"imagen": "acuarela-4.jpg"
+		},
+		{
+			"imagen": "acuarela-5.jpg"
+		}	]
+
+}

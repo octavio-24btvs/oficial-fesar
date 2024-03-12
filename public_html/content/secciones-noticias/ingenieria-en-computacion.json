@@ -1,0 +1,126 @@
+{
+	"id": 63,
+	"titulo": "Ingenier\u00EDa en Computaci\u00F3n",
+	"icono": "",
+	"noticias": [
+		{
+			"titulo":"Avanza la formaci\u00F3n complementaria en Arag\u00F3n",
+			"titulo_normalizado":"avanza-la-formacion-complementaria-en-aragon",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "avanza-la-formacion-complementaria-en-aragon.jpg",
+			"fecha":"31/08/22"
+		},
+		{
+			"titulo":"Homenaje a la docencia en ingenier\u00EDa",
+			"titulo_normalizado":"homenaje-a-la-docencia-en-ingenieria",
+			"autor":"Edna Reyes",
+			"imagen": "homenaje-a-la-docencia-en-ingenieria-1.jpg",
+			"fecha":"30/05/22"
+		},
+		{
+			"titulo":"SING22: Aprender con videojuegos",
+			"titulo_normalizado":"sing22-aprender-con-videojuegos",
+			"autor":"Elisa Jacobo",
+			"imagen": "videojuegos-1.jpg",
+			"fecha":"29/09/22"
+		},
+		{
+			"titulo":"SING22: Matem\u00E1ticas aplicadas: del papel a la realidad",
+			"titulo_normalizado":"sing22-matematicas-aplicadas-del-papel-a-la-realidad",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "aplicaciones-matematicas-1.jpg",
+			"fecha":"28/09/22"
+		},
+		{
+			"titulo":"SING22: El momento adecuado para emprender",
+			"titulo_normalizado":"sing22-el-momento-adecuado-para-emprender",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "momento-adecuado-para-emprender-1.jpg",
+			"fecha":"28/09/22"
+		},
+		{
+			"titulo":"SING22: Labor de un buen hacker",
+			"titulo_normalizado":"sing22-labor-de-un-buen-hacker",
+			"autor":"Elisa Jacobo",
+			"imagen": "labor-hacker-1.jpg",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"SING22: La Ingenier\u00EDa aplicada a la Salud",
+			"titulo_normalizado":"sing22-la-ingenieria-aplicada-a-la-salud",
+			"autor":"Javier Cer\u00F3n",
+			"imagen": "salud-1.gif",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"Centros de c\u00F3mputo: evoluci\u00F3n y personal calificado",
+			"titulo_normalizado":"centros-de-computo-evolucion-y-personal-calificado",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "Evolución-de-los-centros-de-computo-1.jpg",
+			"fecha":"25/05/22"
+		},
+		{
+			"titulo":"EPL busca sinergia con la FES Arag\u00F3n",
+			"titulo_normalizado":"epl-busca-sinergia-con-la-fes-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "elp-1.jpg",
+			"fecha":"24/08/22"
+		},
+		{
+			"titulo":"Reconocer la existencia de las mujeres",
+			"titulo_normalizado":"reconocer-la-existencia-de-las-mujeres",
+			"autor":"Ang\u00E9lica L\u00F3pez",
+			"imagen": "existencia-mujeres-1.gif",
+			"fecha":"22/11/23"
+		},
+		{
+			"titulo":"ICO va por su reacreditaci\u00F3n",
+			"titulo_normalizado":"ico-va-por-su-reacreditacion",
+			"autor":"Thalia Ortega",
+			"imagen": "ico-va-por-su-reacreditacion-1.jpg",
+			"fecha":"21/10/20"
+		},
+		{
+			"titulo":"Semana de la Ingenier\u00EDa",
+			"titulo_normalizado":"semana-de-la-ingenieria",
+			"autor":"Rodrigo Castillo",
+			"imagen": "semana-ingenieria-1.gif",
+			"fecha":"21/09/23"
+		},
+		{
+			"titulo":"Egresa generaci\u00F3n 2018 de Ingenier\u00EDa en Computaci\u00F3n",
+			"titulo_normalizado":"egresa-generacion-2018-de-ingenieria-en-computacion",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "egresa-generacion-2018-de-ingenieria-en-computacion-1.jpg",
+			"fecha":"21/01/22"
+		},
+		{
+			"titulo":"La importancia de emprender",
+			"titulo_normalizado":"la-importancia-de-emprender",
+			"autor":"Ang\u00E9lica L\u00F3pez",
+			"imagen": "emprender-1.gif",
+			"fecha":"18/09/23"
+		},
+		{
+			"titulo":"Orgullo: aragoneses demuestran su habilidad en hacking",
+			"titulo_normalizado":"orgullo-aragoneses-demuestran-su-habilidad-en-hacking",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "aragoneses-demuestran-su-habilidad-en-hacking-1.jpg",
+			"fecha":"12/11/21"
+		},
+		{
+			"titulo":"8M: Preparar un cuarto propio",
+			"titulo_normalizado":"8m-preparar-un-cuarto-propio",
+			"autor":"Erick Sol\u00EDs",
+			"imagen": "preparar-cuarto-propio-1.jpg",
+			"fecha":"08/03/21"
+		},
+		{
+			"titulo":"ForoTok22: Aprendiendo con Tiktok",
+			"titulo_normalizado":"forotok22-aprendiendo-con-tiktok",
+			"autor":"Aranza Ramos",
+			"imagen": "aprendiendo-tiktok-1.jpg",
+			"fecha":"06/09/22"
+		}
+	]
+}

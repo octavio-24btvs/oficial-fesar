@@ -1,0 +1,28 @@
+{
+	"titulo": "SING22: Labor de un buen hacker",
+	"titulo_normalizado": "sing22-labor-de-un-buen-hacker",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería en Computación",
+			"seccion_normalizada": "ingenieria-en-computacion"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "27/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> fue impartida la pl\u00E1tica “Auditor\u00EDas de seguridad y el proceso de certificaci\u00F3n Ethical Hacker” a cargo de Jes\u00FAs Hern\u00E1ndez, docente de Ingenier\u00EDa en Computaci\u00F3n, con amplia experiencia en el tema. El alumnado fue recibido en el auditorio de la DUACyD y el encargado de dar la bienvenida fue Jorge Arturo L\u00F3pez, el jefe de carrera.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Jes\u00FAs Hern\u00E1ndez explic\u00F3 conceptos relacionados con la seguridad inform\u00E1tica y una visi\u00F3n general y accesible del proceso de auditor\u00EDas encargadas especialmente de revisar y probar el bienestar de la informaci\u00F3n de distintos tipos de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">software<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. As\u00ED mismo, hizo presente el deseo de que en el futuro alumnas y alumnos pertenecieran al grupo de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">hackers<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> conocidos por emplear sus conocimientos con la finalidad de evitar el robo, manipulaci\u00F3n o interrupci\u00F3n de la informaci\u00F3n, tal como lo hacen quienes participan de las auditor\u00EDas. Se hizo menci\u00F3n de las \u00E1reas de dominio como la descripci\u00F3n general de la seguridad de la informaci\u00F3n y el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">hacking<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> \u00E9tico; criptograf\u00EDa, computaci\u00F3n en la nube, etc\u00E9tera. Adem\u00E1s de las dos v\u00EDas distintas de certificaci\u00F3n y sus implicaciones: Entrenamiento oficial EC-Council y sin entrenamiento..&nbsp;<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Concluy\u00F3 el profesor al reiterar la necesidad de ser un buen ingeniero en computaci\u00F3n para poder llegar a ser un profesional en el \u00E1rea, un <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">hacker<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. El evento lleg\u00F3 a su t\u00E9rmino con la entrega de constancia al ponente y el aplauso de los casi 280 asistentes quienes, al hacer su pre registro, recibieron 20 h de formaci\u00F3n complementaria.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "labor-hacker-1.jpg"
+		},
+		{
+			"imagen": "labor-hacker-2.jpg"
+		},
+		{
+			"imagen": "labor-hacker-3.jpg"
+		}	]
+
+}

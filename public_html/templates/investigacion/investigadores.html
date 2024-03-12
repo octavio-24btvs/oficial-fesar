@@ -1,0 +1,26 @@
+<div class="container pb-5">
+    <div class="row pleca-secciones pt-2 pb-2">
+        <div class="col-lg-12" style="padding: 0px">
+          <img class="img-fluid" src="public_html/img/investigacion/institutos/investigadores.jpg" alt="Investigadores">
+        </div>
+        </div>
+    <div class="row justify-content-center">
+        <div class="col-10 mb-4 mt-4">
+            <i class="icono-secciones" ng-class="instituto.icono"></i><h1 class="mw-50">{{instituto.carrera.toUpperCase()}}</h1>
+            <hr class="m-0">
+        </div>
+        <div class="col-10 mb-4 mt-4">
+            <div class="row">
+                <div class="col-6 col-md-3 mb-4" ng-repeat="investigador in instituto.investigadores">
+                    <div class="d-flex justify-content-center">
+                        <img class="rounded-circle img-responsable-cls" ng-src="public_html/img/investigacion/investigadores/{{investigador.nombre_normalizado}}.jpg" alt="{{investigador.nombre}}" ng-if="investigador.imagen" />
+                        <img class="rounded-circle img-responsable-cls" src="public_html/img/investigacion/investigadores/sin-foto.jpg" alt="{{investigador.nombre}}" ng-if="investigador.imagen === undefined" />
+                    </div>
+                    <a ui-sref="investigador({investigador: investigador.nombre_normalizado})" style="color: #004085">
+                        <p class="text-center fs-12">{{investigador.nombre}}</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

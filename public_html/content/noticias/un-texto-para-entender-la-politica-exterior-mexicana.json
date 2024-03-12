@@ -1,0 +1,14 @@
+{
+	"titulo": "Un texto para entender la pol\u00EDtica exterior mexicana",
+	"titulo_normalizado": "un-texto-para-entender-la-politica-exterior-mexicana",
+	"secciones": [
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor":"Sara Ignacio",
+	"fecha":"04/10/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La publicaci\u00F3n <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para entender la pol\u00EDtica exterior de M\u00E9xico. La experiencia del pasado para planear el futuro<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">,<\/span><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> escrito por Jessica de Alba, <\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Rafael Vel\u00E1zquez y Oscar Santamar\u00EDa, busca ofrecer un panorama claro y sencillo al p\u00FAblico en general sobre la pol\u00EDtica exterior de nuestro pa\u00EDs y los beneficios que ha generado para nuestra sociedad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El texto explica las ventajas que esta pol\u00EDtica le ha tra\u00EDdo a la naci\u00F3n a lo largo de los a\u00F1os y se muestran las relaciones bilaterales con algunos pa\u00EDses. Adem\u00E1s, se hace hincapi\u00E9 en el desarrollo de nuevos retos y en que la pol\u00EDtica exterior debe ser modificada para enfrentar los cambios a nivel internacional. El 4 de octubre se realiz\u00F3 la presentaci\u00F3n del libro a cargo de Iv\u00E1n Vega y David Garc\u00EDa, de la carrera de Relaciones Internacionales.<\/span><\/p>",
+	"imagenes":[{"imagen":"un-texto-para-entender-la-politica-exterior-mexicana-1.png"},{"imagen":"un-texto-para-entender-la-politica-exterior-mexicana-2.png"},{"imagen":"un-texto-para-entender-la-politica-exterior-mexicana-3.jpg"},{"imagen":"un-texto-para-entender-la-politica-exterior-mexicana-4.png"}]
+}

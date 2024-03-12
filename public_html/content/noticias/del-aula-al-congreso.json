@@ -1,0 +1,14 @@
+{
+	"titulo": "Del aula al congreso",
+	"titulo_normalizado": "del-aula-al-congreso",
+	"secciones": [
+		{
+			"seccion": "Derecho",
+			"seccion_normalizada": "derecho"
+		}
+	],
+	"autor":"Aurelio Nito",
+	"fecha":"04/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los Foros de An\u00E1lisis “Los retos del H. Congreso de la Uni\u00F3n ante la nueva realidad pol\u00EDtica del pa\u00EDs”, se realizar\u00E1n gracias al trabajo colaborativo entre el Centro de Estudios de Derecho e Investigaciones Parlamentarias (CEDIP), perteneciente a la C\u00E1mara de Diputados, y la licenciatura en Derecho de nuestra Facultad. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El foro inaugural “El control constitucional de los actos del Congreso de la Uni\u00F3n” cont\u00F3 con la participaci\u00F3n de los doctores Manuel Plata, Juan Carlos Cervantes, Alberto Del Castillo y la Mtra. Mar\u00EDa del Pilar Ortega. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este tipo de eventos resultan importantes para la comunidad estudiantil pues abren nuevas perspectivas y permiten acercarse a la realidad pol\u00EDtica actual mediante la gu\u00EDa de expertos en el tema.<\/span><\/p>",
+	"imagenes":[{"imagen":"del-aula-al-congreso-1.jpg"},{"imagen":"del-aula-al-congreso-2.jpg"},{"imagen":"del-aula-al-congreso-4.jpg"},{"imagen":"del-aula-al-congreso-5.jpg"},{"imagen":"del-aula-al-congreso-6.jpg"},{"imagen":"del-aula-al-congreso-7.jpg"}]
+}

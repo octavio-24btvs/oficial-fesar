@@ -1,0 +1,665 @@
+{
+	"id": 11,
+	"titulo": "Sociolog\u00EDa",
+	"icono": "icon-sociologia",
+	"noticias": [
+		{
+			"titulo":"Las matem\u00E1ticas en Sociolog\u00EDa",
+			"titulo_normalizado":"las-matematicas-en-sociologia",
+			"autor":"Kenia Brodman",
+			"imagen": "MAte5.gif",
+			"fecha":"30/03/22"
+		},
+		{
+			"titulo":"Violencia de g\u00E9nero, una realidad hist\u00F3rica y global",
+			"titulo_normalizado":"violencia-de-genero-una-realidad-historica-y-global",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "Violencia1.gif",
+			"fecha":"29/11/21"
+		},
+		{
+			"titulo":"Violencia pol\u00EDtica de g\u00E9nero, sus causas y expectativas de la reforma",
+			"titulo_normalizado":"violencia-politica-de-genero-sus-causas-y-expectativas-de-la-reforma",
+			"autor":"Sashel Gonz\u00E1lez",
+			"imagen": "Violencia-politica-genero-1.jpg",
+			"fecha":"29/10/20"
+		},
+		{
+			"titulo":"Caleidoscopio: Narrativas que la fotograf\u00EDa presenta a la sociolog\u00EDa",
+			"titulo_normalizado":"caleidoscopio-narrativas-que-la-fotografia-presenta-a-la-sociologia",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Caleidoscopio1.gif",
+			"fecha":"29/09/23"
+		},
+		{
+			"titulo":"Derechos humanos y prisi\u00F3n preventiva",
+			"titulo_normalizado":"derechos-humanos-y-prision-preventiva",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Diagnostico-1.gif",
+			"fecha":"29/08/23"
+		},
+		{
+			"titulo":"Aragonesa presenta iniciativa sobre g\u00E9nero",
+			"titulo_normalizado":"aragonesa-presenta-iniciativa-sobre-genero",
+			"autor":"Erik Pliego",
+			"imagen": "Pleno1.gif",
+			"fecha":"29/06/23"
+		},
+		{
+			"titulo":"Segundo d\u00EDa de la VIII Jornada Interinstitucional de Sociolog\u00EDa",
+			"titulo_normalizado":"segundo-dia-de-la-viii-jornada-interinstitucional-de-sociologia",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "Segundo-Jornada-Sociologia-1.jpg",
+			"fecha":"28/10/20"
+		},
+		{
+			"titulo":"XVCIMI: La participaci\u00F3n femenina en la Sociolog\u00EDa Cl\u00E1sica",
+			"titulo_normalizado":"xvcimi-la-participacion-femenina-en-la-sociologia-clasica",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "libro-1.jpg",
+			"fecha":"27/10/22"
+		},
+		{
+			"titulo":"VIII Jornada Estudiantil Interinstitucional de Sociolog\u00EDa 2020",
+			"titulo_normalizado":"viii-jornada-estudiantil-interinstitucional-de-sociologia-2020",
+			"autor":"Sashel Gonz\u00E1lez",
+			"imagen": "Jornada-interinstitucional-sociologia-1.jpg",
+			"fecha":"27/10/20"
+		},
+		{
+			"titulo":"DPS22: El papel del sistema educativo en las y los estudiantes con discapacidad",
+			"titulo_normalizado":"dps22-el-papel-del-sistema-educativo-en-las-y-los-estudiantes-con-discapacidad",
+			"autor":"Edna Reyes",
+			"imagen": "papel-del-sistema-educativo-en-las-y-los-estudiantes-con-discapacidad-1.jpg",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"DPS22: Un sendero de respeto hacia las personas con discapacidad",
+			"titulo_normalizado":"dps22-un-sendero-de-respeto-hacia-las-personas-con-discapacidad",
+			"autor":"Edna Reyes",
+			"imagen": "un-sendero-de-respeto-hacia-las-personas-con-discapacidad-1.jpg",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"DPS22: Sexualidad y discapacidad",
+			"titulo_normalizado":"dps22-sexualidad-y-discapacidad",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "sexualidad-y-discapacidad-1.jpg",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"JDP 2022: Discapacidad en un entorno social",
+			"titulo_normalizado":"jdp-2022-discapacidad-en-un-entorno-social",
+			"autor":"Alexis Rey",
+			"imagen": "Social1.gif",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"DPS22: Estudios de las diferentes discapacidades en las mujeres",
+			"titulo_normalizado":"dps22-estudios-de-las-diferentes-discapacidades-en-las-mujeres",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "estudios-de-las-diferentes-discapacidades-en-las-mujeres-1.jpg",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"Clausura de la Semana de Sociolog\u00EDa 2020-2",
+			"titulo_normalizado":"clausura-de-la-semana-de-sociologia-2020-2",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "clausura-semana-de-sociologia-1.jpg",
+			"fecha":"27/04/20"
+		},
+		{
+			"titulo":"De la Sociolog\u00EDa a la pr\u00E1ctica, un mundo lleno de oportunidades",
+			"titulo_normalizado":"de-la-sociologia-a-la-practica-un-mundo-lleno-de-oportunidades",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "teoria-practica-1.JPG",
+			"fecha":"25/04/22"
+		},
+		{
+			"titulo":"Hablemos del conflicto Rusia - Ucrania",
+			"titulo_normalizado":"hablemos-del-conflicto-rusia---ucrania",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "conflicto-ur-1.jpg",
+			"fecha":"25/02/22"
+		},
+		{
+			"titulo":"Cultura-mundo, sociolog\u00EDa e historia",
+			"titulo_normalizado":"cultura-mundo-sociologia-e-historia",
+			"autor":"Redacci\u00F3n",
+			"imagen": "cultura-mundo-sociologia-e-historia-1.jpg",
+			"fecha":"24/10/19"
+		},
+		{
+			"titulo":"Enfatiza Arag\u00F3n el libre desarrollo y la diversidad sexual",
+			"titulo_normalizado":"enfatiza-aragon-el-libre-desarrollo-y-la-diversidad-sexual",
+			"autor":"Miguel Palacios",
+			"imagen": "LGBTTTIQ-1.png",
+			"fecha":"24/06/22"
+		},
+		{
+			"titulo":"CCH Oriente: testimonios en su 50 aniversario",
+			"titulo_normalizado":"cch-oriente-testimonios-en-su-50-aniversario",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "CCH1.gif",
+			"fecha":"23/08/23"
+		},
+		{
+			"titulo":"G\u00E9nero, categor\u00EDa de discusi\u00F3n central en la inauguraci\u00F3n de la Semana de Sociolog\u00EDa",
+			"titulo_normalizado":"genero-categoria-de-discusion-central-en-la-inauguracion-de-la-semana-de-sociologia",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "genero-semana-de-sociologia-1.jpg",
+			"fecha":"23/04/20"
+		},
+		{
+			"titulo":"Pensemos las diversidades sexo-gen\u00E9ricas todo el a\u00F1o",
+			"titulo_normalizado":"pensemos-las-diversidades-sexo-genericas-todo-el-ano",
+			"autor":"Diego Flores",
+			"imagen": "pensemos-las-diversidades-sexo-genericas-1.jpg",
+			"fecha":"22/06/22"
+		},
+		{
+			"titulo":"Visi\u00F3n sociol\u00F3gica en temas de g\u00E9nero y discapacidad",
+			"titulo_normalizado":"vision-sociologica-en-temas-de-genero-y-discapacidad",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "vision-sociologica-en-temas-de-genero-y-discapacidad-1.jpg",
+			"fecha":"22/05/19"
+		},
+		{
+			"titulo":"Espacio de investigaci\u00F3n sociol\u00F3gica y retroalimentaci\u00F3n",
+			"titulo_normalizado":"espacio-de-investigacion-sociologica-y-retroalimentacion",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "espacio-de-investigacion-sociologica-y-retroalimentacion-1.jpg",
+			"fecha":"22/05/19"
+		},
+		{
+			"titulo":"Cierre de exposiciones en Coloquio de Sociolog\u00EDa",
+			"titulo_normalizado":"cierre-de-exposiciones-en-coloquio-de-sociologia",
+			"autor":"Aurelio Nito",
+			"imagen": "cierre-de-exposiciones-en-coloquio-de-sociologia-1.jpg",
+			"fecha":"22/05/19"
+		},
+		{
+			"titulo":"Ludoteca C\u00EDvica del IECM en la FES Arag\u00F3n",
+			"titulo_normalizado":"ludoteca-civica-del-iecm-en-la-fes-aragon",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "ludoteca-civica-del-iecm-en-la-fes-aragon-1.jpg",
+			"fecha":"22/03/22"
+		},
+		{
+			"titulo":"Trabajo y sociedad en Coloquio de Sociolog\u00EDa",
+			"titulo_normalizado":"trabajo-y-sociedad-en-coloquio-de-sociologia",
+			"autor":"Yutsil Montesinos",
+			"imagen": "trabajo-y-sociedad-en-el-coloquio-de-sociologia-1.jpg",
+			"fecha":"21/05/19"
+		},
+		{
+			"titulo":"Nuevas expresiones de la juventud",
+			"titulo_normalizado":"nuevas-expresiones-de-la-juventud",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "nuevas-expresiones-de-la-juventud-1.jpg",
+			"fecha":"21/05/19"
+		},
+		{
+			"titulo":"Formas actuales de relacionarse y expresarse",
+			"titulo_normalizado":"formas-actuales-de-relacionarse-y-expresarse",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "formas-actuales-de-relacionarse-y-expresarse-1.jpg",
+			"fecha":"21/05/19"
+		},
+		{
+			"titulo":"Presentaci\u00F3n del Sistema Pol\u00EDtico de Estados Unidos",
+			"titulo_normalizado":"presentacion-del-sistema-politico-de-estados-unidos",
+			"autor":"Javier Cer\u00F3n",
+			"imagen": "abc-1.jpg",
+			"fecha":"19/09/22"
+		},
+		{
+			"titulo":"Hablemos de diversidad sexual",
+			"titulo_normalizado":"hablemos-de-diversidad-sexual",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "universidades-diversas-1.jpg",
+			"fecha":"19/05/22"
+		},
+		{
+			"titulo":"Violencia sist\u00E9mica desde los estudios de g\u00E9nero",
+			"titulo_normalizado":"violencia-sistemica-desde-los-estudios-de-genero",
+			"autor":"Isa\u00EDas Hern\u00E1ndez",
+			"imagen": "Violencia1.gif",
+			"fecha":"18/11/21"
+		},
+		{
+			"titulo":"El aborto en M\u00E9xico",
+			"titulo_normalizado":"el-aborto-en-mexico",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "Aborto1.gif",
+			"fecha":"18/10/21"
+		},
+		{
+			"titulo":"Inclusi\u00F3n: derecho de todos",
+			"titulo_normalizado":"inclusion-derecho-de-todos",
+			"autor":"Carmen Mel\u00E9ndez y Giovanni Ch\u00E1vez",
+			"imagen": "inclusion-derecho-de-todos-1.jpg",
+			"fecha":"18/09/19"
+		},
+		{
+			"titulo":"La obra de Pablo Gonz\u00E1lez Casanova",
+			"titulo_normalizado":"la-obra-de-pablo-gonzalez-casanova",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Pablo1.gif",
+			"fecha":"18/05/23"
+		},
+		{
+			"titulo":"Tecnolog\u00EDas para las aulas de sociales",
+			"titulo_normalizado":"tecnologias-para-las-aulas-de-sociales",
+			"autor":"Elisa Jacobo",
+			"imagen": "ciencias-sociales-1.jpg",
+			"fecha":"17/11/22"
+		},
+		{
+			"titulo":"Autonom\u00EDa reproductiva para las mujeres",
+			"titulo_normalizado":"autonomia-reproductiva-para-las-mujeres",
+			"autor":"Daniel Mart\u00EDnez",
+			"imagen": "autonomia-reproductiva-para-las-mujeres-1.jpg",
+			"fecha":"17/11/21"
+		},
+		{
+			"titulo":"Perspectiva de g\u00E9nero: tema clave para 2022",
+			"titulo_normalizado":"perspectiva-de-genero-tema-clave-para-2022",
+			"autor":"Miguel Palacios",
+			"imagen": "perspectiva-de-genero-tema-clave-para-2022-1.jpg",
+			"fecha":"17/11/21"
+		},
+		{
+			"titulo":"Fenomenolog\u00EDa heideggeriana",
+			"titulo_normalizado":"fenomenologia-heideggeriana",
+			"autor":"Liliana Espinosa",
+			"imagen": "fenomenologia-heideggeriana-1.jpg",
+			"fecha":"17/09/19"
+		},
+		{
+			"titulo":"Movimientos sociales, entre emociones y pancartas",
+			"titulo_normalizado":"movimientos-sociales-entre-emociones-y-pancartas",
+			"autor":"Beatriz Calva",
+			"imagen": "sociologia-1.jpg",
+			"fecha":"17/05/23"
+		},
+		{
+			"titulo":"Participaci\u00F3n ciudadana",
+			"titulo_normalizado":"participacion-ciudadana",
+			"autor":"Erik Pliego",
+			"imagen": "Representaciones1.gif",
+			"fecha":"17/03/22"
+		},
+		{
+			"titulo":"\u00BFLos nuevos h\u00E1bitos sanitarios o los hist\u00F3ricos?",
+			"titulo_normalizado":"los-nuevos-habitos-sanitarios-o-los-historicos",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "Habitos1.gif",
+			"fecha":"16/11/21"
+		},
+		{
+			"titulo":"Un espacio de intercambio",
+			"titulo_normalizado":"un-espacio-de-intercambio",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "Espacio1.gif",
+			"fecha":"16/11/21"
+		},
+		{
+			"titulo":"Estudios de g\u00E9nero",
+			"titulo_normalizado":"estudios-de-genero",
+			"autor":"Erik Pliego",
+			"imagen": "Georgina1.gif",
+			"fecha":"16/08/22"
+		},
+		{
+			"titulo":"Sociolog\u00EDa y pol\u00EDtica: un acercamiento a los partidos pol\u00EDticos",
+			"titulo_normalizado":"sociologia-y-politica-un-acercamiento-a-los-partidos-politicos",
+			"autor":"Redacci\u00F3n",
+			"imagen": "sociologia-y-politica-un-acercamiento-a-los-partidos-politicos-1.jpg",
+			"fecha":"15/10/19"
+		},
+		{
+			"titulo":"Karaoke mexicano para celebrar la Independencia",
+			"titulo_normalizado":"karaoke-mexicano-para-celebrar-la-independencia",
+			"autor":"Rodrigo Castillo",
+			"imagen": "karaoke-1.gif",
+			"fecha":"14/09/23"
+		},
+		{
+			"titulo":"CIMN22: Derechos de las mujeres ind\u00EDgenas",
+			"titulo_normalizado":"cimn22-derechos-de-las-mujeres-indigenas",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Mujeres1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"Clausura del Conversatorio de Sociolog\u00EDa",
+			"titulo_normalizado":"clausura-del-conversatorio-de-sociologia",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "clausura-del-conversatorio-de-sociologia-01.jpg",
+			"fecha":"11/09/20"
+		},
+		{
+			"titulo":"8M: Mujeres y ni\u00F1as en la radio",
+			"titulo_normalizado":"8m-mujeres-y-ninas-en-la-radio",
+			"autor":"Sashel Gonz\u00E1lez",
+			"imagen": "mujeres-ninas-radio-1.jpg",
+			"fecha":"11/03/21"
+		},
+		{
+			"titulo":"La identidad profesional de los docentes",
+			"titulo_normalizado":"la-identidad-profesional-de-los-docentes",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "la-identidad-profesional-de-los-docentes-1-.jpg",
+			"fecha":"10/11/21"
+		},
+		{
+			"titulo":"Las emociones en movimiento",
+			"titulo_normalizado":"las-emociones-en-movimiento",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "las-emociones-en-movimiento-1-.jpg",
+			"fecha":"10/11/21"
+		},
+		{
+			"titulo":"Clausura Sociol\u00F3gica",
+			"titulo_normalizado":"clausura-sociologica",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "Clausura1.gif",
+			"fecha":"10/11/21"
+		},
+		{
+			"titulo":"Experiencias de la investigaci\u00F3n",
+			"titulo_normalizado":"experiencias-de-la-investigacion",
+			"autor":"Ang\u00E9lica Arellano",
+			"imagen": "Experiencias-investigacion-1.jpg",
+			"fecha":"10/11/20"
+		},
+		{
+			"titulo":"Proceso electoral y violencia influidos por la pandemia",
+			"titulo_normalizado":"proceso-electoral-y-violencia-influidos-por-la-pandemia",
+			"autor":"Thalia Ortega",
+			"imagen": "proceso--electoral-y-violencia-1.jpg",
+			"fecha":"10/09/20"
+		},
+		{
+			"titulo":"Pol\u00EDtica y ciudadan\u00EDa en la Cuarta Transformaci\u00F3n",
+			"titulo_normalizado":"politica-y-ciudadania-en-la-cuarta-transformacion",
+			"autor":"Redacci\u00F3n",
+			"imagen": "politica-y-ciudadania-en-la-cuarta-transformacion-1.jpg",
+			"fecha":"10/04/19"
+		},
+		{
+			"titulo":"Enfoque sociol\u00F3gico de la juventud y la familia",
+			"titulo_normalizado":"enfoque-sociologico-de-la-juventud-y-la-familia",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "enfoque-sociologico-de-la-juventud-y-la-familia-1.jpg",
+			"fecha":"10/04/19"
+		},
+		{
+			"titulo":"Violencia futbolera",
+			"titulo_normalizado":"violencia-futbolera",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Fut1.gif",
+			"fecha":"10/03/22"
+		},
+		{
+			"titulo":"Presenta FES Arag\u00F3n: Experiencias en el extranjero",
+			"titulo_normalizado":"presenta-fes-aragon-experiencias-en-el-extranjero",
+			"autor":"Miguel Palacios",
+			"imagen": "experiencias-extranjero-1.jpg",
+			"fecha":"10/02/22"
+		},
+		{
+			"titulo":"Mesa Sociol\u00F3gica",
+			"titulo_normalizado":"mesa-sociologica",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "MEsa2.gif",
+			"fecha":"09/11/21"
+		},
+		{
+			"titulo":"La reinterpretaci\u00F3n de lo sagrado en la modernidad",
+			"titulo_normalizado":"la-reinterpretacion-de-lo-sagrado-en-la-modernidad",
+			"autor":"Kenia Brodman",
+			"imagen": "Sagrado2.gif",
+			"fecha":"09/11/21"
+		},
+		{
+			"titulo":"Representaciones sociales",
+			"titulo_normalizado":"representaciones-sociales",
+			"autor":"Rosa Francisco",
+			"imagen": "representaciones-sociales-1.jpg",
+			"fecha":"09/11/21"
+		},
+		{
+			"titulo":"Investigaci\u00F3n: clave para elaborar tesis cualitativas",
+			"titulo_normalizado":"investigacion-clave-para-elaborar-tesis-cualitativas",
+			"autor":"Sashel Gonz\u00E1lez",
+			"imagen": "Investigacion-elaborar-tesis-1.jpg",
+			"fecha":"09/11/20"
+		},
+		{
+			"titulo":"Hacer comunidad, la alternativa a la econom\u00EDa impuesta",
+			"titulo_normalizado":"hacer-comunidad-la-alternativa-a-la-economia-impuesta",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "hacer-comunidad-la-alternativa-a-la-economia-impuesta-1.jpg",
+			"fecha":"09/05/23"
+		},
+		{
+			"titulo":"El neoliberalismo y la Cuarta Transformaci\u00F3n",
+			"titulo_normalizado":"el-neoliberalismo-y-la-cuarta-transformacion",
+			"autor":"Alexis Camacho",
+			"imagen": "el-neoliberalismo-y-la-cuarta-transformacion-1.jpg",
+			"fecha":"09/04/19"
+		},
+		{
+			"titulo":"Sociedad y naci\u00F3n en la 4T",
+			"titulo_normalizado":"sociedad-y-nacion-en-la-4t",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "sociedad-y-nacion-en-la-4-t-1.jpg",
+			"fecha":"09/04/19"
+		},
+		{
+			"titulo":"Entre las cuerdas y la cultura: Explorando la lucha libre mexicana",
+			"titulo_normalizado":"entre-las-cuerdas-y-la-cultura-explorando-la-lucha-libre-mexicana",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Lucha1.gif",
+			"fecha":"08/11/23"
+		},
+		{
+			"titulo":"Explorando la moda y la belleza desde los desaf\u00EDos culturales",
+			"titulo_normalizado":"explorando-la-moda-y-la-belleza-desde-los-desafios-culturales",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Moda.gif",
+			"fecha":"08/11/23"
+		},
+		{
+			"titulo":"Del TLCAN al T-MEC, presentaci\u00F3n de libro",
+			"titulo_normalizado":"del-tlcan-al-t-mec-presentacion-de-libro",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "del-tlcan-al-t-mec-presentacion-de-libro-1.jpg",
+			"fecha":"08/11/21"
+		},
+		{
+			"titulo":"Inauguran encuentro de Sociolog\u00EDa",
+			"titulo_normalizado":"inauguran-encuentro-de-sociologia",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "inauguran-encuentro-de-sociologia-1.jpg",
+			"fecha":"08/11/21"
+		},
+		{
+			"titulo":"\u00BFDe cu\u00E1ntas formas puede afectar el confinamiento?",
+			"titulo_normalizado":"de-cuantas-formas-puede-afectar-el-confinamiento",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "de-cuantas-formas-puede-afectar-el-confinamiento-1.jpg",
+			"fecha":"08/09/20"
+		},
+		{
+			"titulo":"Violencia de g\u00E9nero, un problema social",
+			"titulo_normalizado":"violencia-de-genero-un-problema-social",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "Violencia-de-género,-un-problema-social-1.gif",
+			"fecha":"07/11/23"
+		},
+		{
+			"titulo":"Las nuevas normalidades: Los contextos que cambian una sociedad",
+			"titulo_normalizado":"las-nuevas-normalidades-los-contextos-que-cambian-una-sociedad",
+			"autor":"Axel Garc\u00EDa",
+			"imagen": "Normalidades1.gif",
+			"fecha":"07/11/23"
+		},
+		{
+			"titulo":"Uso de redes sociales en la educaci\u00F3n",
+			"titulo_normalizado":"uso-de-redes-sociales-en-la-educacion",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Uso-de-redes-sociales-en-la-educacion-01.jpg",
+			"fecha":"07/09/20"
+		},
+		{
+			"titulo":"Reconocen a estudiantes por su visi\u00F3n sociol\u00F3gica",
+			"titulo_normalizado":"reconocen-a-estudiantes-por-su-vision-sociologica",
+			"autor":"Carmen Melendez",
+			"imagen": "reconocen-a-estudiantes-por-su-vision-sociológica-1.jpg",
+			"fecha":"06/11/19"
+		},
+		{
+			"titulo":"8M: Reflexiones sobre igualdad sustantiva",
+			"titulo_normalizado":"8m-reflexiones-sobre-igualdad-sustantiva",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "Igualdad1.gif",
+			"fecha":"06/03/22"
+		},
+		{
+			"titulo":"JOSO23: Partido por la inserci\u00F3n social",
+			"titulo_normalizado":"joso23-partido-por-la-insercion-social",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "jornadas-1.jpg",
+			"fecha":"04/05/23"
+		},
+		{
+			"titulo":"SESO: “J\u00F3venes investigadores\/as en materia electoral”",
+			"titulo_normalizado":"seso----jovenes-investigadoresas-en-materia-electoral---",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "materia-electoral-1.JPG",
+			"fecha":"04/05/22"
+		},
+		{
+			"titulo":"SESO: Voto Informado, nuestro derecho",
+			"titulo_normalizado":"seso-voto-informado-nuestro-derecho",
+			"autor":"F\u00E1tima V\u00E1zquez",
+			"imagen": "voto-informado-1.JPG",
+			"fecha":"04/05/22"
+		},
+		{
+			"titulo":"El trabajo en la nueva normalidad",
+			"titulo_normalizado":"el-trabajo-en-la-nueva-normalidad",
+			"autor":"Erik Pliego",
+			"imagen": "Trabajo-en-la-nueva-normalidad-1.gif",
+			"fecha":"03/09/20"
+		},
+		{
+			"titulo":"JOSO23: (Sobre)vivir en una sociedad “discapacitante”",
+			"titulo_normalizado":"joso23-sobrevivir-en-una-sociedad----discapacitante---",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "sobrevivir-en-una-sociedad-discapacitante-1.jpg",
+			"fecha":"03/05/23"
+		},
+		{
+			"titulo":"SESO: Comparten egresados sus experiencias",
+			"titulo_normalizado":"seso-comparten-egresados-sus-experiencias",
+			"autor":"Miguel Palacios",
+			"imagen": "egresados-ine-1.jpg",
+			"fecha":"03/05/22"
+		},
+		{
+			"titulo":"SESO: Busca Rivera visibilizar a desaparecidos",
+			"titulo_normalizado":"seso-busca-rivera-visibilizar-a-desaparecidos",
+			"autor":"Miguel Palacios",
+			"imagen": "presentacion-del-libro-1.jpg",
+			"fecha":"03/05/22"
+		},
+		{
+			"titulo":"SESO: Comparte Arag\u00F3n una propuesta de an\u00E1lisis para la cultura",
+			"titulo_normalizado":"seso-comparte-aragon-una-propuesta-de-analisis-para-la-cultura",
+			"autor":"Miguel Palacios",
+			"imagen": "análisis-holístico-1.JPG",
+			"fecha":"03/05/22"
+		},
+		{
+			"titulo":"SESO: Sociolog\u00EDa con una reconstrucci\u00F3n feminista y sin restricciones",
+			"titulo_normalizado":"seso-sociologia-con-una-reconstruccion-feminista-y-sin-restricciones",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "sociologia-con-una-reconstruccion-feminista-y-sin-restricciones-1.jpg",
+			"fecha":"03/05/22"
+		},
+		{
+			"titulo":"Todas, todos y todes: el uso de lenguaje incluyente",
+			"titulo_normalizado":"todas-todos-y-todes-el-uso-de-lenguaje-incluyente",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "todas-todos-todes-1.jpg",
+			"fecha":"03/03/21"
+		},
+		{
+			"titulo":"Mary Shelley y su monstruosidad",
+			"titulo_normalizado":"mary-shelley-y-su-monstruosidad",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "mary-shelley-y-su-monstruosidad-1.jpg",
+			"fecha":"02/12/21"
+		},
+		{
+			"titulo":"Inicia Conversatorio de Sociolog\u00EDa",
+			"titulo_normalizado":"inicia-conversatorio-de-sociologia",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "da-inicio-conversatorio-de-sociologia-1.jpg",
+			"fecha":"02/09/20"
+		},
+		{
+			"titulo":"JOSO23: La sociolog\u00EDa baila al comp\u00E1s del “breaking”",
+			"titulo_normalizado":"joso23-la-sociologia-baila-al-compas-del----breaking---",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "la-sociologia-baila-al-compás-del-breaking-1.jpg",
+			"fecha":"02/05/23"
+		},
+		{
+			"titulo":"JOSO23: Inauguraci\u00F3n de las Jornadas de Sociolog\u00EDa 2023",
+			"titulo_normalizado":"joso23-inauguracion-de-las-jornadas-de-sociologia-2023",
+			"autor":"Alejandro Trujillo",
+			"imagen": "JOSO4.gif",
+			"fecha":"02/05/23"
+		},
+		{
+			"titulo":"SESO: Fen\u00F3meno migratorio de los mexicanos a EU",
+			"titulo_normalizado":"seso-fenomeno-migratorio-de-los-mexicanos-a-eu",
+			"autor":"Kenia Brodman",
+			"imagen": "Migratorio1.gif",
+			"fecha":"02/05/22"
+		},
+		{
+			"titulo":"SESO: Cosmovisi\u00F3n mexicoamericana",
+			"titulo_normalizado":"seso-cosmovision-mexicoamericana",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "cosmovision-mexicoamericana-1.jpg",
+			"fecha":"02/05/22"
+		},
+		{
+			"titulo":"SESO: Aborda Arag\u00F3n la sociolog\u00EDa del trabajo en M\u00E9xico",
+			"titulo_normalizado":"seso-aborda-aragon-la-sociologia-del-trabajo-en-mexico",
+			"autor":"Miguel Palacios",
+			"imagen": "sociologia-del-trabajo-1.JPG",
+			"fecha":"02/05/22"
+		},
+		{
+			"titulo":"SESO: \u00BFQu\u00E9 preocupa a los j\u00F3venes de Iberoam\u00E9rica?",
+			"titulo_normalizado":"seso-que-preocupa-a-los-jovenes-de-iberoamerica",
+			"autor":"Kenia Brodman",
+			"imagen": "Jovenes1.gif",
+			"fecha":"02/05/22"
+		},
+		{
+			"titulo":"Formas de brindar ayuda a mujeres en situaci\u00F3n de violencia",
+			"titulo_normalizado":"formas-de-brindar-ayuda-a-mujeres-en-situacion-de-violencia",
+			"autor":"Daniel Mart\u00EDnez",
+			"imagen": "formas-de-brindar-ayuda-a-mujeres-en-situacion-de-violencia-1.jpg",
+			"fecha":"01/12/21"
+		}
+	]
+}

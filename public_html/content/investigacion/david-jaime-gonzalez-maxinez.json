@@ -1,0 +1,21 @@
+{
+    "nombre": "David Jaime González Maxinez", 
+    "grado_academico": "Maestro", 
+     "correo": [ "davidmaxinezs2@aragon.unam.mx"     ],
+    "imagen": true,
+    "estudios": [
+        "Ingeniería Mecánica Electricista. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Tecnología Educativa.", 
+        "Micro electrónica.", 
+        "Lógica Difusa."
+    ], 
+    "investigaciones": [
+        "Lógica.", 
+        "Robótica.", 
+        "Programación VHDL.", 
+        "Sistemas digitales."
+    ]
+}

@@ -1,0 +1,18 @@
+{
+	"titulo": "Integraci\u00F3n laboral",
+	"titulo_normalizado": "integracion-laboral",
+	"secciones": [
+		{
+			"seccion": "Bolsa de Trabajo",
+			"seccion_normalizada": "bolsa-de-trabajo"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "07/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">El Sistema Universitario de Bolsa de Trabajo de la UNAM organiz\u00F3 un encuentro virtual encabezado por autoridades como el rector Enrique Graue; directores escolares y generales; la jefa del Departamento de la Bolsa de Trabajo de la FES Arag\u00F3n, Lilia Trejo; la directora de planeaci\u00F3n de la DGOAE, Laura Montoya; as\u00ED como Jazm\u00EDn Barrales, jefa de Departamento de la Bolsa Universitaria de Trabajo de la DGOAE.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">El objetivo principal de este encuentro fue dar inicio a una serie de conferencias en l\u00EDnea, cuyo prop\u00F3sito es apoyar al estudiantado de la M\u00E1xima Casa de Estudios para integrarse al campo laboral una vez concluida la licenciatura.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">El director general de la DGOAE, Germ\u00E1n \u00C1lvarez, dio el discurso de apertura para este proyecto, seguido por unas palabras que el rector brind\u00F3 a la comunidad estudiantil, profesando un inter\u00E9s en la incorporaci\u00F3n de las y los egresados al mercado laboral y as\u00ED comenzar con la vida productiva posterior a la conclusi\u00F3n de sus estudios profesionales.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(60, 64, 67);\">Este tipo de eventos tiene gran relevancia ante el panorama del mercado laboral actual, pues pretende facilitar a la juventud las herramientas necesarias para iniciar su ejercicio profesional y sortear los obst\u00E1culos que la bolsa de trabajo plantea.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Bolsa.gif"
+		}	]
+
+}

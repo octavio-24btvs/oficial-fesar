@@ -1,0 +1,28 @@
+{
+	"titulo": "SING22: Aprender con videojuegos",
+	"titulo_normalizado": "sing22-aprender-con-videojuegos",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería en Computación",
+			"seccion_normalizada": "ingenieria-en-computacion"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "29/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La pl\u00E1tica “Videojuegos en la educaci\u00F3n”, como parte de las actividades de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa,<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> estuvo a cargo de Jorge Luis Candelario, acad\u00E9mico de la carrera de Ingenier\u00EDa en Computaci\u00F3n. Jorge Arturo L\u00F3pez, jefe de la misma, dio la bienvenida a los 205 asistentes en el auditorio del Centro Tecnol\u00F3gico Arag\u00F3n (CTA) quienes obtuvieron 20 h&nbsp; de formaci\u00F3n complementaria.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Candelario comparti\u00F3 distintos casos en los que&nbsp; los videojuegos han sido usados a favor de la educaci\u00F3n de formas interesantes e inusuales; en sinton\u00EDa con el tema y logrando captar el inter\u00E9s de sus oyentes, el profesor expuso escenarios construidos en el videojuego Minecraft como apoyo visual.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Del mismo modo recomend\u00F3 una serie de plataformas donde los elementos de los juegos en formato digital permiten practicar nuevas destrezas y habilidades al sumar la ventaja del dinamismo y la motivaci\u00F3n proporcionada por estos.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El ponente destac\u00F3 el concepto de ludificaci\u00F3n, siendo una muestra de c\u00F3mo ciertos aspectos de los videojuegos ya se encuentran trasladados a mec\u00E1nicas de la vida real y las vuelven m\u00E1s estimulantes.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la sesi\u00F3n de preguntas la planta acad\u00E9mica coment\u00F3 su deseo por aplicar estas herramientas alternas a sus clases. El ponente tambi\u00E9n hizo preguntas al p\u00FAblico a modo de retroalimentaci\u00F3n. El evento concluy\u00F3 con la entrega de constancia al profesor y el aplauso del p\u00FAblico.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "videojuegos-1.jpg"
+		},
+		{
+			"imagen": "videojuegos-2.jpg"
+		},
+		{
+			"imagen": "videojuegos-3.jpg"
+		}	]
+
+}

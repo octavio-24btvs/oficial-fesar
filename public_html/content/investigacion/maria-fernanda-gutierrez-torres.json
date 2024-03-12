@@ -1,0 +1,17 @@
+{
+    "nombre": "María Fernanda Gutiérrez Torres", 
+    "grado_academico": "Maestra", 
+     "correo": [ "fernandagutierrezd4@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Diseño Industrial. Universidad Nacional Autónoma de México.", 
+        "Maestría en Diseño Industrial con enfoque de Ergonomía. (Sin grado)."
+    ], 
+    "lineas_investigacion": [
+        "La aplicación de la ergonomía al Diseño Industrial.", 
+        "Sustentabilidad Manufactura y Tecnología."
+    ], 
+    "investigaciones": [
+        "Diseño Industrial y Ergonomía. Estudio de caso: Los artesanos productores de muebles de Bambú en Monte Blanco, Veracruz, México."
+    ]
+}

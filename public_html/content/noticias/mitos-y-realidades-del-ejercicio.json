@@ -1,0 +1,27 @@
+{
+	"titulo": "Mitos y realidades del ejercicio",
+	"titulo_normalizado": "mitos-y-realidades-del-ejercicio",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		}
+	],
+	"autor": "Kenia Brodman",
+	"fecha": "04/02/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El departamento de Actividades Deportivas y Recreativas de la FES Arag\u00F3n, en su secci\u00F3n <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Charlas en torno al deporte,<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> llev\u00F3 a cabo el conversatorio “Mitos y realidades del ejercitamiento”, con la participaci\u00F3n de los profesores Alma Olvera de Zumba, H\u00E9ctor Medina de B\u00E1squetbol, Antonio Vallejo de Entrenamiento funcional y, como moderador, Oscar Alc\u00E1ntar de la disciplina Tenis de mesa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Respecto al planteamiento de si es necesario realizar mucho ejercicio para estar en forma, Olvera indic\u00F3 que esto depender\u00E1 del tipo de persona, su capacidad f\u00EDsica, edad y objetivos, pero lo recomendable es entrenar moderadamente treinta minutos al menos cinco d\u00EDas a la semana.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En cuanto a si el precio de los tenis deportivos va en relaci\u00F3n a su funci\u00F3n, Medina contest\u00F3 que s\u00ED, aunque en ocasiones detr\u00E1s hay una campa\u00F1a de marketing, cada deporte tiene un calzado especial, como en el baloncesto que son tenis tipo bota a fin de dar el m\u00E1ximo apoyo y protecci\u00F3n al tobillo.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para Vallejo, es primordial calentar antes y despu\u00E9s de cualquier actividad; en su rutina dedica de 10 a 15 minutos para cada articulaci\u00F3n, con el prop\u00F3sito de preparar el organismo para un mayor rendimiento f\u00EDsico y evitar alg\u00FAn tipo de lesi\u00F3n. Sobre si es mejor tomar una bebida isot\u00F3pica para recuperar carbohidratos, los entrenadores coincidieron que el caso est\u00E1 supeditado al tipo de competencia, torneo y meta personal.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Deporteando1.gif"
+		},
+		{
+			"imagen": "Deporteando2.gif"
+		},
+		{
+			"imagen": "Deporteando3.gif"
+		},
+		{
+			"imagen": "Deporteando4.gif"
+		}	]
+
+}

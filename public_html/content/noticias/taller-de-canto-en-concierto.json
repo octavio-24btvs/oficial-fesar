@@ -1,0 +1,14 @@
+{
+	"titulo": "Taller de Canto en concierto",
+	"titulo_normalizado": "taller-de-canto-en-concierto",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		}
+	],
+	"autor":"Isaias Hern\u00E1ndez",
+	"fecha":"12/02/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A trav\u00E9s de la cuenta oficial de la Unidad de Extensi\u00F3n Universitaria de la FES Arag\u00F3n, Josu\u00E9 Urquiza, profesor del Taller de Canto, dirigi\u00F3 el concierto clausura que se celebra al final de cada semestre.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Algunos de los temas que las y los estudiantes interpretaron fueron: <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Jesus Christus schwebt am Kreuze,<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> compuesta por Franz Schubert; <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Sabor a m\u00ED<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, de \u00C1lvaro Carrillo; <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">What a wonderful World<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, de la autor\u00EDa de George Davis Weiss; y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">City of the stars<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, interpretada por la voz de Carol Mart\u00EDnez y en la guitarra Marco Aguilar, integrantes de los talleres de canto y guitarra de la FES Arag\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Urquiza hizo especial \u00E9nfasis en que, sin importar la situaci\u00F3n, busquemos en qu\u00E9 ocupar el tiempo de confinamiento, y nada mejor que la m\u00FAsica y el canto, pues nos ayudan a mantenernos saludables mentalmente.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, se invit\u00F3 a la comunidad universitaria para inscribirse a los talleres de guitarra, canto, y dem\u00E1s actividades culturales <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">online <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">que se realizan en la Facultad.<\/span><\/p>",
+	"imagenes":[{"imagen":"Taller-de-Canto1.gif"},{"imagen":"Taller-de-Canto2.gif"},{"imagen":"Taller-de-Canto3.gif"},{"imagen":"Taller-de-Canto4.gif"},{"imagen":"Taller-de-Canto5.gif"}]
+}

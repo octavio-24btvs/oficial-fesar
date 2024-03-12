@@ -1,0 +1,16 @@
+{
+    "nombre": "Mercedes Araceli Ramírez Benitez", 
+    "grado_academico": "Doctora", 
+     "correo": [ "mercedes_ara_rb@hotmail.com" ],
+    "estudios": [
+        "Licenciatura en Pedagogía. Universidad Nacional Autónoma de México.", 
+        "Maestría en Enseñanza Superior. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Pedagogía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Evaluación Curricular y Docencia.", 
+        "Educación intercultural: La alimentación en contextos de migración; el caso de los indígenas de la Ciudad de México."
+    ], 
+    "investigaciones": [
+    ]
+}

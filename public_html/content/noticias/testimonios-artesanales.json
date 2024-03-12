@@ -1,0 +1,14 @@
+{
+	"titulo": "Testimonios artesanales",
+	"titulo_normalizado": "testimonios-artesanales",
+	"secciones": [
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor":"Juan G\u00F3mez",
+	"fecha":"02/06/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">1er Congreso Internacional de Artesan\u00EDa. Voces, saberes y haceres <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">se llev\u00F3 a cabo un evento donde personas dedicadas a crear artesan\u00EDas, compartieron sus experiencias en este campo.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La primera en hacerlo fue Ana Karen Allende, quien habl\u00F3 de los retos que implica emprender un negocio de manualidades. Asimismo, asegur\u00F3&nbsp; que en comparaci\u00F3n del arte popular, las artesan\u00EDas tienen un conjunto de valores que los hace diferentes, ya sean porque est\u00E1n fabricadas por una comunidad o por ser creadas de forma individual.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Despu\u00E9s, Ricardo Mart\u00EDnez, fabricante de chocolate, explic\u00F3 el proceso de elaboraci\u00F3n de su producto, el cual contiene un 95 % de cacao y un 5 % de az\u00FAcar, no contiene manteca ni qu\u00EDmicos. Adem\u00E1s, se\u00F1al\u00F3 lo importante de apoyar a las y los artesanos, as\u00ED como a las microempresas para que estas crezcan.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente, Ofelia Estrada, representante de las artesanas campesinas del estado de Guerrero coment\u00F3 algunos aspectos de Artcamp, el proyecto con el que quieren apoyar a m\u00E1s artesanas a vender sus productos por internet sin cobrarles ning\u00FAn tipo de comisi\u00F3n.<\/span><\/p><p><br><\/p><p><br><\/p>",
+	"imagenes":[{"imagen":"testimonios-artesanales-1.jpg"},{"imagen":"testimonios-artesanales-2.jpg"},{"imagen":"testimonios-artesanales-3.jpg"},{"imagen":"testimonios-artesanales-4.jpg"},{"imagen":"testimonios-artesanales-5.jpg"}]
+}

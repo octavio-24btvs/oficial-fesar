@@ -1,0 +1,14 @@
+{
+	"titulo": "Tendencias emergentes en la universidad",
+	"titulo_normalizado": "tendencias-emergentes-en-la-universidad",
+	"secciones": [
+		{
+			"seccion": "Pedagogía",
+			"seccion_normalizada": "pedagogia"
+		}
+	],
+	"autor":"Laura D. Garc\u00EDa",
+	"fecha":"14/01/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Dr. Axel Didriksson present\u00F3 la conferencia “Tendencias emergentes en la universidad: una visi\u00F3n comparada en las econom\u00EDas del conocimiento”, donde expuso la problem\u00E1tica que vive la educaci\u00F3n superior frente a las nuevas sociedades y a las nuevas formas del conocimiento.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Didriksson reconoci\u00F3 la crisis de oportunidades de trabajo que sufre principalmente la poblaci\u00F3n joven alrededor del mundo: “De cada diez empleos, siete est\u00E1n siendo sustituidos por sistemas de inteligencia artificial”. Por eso, el acad\u00E9mico recomend\u00F3 crear universidades dedicadas a la investigaci\u00F3n, cuyo centro de aprendizaje sea en \u00E1reas tras e interdisciplinarias como estrategia para redefinir el campo profesional, as\u00ED como organizar instituciones que partan de curriculas, perfiles de ingreso y egreso y proceso de conocimiento.<\/span><\/p>",
+	"imagenes":[{"imagen":"tendencias-emergentes-en-la-universidad-1.jpg"},{"imagen":"tendencias-emergentes-en-la-universidad-2.jpg"},{"imagen":"tendencias-emergentes-en-la-universidad-3.jpg"},{"imagen":"tendencias-emergentes-en-la-universidad-4.jpg"}]
+}

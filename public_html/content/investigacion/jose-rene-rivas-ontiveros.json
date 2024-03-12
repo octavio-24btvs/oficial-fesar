@@ -1,0 +1,28 @@
+{
+    "nombre": "José René Rivas Ontiveros", 
+    "grado_academico": "Doctor", 
+     "correo": [ "renerivasa6@aragon.unam.mx"],
+    "estudios": [
+        "Licenciatura en Derecho. Universidad Nacional Autónoma de México.",
+        "Maestría en Arquitectura (Investigación y Docencia en Urbanismo). Universidad Nacional Autónoma de México.",
+        "Doctorado en Ciencia Política. Universidad Nacional Autónoma de México."
+
+    ], 
+    "lineas_investigacion": [
+        "Política Estudiantil.",
+        "Movimientos Sociales.",
+        "Sistema Político Mexicano.",
+        "Partidos Políticos.",
+        "Procesos Electorales.",
+        "Sindicalismo Universitario."
+    ], 
+    "investigaciones": [
+        "Movimiento estudiantil del 68 en las regiones. Bibliohemerografía comentada “50 años”.",
+        "UNAM: de la Rebelión silenciosa al Congreso (1990). ",
+        "La izquierda estudiantil en la UNAM. Organizaciones, movilizaciones y liderazgos (1958-1972) (2007). ",
+        "La crisis en México y sus repercusiones políticas y sociales (2014).",
+        "Historia de los movimientos estudiantiles: a 45 años del 68, 2 vols. (2007). ",
+        "1916-2016: Cien años de historia, resistencia y resonancia del movimiento estudiantil latinoamericano (2018).",
+        "Ha sido articulista de los diarios El Día, unomásuno, El Sol de México, El Sol de Durango, El Financiero y de la revista Foro Universitario."
+]
+}

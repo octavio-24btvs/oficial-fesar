@@ -1,0 +1,14 @@
+{
+	"titulo": "Libro para tratar problemas microecon\u00F3micos",
+	"titulo_normalizado": "libro-para-tratar-problemas-microeconomicos",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		}
+	],
+	"autor":"Aurelio Nito",
+	"fecha":"24/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el marco de la Semana de Econom\u00EDa se llev\u00F3 a cabo la presentaci\u00F3n del libro <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Microeconom\u00EDa. Teor\u00EDa, Simuladores Computacionales y Retos<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, a cargo del autor Dr. Miguel Cervantes, profesor y egresado de la Facultad de Econom\u00EDa de la UNAM. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se trata de un libro con intenciones pedag\u00F3gicas dirigido a estudiantes de Econom\u00EDa, con el objetivo de ense\u00F1ar t\u00E9cnicas de optimizaci\u00F3n y ofrecer herramientas para la resoluci\u00F3n de cualquier tipo de problemas en la microeconom\u00EDa. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para ejemplificar una de las ense\u00F1anzas del texto, Cervantes subast\u00F3 un ejemplar y trat\u00F3 de conseguir el acuerdo m\u00E1s justo: quien m\u00E1s quer\u00EDa el libro logr\u00F3 obtenerlo gracias a que pudo mejorar el precio que el mercado ofrece.<\/span><\/p>",
+	"imagenes":[{"imagen":"libro-para-tratar-problemas-microeconomicos-1.jpg"},{"imagen":"libro-para-tratar-problemas-microeconomicos-2.jpg"},{"imagen":"libro-para-tratar-problemas-microeconomicos-3.jpg"},{"imagen":"libro-para-tratar-problemas-microeconomicos-4.jpg"},{"imagen":"libro-para-tratar-problemas-microeconomicos-5.jpg"},{"imagen":"libro-para-tratar-problemas-microeconomicos-6.jpg"}]
+}

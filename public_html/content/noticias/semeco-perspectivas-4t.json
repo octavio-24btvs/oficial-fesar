@@ -1,0 +1,27 @@
+{
+	"titulo": "SEMECO: Perspectivas 4T",
+	"titulo_normalizado": "semeco-perspectivas-4t",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "25/04/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades de la Semana de Econom\u00EDa, se llev\u00F3 a cabo la conferencia “Las perspectivas de la 4T a finales del sexenio”, a cargo de Helios Padilla, decano de la carrera de Econom\u00EDa; el Dr. Yamil O. D\u00EDaz, profesor de posgrado; y&nbsp; Oscar Quinteros, profesor de asignatura.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la conferencia se discutieron los sucesos que han afectado a las econom\u00EDas mundiales como la pandemia de Covid-19 y el conflicto entre Rusia y Ucrania, factores que no se esperaban al inicio del sexenio y que se comparan a un “cisne negro” debido a las problem\u00E1ticas que han provocado a nivel global incluyendo a M\u00E9xico.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Adem\u00E1s, se mencion\u00F3 que la 4T ha enfrentado barreras debido a su econom\u00EDa gemela a la de EE. UU., lo que la hace claramente dependiente de su econom\u00EDa, pues el 80 % de las exportaciones mexicanas va directamente al pa\u00EDs vecino. M\u00E9xico ha dado signos de recuperaci\u00F3n econ\u00F3mica gracias al aumento del salario m\u00EDnimo, pero la pobreza no ha disminuido a pesar de los esfuerzos gubernamentales.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, se habl\u00F3 sobre el control inflacionario del cual se encarga el banco central; ha manejado pol\u00EDticas para controlar su impacto en los bolsillos de los ciudadanos, como acuerdos con el sector privado para establecer precios de productos, subsidios a productos del campo y servicios de gobierno. Aun cuando sigue siendo vulnerable, la econom\u00EDa ha presentado puntos a destacar gracias a las pol\u00EDticas heterodoxas de la 4T.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Perspectivas1.gif"
+		},
+		{
+			"imagen": "Perspectivas2.gif"
+		},
+		{
+			"imagen": "Perspectivas3.gif"
+		},
+		{
+			"imagen": "Perspectivas4.gif"
+		}	]
+
+}

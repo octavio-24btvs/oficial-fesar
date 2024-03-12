@@ -1,0 +1,175 @@
+{
+	"id": 5,
+	"titulo": "Ingenier\u00EDa Mec\u00E1nica",
+	"icono": "icon-ingenieria-mecanica",
+	"noticias": [
+		{
+			"titulo":"SING22: Concurso de catapultas",
+			"titulo_normalizado":"sing22-concurso-de-catapultas",
+			"autor":"Javier Cer\u00F3n",
+			"imagen": "catapultas-1.gif",
+			"fecha":"30/09/22"
+		},
+		{
+			"titulo":"Toma de protesta  de IMC en las Instalaciones de la FES Arag\u00F3n",
+			"titulo_normalizado":"toma-de-protesta--de-imc-en-las-instalaciones-de-la-fes-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "Protesta-1.gif",
+			"fecha":"29/11/21"
+		},
+		{
+			"titulo":"SEMING: Auge de los metaversos",
+			"titulo_normalizado":"seming-auge-de-los-metaversos",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "auge-de-los-metaversos-1.jpg",
+			"fecha":"29/10/21"
+		},
+		{
+			"titulo":"Club Wayaks en concurso virtual de rob\u00F3tica",
+			"titulo_normalizado":"club-wayaks-en-concurso-virtual-de-robotica",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "club-wayaks-en-concurso-virtual-de-robotica-1.jpg",
+			"fecha":"29/05/20"
+		},
+		{
+			"titulo":"SING 22: Los drones y la industria",
+			"titulo_normalizado":"sing-22-los-drones-y-la-industria",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Drones1.gif",
+			"fecha":"28/09/22"
+		},
+		{
+			"titulo":"SING22: Veh\u00EDculos el\u00E9ctricos",
+			"titulo_normalizado":"sing22-vehiculos-electricos",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "vehiculos-electricos-1.jpg",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"SING22: Energ\u00EDa a trav\u00E9s del oleaje",
+			"titulo_normalizado":"sing22-energia-a-traves-del-oleaje",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "energia-del-oleaje.jpg",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"SING 22: Veh\u00EDculos de competencia tipo f\u00F3rmula",
+			"titulo_normalizado":"sing-22-vehiculos-de-competencia-tipo-formula",
+			"autor":"Alexis Rey",
+			"imagen": "SAE1.gif",
+			"fecha":"26/09/22"
+		},
+		{
+			"titulo":"SING22: Estudiar matem\u00E1ticas",
+			"titulo_normalizado":"sing22-estudiar-matematicas",
+			"autor":"Ariadna Hern\u00E1ndez",
+			"imagen": "estudiar-matematicas-1.jpg",
+			"fecha":"26/09/22"
+		},
+		{
+			"titulo":"Proyectos enfocados al ahorro de energ\u00EDa",
+			"titulo_normalizado":"proyectos-enfocados-al-ahorro-de-energia",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "Energía1.gif",
+			"fecha":"26/04/22"
+		},
+		{
+			"titulo":"Resistencias desde la interseccionalidad",
+			"titulo_normalizado":"resistencias-desde-la-interseccionalidad",
+			"autor":"Isa\u00EDas Hern\u00E1ndez",
+			"imagen": "Inter1.gif",
+			"fecha":"25/11/21"
+		},
+		{
+			"titulo":"SEMING: M\u00E9xico y sus proyectos espaciales",
+			"titulo_normalizado":"seming-mexico-y-sus-proyectos-espaciales",
+			"autor":"Daniel Mart\u00EDnez",
+			"imagen": "seming-mexico-y-sus-proyectos-espaciales-1.jpg",
+			"fecha":"25/10/21"
+		},
+		{
+			"titulo":"La UNAM compite en la CanSat anual de la AAS",
+			"titulo_normalizado":"la-unam-compite-en-la-cansat-anual-de-la-aas",
+			"autor":"Erik Pliego",
+			"imagen": "CAnsat3.gif",
+			"fecha":"22/06/23"
+		},
+		{
+			"titulo":"Laboratorio virtual",
+			"titulo_normalizado":"laboratorio-virtual",
+			"autor":"Erik Pliego",
+			"imagen": "laboratorio_virtual_1.jpg",
+			"fecha":"21/11/19"
+		},
+		{
+			"titulo":"Egresa generaci\u00F3n 2018 de Ingenier\u00EDa Mec\u00E1nica",
+			"titulo_normalizado":"egresa-generacion-2018-de-ingenieria-mecanica",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "egresa-generacion-2018-de-ingenieria-mecanica-1.jpg",
+			"fecha":"19/11/21"
+		},
+		{
+			"titulo":"Presentaci\u00F3n de F\u00F3rmula SAE Electric",
+			"titulo_normalizado":"presentacion-de-formula-sae-electric",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "SAE1.gif",
+			"fecha":"19/08/22"
+		},
+		{
+			"titulo":"Encuentro virtual de Ingenier\u00EDa Mec\u00E1nica",
+			"titulo_normalizado":"encuentro-virtual-de-ingenieria-mecanica",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "encuentro-virtual-de-ingenieria-mecanica-1.jpg",
+			"fecha":"15/05/20"
+		},
+		{
+			"titulo":"Igualdad de g\u00E9nero: rumbo a un cambio",
+			"titulo_normalizado":"igualdad-de-genero-rumbo-a-un-cambio",
+			"autor":"Brenda Martinez",
+			"imagen": "igualdad-de-genero-rumbo-a-un-cambio-1.jpg",
+			"fecha":"13/05/21"
+		},
+		{
+			"titulo":"Egresa generaci\u00F3n 2017 de ingenieras e ingenieros",
+			"titulo_normalizado":"egresa-generacion-2017-de-ingenieras-e-ingenieros",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "egresa-generacion-2017-de-ingenieras-e-ingenieros-1.jpg",
+			"fecha":"12/11/21"
+		},
+		{
+			"titulo":"8M: Mujeres en las ingenier\u00EDas",
+			"titulo_normalizado":"8m-mujeres-en-las-ingenierias",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "8m-mujeres-en-las-ingenierias-1.jpg",
+			"fecha":"12/03/21"
+		},
+		{
+			"titulo":"8M: Contextualizando el movimiento feminista",
+			"titulo_normalizado":"8m-contextualizando-el-movimiento-feminista",
+			"autor":"Erika Nejapa",
+			"imagen": "8m-contextualizando-el-movimiento-feminista-1.jpg",
+			"fecha":"11/03/21"
+		},
+		{
+			"titulo":"8M: No hay ciencia sin mujeres",
+			"titulo_normalizado":"8m-no-hay-ciencia-sin-mujeres",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "8m-no-hay-ciencia-sin-mujeres-1.jpg",
+			"fecha":"10/03/22"
+		},
+		{
+			"titulo":"Imparten curso intersemestral de mec\u00E1nica automotriz",
+			"titulo_normalizado":"imparten-curso-intersemestral-de-mecanica-automotriz",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "imparten-curso-intersemestral-de-mecanica-automotriz-1.png",
+			"fecha":"07/08/18"
+		},
+		{
+			"titulo":"Titulaci\u00F3n a distancia de Ingenier\u00EDa Mec\u00E1nica",
+			"titulo_normalizado":"titulacion-a-distancia-de-ingenieria-mecanica",
+			"autor":"Carmen Melendez",
+			"imagen": "titulacion-a-distancia-de-IM-2.jpg",
+			"fecha":"07/03/19"
+		}
+	]
+}

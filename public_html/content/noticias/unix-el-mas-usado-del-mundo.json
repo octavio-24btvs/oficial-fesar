@@ -1,0 +1,24 @@
+{
+	"titulo": "Unix el m\u00E1s usado del mundo",
+	"titulo_normalizado": "unix-el-mas-usado-del-mundo",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		}
+	],
+	"autor": "Javier Cer\u00F3n",
+	"fecha": "26/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se llev\u00F3 a cabo la ponencia titulada “Unix, historia y perspectivas del sistema operativo m\u00E1s importante y usado del mundo” encabezada por Marcelo P\u00E9rez, experto en ciencias, en el Auditorio Claudio Carl Merrifield Castro, con motivo de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de la Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. A dicho evento acudieron 215 personas de la comunidad aragonesa, el evento tuvo la finalidad de dar a conocer la historia de uno de los sistemas m\u00E1s importantes en el mundo, Unix.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">As\u00ED pues, Marcelo coment\u00F3 que muchos de los aparatos electr\u00F3nicos utilizados en la vida cotidiana como computadoras, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Smart<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> tv y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">smartphones<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> tienen integrado el Unix, explic\u00F3 la historia de este sistema y su relaci\u00F3n con compa\u00F1\u00EDas a nivel global como AT&amp;T.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Concluy\u00F3 en la evoluci\u00F3n de la tecnolog\u00EDa utilizada hoy en d\u00EDa, en capacidad de retenci\u00F3n de informaci\u00F3n. Explic\u00F3 que Unix es el sistema operativo m\u00E1s importante. La conferencia finaliz\u00F3 con la entrega de constancia de presentaci\u00F3n al ponente.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "unix-1.gif"
+		},
+		{
+			"imagen": "unix-2.gif"
+		},
+		{
+			"imagen": "unix-3.gif"
+		}	]
+
+}

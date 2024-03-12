@@ -1,0 +1,75 @@
+{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Plan de estudios",
+        "Mapa curricular",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Reconocimientos y proyectos",
+        "Contacto"
+    ],
+    "titulo": "Planificaci\u00F3n para el Desarrollo Agropecuario",
+    "icono": "icono-secciones icon-planificacion-para-el-desarrollo-agropecuario",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Est\u00E1s por cursar una licenciatura vanguardista en el terreno de la educaci\u00F3n multidisciplinaria e interdisciplinaria, \u00FAnica en su tipo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad profesional de Planificaci\u00F3n para el Desarrollo Agropecuario se encarga de resolver los problemas de productores del campo desde una perspectiva integral y con la posibilidad de generar alternativas de desarrollo.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Planificaci\u00F3n para el Desarrollo Agropecuario es un programa acad\u00E9mico de vanguardia, multidisciplinario, presencial y te\u00F3rico-pr\u00E1ctico, cuyo objetivo es formar profesionistas con una preparaci\u00F3n adecuada, capaces de encontrar alternativas para resolver los problemas que aquejan a la poblaci\u00F3n rural con un enfoque de sustentabilidad, es decir, aprovechando los recursos naturales, humanos y econ\u00F3micos existentes en las zonas o regiones sin poner en riesgo su existencia.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Uno de los ejes principales de la licenciatura se centra en atender a uno de los sectores estrat\u00E9gicos y vulnerables del pa\u00EDs, con una visi\u00F3n interdisciplinaria que permita conocer e identificar el comportamiento de los factores sociales, econ\u00F3micos, financieros, t\u00E9cnicos y ambientales que interact\u00FAan en el campo mexicano para analizar, dise\u00F1ar, estructurar, ejecutar y evaluar las diferentes alternativas que posibiliten la soluci\u00F3n de la problem\u00E1tica a trav\u00E9s de proyectos productivos, asesor\u00EDas, organizaci\u00F3n de productores y la constituci\u00F3n de figuras asociativas que promuevan el desarrollo social y econ\u00F3mico en beneficio de la sociedad rural.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Es deseable que la comunidad aspirante a esta licenciatura, as\u00ED como a la opci\u00F3n T\u00E9cnico Profesional en Formulaci\u00F3n y Evaluaci\u00F3n de Proyectos Agropecuarios tengan:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">inter\u00E9s por las actividades y problem\u00E1ticas del campo mexicano;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">capacidad para adaptarse a ambientes naturales y sociales distintos y diversos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">habilidad para investigar, organizar, sistematizar informaci\u00F3n y promover iniciativas en busca del bien com\u00FAn de la poblaci\u00F3n rural;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">creatividad y productividad para la b\u00FAsqueda de soluciones.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad egresada de la licenciatura en Planificaci\u00F3n para el Desarrollo Agropecuario podr\u00E1 integrar y conjugar los aspectos econ\u00F3micos, financieros, sociales, organizacionales, t\u00E9cnicos, ambientales y espaciales del desarrollo nacional, local y la unidad econ\u00F3mica rural para la elaboraci\u00F3n de diagn\u00F3sticos y la formulaci\u00F3n de propuestas de soluci\u00F3n a problemas del medio rural.<\/span><\/p>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/pda/plan-de-estudios-pda.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/pda/mapa-pda.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/pda/programas-pda.pdf"
+        },
+        {
+            "tipo": "pdf", 
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/planificacion-para-el-desarrollo-agropecuario-titulacion"
+        }, 
+        {
+            "tipo": "reconocimientos",
+            "texto": {
+                "reconocimiento_docentes": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Es una carrera acreditada por la Asociaci\u00F3n para la Acreditaci\u00F3n y Certificaci\u00F3n en Ciencias Sociales (ACCECISO);<\/span><\/p><p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">cuenta con:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Centro de Pr\u00E1cticas Productivas;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Taller Procesos de Transformaci\u00F3n Agroindustrial;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Laboratorio de Edafolog\u00EDa B\u00E1sica;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Laboratorio de Percepci\u00F3n Remota y Sistemas de Informaci\u00F3n Geogr\u00E1fica;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">cact\u00E1reo <\/span><em style=\"background-color: transparent;\">Biocalli<\/em><span style=\"background-color: transparent;\">.<\/span><\/li><\/ul><p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Su m\u00E1s reciente logro es la creaci\u00F3n del T\u00E9cnico Profesional en Formulaci\u00F3n y Evaluaci\u00F3n de Proyectos Agropecuarios que tiene como objetivo incorporar de manera temprana a estudiantes a las actividades laborales sin limitarlos a concluir el programa licenciatura.<\/span><\/p>",
+                "reconocimiento_alumnos": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Proyecto \"Desarrollo e Innovaci\u00F3n Tecnol\u00F3gica de un Sistema de Producci\u00F3n Intensiva e Inteligente en Agricultura Protegida como Herramienta de Apoyo a la Ense\u00F1anza\".<\/strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Es dirigido por el Mtro. Eugenio Cedillo Portugal en colaboraci\u00F3n con Leova Pamela Mart\u00EDnez Hern\u00E1ndez.<\/span><\/p>"
+            }
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Esthela Huerta \u00C1lvarez",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/planificacion-para-el-desarrollo-agropecuario/esthela-huerta-alvarez.jpg",
+                "genero_jefe_carrera": "1",
+                "secretario_tecnico": "Ariel de la O",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/planificacion-para-el-desarrollo-agropecuario/ariel-de-la-o.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 30818 y 30817",
+                "correo_electronico": "planificacion@aragon.unam.mx",
+                "correo_electronico_st": "st.planificacion@aragon.unam.mx",
+                "facebook": "https:\/\/www.facebook.com\/FESAragon.planificacion\/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/planificacion-para-el-desarrollo-agropecuario"
+            }
+        }
+    ]
+}

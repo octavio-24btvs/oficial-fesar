@@ -1,0 +1,19 @@
+{
+    "nombre": "Orlando Eleazar Moreno Pérez", 
+    "grado_academico": "Doctor", 
+    "correo": [ "ormor@unam.mx"],
+    "correo2": [ "orlandomorenomop@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Economía. Universidad Nacional Autónoma de México.", 
+        "Maestría en Arquitectura (Investigación y Docencia Urbanismo). Universidad Nacional Autónoma de México.", 
+        "Doctorado en Geografía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "El proceso de urbanización y el desarrollo económico de la ZMCM.",
+        "Las transformaciones metropolitanas y los cambios en la morfología de las ciudades y de las regiones."
+    ], 
+    "investigaciones": [
+        "Impacto del Covid 19 en el nivel de vida de la población de los municipios de Ecatepec de Morelos y Nezahualcóyotl, Estado de México."
+    ]
+}

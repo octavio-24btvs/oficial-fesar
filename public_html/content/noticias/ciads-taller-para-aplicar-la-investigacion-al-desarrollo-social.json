@@ -1,0 +1,27 @@
+{
+	"titulo": "CIADS: Taller para aplicar la investigaci\u00F3n al desarrollo social",
+	"titulo_normalizado": "ciads-taller-para-aplicar-la-investigacion-al-desarrollo-social",
+	"secciones": [
+		{
+			"seccion": "CIMA",
+			"seccion_normalizada": "cima"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "03/05/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades del coloquio <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La investigaci\u00F3n aplicada al desarrollo social,<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> se llev\u00F3 a cabo en el Aula Magna del Centro de Investigaci\u00F3n Multidisciplinaria Arag\u00F3n (CIMA) el taller especializado “<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Bases para la elaboraci\u00F3n de cuestionarios para la gesti\u00F3n y evaluaci\u00F3n de proyectos de desarrollo” <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">impartido por Julio C\u00E9sar Mart\u00EDnez, quien cuenta con una basta experiencia en estudios sociales, ciencia de datos y el manejo de informaci\u00F3n por su trabajo en el Instituto Nacional de Estad\u00EDstica y Geograf\u00EDa (INEGI).<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El taller inici\u00F3 con los pasos previos de un an\u00E1lisis en la investigaci\u00F3n a fin de poder recoger informaci\u00F3n de alg\u00FAn tema en particular, para despu\u00E9s tener la capacidad de plantear herramientas y delimitar la investigaci\u00F3n a partir de los datos disponibles, estudiando la mejor forma de capturar la informaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Posteriormente se revisaron los factores importantes al construir un cuestionario, como su utilidad, relevancia, estado de la cuesti\u00F3n, y las limitaciones para controlar los errores en la elaboraci\u00F3n de las mismas. Otro de los aspectos a considerar en los muestreos, es el de crear sesgos sin excluir a grupos importantes, ya que esto puede resultar en una evaluaci\u00F3n deficiente.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo, se respondieron las dudas de algunos estudiantes sobre los temas vistos en el taller y algunas especificaciones en la forma de tratar los datos y la realizaci\u00F3n de los cuestionarios seg\u00FAn protocolos internacionales.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "CIADS1.gif"
+		},
+		{
+			"imagen": "CIADS2.gif"
+		},
+		{
+			"imagen": "CIADS3.gif"
+		},
+		{
+			"imagen": "CIADS4.gif"
+		}	]
+
+}

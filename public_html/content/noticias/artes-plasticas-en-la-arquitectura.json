@@ -1,0 +1,14 @@
+{
+	"titulo": "Artes pl\u00E1sticas en la arquitectura",
+	"titulo_normalizado": "artes-plasticas-en-la-arquitectura",
+	"secciones": [
+		{
+			"seccion": "Arquitectura",
+			"seccion_normalizada": "arquitectura"
+		}
+	],
+	"autor":"Carmen Mel\u00E9ndez",
+	"fecha":"21/08/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Arquitectura de nuestra Facultad inici\u00F3 la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Arquitectura 2020-1 en la FES Arag\u00F3n<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> con la participaci\u00F3n de Elisa Drago, investigadora de la UNAM y coordinadora de Promoci\u00F3n y Difusi\u00F3n del Patrimonio Documental del Archivo de Arquitectos Mexicanos.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Drago se present\u00F3 ante los estudiantes con la finalidad de explicar el significado, antecedentes y usos en M\u00E9xico de la integraci\u00F3n pl\u00E1stica en la arquitectura, as\u00ED como sus implicaciones pol\u00EDticas y sociales a trav\u00E9s de ejemplos de distintas obras, entre ellas las de Carlos Lazo -uno de los responsables de la edificaci\u00F3n de Ciudad Universitaria-,&nbsp; Diego Rivera, Alfaro Siqueiros y Juan O'Gorman.<\/span><\/p>",
+	"imagenes":[{"imagen":"artes-plasticas-en-la-arquitectura-1.jpg"},{"imagen":"artes-plasticas-en-la-arquitectura-2.jpg"},{"imagen":"artes-plasticas-en-la-arquitectura-3.jpg"},{"imagen":"artes-plasticas-en-la-arquitectura-4.jpg"}]
+}

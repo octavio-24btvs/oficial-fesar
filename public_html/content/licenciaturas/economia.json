@@ -1,0 +1,75 @@
+{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Plan de estudios",
+        "Mapa curricular",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Reconocimientos y proyectos",
+        "Contacto"
+    ],
+    "titulo": "Econom\u00EDa",
+    "icono": "icono-secciones icon-economia",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La carrera de Econom\u00EDa te da la bienvenida a la FES Arag\u00F3n de la UNAM, donde encontrar\u00E1s las herramientas para su formaci\u00F3n como profesionista, as\u00ED como experiencias y aprendizajes que te resultar\u00E1n significativos en t\u00E9rminos personales. Ahora que eres parte de nuestra comunidad te invitamos a conocerla, sentirla y quererla.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La licenciatura en Econom\u00EDa forma profesionistas capaces de comprender los problemas de la producci\u00F3n, distribuci\u00F3n, intercambio y consumo de bienes y servicios que satisfacen las necesidades de las personas y la sociedad, tanto en el contexto local como global.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\">La comunidad aspirante deber\u00E1 contar con:<\/p><ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">sensibilidad frente a los problemas econ\u00F3micos, pol\u00EDticos, sociales y sus repercusiones;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">habilidades para dirigir, organizar y planear;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">conocimientos s\u00F3lidos principalmente en matem\u00E1ticas, adem\u00E1s en historia universal, historia de M\u00E9xico, geograf\u00EDa de M\u00E9xico, geograf\u00EDa universal, as\u00ED como nociones de metodolog\u00EDa de la investigaci\u00F3n.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\">La comunidad egresada de esta licenciatura tendr\u00E1 la capacidad de:<\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">analizar y dise\u00F1ar programas de inversiones p\u00FAblicas y privadas para crear nuevas fuentes de trabajo;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">analizar los problemas de empleo y contribuir a su soluci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">definir estrategias para el abasto de materias primas para las industrias, y para la gesti\u00F3n de servicios p\u00FAblicos y asistenciales.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/economia/plan-de-estudios-economia.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/economia/mapa-economia.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/economia/programas-economia.pdf"
+        },
+        {
+            "tipo": "pdf", 
+            "texto": "https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/economia-titulacion"
+        }, 
+        {
+            "tipo": "reconocimientos",
+            "texto": {
+                "reconocimiento_docentes": "<ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Se obtuvo el primer lugar por tercera ocasi\u00F3n consecutiva en el Concurso de Estad\u00EDstica donde participan estudiantes de la Facultad de Econom\u00EDa, FES Acatl\u00E1n y FES Arag\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">la Mtra. Yadira Rodr\u00EDguez P\u00E9rez, profesora de asignatura definitiva, obtuvo la <\/span><em style=\"background-color: transparent;\">Medalla Gabino Barreda<\/em><span style=\"background-color: transparent;\"> y la <\/span><em style=\"background-color: transparent;\">Medalla Antonio Caso<\/em><span style=\"background-color: transparent;\">;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">el Mtro. Gelacio Mart\u00EDn S\u00E1nchez, profesor de asignatura definitivo, es Director de Proyectos en la Comisi\u00F3n Nacional de Hidrocarburos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">el Lic. Ra\u00FAl Alberto Delgado, profesor asignatura, es Director de Presupuesto de la UNAM.<\/span><\/li><\/ul>",
+                "reconocimiento_alumnos": "<ul><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Muestra fotogr\u00E1fica \"La Econom\u00EDa a trav\u00E9s de la fotograf\u00EDa\"<\/span><\/li><li class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Equipos de estad\u00EDstica y matem\u00E1ticas para los concursos entre Facultades de la UNAM<\/span><\/li><\/ul>"
+            }
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+            "jefe_carrera": "Roberto Herrera de Le\u00F3n",
+                    "foto_jefe_de_carrera": "public_html/img/oferta_academica/economia/roberto-herrera-de-leon.jpg",
+                    "genero_jefe_carrera": "0",
+                    "secretario_tecnico": "Williams Trujillo L\u00F3pez",
+                    "foto_secretario_tecnico": "public_html/img/oferta_academica/economia/williams-trujillo-lopez.jpg",
+                    "genero_secretario_tecnico": "0",
+                    "horario": "De lunes a viernes de 9:00 a 15:00 h y de 17:00 a 21:00 h",
+                    "telefonos": "55 5623 0222", 
+                    "extension": "Ext. 30811 y 30846",
+                    "correo_electronico": "economia@aragon.unam.mx",
+                    "correo_electronico_st": "st.economia@aragon.unam.mx",
+                    "facebook": "https:\/\/www.facebook.com\/FESAragon.economia\/",
+                    "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/economia"
+            }
+        }
+    ]
+}

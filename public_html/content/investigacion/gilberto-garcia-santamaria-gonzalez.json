@@ -1,0 +1,16 @@
+{
+    "nombre": "Gilberto García Santamaría González", 
+    "grado_academico": "Maestro", 
+     "correo": [ "gilbertogarciasantamariagag@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciado en Ingeniería Civil. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería (Planeación). Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Sistemas de transporte", 
+        "Evaluación de normatividad del transporte."
+    ], 
+    "investigaciones": [
+        "Sistema de planeación de infraestructura."
+    ]
+}

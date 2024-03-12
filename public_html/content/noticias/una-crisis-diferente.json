@@ -1,0 +1,32 @@
+{
+	"titulo": "Una crisis diferente",
+	"titulo_normalizado": "una-crisis-diferente",
+	"secciones": [
+		{
+			"seccion": "#ProyecciónAragón",
+			"seccion_normalizada": "proyeccion-aragon"
+		},
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		},
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "28/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La reciente pandemia de COVID-19 ha sido uno de los sucesos con m\u00E1s impacto a nivel mundial en la historia de la humanidad. No s\u00F3lo sobrepas\u00F3 las primeras estimaciones de su temporalidad, tambi\u00E9n tom\u00F3 por sorpresa los sistemas de salud de muchos pa\u00EDses, los cuales respondieron a la emergencia de manera diferente cada uno, seg\u00FAn sus circunstancias y posibilidades.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este \u00FAltimo hecho fue estudiado a profundidad por Ra\u00FAl Ignacio Morales, profesor de Econom\u00EDa en la licenciatura y posgrado de la FES Arag\u00F3n. Motivado por las cuestiones de su alumnado y las conversaciones durante sus clases, decidi\u00F3 buscar la explicaci\u00F3n de estas variables, encontrando que, en com\u00FAn, las potencias se dedicaron a fortalecer tres \u00E1reas en espec\u00EDfico: el sector salud, el empresarial y el familiar.&nbsp;&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Seg\u00FAn Morales, este trabajo requiri\u00F3 de mucha informaci\u00F3n y estudios, por ello recurri\u00F3 a instituciones y colegas, pero debido a la pandemia fue necesario adaptarse y aprovechar las nuevas tecnolog\u00EDas con tal de mantener la comunicaci\u00F3n y continuar con su proyecto, titulado: <\/span><a href=\"https:\/\/www.youtube.com\/watch?v=y-BFyiKvKhA\" target=\"_blank\" style=\"color: rgb(0, 0, 255); background-color: transparent;\"><em>La pandemia y la pol\u00EDtica fiscal en el mundo y en M\u00E9xico<\/em><\/a><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">. <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">No obstante, esto no hubiera sido posible sin el apoyo de la Divisi\u00F3n de Posgrado e Investigaci\u00F3n, a la cual agradece de manera honesta, pues le permiti\u00F3 los recursos y el tiempo para dedicarse a esta tarea.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante este proyecto encontr\u00F3 evidencias para hablar sobre las vacunas desarrolladas en la pandemia utilizando el genoma humano, pues estas muestran una mayor efectividad a corto plazo, pero resultan deficientes en largos periodos de tiempo; mientras lo contrario ocurre con la elaboradas de forma tradicional. Adem\u00E1s, denuncia el acaparamiento y la individualizaci\u00F3n de las grandes potencias, quienes priorizaron la vacunaci\u00F3n de su poblaci\u00F3n, dejando a los territorios m\u00E1s pobres en desventaja frente al virus.&nbsp;&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por ello, el profesor insta a la comunidad estudiantil a mantener en alto el nombre de la Facultad mediante investigaciones de calidad, presentaciones y la creaci\u00F3n de diversos recursos destinados a analizar los diferentes sucesos que est\u00E1n ocurriendo a lo largo del mundo en estos momentos, de esta manera, podemos ser m\u00E1s cr\u00EDticos y prepararnos mejor para futuras emergencias.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "crisis1.JPG"
+		},
+		{
+			"imagen": "Crisis2.JPG"
+		},
+		{
+			"imagen": "Crisis3.JPG"
+		}	]
+
+}

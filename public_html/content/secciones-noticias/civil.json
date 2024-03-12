@@ -1,0 +1,252 @@
+{
+	"id": 2,
+	"titulo": "Ingenier\u00EDa Civil",
+	"icono": "icon-ingenieria-civil",
+	"noticias": [
+		{
+			"titulo":"Innovaci\u00F3n e inspiraci\u00F3n en la ingenier\u00EDa civil",
+			"titulo_normalizado":"innovacion-e-inspiracion-en-la-ingenieria-civil",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "Civil1.gif",
+			"fecha":"26/10/21"
+		},
+		{
+			"titulo":"SING 22: El futuro de la construcci\u00F3n",
+			"titulo_normalizado":"sing-22-el-futuro-de-la-construccion",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Construcción1.gif",
+			"fecha":"26/09/22"
+		},
+		{
+			"titulo":"Emprendimiento ecol\u00F3gico",
+			"titulo_normalizado":"emprendimiento-ecologico",
+			"autor":"Alberto Ochoa",
+			"imagen": "TED1.gif",
+			"fecha":"26/08/21"
+		},
+		{
+			"titulo":"S\u00E1bados Latinoamericanos de Concreto: D\u00EDa 2",
+			"titulo_normalizado":"sabados-latinoamericanos-de-concreto-dia-2",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "dossabado-1.gif",
+			"fecha":"25/05/23"
+		},
+		{
+			"titulo":"S\u00E1bados Latinoamericanos de Concreto: D\u00EDa 1",
+			"titulo_normalizado":"sabados-latinoamericanos-de-concreto-dia-1",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "sabados-1.gif",
+			"fecha":"24/05/23"
+		},
+		{
+			"titulo":"Ingenier\u00EDa Civil busca certificaci\u00F3n internacional",
+			"titulo_normalizado":"ingenieria-civil-busca-certificacion-internacional",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "ingenieria-civil-busca-certificacion-internacional-1.jpg",
+			"fecha":"24/05/19"
+		},
+		{
+			"titulo":"Capturar la arquitectura",
+			"titulo_normalizado":"capturar-la-arquitectura",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "capturar-la-arquitectura.jpg",
+			"fecha":"22/11/22"
+		},
+		{
+			"titulo":"El compromiso social de la ingenier\u00EDa",
+			"titulo_normalizado":"el-compromiso-social-de-la-ingenieria",
+			"autor":"Ang\u00E9lica L\u00F3pez",
+			"imagen": "compromiso-1.gif",
+			"fecha":"21/09/23"
+		},
+		{
+			"titulo":"Semana de la Ingenier\u00EDa",
+			"titulo_normalizado":"semana-de-la-ingenieria",
+			"autor":"Rodrigo Castillo",
+			"imagen": "semana-ingenieria-1.gif",
+			"fecha":"21/09/23"
+		},
+		{
+			"titulo":"La importancia de entender los suelos",
+			"titulo_normalizado":"la-importancia-de-entender-los-suelos",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "importancia-entender-suelos-1.jpg",
+			"fecha":"20/05/21"
+		},
+		{
+			"titulo":"Semana de la Ingenier\u00EDa: sobre los sismos y qu\u00E9 hacer en caso de uno",
+			"titulo_normalizado":"semana-de-la-ingenieria-sobre-los-sismos-y-que-hacer-en-caso-de-uno",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Ingeniería1.gif",
+			"fecha":"19/09/23"
+		},
+		{
+			"titulo":"Los primeros auxilios salvan vidas",
+			"titulo_normalizado":"los-primeros-auxilios-salvan-vidas",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "PrimerosAuxilios1.gif",
+			"fecha":"19/09/23"
+		},
+		{
+			"titulo":"Conoce al Cap\u00EDtulo Estudiantil ACI FES Arag\u00F3n",
+			"titulo_normalizado":"conoce-al-capitulo-estudiantil-aci-fes-aragon",
+			"autor":"Diego Flores",
+			"imagen": "conoce-al-capitulo-estudiantil-aci-fes-aragon-1.jpg",
+			"fecha":"19/04/22"
+		},
+		{
+			"titulo":"M\u00E1s all\u00E1 de la explosi\u00F3n",
+			"titulo_normalizado":"mas-alla-de-la-explosion",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "explosiones-1.gif",
+			"fecha":"18/09/23"
+		},
+		{
+			"titulo":"Arag\u00F3n se lleva los dos primeros lugares en puentes de madera",
+			"titulo_normalizado":"aragon-se-lleva-los-dos-primeros-lugares-en-puentes-de-madera",
+			"autor":"Redacci\u00F3n",
+			"imagen": "aragon-se-lleva-los-dos-primeros-lugares-2.jpg",
+			"fecha":"17/10/19"
+		},
+		{
+			"titulo":"Banderazo al Cap\u00EDtulo Estudiantil de Ingenier\u00EDa Civil",
+			"titulo_normalizado":"banderazo-al-capitulo-estudiantil-de-ingenieria-civil",
+			"autor":"Beatriz Calva",
+			"imagen": "capítulo-1.jpg",
+			"fecha":"17/05/23"
+		},
+		{
+			"titulo":"Entrega de diplomas a las y los futuros ingenieros civiles",
+			"titulo_normalizado":"entrega-de-diplomas-a-las-y-los-futuros-ingenieros-civiles",
+			"autor":"Erik Pliego",
+			"imagen": "Entrega_de_diplomas_1.jpg",
+			"fecha":"17/01/20"
+		},
+		{
+			"titulo":"ANEIC: diversi\u00F3n y risas en el Circuito Deportivo",
+			"titulo_normalizado":"aneic-diversion-y-risas-en-el-circuito-deportivo",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "circuito-1.jpg",
+			"fecha":"16/11/22"
+		},
+		{
+			"titulo":"Si lo deseas lo puedes lograr",
+			"titulo_normalizado":"si-lo-deseas-lo-puedes-lograr",
+			"autor":"Erik Pliego",
+			"imagen": "Egresado1.gif",
+			"fecha":"16/11/21"
+		},
+		{
+			"titulo":"V\u00EDas terrestres, una disciplina vital",
+			"titulo_normalizado":"vias-terrestres-una-disciplina-vital",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "vias-terrestres-una-disciplina-vital-1.jpg",
+			"fecha":"15/03/22"
+		},
+		{
+			"titulo":"De la obra a la investigaci\u00F3n",
+			"titulo_normalizado":"de-la-obra-a-la-investigacion",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "ponencia-aci-1.jpg",
+			"fecha":"15/02/22"
+		},
+		{
+			"titulo":"Hacer pl\u00E1sticos m\u00E1s resistentes",
+			"titulo_normalizado":"hacer-plasticos-mas-resistentes",
+			"autor":"Juan G\u00F3mez",
+			"imagen": "Plásticos1.gif",
+			"fecha":"14/05/21"
+		},
+		{
+			"titulo":"Conoce el CE SMIG Arag\u00F3n y af\u00EDliate",
+			"titulo_normalizado":"conoce-el-ce-smig-aragon-y-afiliate",
+			"autor":"Diego Flores",
+			"imagen": "conoce-el-ce-smig-aragon-y-afiliate-1.jpg",
+			"fecha":"12/04/22"
+		},
+		{
+			"titulo":"8M: Respeto y confianza en Ingenier\u00EDa Civil",
+			"titulo_normalizado":"8m-respeto-y-confianza-en-ingenieria-civil",
+			"autor":"Erika Nejapa",
+			"imagen": "8m-respeto-y-confianza-en-ingenieria-civil-1.jpg",
+			"fecha":"11/03/21"
+		},
+		{
+			"titulo":"8M: M\u00E1s inter\u00E9s por las ingenier\u00EDas",
+			"titulo_normalizado":"8m-mas-interes-por-las-ingenierias",
+			"autor":"Brenda Martinez",
+			"imagen": "8m-mas-interes-por-las-ingenierias-1.jpg",
+			"fecha":"11/03/21"
+		},
+		{
+			"titulo":"8M: La mujer en proyectos internacionales",
+			"titulo_normalizado":"8m-la-mujer-en-proyectos-internacionales",
+			"autor":"Alejandra Vel\u00E1zquez",
+			"imagen": "8m-la-mujer-en-proyectos-internacionales-1.jpg",
+			"fecha":"11/03/21"
+		},
+		{
+			"titulo":"Divisi\u00F3n de Ingenier\u00EDas: un pilar aragon\u00E9s",
+			"titulo_normalizado":"division-de-ingenierias-un-pilar-aragones",
+			"autor":"Miguel Palacios",
+			"imagen": "ingenierias-1.jpg",
+			"fecha":"10/08/22"
+		},
+		{
+			"titulo":"Primer encuentro estudiantil de Ingenier\u00EDa Civil",
+			"titulo_normalizado":"primer-encuentro-estudiantil-de-ingenieria-civil",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "encuentro-1.gif",
+			"fecha":"09/05/23"
+		},
+		{
+			"titulo":"Encuentro de ingenieros civiles en Arag\u00F3n",
+			"titulo_normalizado":"encuentro-de-ingenieros-civiles-en-aragon",
+			"autor":"Beatriz Calva",
+			"imagen": "encuentro-1.jpg",
+			"fecha":"09/05/23"
+		},
+		{
+			"titulo":"Huellas de la Ingenier\u00EDa Civil, aqu\u00ED y all\u00E1",
+			"titulo_normalizado":"huellas-de-la-ingenieria-civil-aqui-y-alla",
+			"autor":"Redacci\u00F3n",
+			"imagen": "huellas-de-la-ingenieria-civil-aqui-y-alla-1.jpg",
+			"fecha":"07/11/18"
+		},
+		{
+			"titulo":"Realiza un intercambio acad\u00E9mico",
+			"titulo_normalizado":"realiza-un-intercambio-academico",
+			"autor":"Rosa Francisco",
+			"imagen": "realiza-un-intercambio-academico-1.jpg",
+			"fecha":"06/04/22"
+		},
+		{
+			"titulo":"Excelente participaci\u00F3n en certamen de concreto",
+			"titulo_normalizado":"excelente-participacion-en-certamen-de-concreto",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "excelente-participacion-en-certamen-de-concreto-1.jpg",
+			"fecha":"05/12/18"
+		},
+		{
+			"titulo":"Aprende a administrar tu tiempo",
+			"titulo_normalizado":"aprende-a-administrar-tu-tiempo",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "aprende-a-administrar-tu-tiempo-1.jpg",
+			"fecha":"04/04/22"
+		},
+		{
+			"titulo":"Perspectiva de g\u00E9nero en Ingenier\u00EDa Civil",
+			"titulo_normalizado":"perspectiva-de-genero-en-ingenieria-civil",
+			"autor":"Isaias Hernandez",
+			"imagen": "25N.gif",
+			"fecha":"03/12/21"
+		},
+		{
+			"titulo":"Nuevas mentes para el futuro de la ingenier\u00EDa",
+			"titulo_normalizado":"nuevas-mentes-para-el-futuro-de-la-ingenieria",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "cap-1.jpg",
+			"fecha":"03/03/23"
+		}
+	]
+}

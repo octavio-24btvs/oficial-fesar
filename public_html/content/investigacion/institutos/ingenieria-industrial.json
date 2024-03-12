@@ -1,0 +1,24 @@
+{
+    "carrera": "Ingeniería Industrial", 
+    "icono": "icon-ingenieria-industrial", 
+    "investigadores": [
+        {
+            "nombre": "Marco Antonio Barrios Vargas", 
+            "nombre_normalizado": "marco-antonio-barrios-vargas",
+            "imagen": true
+        },
+        {
+            "nombre": "Nelly Rigaud Téllez", 
+            "nombre_normalizado": "nelly-rigaud-tellez",
+            "imagen": true
+        },
+        {
+            "nombre": "Oliverio Cruz Mejia", 
+            "nombre_normalizado": "oliverio-cruz-mejia"
+        },
+        {
+            "nombre": "Ulises Mercado Valenzuela", 
+            "nombre_normalizado": "ulises-mercado-valenzuela"
+        }
+    ]
+}

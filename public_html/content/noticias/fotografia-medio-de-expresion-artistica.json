@@ -1,0 +1,24 @@
+{
+	"titulo": "Fotograf\u00EDa: medio de expresi\u00F3n art\u00EDstica",
+	"titulo_normalizado": "fotografia-medio-de-expresion-artistica",
+	"secciones": [
+		{
+			"seccion": "Comunicación y Periodismo",
+			"seccion_normalizada": "comunicacion-y-periodismo"
+		}
+	],
+	"autor": "Diego Flores",
+	"fecha": "01/06/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como un intento de mostrar la materializaci\u00F3n de los conocimientos vistos durante un semestre escolar, Cristina Vargas y Adri\u00E1n Fierro, docentes de la materia de Fotograf\u00EDa Art\u00EDstica y Publicitaria, organizaron la exhibici\u00F3n fotogr\u00E1fica <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Expo Foto<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dicho evento tuvo lugar en el Jard\u00EDn de Fotograf\u00EDa de la Facultad. A manera de introducci\u00F3n, Vargas cont\u00F3 que la muestra est\u00E1 conformada por m\u00E1s de 60 fotograf\u00EDas. “Esta [exhibici\u00F3n] es un compendio de las mejores fotos que tomaron [las y los alumnos] durante este semestre”, declar\u00F3.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">De acuerdo con uno de los alumnos, de nombre Carlos, la fotograf\u00EDa, como medio de expresi\u00F3n art\u00EDstica, enaltece al mismo ser humano y no un objeto aislado. “A trav\u00E9s de ella se transmiten ideas, emociones y sensaciones. Debemos darle la importancia y el lugar que merece”, coment\u00F3.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Fierro agreg\u00F3 que sin arte la vida no tendr\u00EDa sentido. En concordancia con \u00E9l, estas fotos no est\u00E1n ordenadas de un modo espec\u00EDfico y buscan ejemplificar las corrientes art\u00EDsticas, como el abstraccionismo, dinamismo, documentalismo, el nuevo realismo, el simbolismo y el surrealismo.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "fotografia-medio-de-expresion-artistica-1.jpg"
+		},
+		{
+			"imagen": "fotografia-medio-de-expresion-artistica-2.jpg"
+		},
+		{
+			"imagen": "fotografia-medio-de-expresion-artistica-3.jpg"
+		}	]
+
+}

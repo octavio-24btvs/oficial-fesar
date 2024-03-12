@@ -1,0 +1,17 @@
+{
+    "nombre": "Humberto Islas Ramos", 
+    "grado_academico": "Maestro", 
+     "correo": [ "humbertoislasa1@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Arquitectura.",
+        "Maestría en Arquitectura."
+    ], 
+    "lineas_investigacion": [
+        "Enseñanza de la arquitectura."
+    ], 
+    "investigaciones": [
+        "\"La enseñanza remota de emergencia en la carrera de arquitectura de la FES Aragón\".", 
+        "\"Enseñanza de la arquitectura para una nueva era, un modelo pedagógico emergente\"."
+    ]
+}

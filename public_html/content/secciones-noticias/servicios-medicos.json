@@ -1,0 +1,21 @@
+{
+	"id": 34,
+	"titulo": "Servicios M\u00E9dicos",
+	"icono": "icon-servicios-medicos",
+	"noticias": [
+		{
+			"titulo":"Diversidad sexual con perspectiva de g\u00E9nero",
+			"titulo_normalizado":"diversidad-sexual-con-perspectiva-de-genero",
+			"autor":"Orlando Ortega",
+			"imagen": "diversidad-sexual-con-perspectiva-de-genero-1.jpg",
+			"fecha":"30/04/21"
+		},
+		{
+			"titulo":"Prevenci\u00F3n para el cuidado de la comunidad FES Arag\u00F3n",
+			"titulo_normalizado":"prevencion-para-el-cuidado-de-la-comunidad-fes-aragon",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "prevencion-para-el-cuidado-de-la-comunidad-fes-aragon-1.jpg",
+			"fecha":"20/01/23"
+		}
+	]
+}

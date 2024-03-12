@@ -1,0 +1,189 @@
+{
+	"id": 16,
+	"titulo": "Pedagog\u00EDa",
+	"icono": "icon-pedagogia",
+	"noticias": [
+		{
+			"titulo":"SPA: Reconstruyendo la educaci\u00F3n",
+			"titulo_normalizado":"spa-reconstruyendo-la-educacion",
+			"autor":"Isa\u00EDas Hern\u00E1ndez",
+			"imagen": "SPA-1.gif",
+			"fecha":"28/10/21"
+		},
+		{
+			"titulo":"La ense\u00F1anza de la investigaci\u00F3n",
+			"titulo_normalizado":"la-ensenanza-de-la-investigacion",
+			"autor":"Erik Pliego",
+			"imagen": "Escamilla1.gif",
+			"fecha":"27/09/22"
+		},
+		{
+			"titulo":"XVCIMI: Pol\u00EDtica desde los j\u00F3venes",
+			"titulo_normalizado":"xvcimi-politica-desde-los-jovenes",
+			"autor":"Elisa Jacobo",
+			"imagen": "politica-1.gif",
+			"fecha":"25/10/22"
+		},
+		{
+			"titulo":"Pedagog\u00EDa: Un nuevo ciclo trabajando en equipo",
+			"titulo_normalizado":"pedagogia-un-nuevo-ciclo-trabajando-en-equipo",
+			"autor":"Brenda Martinez",
+			"imagen": "pedagogia-un-nuevo-ciclo-trabajando-en-equipo-1.jpg",
+			"fecha":"24/08/21"
+		},
+		{
+			"titulo":"El orgullo de la diversidad",
+			"titulo_normalizado":"el-orgullo-de-la-diversidad",
+			"autor":"Rosa Francisco",
+			"imagen": "el-orgullo-de-la-diversidad-1.jpg",
+			"fecha":"23/06/22"
+		},
+		{
+			"titulo":"Pedagog\u00EDa y educaci\u00F3n en M\u00E9xico",
+			"titulo_normalizado":"pedagogia-y-educacion-en-mexico",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "vasconcelos-1.jpg",
+			"fecha":"20/04/23"
+		},
+		{
+			"titulo":"Educaci\u00F3n bancaria",
+			"titulo_normalizado":"educacion-bancaria",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Eduación3.gif",
+			"fecha":"19/11/21"
+		},
+		{
+			"titulo":"A cien a\u00F1os del nacimiento de Paulo Freire",
+			"titulo_normalizado":"a-cien-anos-del-nacimiento-de-paulo-freire",
+			"autor":"Redacci\u00F3n",
+			"imagen": "a-cien-aos-del-nacimiento-de-paulo-freire-1.jpg",
+			"fecha":"18/11/21"
+		},
+		{
+			"titulo":"JIM-B: Promoviendo la investigaci\u00F3n",
+			"titulo_normalizado":"jim-b-promoviendo-la-investigacion",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Promoviendo1.gif",
+			"fecha":"17/02/22"
+		},
+		{
+			"titulo":"JIM-B: Experiencias formativas",
+			"titulo_normalizado":"jim-b-experiencias-formativas",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Formativas1.gif",
+			"fecha":"17/02/22"
+		},
+		{
+			"titulo":"Cierre Semana de Pedagog\u00EDa",
+			"titulo_normalizado":"cierre-semana-de-pedagogia",
+			"autor":"Aurelio Nito",
+			"imagen": "Cierre-semana-de-pedagogia-1.png",
+			"fecha":"15/03/19"
+		},
+		{
+			"titulo":"Tendencias emergentes en la universidad",
+			"titulo_normalizado":"tendencias-emergentes-en-la-universidad",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "tendencias-emergentes-en-la-universidad-1.jpg",
+			"fecha":"14/01/19"
+		},
+		{
+			"titulo":"Resignificar las tutor\u00EDas",
+			"titulo_normalizado":"resignificar-las-tutorias",
+			"autor":"Erik Pliego",
+			"imagen": "Montiel1.gif",
+			"fecha":"13/09/22"
+		},
+		{
+			"titulo":"Di\u00E1logo entre docentes para renovar el plan de estudios de Pedagog\u00EDa",
+			"titulo_normalizado":"dialogo-entre-docentes-para-renovar-el-plan-de-estudios-de-pedagogia",
+			"autor":"Jos\u00E9 Espejel",
+			"imagen": "dialogo-entre-docentes-para-renovar-el-plan-de-estudios-de-pedagogia-1.jpg",
+			"fecha":"12/09/19"
+		},
+		{
+			"titulo":"8M: Taller Mujeres en las profesiones",
+			"titulo_normalizado":"8m-taller-mujeres-en-las-profesiones",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Taller1.gif",
+			"fecha":"11/03/22"
+		},
+		{
+			"titulo":"La acci\u00F3n tutorial en el desarrollo y aprendizaje",
+			"titulo_normalizado":"la-accion-tutorial-en-el-desarrollo-y-aprendizaje",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "La-acción1.gif",
+			"fecha":"10/09/21"
+		},
+		{
+			"titulo":"Finalizan las conferencias de tutor\u00EDa",
+			"titulo_normalizado":"finalizan-las-conferencias-de-tutoria",
+			"autor":"Melissa Rodr\u00EDguez",
+			"imagen": "Fin-de-tutorias-1.gif",
+			"fecha":"10/09/21"
+		},
+		{
+			"titulo":"Posicionando la mirada pedag\u00F3gica",
+			"titulo_normalizado":"posicionando-la-mirada-pedagogica",
+			"autor":"Sianya S\u00E1nchez",
+			"imagen": "posicionando-la-mirada-pedagogica-1.jpg",
+			"fecha":"09/09/21"
+		},
+		{
+			"titulo":"Tutorias en formaci\u00F3n continua",
+			"titulo_normalizado":"tutorias-en-formacion-continua",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Tutorias-en-formación1.gif",
+			"fecha":"09/09/21"
+		},
+		{
+			"titulo":"Transformaci\u00F3n en la calidad educativa",
+			"titulo_normalizado":"transformacion-en-la-calidad-educativa",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "transformacion-en-la-calidad-educativa-2.jpg",
+			"fecha":"09/05/19"
+		},
+		{
+			"titulo":"Reinscripciones de Pedagog\u00EDa",
+			"titulo_normalizado":"reinscripciones-de-pedagogia",
+			"autor":"Valeria Hern\u00E1ndez",
+			"imagen": "Reinscripciones-pedagogia1.gif",
+			"fecha":"09/02/21"
+		},
+		{
+			"titulo":"Tutor\u00EDa acad\u00E9mica, entre la tradici\u00F3n y el porvenir",
+			"titulo_normalizado":"tutoria-academica-entre-la-tradicion-y-el-porvenir",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "tutoria-academica-entre-la-tradicion-y-el-porvenir-1.jpg",
+			"fecha":"08/09/21"
+		},
+		{
+			"titulo":"El aprendizaje estudiantil",
+			"titulo_normalizado":"el-aprendizaje-estudiantil",
+			"autor":"Alexis Rey",
+			"imagen": "Mesa1.gif",
+			"fecha":"07/06/22"
+		},
+		{
+			"titulo":"Clases virtuales y presenciales en tiempo de pandemia",
+			"titulo_normalizado":"clases-virtuales-y-presenciales-en-tiempo-de-pandemia",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Encuentro1.gif",
+			"fecha":"07/06/22"
+		},
+		{
+			"titulo":"Educaci\u00F3n, lengua y cultura, Arag\u00F3n en la FIL",
+			"titulo_normalizado":"educacion-lengua-y-cultura-aragon-en-la-fil",
+			"autor":"Elisa Jacobo",
+			"imagen": "fil-1.jpg",
+			"fecha":"06/03/23"
+		},
+		{
+			"titulo":"Pedagog\u00EDa de los alimentos",
+			"titulo_normalizado":"pedagogia-de-los-alimentos",
+			"autor":"Erik Pliego",
+			"imagen": "Carrillo1.gif",
+			"fecha":"04/10/22"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"titulo": "Aprendizaje para llevar",
+	"titulo_normalizado": "aprendizaje-para-llevar",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Eléctrica Electrónica",
+			"seccion_normalizada": "electrica-electronica"
+		}
+	],
+	"autor":"Daniela D\u00EDaz",
+	"fecha":"03/12/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">\u00C1ngel Hern\u00E1ndez S\u00E1mano y Ren\u00E9 Franco Morales de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica de nuestra Facultad participaron en el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Bus Challenge<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, un reto m\u00F3vil que implica desarrollar una idea de negocio con tecnolog\u00EDa durante el trayecto al INCmty, festival de emprendimiento m\u00E1s importante de Am\u00E9rica Latina.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los aragoneses pudieron asistir gracias a una beca otorgada por Santander, as\u00ED como su experiencia en cuanto a emprendimiento, pues actualmente tienen un proyecto en la incubadora InnovaUNAM.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Su propuesta consisti\u00F3 en utilizar herramientas de inteligencia artificial desarrolladas por IBM en an\u00E1lisis de datos para encontrar tendencias e identificar <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">fake news<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Se sienten satisfechos con la experiencia y el aprendizaje obtenido en su participaci\u00F3n, la cual les permiti\u00F3 conocer a otros estudiantes y empresas que se interesaron en su aportaci\u00F3n. <\/span><\/p>",
+	"imagenes":[{"imagen":"aprendizaje-para-llevar-1.jpg"},{"imagen":"aprendizaje-para-llevar-2.jpg"},{"imagen":"aprendizaje-para-llevar-3.jpg"},{"imagen":"aprendizaje-para-llevar-4.jpg"}]
+}

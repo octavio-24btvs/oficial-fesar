@@ -1,0 +1,24 @@
+{
+	"titulo": "Equipos nuevos para la comunidad universitaria",
+	"titulo_normalizado": "equipos-nuevos-para-la-comunidad-universitaria",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Cynthia V\u00E1zquez",
+	"fecha": "20/05/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Se llev\u00F3 a cabo la renovaci\u00F3n al 100 % de la Sala 4 del Centro de C\u00F3mputo de la Facultad de Estudios Superiores Arag\u00F3n. Con un total de 40 equipos nuevos se ofrece la oportunidad a las y los estudiantes, de continuar reforzando su aprendizaje a trav\u00E9s de aparatos m\u00E1s actualizados.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Recientemente la licenciatura en Econom\u00EDa es la que ha hecho mayor uso de este recurso; pero est\u00E1 disponible para cualquier carrera que lo solicite. La afluencia depende de la etapa del semestre, as\u00ED como de los planes de estudio de cada licenciatura. Adem\u00E1s, se ofrecen cursos intersemestrales enfocados a la ense\u00F1anza de alg\u00FAn programa espec\u00EDfico.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En total&nbsp; el Centro de C\u00F3mputo cuenta con nueve salas, y cada a\u00F1o se renueva una de estas. El servicio se ofrece a todo el alumnado en un horario de lunes a viernes de ocho de la ma\u00F1ana a nueve de la noche.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "centro-de-computo-1.jpg"
+		},
+		{
+			"imagen": "centro-de-computo-2.jpg"
+		},
+		{
+			"imagen": "centro-de-computo-3.jpg"
+		}	]
+
+}

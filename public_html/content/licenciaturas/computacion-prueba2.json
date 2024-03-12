@@ -1,0 +1,72 @@
+{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Plan de estudios",
+        "Mapa curricular", 
+        "Programas",
+        "Titulaci\u00F3n",
+        "Reconocimientos y proyectos",
+        "Contacto"
+    ],
+    "titulo": "Ingenier\u00EDa en Computaci\u00F3n",
+    "icono": "icono-secciones icon-ingenieria-en-computacion",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La carrera de Ingenier\u00EDa en Computaci\u00F3n te da la m\u00E1s c\u00E1lida bienvenida. Eres parte de una generaci\u00F3n que ha crecido con la tecnolog\u00EDa y que ser\u00E1 testigo de cambios importantes en el desarrollo de la ciencia.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Adem\u00E1s, vivir\u00E1s el nuevo paradigma tecnol\u00F3gico denominado la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tercera Plataforma<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Este terreno traer\u00E1 tem\u00E1ticas novedosas, por ejemplo, los servicios <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cloud<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> (almacenamiento aplicaciones, etc.), la ciencia de datos (<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">big data<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">data mining<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">), la tecnolog\u00EDa m\u00F3vil y un modelo diferente de negocios <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">online<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta Facultad, la cual ser\u00E1 tu casa los pr\u00F3ximos cuatro a\u00F1os y medio, se siente orgullosa de recibirte para este reto que inicias.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La carrera de Ingenier\u00EDa en Computaci\u00F3n tiene el objetivo de formar profesionales l\u00EDderes, comprometidos con las necesidades y desarrollo del pa\u00EDs, dot\u00E1ndolos de conocimientos te\u00F3ricos y pr\u00E1cticos para la soluci\u00F3n de problemas computacionales.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tu educaci\u00F3n universitaria te llevar\u00E1 a aplicar tus capacidades en pro de soluciones innovadoras, apoyados en un alto nivel de conocimientos en matem\u00E1ticas, programaci\u00F3n e ingenier\u00EDa de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">software<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, procesamiento de la informaci\u00F3n, arquitectura de computadoras, redes, seguridad y control.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para ello nos esforzamos en ser una carrera de vanguardia que asegure la actualizaci\u00F3n constante de su planta docente, infraestructura y planes de estudio.<\/span><\/p>"
+        }, 
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad estudiantil aspirante a la carrera de Ingenier\u00EDa en Computaci\u00F3n, adem\u00E1s de haber cursado el \u00C1rea de Ciencias F\u00EDsico-Matem\u00E1ticas o similar en el bachillerato, es deseable que tenga las siguientes caracter\u00EDsticas:<\/span><\/p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">contar con conocimientos, gusto y habilidad para matem\u00E1ticas y f\u00EDsica;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">facilidad para el an\u00E1lisis de problemas e inclinaci\u00F3n por su soluci\u00F3n pr\u00E1ctica;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">inter\u00E9s por la recopilaci\u00F3n de datos y la investigaci\u00F3n;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">tendencia a la sistematizaci\u00F3n, constancia y orden en los trabajos emprendidos;<\/span><\/li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">disposici\u00F3n para realizar actividades extracurriculares en laboratorios, desarrollo de programas, etc.<\/span><\/li><\/ul>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La comunidad egresada de la carrera de Ingenier\u00EDa en Computaci\u00F3n contar\u00E1 con conocimientos s\u00F3lidos en <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">software<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">hardware<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, un manejo fluido de los principios te\u00F3ricos, pr\u00E1cticos y metodol\u00F3gicos para la configuraci\u00F3n, la evaluaci\u00F3n, el dise\u00F1o y el desarrollo de obras y entornos de sistemas computacionales complejos (servicios, telecomunicaciones, arquitecturas y configuraci\u00F3n de redes de c\u00F3mputo y teleproceso, etc.); los cuales le permitir\u00E1n responder a diversas necesidades con soluciones originales (proponiendo metodolog\u00EDas, t\u00E9cnicas y herramientas) en las diferentes \u00E1reas con las que interact\u00FAa. <\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Adem\u00E1s, podr\u00E1 perfeccionar o reafirmar su orientaci\u00F3n y conocimientos mediante especializaciones o posgrados.<\/span><\/p>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/computacion/plan-de-estudios-computacion.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/computacion/mapa-ing-en-computacion.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/computacion/programas-ing-en-computacion.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/computacion/ing-en-computacion-titulacion.pdf"
+        },
+        {
+            "tipo": "reconocimientos",
+            "texto": {
+                "reconocimiento_docentes": "<ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Docentes han participado en congresos a nivel Internacional en las \u00E1reas de <\/span><span style=\"color: rgb(0, 0, 0);\">Caos y Fractales e Inteligencia Artificial<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">;<\/span><\/li><li><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">estudiantes de diversos semestres han participado en <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hackatones<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> donde obtuvieron los primeros lugares.<\/span><\/li><\/ul>",
+                "reconocimiento_alumnos": "" 
+            }
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Jorge Arturo L\u00F3pez Hern\u00E1ndez",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/computacion/jorge-arturo-lopez-hernandez.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Oscar Estrada Garc\u00EDa",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/computacion/oscar-estrada-garcia.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h",
+                "telefonos": "56230820 y 56230842",
+                "correo_electronico": "computacion@aragon.unam.mx",
+                "facebook": "https://www.facebook.com/FESAragon.computacion/"
+            }
+        }
+    ]
+}

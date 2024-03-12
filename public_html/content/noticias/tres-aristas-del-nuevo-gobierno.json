@@ -1,0 +1,14 @@
+{
+	"titulo": "Tres aristas del nuevo gobierno",
+	"titulo_normalizado": "tres-aristas-del-nuevo-gobierno",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		}
+	],
+	"autor":"Laura D. Garc\u00EDa",
+	"fecha":"23/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dentro de la novena edici\u00F3n de la Semana de Econom\u00EDa se present\u00F3 la mesa “Los retos econ\u00F3micos y las alternativas pol\u00EDticas del nuevo gobierno en M\u00E9xico”, en la cual participaron el Dr. Adri\u00E1n Mar\u00EDn, el Dr. Jorge L\u00F3pez –ambos catedr\u00E1ticos de la FES Acatl\u00E1n– y la Dra. Guadalupe Garc\u00EDa, profesora de Econom\u00EDa de nuestra Facultad. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante este debate se abord\u00F3 el panorama del actual gobierno desde tres indicadores: 1) se compararon las administraciones desde el expresidente Ernesto Zedillo al actual presidente Andr\u00E9s Manuel L\u00F3pez Obrador, un an\u00E1lisis cronol\u00F3gico que incluy\u00F3 el mercado laboral, la tasa de desempleo, los indicadores de confianza del consumidor y la industria del pa\u00EDs; 2) las modificaciones de los programas sociales en el nuevo sexenio; y 3) el nuevo rumbo de la pol\u00EDtica nacional de vivienda.<\/span><\/p>",
+	"imagenes":[{"imagen":"tres-aristas-del-nuevo-gobierno-3.jpg"},{"imagen":"tres-aristas-del-nuevo-gobierno-4.jpg"},{"imagen":"tres-aristas-del-nuevo-gobierno-2.jpg"},{"imagen":"tres-aristas-del-nuevo-gobierno-1.jpg"}]
+}

@@ -1,0 +1,33 @@
+{
+	"titulo": "25N: Circuito de crossfit femenil",
+	"titulo_normalizado": "25n-circuito-de-crossfit-femenil",
+	"secciones": [
+		{
+			"seccion": "Género",
+			"seccion_normalizada": "genero"
+		}
+	],
+	"autor": "Ariadna Hern\u00E1ndez",
+	"fecha": "29/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El \u00E1rea de Actividades Deportivas y Recreativas de la FES Arag\u00F3n llev\u00F3 a cabo un circuito de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">crossfit <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">femenil en el marco del D\u00EDa Internacional de la Eliminaci\u00F3n de la Violencia contra la mujer, impartido por el profesor Eduardo Ortiz en el Gimnasio de Parquet.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La actividad se trat\u00F3 de un circuito con estaciones de ejercicios funcionales, cada participante decidi\u00F3 la intensidad, es decir, el peso y las repeticiones. Se trat\u00F3 de una competencia enfocada en las mujeres, quienes fueron mayor\u00EDa, sin embargo, trat\u00E1ndose de una jornada de inclusi\u00F3n, tambi\u00E9n asistieron algunos hombres; todas y todos fueron acreedores a 5 horas de formaci\u00F3n complementaria.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "crossfit-femenil-1.jpg"
+		},
+		{
+			"imagen": "crossfit-femenil-2.jpg"
+		},
+		{
+			"imagen": "crossfit-femenil-3.jpg"
+		},
+		{
+			"imagen": "crossfit-femenil-4.jpg"
+		},
+		{
+			"imagen": "crossfit-femenil-5.jpg"
+		},
+		{
+			"imagen": "crossfit-femenil-6.jpg"
+		}	]
+
+}

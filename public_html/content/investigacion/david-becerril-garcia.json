@@ -1,0 +1,18 @@
+{
+    "nombre": "David Becerril García", 
+    "grado_academico": "Doctor", 
+     "correo": [ "d_becerril@hotmail.com" ], 
+    "estudios": [
+        "Licenciatura en Ingeniería Mecánico Electricista. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ingeniería Civil. Queens University, Canadá."
+    ], 
+    "lineas_investigacion": [
+        "Ciencias físico matemáticas e ingenierías.", 
+        "Competitividad e innovación.", 
+        "Tuberías enterradas (juntas) y su control de calidad."
+    ], 
+    "investigaciones": [
+        "Realización de simulaciones numéricas y pruebas de laboratorio de juntas en tuberías de polietileno sometidas a cargas de trabajo."
+    ]
+}

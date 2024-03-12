@@ -1,0 +1,14 @@
+{
+	"titulo": "Teatro en l\u00EDnea",
+	"titulo_normalizado": "teatro-en-linea",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		}
+	],
+	"autor":"Valeria Hern\u00E1ndez",
+	"fecha":"17/02/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con motivo de la celebraci\u00F3n del d\u00EDa de San Valent\u00EDn, la compa\u00F1\u00EDa de teatro Yas\u00FA represent\u00F3, de manera virtual, la obra <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Amor y amistad en tiempos de COVID<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, ganadora del concurso “Sketch: El amor en Arag\u00F3n”&nbsp; que organiz\u00F3 el Departamento de Actividades Culturales.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El gui\u00F3n original estuvo a cargo de Carlos Romero, estudiante de la carrera de Ingenier\u00EDa en Computaci\u00F3n (ICO), quien nos ense\u00F1a en esta interpretaci\u00F3n que no existe impedimento alguno para demostrar cari\u00F1o y amor hacia las personas que pasan por momentos dif\u00EDciles.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La trama relata la historia de tres estudiantes de la carrera de ICO que se encuentran aislados debido a la contingencia ambiental por la que atraviesa el mundo entero. Eventualmente se dan cuenta de que una de sus compa\u00F1eras sufre de violencia en su noviazgo, <\/span><span style=\"color: rgb(0, 0, 0);\">pero, a pesar de la distancia y el confinamiento, sus amigos le ayudan a superar esta situaci\u00F3n.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La obra se puede encontrar en la p\u00E1gina de Facebook de Extensi\u00F3n Universitaria.&nbsp;<\/span><\/p>",
+	"imagenes":[{"imagen":"Teatro-en-línea1.gif"},{"imagen":"Teatro-en-línea2.gif"},{"imagen":"Teatro-en-línea3.gif"}]
+}

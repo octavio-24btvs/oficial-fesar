@@ -1,0 +1,14 @@
+{
+	"titulo": "Reclutamiento Deloitte",
+	"titulo_normalizado": "reclutamiento-deloitte",
+	"secciones": [
+		{
+			"seccion": "Bolsa de Trabajo",
+			"seccion_normalizada": "bolsa-de-trabajo"
+		}
+	],
+	"autor":"Liliana Espinosa",
+	"fecha":"26/08/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Bolsa de Trabajo de la FES Arag\u00F3n organiz\u00F3 un d\u00EDa de reclutamiento con la empresa <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Deloitte<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, la cual brinda asesor\u00EDa a compa\u00F1\u00EDas de todo el mundo en auditor\u00EDa, consultor\u00EDa, impuestos, finanzas, servicios legales, etc\u00E9tera.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante cuatro horas, los estudiantes y la comunidad egresada de las licenciaturas de Derecho, Econom\u00EDa e Ingenier\u00EDa en Computaci\u00F3n se presentaron en el Auditorio “Jos\u00E9 V\u00E1zquez Ram\u00EDrez”, con curr\u00EDculum en mano y listos para una entrevista con los reclutadores.<\/span><\/p>",
+	"imagenes":[{"imagen":"reclutamiento-deloitte-3.jpg"},{"imagen":"reclutamiento-deloitte-1.jpg"},{"imagen":"reclutamiento-deloitte-2.jpg"},{"imagen":"reclutamiento-deloitte-4.jpg"}]
+}

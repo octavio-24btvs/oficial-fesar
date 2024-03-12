@@ -1,0 +1,14 @@
+{
+	"titulo": "Nuevo lugar para el conocimiento",
+	"titulo_normalizado": "nuevo-lugar-para-el-conocimiento",
+	"secciones": [
+		{
+			"seccion": "SUAyED",
+			"seccion_normalizada": "suayed"
+		}
+	],
+	"autor":"Cristian Reyes",
+	"fecha":"04/02/20",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Ahora la comunidad docente del Sistema de Universidad Abierta y Educaci\u00F3n a Distancia (SUAyED) y del Centro de Lenguas Arag\u00F3n contar\u00E1 con un espacio para realizar actividades entre clases, brindar asesor\u00EDas y resolver dudas de su alumnado: se trata del nuevo Jard\u00EDn Acad\u00E9mico localizado detr\u00E1s de las instalaciones del edificio de la DUACyD.&nbsp;<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dicho lugar fue designado y equipado para tener funciones similares al jard\u00EDn&nbsp; ubicado en el edificio A4. La acad\u00E9mica Rosa Mar\u00EDa Valencia y el director Fernando Macedo inauguraron el recinto. Macedo expres\u00F3 que “este es s\u00F3lo un peque\u00F1o presente para las y los docentes por su labor diaria y el esfuerzo que realizan dentro de los salones de clase en beneficio de toda la comunidad universitaria”.<\/span><\/p>",
+	"imagenes":[{"imagen":"Nuevo_lugar_para_el_conocimiento1.jpg"},{"imagen":"Nuevo_lugar_para_el_conocimiento2.jpg"},{"imagen":"Nuevo_lugar_para_el_conocimiento3.jpg"},{"imagen":"Nuevo_lugar_para_el_conocimiento4.jpg"},{"imagen":"Nuevo_lugar_para_el_conocimiento5.jpg"}]
+}

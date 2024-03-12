@@ -1,0 +1,14 @@
+{
+	"titulo": "Serie de exposiciones cient\u00EDficas para la comunidad",
+	"titulo_normalizado": "serie-de-exposiciones-cientificas-para-la-comunidad",
+	"secciones": [
+		{
+			"seccion": "CIMA",
+			"seccion_normalizada": "cima"
+		}
+	],
+	"autor":"Alejandro Frias",
+	"fecha":"09/10/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dado que el objetivo del XII Congreso Internacional Multidisciplinario de Investigaci\u00F3n es presentar parte de las investigaciones que la academ\u00EDa realiza, en el Auditorio de la DUACyD de la FES Arag\u00F3n fueron comentados los avances y resultados de algunos de los trabajos de las \u00E1reas de ingenier\u00EDa y ciencias f\u00EDsico-matem\u00E1ticas.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la mesa estuvieron presentes acad\u00E9micos y acad\u00E9micas de la FES Arag\u00F3n, del Tecnol\u00F3gico de Estudios Superiores de Ecatepec y de la Universidad Aut\u00F3noma del Estado de M\u00E9xico, quienes explicaron sus trabajos en asuntos como la oxidaci\u00F3n de los sistemas polea, el aprovechamiento del consumo el\u00E9ctrico con una interfaz en tel\u00E9fonos inteligentes, la evaluaci\u00F3n de riesgos dentro de los procesos de an\u00E1lisis cl\u00EDnicos y el monitoreo basado en una red de sensores para el cultivo.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las y los investigadores resaltaron que estos conocimientos –basados en el estudio y trabajo cient\u00EDfico– contribuyen a mejorar la calidad de vida de las personas, por ello celebraron la creaci\u00F3n de estos espacios multidisciplinarios.<\/span><\/p>",
+	"imagenes":[{"imagen":"serie-de-exposiciones-cientificas-para-la-comunidad-1.jpg"},{"imagen":"serie-de-exposiciones-cientificas-para-la-comunidad-2.jpg"},{"imagen":"serie-de-exposiciones-cientificas-para-la-comunidad-3.jpg"},{"imagen":"serie-de-exposiciones-cientificas-para-la-comunidad-4.jpg"},{"imagen":"serie-de-exposiciones-cientificas-para-la-comunidad-5.jpg"}]
+}

@@ -1,0 +1,21 @@
+{
+    "nombre": "H\u00E9ctor Garc\u00EDa Escorza", 
+    "grado_academico": "Doctor", 
+     "correo": [ "hectorgarciapv8@aragón.unam.mx" ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Arquitectura. Universidad Nacional Autónoma de México.",
+        "Maestría en Enseñanza Superior. Universidad Nacional Autónoma de México.",
+        "Doctorado en Procesos Territoriales: Región, Ciudad, Arquitectura y Patrimonio. Benemérita Universidad Autónoma de Puebla."
+    ], 
+    "lineas_investigacion": [
+        "Arquitectura y Contexto Urbano.", 
+        "Arquitectura de la Modernidad en M\u00E9xico – inicios del S. XX. La ense\u00F1anza de la Arquitectura.", 
+        "Dise\u00F1o curricular y evaluación.", 
+        "La infraestructura de la arquitectura en M\u00E9xico."
+    ], 
+    "investigaciones": [
+        "Dise\u00F1o Curricular.", 
+        "Historiograf\u00EDa de las arquitecturas minoritarias."
+    ]
+}

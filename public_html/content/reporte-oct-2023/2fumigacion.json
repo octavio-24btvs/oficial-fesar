@@ -1,0 +1,50 @@
+{
+    "titulo": "Reporte octubre 2023", 
+    "titulo_normalizado": "reporte-oct-2023", 
+    "imagenes": [
+        {
+            "imagen": "1seg-fum",
+            "alt": "Segunda fumigación"
+        },
+        {
+            "imagen": "2seg-fum",
+            "alt": "Segunda fumigación"
+        },
+        {
+            "imagen": "3seg-fum",
+            "alt": "Segunda fumigación"
+        },
+        {
+            "imagen": "4seg-fum",
+            "alt": "Segunda fumigación"
+        },
+        {
+            "imagen": "5seg-fum",
+            "alt": "Segunda fumigación"
+        },
+        {
+            "imagen": "6seg-fum",
+            "alt": "Segunda fumigación"
+        },
+        {
+            "imagen": "6seg-fum",
+            "alt": "Segunda fumigación"
+        },
+        {
+            "imagen": "7seg-fum",
+            "alt": "Segunda fumigación"
+        },
+        {
+            "imagen": "8seg-fum",
+            "alt": "Segunda fumigación"
+        },
+        {
+            "imagen": "9seg-fum",
+            "alt": "Segunda fumigación"
+        },
+        {
+            "imagen": "10seg-fum",
+            "alt": "Segunda fumigación"
+        }
+    ]
+}

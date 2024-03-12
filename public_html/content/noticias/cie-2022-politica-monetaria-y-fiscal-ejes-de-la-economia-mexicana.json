@@ -1,0 +1,28 @@
+{
+	"titulo": "CIE 2022: Pol\u00EDtica monetaria y fiscal, ejes de la econom\u00EDa mexicana",
+	"titulo_normalizado": "cie-2022-politica-monetaria-y-fiscal-ejes-de-la-economia-mexicana",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		},
+		{
+			"seccion": "Posgrado",
+			"seccion_normalizada": "posgrado"
+		}
+	],
+	"autor": "Tiar\u00E9 Rodr\u00EDguez",
+	"fecha": "23/08/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el marco del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">6.° congreso internacional de Econom\u00EDa: Alternativas para la reactivaci\u00F3n, el crecimiento y desarrollo econ\u00F3micos sostenible<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, Mar\u00EDa Irma Manrique, investigadora y economista por la UNAM, fue la encargada de dar la ponencia “La pol\u00EDtica monetaria y fiscal, ejes de la econ\u00F3mica mexicana en la post pandemia”, con la moderaci\u00F3n de Ra\u00FAl Porras, econometrista del Instituto de Investigaciones Econ\u00F3micas.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la ponencia, Manrique estableci\u00F3 que para finales del 2022 el crecimiento del PIB ser\u00E1 del 1%, mostrando as\u00ED la debilidad del sistema econ\u00F3mico, consecuencia de una estructura con poco ahorro, baja inversi\u00F3n fiscal, aumento del desempleo y un sistema normativo fiscal y monetario, lo cual impide que se empleen pol\u00EDticas antic\u00EDclicas para estimular la demanda agregada.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Un elemento importante a considerar en la obstaculizaci\u00F3n del crecimiento sostenido y constante es la falta de est\u00EDmulos a los factores de producci\u00F3n, ya que son un motor importante para el crecimiento econ\u00F3mico.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">C\u00F3mo conclusi\u00F3n recalc\u00F3 que a trav\u00E9s de los a\u00F1os se ha visto un aumento en la poblaci\u00F3n sin empleo, originado por la ausencia de dinamismo econ\u00F3mico, en tal situaci\u00F3n la informalidad ha sido la opci\u00F3n para enfrentar la falta de nuevos empleos, entendiendo que este tipo de ocupaciones condicionan la inestabilidad laboral y precarizan el empleo.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Política1.gif"
+		},
+		{
+			"imagen": "Política2.gif"
+		},
+		{
+			"imagen": "Política3.gif"
+		}	]
+
+}

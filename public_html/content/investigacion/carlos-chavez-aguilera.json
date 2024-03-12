@@ -1,0 +1,20 @@
+{
+    "nombre": "Carlos Chávez Aguilera", 
+    "grado_academico": "Maestro", 
+     "correo": [ "carloschavez48@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Diseño Industrial. Universidad Nacional Autónoma de México.", 
+        "Licenciatura en Arquitectura. Universidad Nacional Autónoma de México.", 
+        "Maestría en Diseño Industrial (Materiales y Procesos). Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Materiales sostenibles- El bambú.", 
+        "Investigación en Humanidades.", 
+        "Investigación en Artes.", 
+        "Investigación en manufactura y tecnología."
+    ], 
+    "investigaciones": [
+        "La vivienda sostenible integral en México. El bambú como alternativa para su equipamiento. Estudio de caso: El caso el mueble."
+    ]
+}

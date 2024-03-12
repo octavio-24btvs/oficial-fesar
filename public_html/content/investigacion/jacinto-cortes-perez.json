@@ -1,0 +1,25 @@
+{
+    "nombre": "Jacinto Cortés Pérez", 
+    "grado_academico": "Doctor en Ingeniería (Mecánica), UNAM.", 
+    "ubicacion": [ "Laboratorio de Mecánica Aplicada del Centro Tecnológico Aragón"],
+     "telefono": [ "55 5623 1045"],
+     "correo": [ "jacintocortes36@aragon.unam.mx"],
+    "estudios": [
+        "Licenciatura en Ingeniería en Mecánica, Universidad Nacional Autónoma de México/ENEP Aragón.",
+        "Maestría en Ingeniería (Mecánica), Universidad Nacional Autónoma de México/DEPFI.",
+        "Doctorado en Ingeniería (Mecánica), Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Caracterización del comportamiento mecánico de materiales no convencionales mediante técnicas teóricas experimentales, estudio del comportamiento mecánico de Materiales con Memoria de Forma (MMF) y tuberías plásticas confinadas.",
+        "Desarrollo e innovación tecnológica en diseño mecánico de equipos para la medición de aplicaciones de Materiales con Memoria de Forma (MMF)."
+    ],
+    "investigaciones": [
+        "PAPIIT IN118920. Estudio teórico-experimental del efecto de la anisotropía mecánica en la compatibilidad de deformaciones durante la transformación martensítica inducida por esfuerzos en aleaciones con memoria de forma policristalinas base de cobre.",
+        "Proyectos de vinculación:"
+    ],
+    "investigaciones2":  [
+        "Desarrollo de un sistema de información geográfica, capaz de ubicar y cuantificar las fallas y costos en la carpeta asfáltica de caminos y carreteras para su mantenimiento. “NEDOX” S.A. DE C.V. Registro UNAM: 59472-119-26-I-22.",
+        "Fabricación de una válvula economizadora de agua potable termorregulada. COMECYT-EDOMEX. Persona física: Ing. Gabriel Saúl Báez Nieves. Registró UNAM 59473-120-26-I-22.",
+        "Muro Divisorio Modular Con Material Reciclado Para Espacios Comerciales. Comecyt-EDOMEX. “La Empresaria” Ing. Samantha Victoria Torija Cruz. Registro UNAM: 59471-118-26-I-22."
+    ]
+}

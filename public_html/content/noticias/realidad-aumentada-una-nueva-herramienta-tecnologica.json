@@ -1,0 +1,34 @@
+{
+	"titulo": "Realidad aumentada, una nueva herramienta tecnol\u00F3gica",
+	"titulo_normalizado": "realidad-aumentada-una-nueva-herramienta-tecnologica",
+	"secciones": [
+		{
+			"seccion": "Ciencias Fís.-Mat. y de las Ingenierías",
+			"seccion_normalizada": "ciencias-fisico-matematicas-y-de-las-ingenierias"
+		},
+		{
+			"seccion": "Ingeniería Eléctrica Electrónica",
+			"seccion_normalizada": "electrica-electronica"
+		}
+	],
+	"autor": "Adri\u00E1n Escobar",
+	"fecha": "21/09/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Facultad de Estudios Superiores Arag\u00F3n, a trav\u00E9s de la Divisi\u00F3n de Ciencias F\u00EDsico-Matem\u00E1ticas y de las Ingenier\u00EDas, ofreci\u00F3 en el Auditorio A-1 Hermila Galindo la conferencia “C\u00F3mo aplicar la realidad aumentada en dise\u00F1os electr\u00F3nicos” como parte de las actividades de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Ingenier\u00EDa 2023.<\/em><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La ponencia corri\u00F3 a cargo de Arturo Ocampo, Ingeniero en Computaci\u00F3n egresado de la FES Arag\u00F3n y profesor de la carrera de Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica (IEE). Al evento tambi\u00E9n asisti\u00F3 el jefe de la carrera, Fidel Guti\u00E9rrez. Se habl\u00F3 acerca de las nuevas tecnolog\u00EDas y su relaci\u00F3n con la realidad aumentada (AR), los entornos digitales y los metaversos. Lo anterior, con el objetivo de que las y los estudiantes de IEE empiecen a familiarizarse con estas herramientas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Entre los temas abordados, el especialista en Ciencias de la Computaci\u00F3n destac\u00F3 los siguientes: las aplicaciones de la AR en el campo de la educaci\u00F3n; sitios de inter\u00E9s con modelos 3D para el programa Unity; y metodolog\u00EDa del trabajo para el dise\u00F1o de KIT AREEX.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El acad\u00E9mico finaliz\u00F3 la charla resaltando la importancia de estas nuevas tecnolog\u00EDas no solo para las industrias de los videojuegos o telecomunicaciones, sino tambi\u00E9n para los campos de la medicina y la educaci\u00F3n. “La realidad aumentada ha venido a motivar la ense\u00F1anza [...] hay quienes investigan qu\u00E9 tanto aprende el estudiante y lo que han descubierto es mucha motivaci\u00F3n, realmente llama la atenci\u00F3n ver modelos 3D en un dispositivo electr\u00F3nico”, enfatiz\u00F3 Ocampo.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "RA-1.gif"
+		},
+		{
+			"imagen": "RA-3.gif"
+		},
+		{
+			"imagen": "RA-4.gif"
+		},
+		{
+			"imagen": "RA-5.gif"
+		},
+		{
+			"imagen": "RA-2.gif"
+		}	]
+
+}

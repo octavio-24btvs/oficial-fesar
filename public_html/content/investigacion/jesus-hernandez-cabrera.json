@@ -1,0 +1,16 @@
+{
+    "nombre": "Jesús Hernández Cabrera", 
+    "grado_academico": "Maestro en Ciencias", 
+     "correo": [ "jesushernandezls7@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Ingeniería en Computación",
+        "Maestría en Ciencia e Ingeniería de la Computación"
+    ], 
+    "lineas_investigacion": [
+        "Investigación en las Ciencias Físico Matemáticas e Ingenierías"
+    ], 
+    "investigaciones": [
+        "Estudio e Implementación de buenas prácticas de desarrollo de software orientadas a la implementación de desarrollo con la metodología SCRUM.",
+        "Especialización en auditoría de calidad de software, orientado a la implementación de los estándares internacionales."
+    ]
+}

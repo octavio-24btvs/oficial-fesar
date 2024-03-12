@@ -1,0 +1,31 @@
+{
+	"titulo": "Verano de aprendizaje en la FES Arag\u00F3n",
+	"titulo_normalizado": "verano-de-aprendizaje-en-la-fes-aragon",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		},
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		}
+	],
+	"autor": "Priscila Ch\u00E1vez",
+	"fecha": "12/08/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La clausura del curso de verano en la Facultad, finaliz\u00F3 con la participaci\u00F3n del coordinador de actividades deportivas y recreativas, Carlos Octavio Cruz, el jefe del departamento de actividades culturales, Jos\u00E9 Antonio Linares, y el encargado de las disciplinas deportivas, Miguel Ju\u00E1rez. As\u00ED mismo, estuvieron presentes las ni\u00F1as y los ni\u00F1os que formaron parte de este evento, en compa\u00F1\u00EDa de sus familias y monitores, quienes los acompa\u00F1aron en cada actividad que realizaron.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el curso de verano tuvieron la oportunidad de desarrollar habilidades y aprendizajes en distintas \u00E1reas, tales como el b\u00E1dminton, taekwondo, futbol y basquetbol, pintura, teatro y danza. El licenciado Carlos Cruz, enfatiz\u00F3 que las y los coordinadores son personas profesionales y preparadas, con la intenci\u00F3n de apoyar a cada uno en su formaci\u00F3n, a trav\u00E9s de los conocimientos y valores que fomenta la universidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las y los participantes recibieron un reconocimiento para conmemorar sus logros y entrega a lo largo de estas dos semanas; infantes, monitores y profesorado fueron reconocidos como parte importante del proyecto.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Jos\u00E9 Linares dio un mensaje para las madres y los padres de familia, agradeci\u00F3 la confianza depositada en la instituci\u00F3n y extendi\u00F3 una invitaci\u00F3n para que las ni\u00F1as y ni\u00F1os aprovechen las oportunidades culturales y deportivas que ofrece la FES Arag\u00F3n.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "verano1.gif"
+		},
+		{
+			"imagen": "Verano2.gif"
+		},
+		{
+			"imagen": "Verano3.gif"
+		},
+		{
+			"imagen": "Verano4.gif"
+		}	]
+
+}

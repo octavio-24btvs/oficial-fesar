@@ -1,0 +1,30 @@
+{
+	"titulo": "Taller de imagen profesional",
+	"titulo_normalizado": "taller-de-imagen-profesional",
+	"secciones": [
+		{
+			"seccion": "Bolsa de Trabajo",
+			"seccion_normalizada": "bolsa-de-trabajo"
+		}
+	],
+	"autor": "Oscar Rafael Cornejo",
+	"fecha": "15/11/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A trav\u00E9s de Bolsa de Trabajo, se llev\u00F3 a cabo una pl\u00E1tica en l\u00EDnea por parte de Paola Bucio, miembro del \u00E1rea de recursos humanos de la empresa Nestl\u00E9 en M\u00E9xico, asesor\u00F3 a la comunidad aragonesa para crear un <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">curriculum vitae <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">(CV) correctamente, encontrar contos, entre otros.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La ponente puso como ejemplo las cualidades de una solicitud de empleo junto con un curriculum, como una fotograf\u00EDa profesional, los datos correctos, tener buen formato, etc\u00E9tera.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Burcio mencion\u00F3 que el uso de p\u00E1ginas web, como Linkedin, son una buena forma de aplicar para un empleo pues, en el caso de la empresa Nestl\u00E9, esta les ayuda a buscar a las personas candidatas para distintos puestos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para terminar la pl\u00E1tica, hablaron sobre las redes de contactos, su importancia y c\u00F3mo beneficia tener una. Dentro del \u00E1rea de comunicaciones, por ejemplo, es importante manejar una buena relaci\u00F3n con personas en distintos puestos en diferentes empresas o trabajos, pues nunca sabemos cu\u00E1ndo se podr\u00EDan requerir sus habilidades, de ah\u00ED tambi\u00E9n la importancia de tener un buen CV donde se mencione cada una de nuestras habilidades por m\u00EDnimas que parezcan.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Imagen1.gif"
+		},
+		{
+			"imagen": "Imagen2.gif"
+		},
+		{
+			"imagen": "Imagen3.gif"
+		},
+		{
+			"imagen": "Imagen4.gif"
+		},
+		{
+			"imagen": "Imagen5.gif"
+		}	]
+
+}

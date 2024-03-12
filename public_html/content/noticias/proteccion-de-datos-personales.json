@@ -1,0 +1,14 @@
+{
+	"titulo": "Protecci\u00F3n de datos personales",
+	"titulo_normalizado": "proteccion-de-datos-personales",
+	"secciones": [
+		{
+			"seccion": "SUAyED",
+			"seccion_normalizada": "suayed"
+		}
+	],
+	"autor":"Gabriel Hern\u00E1ndez",
+	"fecha":"21/05/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con el objetivo de dar a conocer c\u00F3mo las organizaciones se responsabilizan de proteger nuestros datos personales, se realiz\u00F3 la videoconferencia “La Responsabilidad de los Integrantes de las Organizaciones P\u00FAblicas y Sociales en la Protecci\u00F3n de Datos Personales” en el marco del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">2do. Congreso Internacional en Evaluaci\u00F3n y Direcci\u00F3n \u00C9tica de Proyectos P\u00FAblicos y Sociales<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La ponente, Nancy Bel\u00E9n Ram\u00EDrez, ingeniera en computaci\u00F3n y gestora de proyectos, explic\u00F3 que los datos personales son la informaci\u00F3n relativa a una persona f\u00EDsica que la hace identificable, pueden ser laborales, patrimoniales o financieros, acad\u00E9micos, biom\u00E9tricos, de procedimientos legales, de tr\u00E1nsito o movimientos migratorios, etc\u00E9tera.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Debido a su importancia diferentes leyes obligan a las instituciones a cuidar estos datos, de lo contrario podr\u00EDan ser sancionadas, multadas y afrontar demandas judiciales.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La especialista se\u00F1al\u00F3 que las empresas u organizaciones deben notificar previamente su uso a trav\u00E9s de un aviso de privacidad, el cual contendr\u00E1 el nombre y domicilio del responsable de la informaci\u00F3n, los detalles de c\u00F3mo se resguardar\u00E1 y la finalidad del uso.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">De igual manera, Ram\u00EDrez indic\u00F3 que, en manos equivocadas, pueden ser usados para suplantar nuestra identidad o realizar fraudes, en dado caso, las personas pueden acudir a los entes correspondientes como el INAI, los \u00D3rganos Garantes del Sistema Nacional de Transparencia o ante una autoridad judicial.<\/span><\/p>",
+	"imagenes":[{"imagen":"proteccion-de-datos-personales-1.jpg"},{"imagen":"proteccion-de-datos-personales-2.jpg"}]
+}

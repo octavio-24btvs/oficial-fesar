@@ -1,0 +1,30 @@
+{
+	"titulo": "SEMECO: Inteligencia para los negocios",
+	"titulo_normalizado": "semeco-inteligencia-para-los-negocios",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		}
+	],
+	"autor": "Kenia Brodman",
+	"fecha": "27/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el tercer d\u00EDa de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Econom\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se llev\u00F3 a cabo la conferencia “Inteligencia en los negocios” a cargo de Eduardo Mendoza, docente de la Facultad de Estudios Superiores Acatl\u00E1n, quien explic\u00F3 que este concepto parte de tres criterios base: teor\u00EDa de la microeconom\u00EDa enfocada en la optimizaci\u00F3n del beneficio, as\u00ED como de los costos y gastos, la destrucci\u00F3n creativa de los negocios para ser innovadores y la teor\u00EDa de las limitaciones.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Respecto a los prerrequisitos para una adecuada inteligencia de negocios, Mendoza destac\u00F3 el punto de equilibrio y cierre de la empresa, siendo una problem\u00E1tica en ocasiones dentro de las PyME, pues “a veces se improvisa en el proceso productivo o comercial y va a la suerte su comportamiento econ\u00F3mico”. En esa v\u00EDa, tambi\u00E9n hay que considerar el registro y an\u00E1lisis de variables confiables y financieras, as\u00ED como el manejo de tecnolog\u00EDas de la informaci\u00F3n, bajo la necesidad de e-commerce, como redes sociales y webinars.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El enfoque de la inteligencia de negocios, agreg\u00F3, parte de tres vertientes. En primera instancia el estrat\u00E9gico, es decir, en d\u00F3nde est\u00E1 parada la organizaci\u00F3n y a d\u00F3nde puede llegar. En lo tecnol\u00F3gico es c\u00F3mo hacer m\u00E1s eficiente la recolecci\u00F3n de la informaci\u00F3n y tabulaci\u00F3n de la misma; dentro de la competitividad se debe aprender de los errores de nuestra organizaci\u00F3n y del mercado, o bien las \u00E1reas de oportunidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">“No se trata tanto de que el cliente tenga la raz\u00F3n, sino que todo sistema econ\u00F3mico est\u00E1 sustentado en una demanda. De nada me sirve tener un exceso de oferta, si no hay quien la adquiera”, puntualiz\u00F3.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "inteligencia1.gif"
+		},
+		{
+			"imagen": "inteligencia2.gif"
+		},
+		{
+			"imagen": "inteligencia3.gif"
+		},
+		{
+			"imagen": "inteligencia4.gif"
+		},
+		{
+			"imagen": "inteligencia5.gif"
+		}	]
+
+}

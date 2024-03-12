@@ -1,0 +1,37 @@
+{
+	"titulo": "SUAyED cierra celebraci\u00F3n con \u00F3pera y cine",
+	"titulo_normalizado": "suayed-cierra-celebracion-con-opera-y-cine",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		},
+		{
+			"seccion": "SUAyED",
+			"seccion_normalizada": "suayed"
+		}
+	],
+	"autor": "Julio G\u00F3mez",
+	"fecha": "22/04/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Sistema Universidad Abierta y Educaci\u00F3n a Distancia (SUAyED) de la FES Arag\u00F3n concluy\u00F3 la celebraci\u00F3n por los 50 a\u00F1os de esta modalidad en la UNAM con una presentaci\u00F3n especial donde se conjunta cine y \u00F3pera, en el Teatro Jos\u00E9 Vasconcelos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El proyecto \u00D3pera-cinema de la compa\u00F1\u00EDa Offenbach Operetta Studio A.C., estuvo en nuestra Facultad con el espect\u00E1culo <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los Siete Pecados Capitales<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, basado en la m\u00FAsica de Kurt Weill y textos de Bertolt Brecht.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La funci\u00F3n consiste en dos partes, primero un recital de cantantes de \u00F3pera, despu\u00E9s, la proyecci\u00F3n de una pel\u00EDcula muda, filmada por la propia compa\u00F1\u00EDa y musicalizada en vivo con piano y voces. Esta obra, la cual cuenta con el apoyo del Fondo Nacional para la Cultura y las Artes (FONCA), tuvo su primera presentaci\u00F3n en la FES Arag\u00F3n y estar\u00E1 de gira en la Ciudad de M\u00E9xico y \u00E1rea metropolitana.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al finalizar, Fernando Macedo, director aragon\u00E9s, felicit\u00F3 al equipo de la SUAyED y record\u00F3 que su modelo de ense\u00F1anza fue tomado de ejemplo para adaptar las clases a distancia durante la pandemia; finalmente, remarc\u00F3 el gozo de estar de vuelta a las actividades presenciales y poder disfrutar estos eventos culturales. <\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "suayed-cierra-celebracion-con-opera-y-cine-1.jpg"
+		},
+		{
+			"imagen": "suayed-cierra-celebracion-con-opera-y-cine-2.jpg"
+		},
+		{
+			"imagen": "suayed-cierra-celebracion-con-opera-y-cine-3.jpg"
+		},
+		{
+			"imagen": "suayed-cierra-celebracion-con-opera-y-cine-4.jpg"
+		},
+		{
+			"imagen": "suayed-cierra-celebracion-con-opera-y-cine-5.jpg"
+		},
+		{
+			"imagen": "suayed-cierra-celebracion-con-opera-y-cine-6.jpg"
+		}	]
+
+}

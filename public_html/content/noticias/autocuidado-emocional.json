@@ -1,0 +1,14 @@
+{
+	"titulo": "Autocuidado emocional",
+	"titulo_normalizado": "autocuidado-emocional",
+	"secciones": [
+		{
+			"seccion": "Servicios a la Comunidad",
+			"seccion_normalizada": "servicios-a-la-comunidad"
+		}
+	],
+	"autor":"Alberto Ochoa",
+	"fecha":"26/05/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La salud mental es un estado que se conforma del bienestar f\u00EDsico, emocional y social, y no solamente con la ausencia de afecciones o enfermedades. Para hablar m\u00E1s de este tema, se llev\u00F3 a cabo la videoconferencia “Autocuidado emocional”, organizada por el \u00E1rea de Servicios a la Comunidad de la FES Arag\u00F3n e impartida por Angel Corchado, especialista con doctorado en Educaci\u00F3n con menci\u00F3n honor\u00EDfica por el CESE.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La postura existencial humanista del psic\u00F3logo Corchado considera tres niveles para lograr una cultura del cuidado emocional en las personas: promoci\u00F3n, prevenci\u00F3n y tratamiento.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Seg\u00FAn explic\u00F3 el ponente, la promoci\u00F3n del bienestar est\u00E1 basada en pl\u00E1ticas informativas y talleres donde se visibilizan las afecciones que sufren quienes padecen de ansiedad y depresi\u00F3n, buscando con esto la desestigmatizaci\u00F3n para que la gente pueda prevenir trastornos emocionales a trav\u00E9s del autocuidado.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En caso de necesitar tratamiento o rehabilitaci\u00F3n, acercarte a las redes de Metanoia UNAM, donde te canalizar\u00E1n con un profesional de la salud que pueda ayudarte.<\/span><\/p>",
+	"imagenes":[{"imagen":"Autocuidado1.gif"},{"imagen":"Autocuidado2.gif"},{"imagen":"Autocuidado3.gif"}]
+}

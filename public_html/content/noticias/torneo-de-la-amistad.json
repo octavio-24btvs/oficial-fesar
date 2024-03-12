@@ -1,0 +1,34 @@
+{
+	"titulo": "Torneo de la amistad",
+	"titulo_normalizado": "torneo-de-la-amistad",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "15/02/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte del festival del 14 de febrero, en la FES Arag\u00F3n se llev\u00F3 a cabo el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Torneo de la amistad<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, coordinado por el departamento de Extensi\u00F3n Universitaria en la cancha de F\u00FAtbol 7 y el gimnasio de parquet.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En este encuentro se jugaron partidos amistosos de futbol y b\u00E1squetbol, que reunieron a distintas carreras de la Facultad para disputarse los primeros tres lugares, durante los juegos sali\u00F3 a relucir la pasi\u00F3n y cooperaci\u00F3n de los participantes.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el futbol los equipos (blanco y azul) defendieron su posici\u00F3n a pesar del cansancio, el calor y las lesiones. Por su parte, en b\u00E1squetbol, los Kayser y los Basket tuvieron una final muy re\u00F1ida en la cual obtuvo la victoria este \u00FAltimo. A pesar de ser un encuentro en el que la competitividad estaba presente, las risas y el festejo por parte de las y los participantes no estuvieron ausentes.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Estas actividades fomentan el compa\u00F1erismo y la participaci\u00F3n de la comunidad universitaria con actividades deportivas, apoyando as\u00ED la formaci\u00F3n integral de nuestra comunidad en un ambiente de cooperaci\u00F3n.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Torneo1.gif"
+		},
+		{
+			"imagen": "Torneo2.gif"
+		},
+		{
+			"imagen": "Torneo3.gif"
+		},
+		{
+			"imagen": "Torneo4.gif"
+		},
+		{
+			"imagen": "Torneo5.gif"
+		}	]
+
+}

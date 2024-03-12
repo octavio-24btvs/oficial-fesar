@@ -1,0 +1,18 @@
+{
+    "nombre": "Octavio Díaz Hernández", 
+    "grado_academico": "Doctor", 
+     "correo": [ "zidh@comunidad.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Ingeniería Mecatrónica. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ingeniería. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Investigación en Ciencias Físico Matemáticas e Ingenierías.", 
+        "Investigación en Sistemas Electrónicos, Mecánicos y de Computación."
+    ], 
+    "investigaciones": [
+        "Sistemas mecatrónicos para la rehabilitación.", 
+        "Desarrollo de dispositivos biomédicos."
+    ]
+}

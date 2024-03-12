@@ -1,0 +1,63 @@
+{
+	"id": 3,
+	"titulo": "Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica",
+	"icono": "icon-ingenieria-electrica-electronica",
+	"noticias": [
+		{
+			"titulo":"Carrera empresarial en Arag\u00F3n",
+			"titulo_normalizado":"carrera-empresarial-en-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "carrera-empresarial-1.jpg",
+			"fecha":"29/04/22"
+		},
+		{
+			"titulo":"Semana de la Ingenier\u00EDa",
+			"titulo_normalizado":"semana-de-la-ingenieria",
+			"autor":"Rodrigo Castillo",
+			"imagen": "semana-ingenieria-1.gif",
+			"fecha":"21/09/23"
+		},
+		{
+			"titulo":"Realidad aumentada, una nueva herramienta tecnol\u00F3gica",
+			"titulo_normalizado":"realidad-aumentada-una-nueva-herramienta-tecnologica",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "RA-1.gif",
+			"fecha":"21/09/23"
+		},
+		{
+			"titulo":"Octava Fiesta de las ciencias y las humanidades",
+			"titulo_normalizado":"octava-fiesta-de-las-ciencias-y-las-humanidades",
+			"autor":"Erick Sol\u00EDs",
+			"imagen": "octava-fiesta-de-las-ciencias-y-las-humanidades-1.jpg",
+			"fecha":"19/11/20"
+		},
+		{
+			"titulo":"Electr\u00F3nica aplicada a la discapacidad",
+			"titulo_normalizado":"electronica-aplicada-a-la-discapacidad",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "IDEA1.gif",
+			"fecha":"19/04/22"
+		},
+		{
+			"titulo":"8M: Taller Mujeres en las profesiones",
+			"titulo_normalizado":"8m-taller-mujeres-en-las-profesiones",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Taller1.gif",
+			"fecha":"11/03/22"
+		},
+		{
+			"titulo":"Aprendizaje para llevar",
+			"titulo_normalizado":"aprendizaje-para-llevar",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "aprendizaje-para-llevar-1.jpg",
+			"fecha":"03/12/18"
+		},
+		{
+			"titulo":"Laboratorio Electr\u00F3nico M\u00F3vil (LEM)",
+			"titulo_normalizado":"laboratorio-electronico-movil-lem",
+			"autor":"Erik Pliego",
+			"imagen": "LEM1.gif",
+			"fecha":"02/05/23"
+		}
+	]
+}

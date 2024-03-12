@@ -1,0 +1,14 @@
+{
+	"titulo": "Imparten curso intersemestral de mec\u00E1nica automotriz",
+	"titulo_normalizado": "imparten-curso-intersemestral-de-mecanica-automotriz",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor":"Daniela D\u00EDaz",
+	"fecha":"07/08/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Personal docente considera que la pr\u00E1ctica es la mejor forma de aprender; uno de ellos es Rolando Calder\u00F3n, profesor de Ingenier\u00EDa Mec\u00E1nica, quien mediante el curso intersemestral “Mec\u00E1nica B\u00E1sica<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Servicio Automotriz”, y con la ayuda de dos autom\u00F3viles <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Smart Fortwo <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">donados a la FES Arag\u00F3n, instruy\u00F3 a la comunidad estudiantil interesada en la rama automotriz.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Sin dejar de lado las cuestiones te\u00F3ricas como el Principio de Pascal o el Ciclo de Otto, simul\u00F3 fallas en los veh\u00EDculos con fines did\u00E1cticos para que fueran solucionados por las y los asistentes y conocieran de primera mano las piezas y herramientas principales en el funcionamiento de estas m\u00E1quinas.<\/span><\/p>",
+	"imagenes":[{"imagen":"imparten-curso-intersemestral-de-mecanica-automotriz-1.png"},{"imagen":"imparten-curso-intersemestral-de-mecanica-automotriz-2.png"},{"imagen":"imparten-curso-intersemestral-de-mecanica-automotriz-3.jpg"},{"imagen":"imparten-curso-intersemestral-de-mecanica-automotriz-4.png"},{"imagen":"imparten-curso-intersemestral-de-mecanica-automotriz-5.png"}]
+}

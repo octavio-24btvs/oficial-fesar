@@ -1,0 +1,17 @@
+{
+    "nombre": "Elías Polanco Braga", 
+    "grado_academico": "Doctor", 
+    "correo": [ "eliaspolancoc3@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Derecho. Universidad Nacional Autónoma de México.",
+        "Maestría en Derecho. Universidad Nacional Autónoma de México.",
+        "Doctorado en Derecho. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Derecho procesal penal."
+    ], 
+    "investigaciones": [
+        "Procedimientos especiales y recursos en el sistema penal nacional acusatorio."  
+    ]
+}

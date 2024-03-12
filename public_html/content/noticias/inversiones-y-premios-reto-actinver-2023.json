@@ -1,0 +1,50 @@
+{
+	"titulo": "Inversiones y Premios: Reto Actinver 2023",
+	"titulo_normalizado": "inversiones-y-premios-reto-actinver-2023",
+	"secciones": [
+		{
+			"seccion": "Ciencias Sociales",
+			"seccion_normalizada": "ciencias-sociales"
+		},
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Hilda Hern\u00E1ndez",
+	"fecha": "09/10/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Expertos en inversiones y finanzas, entre ellos Gerardo Aparicio, Santiago Rinc\u00F3n, Enrique Covarrubias, Alejandro Stieglitz, Heber Marvin Longhurst, Carlos Ponce y Luis Tinajero, adem\u00E1s de Jessica Saucedo, como moderadora, dieron la bienvenida a las y los participantes del Reto Actinver 2023.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Gerardo Aparicio, quien subray\u00F3 la importancia de la disciplina y el establecimiento de objetivos para invertir, resolvi\u00F3 algunas dudas que son frecuentes durante el reto. Por otro lado, Santiago Rinc\u00F3n destac\u00F3 los beneficios de participar, como la eliminaci\u00F3n de la brecha entre lo te\u00F3rico y lo pr\u00E1ctico, adem\u00E1s de superar el miedo al aprendizaje. Enrique Covarrubias, por su parte, resalt\u00F3 c\u00F3mo esta iniciativa ayuda a comprender el funcionamiento del mercado.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Es importante destacar que, adem\u00E1s del aprendizaje, se ofrecen premios a quienes muestren el mejor desempe\u00F1o: para el primer lugar corresponden $15,000 MXN, al segundo $10,000 MXN y el tercero $5,000 MXN. Asimismo, los premios finales son a\u00FAn m\u00E1s atractivos, con $500,000 MXN para el primer lugar, $250,000 MXN para el segundo lugar y $100,000 MXN para el tercer lugar. Adem\u00E1s, es relevante mencionar que no solo los primeros lugares son beneficiados, ya que incluso ocupando el puesto veintinueve, puedes ganar dinero en efectivo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cualquier persona puede participar en este reto sin necesidad de ser un experto en la materia. \u00A1La oportunidad est\u00E1 abierta para todos!<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "actinver1.gif"
+		},
+		{
+			"imagen": "Actinver2.gif"
+		},
+		{
+			"imagen": "actinver3.gif"
+		},
+		{
+			"imagen": "Actinver4.gif"
+		},
+		{
+			"imagen": "Actinver5.gif"
+		},
+		{
+			"imagen": "Actinver6.gif"
+		},
+		{
+			"imagen": "Actinver7.gif"
+		},
+		{
+			"imagen": "Actinver8.gif"
+		},
+		{
+			"imagen": "Actinver9.gif"
+		}	]
+
+}

@@ -1,0 +1,413 @@
+{
+	"id": 29,
+	"titulo": "Bolsa de Trabajo",
+	"icono": "icon-bolsa-de-trabajo",
+	"noticias": [
+		{
+			"titulo":"L\u00EDderes en Arag\u00F3n",
+			"titulo_normalizado":"lideres-en-aragon",
+			"autor":"Laura D. Garc\u00EDa",
+			"imagen": "lideres-en-aragon-1.jpg",
+			"fecha":"30/04/19"
+		},
+		{
+			"titulo":"\u00BFC\u00F3mo redactar tu CV?",
+			"titulo_normalizado":"como-redactar-tu-cv",
+			"autor":"Rodrigo Perea",
+			"imagen": "como-redactar-tu-cv-1-.jpg",
+			"fecha":"28/10/20"
+		},
+		{
+			"titulo":"El empleo como experiencia gratificante",
+			"titulo_normalizado":"el-empleo-como-experiencia-gratificante",
+			"autor":"Beatriz Calva",
+			"imagen": "empleabilidad-1.jpg",
+			"fecha":"28/03/23"
+		},
+		{
+			"titulo":"\u00BFEres feminista? As\u00ED deber\u00EDas armar tu CV",
+			"titulo_normalizado":"eres-feminista-asi-deberias-armar-tu-cv",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "Platica-feminismo-CV-1.jpg",
+			"fecha":"27/11/20"
+		},
+		{
+			"titulo":"Consejos para la b\u00FAsqueda de empleo",
+			"titulo_normalizado":"consejos-para-la-busqueda-de-empleo",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "consejos-para-la-busqueda-de-empleo-1.jpg",
+			"fecha":"27/03/19"
+		},
+		{
+			"titulo":"Moons se suma a la 11 Expo Futuro Profesional 2021",
+			"titulo_normalizado":"moons-se-suma-a-la-11-expo-futuro-profesional-2021",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "Moons1.gif",
+			"fecha":"26/11/21"
+		},
+		{
+			"titulo":"Retos y oportunidades de las empresas 4.0",
+			"titulo_normalizado":"retos-y-oportunidades-de-las-empresas-40",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "retos-y-oportunidades-de-las-empresas-4-0-1.jpg",
+			"fecha":"26/11/21"
+		},
+		{
+			"titulo":"La importancia del primer empleo",
+			"titulo_normalizado":"la-importancia-del-primer-empleo",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Empleo1.gif",
+			"fecha":"26/09/22"
+		},
+		{
+			"titulo":"Reclutamiento Deloitte",
+			"titulo_normalizado":"reclutamiento-deloitte",
+			"autor":"Liliana Espinosa",
+			"imagen": "reclutamiento-deloitte-1.jpg",
+			"fecha":"26/08/19"
+		},
+		{
+			"titulo":"Gran asistencia a reclutamiento Deloitte",
+			"titulo_normalizado":"gran-asistencia-a-reclutamiento-deloitte",
+			"autor":"Luis Bocanegra",
+			"imagen": "gran-asistencia-a-reclutamiento-deloitte-1.jpg",
+			"fecha":"26/04/19"
+		},
+		{
+			"titulo":"13EFP: Trabajar en una casa hogar, un empleo m\u00E1s humano",
+			"titulo_normalizado":"13efp-trabajar-en-una-casa-hogar-un-empleo-mas-humano",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "not-found.jpg",
+			"fecha":"25/11/22"
+		},
+		{
+			"titulo":"13EFP: SENASICA",
+			"titulo_normalizado":"13efp-senasica",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Senasica1.gif",
+			"fecha":"25/11/22"
+		},
+		{
+			"titulo":"13EFP: Fomentan participaci\u00F3n laboral para personas con discapacidad",
+			"titulo_normalizado":"13efp-fomentan-participacion-laboral-para-personas-con-discapacidad",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "not-found.jpg",
+			"fecha":"25/11/22"
+		},
+		{
+			"titulo":"13EFP: Danone",
+			"titulo_normalizado":"13efp-danone",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Danone1.gif",
+			"fecha":"25/11/22"
+		},
+		{
+			"titulo":"13EFP: GNP oferta vacantes para asegurar a la sociedad",
+			"titulo_normalizado":"13efp-gnp-oferta-vacantes-para-asegurar-a-la-sociedad",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "not-found.jpg",
+			"fecha":"25/11/22"
+		},
+		{
+			"titulo":"Audi en la Expo Futuro Profesional 2021",
+			"titulo_normalizado":"audi-en-la-expo-futuro-profesional-2021",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "Audi1.gif",
+			"fecha":"25/11/21"
+		},
+		{
+			"titulo":"Walmart destaca plan de diversidad e inclusi\u00F3n",
+			"titulo_normalizado":"walmart-destaca-plan-de-diversidad-e-inclusion",
+			"autor":"Kenia Brodman",
+			"imagen": "Walmart1.gif",
+			"fecha":"25/11/21"
+		},
+		{
+			"titulo":"Expo Futuro: Banxico",
+			"titulo_normalizado":"expo-futuro-banxico",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Bxco2.gif",
+			"fecha":"25/11/21"
+		},
+		{
+			"titulo":"Feria Expo Futuro: encuentra tu camino profesional",
+			"titulo_normalizado":"feria-expo-futuro-encuentra-tu-camino-profesional",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "feria-expo-futuro-encuentra-tu-camino-profesional-1.jpg",
+			"fecha":"25/11/20"
+		},
+		{
+			"titulo":"13EFP: Dise\u00F1o y producci\u00F3n: oportunidades en John Deere",
+			"titulo_normalizado":"13efp-diseno-y-produccion-oportunidades-en-john-deere",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "deere-1.gif",
+			"fecha":"24/11/22"
+		},
+		{
+			"titulo":"13EFP: Una oportunidad laboral internacional",
+			"titulo_normalizado":"13efp-una-oportunidad-laboral-internacional",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "oportunidad-laboral-internacional-1.jpg",
+			"fecha":"24/11/22"
+		},
+		{
+			"titulo":"FGR se suma a la Expo Futuro Profesional 2021",
+			"titulo_normalizado":"fgr-se-suma-a-la-expo-futuro-profesional-2021",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "FGR!.gif",
+			"fecha":"24/11/21"
+		},
+		{
+			"titulo":"CitiBanamex abre sus puertas a la comunidad aragonesa",
+			"titulo_normalizado":"citibanamex-abre-sus-puertas-a-la-comunidad-aragonesa",
+			"autor":"Kenia Brodman",
+			"imagen": "Banamex1.gif",
+			"fecha":"24/11/21"
+		},
+		{
+			"titulo":"Ense\u00F1a por M\u00E9xico busca tu talento",
+			"titulo_normalizado":"ensena-por-mexico-busca-tu-talento",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "ensena-por-mexico-busca-tu-talento-1.jpg",
+			"fecha":"24/11/21"
+		},
+		{
+			"titulo":"Encuentra empleo en la 11a Expo Futuro Profesional",
+			"titulo_normalizado":"encuentra-empleo-en-la-11a-expo-futuro-profesional",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "encuentra-empleo-en-la-expo-futuro-profesional-1.jpg",
+			"fecha":"24/11/21"
+		},
+		{
+			"titulo":"EPL busca sinergia con la FES Arag\u00F3n",
+			"titulo_normalizado":"epl-busca-sinergia-con-la-fes-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "elp-1.jpg",
+			"fecha":"24/08/22"
+		},
+		{
+			"titulo":"Expo Futuro, v\u00EDnculo al mercado laboral",
+			"titulo_normalizado":"expo-futuro-vinculo-al-mercado-laboral",
+			"autor":"Beatriz Calva",
+			"imagen": "expo-1.gif",
+			"fecha":"24/05/23"
+		},
+		{
+			"titulo":"13a EFP: American Express",
+			"titulo_normalizado":"13a-efp-american-express",
+			"autor":"Monserrat Jimenez",
+			"imagen": "AMEX1.gif",
+			"fecha":"23/11/22"
+		},
+		{
+			"titulo":"13EFP: Empuj\u00F3n a lo profesional",
+			"titulo_normalizado":"13efp-empujon-a-lo-profesional",
+			"autor":"Elisa Jacobo",
+			"imagen": "aniq-1.jpg",
+			"fecha":"23/11/22"
+		},
+		{
+			"titulo":"13EFP: En busca de creativos",
+			"titulo_normalizado":"13efp-en-busca-de-creativos",
+			"autor":"Elisa Jacobo",
+			"imagen": "creativos-1.jpg",
+			"fecha":"23/11/22"
+		},
+		{
+			"titulo":"JID: Inclusi\u00F3n laboral y empleabilidad",
+			"titulo_normalizado":"jid-inclusion-laboral-y-empleabilidad",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Laboral1.gif",
+			"fecha":"23/02/23"
+		},
+		{
+			"titulo":"13EFP: Ense\u00F1a por M\u00E9xico",
+			"titulo_normalizado":"13efp-ensena-por-mexico",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Captura de pantalla 2022-11-23 131354.jpg",
+			"fecha":"22/11/22"
+		},
+		{
+			"titulo":"Inicia tu futuro laboral en Intel M\u00E9xico",
+			"titulo_normalizado":"inicia-tu-futuro-laboral-en-intel-mexico",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "futuro-intel.jpg",
+			"fecha":"22/04/21"
+		},
+		{
+			"titulo":"\u00BFSe acerca el fin de la radio y la TV?",
+			"titulo_normalizado":"se-acerca-el-fin-de-la-radio-y-la-tv",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "Era-digital-matando-radio-tv-2.jpg",
+			"fecha":"21/10/20"
+		},
+		{
+			"titulo":"Taller para j\u00F3venes universitarios en busca de trabajo",
+			"titulo_normalizado":"taller-para-jovenes-universitarios-en-busca-de-trabajo",
+			"autor":"Liliana Espinosa",
+			"imagen": "taller- para jovenes-universitarios-en-busca-de-trabajo-1.jpg",
+			"fecha":"21/08/19"
+		},
+		{
+			"titulo":"Entre el CV y la entrevista",
+			"titulo_normalizado":"entre-el-cv-y-la-entrevista",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "entre-cv-entrevista-1.jpg",
+			"fecha":"19/04/21"
+		},
+		{
+			"titulo":"Pilgrim's presenta el programa Trainee",
+			"titulo_normalizado":"pilgrims-presenta-el-programa-trainee",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Pilgrim1.gif",
+			"fecha":"16/08/23"
+		},
+		{
+			"titulo":"Perfil de carrera Universum",
+			"titulo_normalizado":"perfil-de-carrera-universum",
+			"autor":"Alejandro Trujillo",
+			"imagen": "test1.gif",
+			"fecha":"15/03/23"
+		},
+		{
+			"titulo":"El proceso de escribir una nota",
+			"titulo_normalizado":"el-proceso-de-escribir-una-nota",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "El-proceso-de-escribir-una-nota-2.jpg",
+			"fecha":"14/10/20"
+		},
+		{
+			"titulo":"Un vistazo al mundo digital",
+			"titulo_normalizado":"un-vistazo-al-mundo-digital",
+			"autor":"Aleida Sashel Gonz\u00E1lez",
+			"imagen": "vistazo-mundo-digital-1.jpg",
+			"fecha":"14/01/21"
+		},
+		{
+			"titulo":"Grupo Modelo en busca de talento",
+			"titulo_normalizado":"grupo-modelo-en-busca-de-talento",
+			"autor":"Edith Granados",
+			"imagen": "Grupo-Modelo-en-busca-de-talento-1.jpg",
+			"fecha":"13/02/19"
+		},
+		{
+			"titulo":"CitiBanamex ofrece empleos para alumnos y egresados",
+			"titulo_normalizado":"citibanamex-ofrece-empleos-para-alumnos-y-egresados",
+			"autor":"Sashel Gonz\u00E1lez",
+			"imagen": "Citibanamex-empleos-alumnos-1.jpg",
+			"fecha":"12/11/20"
+		},
+		{
+			"titulo":"Oportunidades acad\u00E9micas y laborales en ExpoFuturo",
+			"titulo_normalizado":"oportunidades-academicas-y-laborales-en-expofuturo",
+			"autor":"Luis Bocanegra y Laura D. Garc\u00EDa",
+			"imagen": "oportunidades-academicas-y-laborales-en-expofuturo-1.jpg",
+			"fecha":"11/04/19"
+		},
+		{
+			"titulo":"Programa Young International Specialist de DHL",
+			"titulo_normalizado":"programa-young-international-specialist-de-dhl",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "Programa-yis-dhl-1.jpg",
+			"fecha":"10/11/20"
+		},
+		{
+			"titulo":"Jornada de reclutamiento Pilgrim’s",
+			"titulo_normalizado":"jornada-de-reclutamiento-pilgrim---s",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "jornada-de-reclutamiento-pilgrims-1.jpg",
+			"fecha":"08/05/19"
+		},
+		{
+			"titulo":"Reporteo diario: crucial para hacer investigaci\u00F3n",
+			"titulo_normalizado":"reporteo-diario-crucial-para-hacer-investigacion",
+			"autor":"Celia Sim\u00F3n",
+			"imagen": "reporteo-diario-1.jpg",
+			"fecha":"08/02/21"
+		},
+		{
+			"titulo":"UNILEVER apoyando a universitarios",
+			"titulo_normalizado":"unilever-apoyando-a-universitarios",
+			"autor":"Oscar Rafael Cornejo",
+			"imagen": "Uniliver1.gif",
+			"fecha":"07/09/23"
+		},
+		{
+			"titulo":"Integraci\u00F3n laboral",
+			"titulo_normalizado":"integracion-laboral",
+			"autor":"Alexis Rey",
+			"imagen": "Bolsa.gif",
+			"fecha":"07/09/22"
+		},
+		{
+			"titulo":"La experiencia del servicio social",
+			"titulo_normalizado":"la-experiencia-del-servicio-social",
+			"autor":"Velia  Andrey L\u00F3pez",
+			"imagen": "expofuturo.gif",
+			"fecha":"07/05/21"
+		},
+		{
+			"titulo":"La mec\u00E1nica del trabajo en Audi",
+			"titulo_normalizado":"la-mecanica-del-trabajo-en-audi",
+			"autor":"Juan G\u00F3mez",
+			"imagen": "la-mecanica-del-trabajo-en-audi-1.jpg",
+			"fecha":"07/05/21"
+		},
+		{
+			"titulo":"Sector social, una opci\u00F3n para profesionistas",
+			"titulo_normalizado":"sector-social-una-opcion-para-profesionistas",
+			"autor":"Beatriz Calva",
+			"imagen": "insercion-1 (1).jpg",
+			"fecha":"07/03/23"
+		},
+		{
+			"titulo":"Sector social, una opci\u00F3n para profesionistas",
+			"titulo_normalizado":"sector-social-una-opcion-para-profesionistas",
+			"autor":"Beatriz Calva",
+			"imagen": "insercion-1 (1).jpg",
+			"fecha":"07/03/23"
+		},
+		{
+			"titulo":"Huawei presenta Seeds for the Future 2023",
+			"titulo_normalizado":"huawei-presenta-seeds-for-the-future-2023",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Huawei1.gif",
+			"fecha":"06/09/23"
+		},
+		{
+			"titulo":"Tu futuro profesional con Blue Forests Green Oceans",
+			"titulo_normalizado":"tu-futuro-profesional-con-blue-forests-green-oceans",
+			"autor":"Alejandrino Olgu\u00EDn",
+			"imagen": "futuro-profesional-bfgo-1.jpg",
+			"fecha":"05/05/21"
+		},
+		{
+			"titulo":"Inicia la Expo Futuro en su edici\u00F3n virtual",
+			"titulo_normalizado":"inicia-la-expo-futuro-en-su-edicion-virtual",
+			"autor":"Adriana Hinojosa",
+			"imagen": "Inauguración1.gif",
+			"fecha":"05/05/21"
+		},
+		{
+			"titulo":"Emprendiendo sue\u00F1os",
+			"titulo_normalizado":"emprendiendo-suenos",
+			"autor":"Sianya S\u00E1nchez",
+			"imagen": "emprendiendo-suenos-1.jpg",
+			"fecha":"05/05/21"
+		},
+		{
+			"titulo":"Ford, en busca de estudiantes de ingenier\u00EDa",
+			"titulo_normalizado":"ford-en-busca-de-estudiantes-de-ingenieria",
+			"autor":"Celia Sim\u00F3n",
+			"imagen": "Ford-estudiantes-ingenieria-1.jpg",
+			"fecha":"04/11/20"
+		},
+		{
+			"titulo":"La comunidad aragonesa lista para independizarse",
+			"titulo_normalizado":"la-comunidad-aragonesa-lista-para-independizarse",
+			"autor":"Javier Cer\u00F3n",
+			"imagen": "independizarse-2.gif",
+			"fecha":"04/10/22"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+    "nombre": "Bernabé Luna Ramos", 
+    "grado_academico": "Doctor", 
+     "correo": [ "bernabelunalur@aragon.unam.mx"],
+    "estudios": [
+        "Licenciatura en Derecho. Universidad Nacional Autónoma de México.",
+        "Maestría en Ciencias Penales. Universidad Nacional Autónoma de México.",
+        "Doctorado en Derecho. Universidad Nacional Autónoma de México."
+
+    ], 
+    "lineas_investigacion": [
+        "La Pena de Prisión.",
+        "Investigación en Ciencias Sociales."
+
+
+
+    ], 
+    "investigaciones": [
+        "Teoría de los presupuestos y elementos típicos.",
+        "Individualización de la pena.",
+        "La pena de prisión y su perspectiva hacia el S. XXI."
+
+
+]
+}

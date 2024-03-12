@@ -1,0 +1,14 @@
+{
+	"titulo": "Adi\u00F3s al 68",
+	"titulo_normalizado": "adios-al-68",
+	"secciones": [
+		{
+			"seccion": "Ciencias Sociales",
+			"seccion_normalizada": "ciencias-sociales"
+		}
+	],
+	"autor":"Aurelio Nito",
+	"fecha":"12/03/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La FES Arag\u00F3n recibi\u00F3 a Joel Ortega quien present\u00F3 su libro <\/span><em style=\"color: rgb(0, 0, 0);\">Adi\u00F3s al 68<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. El autor es uno de los personajes m\u00E1s importantes del movimiento estudiantil de 1968, pues particip\u00F3 como brigadista de la Escuela Nacional de Econom\u00EDa de la UNAM y sobrevivi\u00F3 a las represiones violentas del 2 de octubre de 1968 y del 10 de junio de 1971. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0);\">Durante el evento, el Dr. Jos\u00E9 Rivas, especialista en este tema y comentarista de la publicaci\u00F3n, afirm\u00F3: “El libro<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> es un relato de vida m\u00E1s que un ensayo hist\u00F3rico, en el que se mezclan recuerdos, denuncias, defensas, reclamos y autocr\u00EDticas. Rechaza la mirada contemplativa con la que se percibe a los movimientos sociales y da una nueva perspectiva a los movimientos actuales”.<\/span><\/p>",
+	"imagenes":[{"imagen":"presentacion-del-libro-adios-al-68-1.jpg"},{"imagen":"presentacion-del-libro-adios-al-68-2.jpg"},{"imagen":"presentacion-del-libro-adios-al-68-3.jpg"}]
+}

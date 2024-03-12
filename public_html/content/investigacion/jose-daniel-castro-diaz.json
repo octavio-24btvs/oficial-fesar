@@ -1,0 +1,18 @@
+{
+    "nombre": "José Daniel Castro Díaz", 
+    "grado_academico": "Doctor en Ingeniería Eléctrica, UNAM. ",
+    "ubicacion": [ "Laboratorio de  Instrumentación y Medición del Centro Tecnológico Aragón."],
+     "telefono": [ "55 6631 7200"], 
+     "correo": [ "josecastrocad@aragon.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Ingeniería en Eléctrica Electrónica." ,
+        "Maestría en Ingeniería Eléctrica, en el Área de Control.",
+        "Doctorado en Ingeniería Eléctrica, Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [ 
+        "Control, Robótica, Visualización y Simulación 3D.", 
+        "Sistemas biomédicos y procesos de I+D."
+    ], 
+    "investigaciones": [
+    ]
+}

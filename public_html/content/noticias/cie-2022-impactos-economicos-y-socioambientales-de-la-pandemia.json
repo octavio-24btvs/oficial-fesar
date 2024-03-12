@@ -1,0 +1,36 @@
+{
+	"titulo": "CIE 2022: Impactos econ\u00F3micos y socioambientales de la pandemia",
+	"titulo_normalizado": "cie-2022-impactos-economicos-y-socioambientales-de-la-pandemia",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		}
+	],
+	"autor": "Alexis Rey",
+	"fecha": "24/08/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La s\u00E9ptima mesa de discusi\u00F3n del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">6.° Congreso Internacional de Econom\u00EDa, <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">brindada por el acad\u00E9mico Sergio Hugo Pablo, cont\u00F3 con la moderaci\u00F3n del jefe la carrera, Roberto Herrera, donde fueron expuestos los temas relacionados a los impactos econ\u00F3micos que ha tenido la pandemia en Ecatepec y Nezahualc\u00F3yotl, desde la perspectiva de la movilidad, medios de comunicaci\u00F3n y transporte.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la segunda ponencia, se cont\u00F3 con la exposici\u00F3n de Omar Rojas, quien pertenece al profesorado de la FES Arag\u00F3n y dio un enfoque a las consideraciones ambientales que inciden en la salud de los habitantes en estas localidades. En tanto la tercera ponencia, expuesta por la docente X\u00F3chitl Serrato, dio una perspectiva de g\u00E9nero ante la planeaci\u00F3n social de las condiciones previas y posteriores a la pandemia, misma que se complic\u00F3 ante las condiciones que segregan las clases sociales y g\u00E9neros.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La segunda actividad de esta tercera jornada del Congreso, tuvo la participaci\u00F3n de la acad\u00E9mica, Mitani Cruz, quien moder\u00F3 la presentaci\u00F3n del libro <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La econom\u00EDa mexicana en la trampa de la continuidad neoliberal. Pol\u00EDtica econ\u00F3mica y sector externo<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, de Arturo Huerta, profesor de Posgrado en la Facultad de Econom\u00EDa de la UNAM.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para esta presentaci\u00F3n se cont\u00F3 tambi\u00E9n con los aragoneses, Ra\u00FAl Ignacio Morales y Salvador Rosas, quienes brindaron un esquema de las variables macroecon\u00F3micas que influyen en el pensamiento neoliberal, sumando el impacto de la pandemia y los efectos en la econom\u00EDa de manera general.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Impacto1.gif"
+		},
+		{
+			"imagen": "Impacto2.gif"
+		},
+		{
+			"imagen": "Impacto3.gif"
+		},
+		{
+			"imagen": "Impacto4.gif"
+		},
+		{
+			"imagen": "Impacto-5.gif"
+		},
+		{
+			"imagen": "Impacto6.gif"
+		},
+		{
+			"imagen": "Impacto7.gif"
+		}	]
+
+}

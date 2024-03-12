@@ -1,0 +1,39 @@
+{
+	"titulo": "El \u00FAltimo l\u00EDder sovi\u00E9tico",
+	"titulo_normalizado": "el-ultimo-lider-sovietico",
+	"secciones": [
+		{
+			"seccion": "Relaciones Internacionales",
+			"seccion_normalizada": "relaciones-internacionales"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "05/09/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El pasado 30 de agosto muri\u00F3 Mija\u00EDl Gorvachov, qui\u00E9n fue el \u00FAltimo l\u00EDder de la Uni\u00F3n Sovi\u00E9tica. Para recordar la participaci\u00F3n de este emblem\u00E1tico personaje&nbsp; en un momento hist\u00F3rico de car\u00E1cter mundial, se dieron cita en el sal\u00F3n rojo las profesoras y los profesores aragoneses de la carrera de Relaciones Internacionales, Melanie Daniels Vences,&nbsp; Patricia Baranda, Ad\u00E1n Miguel Rodr\u00EDguez y Victor Francisco Olgu\u00EDn.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la conferencia titulada “El papel de Mijail Gorbachov en la construcci\u00F3n del mundo contempor\u00E1neo” y moderada por Daniel Edgar Mu\u00F1oz, jefe de la carrera, se expuso sobre la figura del pol\u00EDtico dando un amplio panorama sobre su persona y el papel que jug\u00F3 durante el ejercicio de su mandato. Quienes participaron en el evento, personas expertas en el tema, coincidieron en decir que la figura de este dirigente contrastaba con la de sus antecesores, que se caracterizaban por un mandato m\u00E1s autoritario y firme, herencia del leninismo.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Esta comparaci\u00F3n no sent\u00F3 bien a Gorvachov, pues fue tachado de tener un car\u00E1cter m\u00E1s d\u00E9bil que no cuadraba con la cultura rusa, lo cual termin\u00F3 afectando la imagen del r\u00E9gimen sovietico en el panorama internacional. Por ello, su muerte fue recibida sin mucho \u00E1nimo ni pena entre sus connacionales, incluyendo al actual dirigente del Estado ruso, Vladimir Put\u00EDn.&nbsp;&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La sesi\u00F3n finaliz\u00F3 con un breve debate entre ponentes y asistentes para hablar sobre las pol\u00EDticas implementadas por el \u00FAltimo l\u00EDder sovietico, as\u00ED como sus intenciones con las nuevas generaciones rusas, recalcando tanto sus aciertos como sus errores pol\u00EDticos. <\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Soviet1.gif"
+		},
+		{
+			"imagen": "Soviet2.gif"
+		},
+		{
+			"imagen": "Soviet3.gif"
+		},
+		{
+			"imagen": "Soviet4.gif"
+		},
+		{
+			"imagen": "Soviet5.gif"
+		},
+		{
+			"imagen": "Soviet6.gif"
+		},
+		{
+			"imagen": "Soviet7.gif"
+		},
+		{
+			"imagen": "Soviet8.gif"
+		}	]
+
+}

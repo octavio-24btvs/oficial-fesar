@@ -1,0 +1,20 @@
+{
+    "nombre": "María Elena Jiménez Zaldivar", 
+    "grado_academico": "Doctora", 
+     "correo": [ "maelenajimenezjiz@aragon.unam.mx"],
+    "imagen": true,
+    "estudios": [
+        "Licenciatura en Pedagogía. Universidad Nacional Autónoma de México.", 
+        "Maestría en Enseñanza Superior. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Pedagogía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Currículo", 
+        "PAPITT"
+    ], 
+    "investigaciones": [
+        "Cultura e innovación digital: el impacto en las prácticas sociales culturales y lingüísticas de los pueblos originarios.",
+        "El documental como recurso didáctico para el reconocimiento de las prácticas socioculturales de la comunidad chatina del Estado de Oaxaca.",
+        "Los docentes interculturales, su procesos formativos y sus prácticas. Diversidad y cruce de culturas."
+    ]
+}

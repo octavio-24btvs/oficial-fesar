@@ -1,0 +1,31 @@
+{
+	"titulo": "Pi\u00F1atas aragonesas",
+	"titulo_normalizado": "pinatas-aragonesas",
+	"secciones": [
+		{
+			"seccion": "Culturales",
+			"seccion_normalizada": "culturales"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Redacci\u00F3n",
+	"fecha": "09/12/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Desde muy temprano el Pasillo Cultural de la FES Arag\u00F3n fue el lugar donde la comunidad universitaria pudo sentir el ambiente festivo caracter\u00EDstico de la \u00E9poca decembrina. Ah\u00ED se present\u00F3 en dos ocasiones la pastorela <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">La caja misteriosa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> y se exhibieron las creaciones participantes en el concurso de Pi\u00F1atas, ambas actividades organizadas por el \u00E1rea de Actividades Culturales de la Unidad de Extensi\u00F3n Universitaria.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante el evento de premiaci\u00F3n, Gloria Enr\u00EDquez, encargada de la Unidad de Extensi\u00F3n Universitaria, agradeci\u00F3 la participaci\u00F3n de las y los estudiantes y remarc\u00F3 la importancia de participar en eventos culturales para la formaci\u00F3n de la comunidad estudiantil.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La pi\u00F1ata <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Juancho el ajolote<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, de Victoria Andrea Cruz (Derecho), Evangelina Silva (Arquitectura) y Dami\u00E1n Romero (Ingenier\u00EDa en Computaci\u00F3n) obtuvo el primer lugar; Karina Vicente (Ingenier\u00EDa Civil) gan\u00F3 el segundo puesto con su creaci\u00F3n llamada <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Alebrije, nuestro acompa\u00F1ante al Mictl\u00E1n<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">; y con <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Anacleto, el alebrije<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, Mario Antonio G\u00F3mez (Ingenier\u00EDa El\u00E9ctrica Electr\u00F3nica) gan\u00F3 el tercer lugar.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al t\u00E9rmino de la ceremonia hubo la oportunidad de participar en la subasta de algunas de las pi\u00F1atas donde las personas presentes pudieron llevarse a casa varias piezas.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "pinatas-aragonesas-1.jpg"
+		},
+		{
+			"imagen": "pinatas-aragonesas-2.jpg"
+		},
+		{
+			"imagen": "pinatas-aragonesas-3.jpg"
+		},
+		{
+			"imagen": "pinatas-aragonesas-4.jpg"
+		}	]
+
+}

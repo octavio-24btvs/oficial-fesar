@@ -1,0 +1,21 @@
+{
+	"id": 66,
+	"titulo": "Biblioteca",
+	"icono": "",
+	"noticias": [
+		{
+			"titulo":"Arag\u00F3n se embellece con un nuevo mural",
+			"titulo_normalizado":"aragon-se-embellece-con-un-nuevo-mural",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "mural-1.jpg",
+			"fecha":"10/08/23"
+		},
+		{
+			"titulo":"Mejores espacios para Arag\u00F3n",
+			"titulo_normalizado":"mejores-espacios-para-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "espacios-1.jpg",
+			"fecha":"04/08/23"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"titulo": "Gala de invierno de los talleres art\u00EDsticos",
+	"titulo_normalizado": "gala-de-invierno-de-los-talleres-artisticos",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Redacci\u00F3n",
+	"fecha":"13/11/19",
+	"contenido":"<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dando muestra del trabajo que realizan los talleres de artes esc\u00E9nicas y de diferentes estilos de danza –\u00E1rabe, polinesia, neocl\u00E1sica, folcl\u00F3rica, jazz– se llevaron a cabo, en el Teatro Jos\u00E9 Vasconcelos, dos presentaciones art\u00EDsticas –por la ma\u00F1ana y por la tarde– por parte de la comunidad que integra dichos talleres.<\/span><\/p>",
+	"imagenes":[{"imagen":"gala_de_invierno1.jpg"},{"imagen":"gala_de_invierno02.jpg"},{"imagen":"gala_de_invierno03.jpg"},{"imagen":"gala_de_invierno04.jpg"},{"imagen":"gala_de_invierno05.jpg"},{"imagen":"gala_de_invierno06.jpg"},{"imagen":"gala_de_invierno07.jpg"},{"imagen":"gala_de_invierno08.jpg"}]
+}

@@ -1,0 +1,14 @@
+{
+	"titulo": "Vive la FES 2.0",
+	"titulo_normalizado": "vive-la-fes-20",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Luis Bocanegra",
+	"fecha":"10/04/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Con el primer concurso de Cosplay<\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\"> <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">de la FES Arag\u00F3n como novedad –mismo que ganaron Catalina Carballido y Lizbeth Ram\u00EDrez, alumnas de Filosof\u00EDa y Letras y FES Acatl\u00E1n, respectivamente–, se realiz\u00F3 la segunda edici\u00F3n del festival recreativo <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Vive la FES<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> –organizado por la Unidad de Extensi\u00F3n Universitaria– en las escaleras del Teatro Jos\u00E9 Vasconcelos y en la parte aleda\u00F1a del estacionamiento de estudiantes.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En el evento se presentaron las bandas <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">The Khan’s <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">y <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Rebel Lollipop<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">; adem\u00E1s, a lo largo del d\u00EDa se tuvieron diversas actividades como tirolesa, escalada y ciclismo de monta\u00F1a, de las cuales fue part\u00EDcipe la comunidad aragonesa. Para culminar la jornada, se llev\u00F3 a cabo el concurso de Pole Dance, en el que result\u00F3 ganador Humberto Mancilla, acad\u00E9mico de Ingenier\u00EDa Mec\u00E1nica.<\/span><\/p>",
+	"imagenes":[{"imagen":"vive-la-fes-2-0-8.jpg"},{"imagen":"vive-la-fes-2-0-7.jpg"},{"imagen":"vive-la-fes-2-0-6.jpg"},{"imagen":"vive-la-fes-2-0-5.jpg"},{"imagen":"vive-la-fes-2-0-4.jpg"},{"imagen":"vive-la-fes-2-0-2.jpg"},{"imagen":"vive-la-fes-2-0-1.jpg"}]
+}

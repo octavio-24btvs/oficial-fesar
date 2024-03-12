@@ -1,0 +1,1323 @@
+<style>
+    .mainmenu li i {
+    font-size: 25px;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: -1px;
+    color: #fff;
+    }
+    .mainmenu li span {
+    position: relative;
+    float: left;
+    font-size: 12px;
+    color: #000;
+}
+.mainmenu li {
+    float: left;
+    display: block;
+    padding: 5px;
+    cursor: pointer;
+}
+.nav-link {
+    display: block;
+    padding: .5rem .5rem;
+    padding-top: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+}
+.lema{
+    padding: 0;
+    text-align: justify;
+    color: #255880;
+}
+@media screen and (max-width: 454px) {
+.mainmenu li {
+    width: 44%;
+    padding: 0px;
+    text-align: left;
+}
+
+.lema{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+   
+}
+.boton-header {
+     margin-top: 0px !important;
+     margin-bottom: 16px;
+}
+.icono-secciones {
+    font-size: 50px;
+    width: 20%;
+    /* color: #599e35;*/
+}
+.seccion{
+    border-bottom: 2px solid #d2ae6c;
+    padding-bottom: 0px;
+}
+hr {
+    background-color: #255880;
+}
+/* image background 
+
+.secciones{
+  background: url(https://www.aragon.unam.mx/fes-aragon/public_html/img/orientaton-unam/fondo.jpg) no-repeat;
+    } 
+    */ 
+</style>
+<div class="container content" style="padding: 0px;"ng-init="showing = 0">
+    <div class="row justify-content-center">
+      <div class="col-lg-12" style="padding: 0px;">
+        <img class="img-fluid" src="public_html/img/orientaton-unam/logos.png" alt="45 aniversario" style="">
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-12 col-lg-12 menu-rapido mainmenu">
+            <ul class="nav d-flex justify-content-center">
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 0" title="Inicio">
+                        Inicio
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 6" title="Servicios">
+                      Servicios
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 1" title="Ciencias Fís.-Mat. y de las Ingenierías">
+                      Ciencias Fís.-Mat. y de las Ingenierías
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 2" title="Ciencias Sociales">
+                      Ciencias Sociales
+                   </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 3" title="Humanidades y Artes">
+                      Humanidades y Artes
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 4" title="SUAYED">
+                      SUAyED
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 5" title="Posgrado">
+                      Posgrado
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div ng-show="showing === 0">
+        <div class="row justify-content-center align-items-center" style="padding-top: 25px;">
+            <div class="col-md-9 lema">
+                <h1>objetivo</h1>
+                <p>Apoyar a los estudiantes en la elección de su futuro académico y profesional, brindando información relevante y oportuna acerca de la oferta educativa, de los apoyos y los servicios que ofrecen la UNAM y las instituciones de educación media superior y superior más importantes del país.</p>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center" style="padding-top: 25px;">
+            <div class="col-md-8">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/TeQjsEGxysg" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 1">
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-ingenieria-civil"></i><h1 class="mw-50 ng-binding">INGENIERÍA CIVIL</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/-UX-GGMZytA" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 1 ? card_selected = 0 : card_selected = 1)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 1">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad estudiantil aspirante deberá concluir el bachillerato en el Área de Ciencias Físico-Matemáticas,tener una fuerte formación en Física y Matemáticas, y conocimientos básicos de Química. Se requerirá además, que tenga facilidad para la planeación y dirección de trabajos en grupo, interés científico, técnico y administrativo, capacidad de análisis y síntesis, inclinación para la solución de problemas y capacidad para la toma de decisiones, apoyado en su conocimiento.</p>
+                        <p>Para valorar los conocimientos y habilidades de los alumnos de primer ingreso, se lleva a cabo un examen diagnóstico institucional, el cual permite conocer las deficiencias de su formación previa. Con el resultado de los exámenes, se programan actividades extracurriculares que permitan minimizar esas deficiencias y mejorar el tránsito de los alumnos por la licenciatura. Entre esas actividades podemos mencionar: cursos de Física y Matemáticas para grupos de primer ingreso, y programa de asesorías para asignaturas con alto índice de reprobación.</p>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-ing-civil.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada estará capacitada para planear, diseñar, construir, administrar, mantener y operar obras para el desarrollo urbano, rural, industrial, habitacional y de la infraestructura del país, procurando el mejor aprovechamiento de los recursos materiales y financieros en beneficio de la sociedad.</p>
+                        <p>Debe poseer conocimientos de física, matemáticas y química que le permitan lograr la comprensión de las ciencias de la ingeniería civil; entender los fundamentos de estructuras, geotecnia, hidráulica, construcción, ambiental y sistemas y transportes que le permitan proponer soluciones a los problemas propios de la profesión; aplicar las herramientas de la computación y de la comunicación gráfica en los proyectos de ingeniería civil; tener conocimientos generales de administración y evaluación de proyectos, y conocer la sociedad en la que desarrollará sus actividades.</p>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-ingenieria-en-computacion"></i><h1 class="mw-50 ng-binding">INGENIERÍA EN COMPUTACIÓN</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/hI3vvGqRxjg" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 2 ? card_selected = 0 : card_selected = 2)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 2">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad estudiantil que desee ingresar a la Licenciatura de Ingeniería en Computación, además de haber cursado preferentemente el área Físico Matemáticas, o similar en el Bachillerato, es deseable que tenga las siguientes características:</p>
+                        <ul>
+                            <li>Conocimientos:</li>
+                                 <ul>
+                                     <li>Matemáticas, física y computación</li>
+                                     <li>Idioma inglés (comprensión de lectura)</li>
+                                 </ul>
+                            <li>Habilidades:</li>
+                                  <ul>
+                                     <li>Pensamiento lógico matemático</li>
+                                     <li>Sistematización de actividades, constancia y orden en los trabajos emprendidos</li>
+                                 </ul>
+                            <li>Aptitudes:</li>
+                                  <ul>
+                                     <li>Análisis de problemas</li>
+                                 </ul>
+                            <li>Interés:</li>
+                                  <ul>
+                                     <li>Recopilación de datos e investigación</li>
+                                 </ul>
+                            <li>Actitudes:</li>
+                                  <ul>
+                                     <li>Actividades extra clase como laboratorios, desarrollo de aplicaciones, entre otras</li>
+                                 </ul>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-ing-computacion.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada de la Licenciatura de Ingeniería en Computación contará con lo siguiente:</p>
+                        <ul>
+                            <li>Conocimientos:</li>
+                               <ul>
+                                    <li>Matemáticas, para modelar y resolver problemas reales</li>
+                                    <li>Empresariales, para crear, mantener y hacer crecer organizaciones</li>
+                                    <li>Software y hardware, para analizar, diseñar, construir, implantar, mejorar y mantener sistemas computacionales y redes de computadoras</li>
+                                    <li>Procesamiento de los datos, para obtener información útil para la toma de decisiones en todos los niveles</li>
+                                    <li>Seguridad, para resguardar la información de las organizaciones</li>
+                                    <li>Idioma inglés, nivel B1 en el Marco Común Europeo de Referencia para las Lenguas</li>
+                                </ul>
+                            <li>Habilidades:</li>
+                                <ul>
+                                    <li>Dirigir organizaciones o liderar su propio negocio</li>
+                                    <li>Crear empresas, mantenerlas y hacerlas crecer</li>
+                                    <li>Ofrecer soluciones creativas e innovadoras a problemas reales</li>
+                                    <li>Resguardar la información ante ataques maliciosos</li>
+                                    <li>Promover el uso responsable de los recursos informáticos</li>
+                                </ul>
+                            <li>Aptitudes:</li>
+                                 <ul>
+                                     <li>Buscar soluciones proactivas a problemas emergentes</li>
+                                     <li>Actualizarse de manera constante, de acuerdo con los avances tecnológicos y profesionales de la disciplina</li>
+                                     <li>Lograr soluciones prácticas a problemas planteados</li>
+                                 </ul>
+                            <li>Valores:</li>
+                                <ul>
+                                     <li>Compromiso y responsabilidad, para resolver problemas que atiendan necesidades específicas de la sociedad, respetando siempre a los individuos y al medio ambiente</li>
+                                     <li>Creatividad e Innovación, para desarrollar soluciones creativas e innovadoras, capaces de adaptarse a las circunstancias
+                                     <li>Honestidad, para poner siempre el conocimiento al servicio de la sociedad</li>
+                                 </ul>     
+                        </ul>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+                <div class="seccion"><i class="icono-secciones icon-ingenieria-electrica-electronica"></i><h1 class="mw-50 ng-binding">INGENIERÍA ELÉCTRICA ELECTRÓNICA</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/tKF45pIudM0" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 3 ? card_selected = 0 : card_selected = 3)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 3">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante, además de haber cursado el bachillerato en el área físico-matemática, deberá contar con sólidos conocimientos de física, química y matemáticas. Asimismo, es deseable que posea:</p>
+                        <ul>
+                            <li>Aptitud para detectar, definir y aplicar el razonamiento científico al estudio y solución de problemas prácticos en el campo de la física y en especial de los fenómenos eléctricos</li>
+                            <li>Capacidad para dirigir el trabajo en equipo</li>
+                            <li>Habilidad en el manejo de diferentes fuentes bibliográficas y lenguajes de computación</li>
+                            <li>Inventiva y creatividad</li>
+                            <li>Actitud responsable, positiva y emprendedora, que le permita realizar con seguridad y confianza las tareas que implica el ejercicio profesional</li>
+                            <li>Comprensión de lectura de un idioma extranjero, preferentemente el inglés</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-ing-electrica.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada de la Licenciatura en Ingeniería Eléctrica Electrónica utilizará los conocimientos de las ciencias exactas, matemáticas, administrativas y de ingeniería para desarrollar su actividad profesional en aspectos tales como: el diseño y rediseño de sistemas electrónicos, el manejo e implantación de sistemas de control industrial, el manejo y administración de sistemas de telecomunicaciones, además de la generación y transmisión de energía eléctrica. Esta formación le permitirá participar activamente en las diversas ramas de la ingeniería y responder a las necesidades productivas y de servicios que requiere la sociedad.</p>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-ingenieria-industrial"></i><h1 class="mw-50 ng-binding">INGENIERÍA INDUSTRIAL</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/N_8D3063w4k" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 4 ? card_selected = 0 : card_selected = 4)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 4">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad estudiantil aspirante a esta carrera debe tener conocimientos sólidos en el Área de Ciencias Físico-Matemáticas, aptitud para definir y aplicar el razonamiento científico al estudio y solución de problemas prácticos en el campo de la física, así como interés en temas relacionados con la industria, dilemas organizacionales, liderazgo y trabajo en equipo, además del conocimiento y comprensión de un idioma extranjero, preferentemente el inglés.</p>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-ing-industrial.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada de esta Carrera será capaz de realizar trabajos de planeación y control de la producción, análisis y control de presupuestos, procesamiento de datos, control de inventarios, programación y ejecución de mantenimiento industrial, capacitación de personal para mejorar la productividad, técnicas de optimización, administración de operaciones, evaluación y viabilidad de proyectos, análisis y mejora de procesos industriales, así como el diseño, construcción y mantenimiento de productos y equipos.</p>
+                    </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-ingenieria-mecanica"></i><h1 class="mw-50 ng-binding">INGENIERÍA MECÁNICA</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/_qbS0cHL2kM" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 5 ? card_selected = 0 : card_selected = 5)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 5">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante deberá contar con:</p>
+                        <ul>
+                            <li>conocimientos sólidos de fÍsica, quÍmica y matemáticas;</li>
+                            <li>aptitud para detectar, definir y aplicar el razonamiento cientÍfico al estudio y la solución de problemas prácticos, en el campo de la fÍsica y en especial de la mecánica;</li>
+                            <li>capacidad para dirigir el trabajo en equipo;</li>
+                            <li>habilidad en el manejo de diferentes fórmulas y lenguajes de computación;</li>
+                            <li>inventiva y creatividad;</li>
+                            <li>actitud responsable, positiva y emprendedora, a fin de realizar con seguridad y confianza sus labores;</li>
+                            <li>lectura y comprensión del idioma inglés.</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-ing-mecanica.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad profesional de la IngenierÍa Mecánica tendrá conocimientos de ciencias exactas, administrativas y de la ingenierÍa para desarrollarse en las áreas de diseño de sistemas, dispositivos electromecánicos, selección y análisis de fallas en los materiales, procesos térmicos y de fluidos, asÍ como la manufactura de maquinaria industrial. Esta formación le permitirá participar activamente en las diversas ramas de la ingenierÍa y responder a las necesidades productivas y de servicios que requiere la sociedad.</p>
+                        <p>Nuestra comunidad egresada desempeña un papel importante en el desarrollo de la economÍa. Fortalece la micro, pequeña y mediana empresa mediante el diseño de dispositivos, productos y tecnologÍa, el estudio de las nuevas técnicas de manufactura, análisis energéticos, asÍ como la capacitación y la administración.</p>
+                        <p>También contará con conocimientos que le permitirán emprender estudios de posgrado que lo mantendrán actualizado con respecto a los constantes avances en las técnicas y tecnologÍas de esta disciplina.</p>
+                     </div>
+                 </div>
+            </div>
+        </div>
+
+    </div>
+    <div ng-show="showing === 2">
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-comunicacion-y-peridismo"></i><h1 class="mw-50 ng-binding">COMUNICACIÓN Y PERIODISMO</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/w_Vwcz93sR4" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 6 ? card_selected = 0 : card_selected = 6)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 6">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad egresada de la licenciatura en Sociología obtendrá diversos conocimientos, desarrollará habilidades, aptitudes y actitudes que le permitan comprender, analizar, explicar y proponer alternativas en cuanto a lo social.</p>
+
+                        <p>Al concluir su formación, el egresado:</p>
+                        <ul>
+                            <li>tendrá una formación teórico-metodológica consistente, actual e interdisciplinaria, sin priorizar el manejo o uso de una sola propuesta;</li>
+                            <li>tendrá los conocimientos adecuados para sustentar sus evaluaciones analíticas sobre temas de actualidad en los medios impresos;</li>
+                            <li>conocerá ampliamente las causas políticas, económicas y sociales del fenómeno de transición democrática en el contexto nacional y regional;</li>
+                            <li>será capaz de identificar temáticas de investigación desde la perspectiva sociológica;</li>
+                            <li>tendrá habilidad para el ejercicio de la investigación (teórico y técnico) a fin de explicar cualitativa y cuantitativamente el surgimiento y desarrollo de los nuevos fenómenos sociales;</li>
+                            <li>tendrá habilidad para contribuir por medio de sus conocimientos profesionales a evaluar las tendencias de los procesos políticos y sociales.</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-comunicacion.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>Al finalizar la licenciatura en Comunicación y Periodismo, la comunidad egresada contará con las siguientes características:</p>
+                        <ul>
+                            <li>tendrá conocimiento amplio de la gramática y ortografía del español;</li>
+                            <li>manejará la teoría de la Comunicación;</li>
+                            <li>reconocerá y aplicará los diversos géneros periodísticos;</li>
+                            <li>aplicará los métodos y técnicas de investigación en Comunicación;</li>
+                            <li>creará a través de la producción multimedia diferentes productos mediáticos (impresos, radio, televisión, medios digitales);</li>
+                            <li>elaborará estrategias de campañas de propaganda, relaciones públicas y publicidad;</li>
+                            <li>demostrará una amplia apreciación de las artes, con énfasis en literatura y cinematografía, por su carácter narrativo;</li>
+                            <li>conocerá la historia y marco legal de los medios de comunicación y de la práctica periodística;</li>
+                            <li>aplicará los valores éticos en el ejercicio del periodismo y de la comunicación;</li>
+                            <li>reconocerá los problemas políticos, económicos y socioculturales contemporáneos;</li>
+                            <li>contará con un amplio panorama de la historia de México;</li>
+                            <li>conocerá y comprenderá la dinámica de los medios y globalización.</li>
+                        </ul>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-derecho"></i><h1 class="mw-50 ng-binding">DERECHO</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/eouayqaBTWM" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 7 ? card_selected = 0 : card_selected = 7)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 7">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>tendrá habilidad para contribuir por medio de sus conocimientos profesionales a evaluar las tendencias de los procesos políticos y sociales.</p>
+                        <ul>
+                            <li>Conocimientos de cultura general, historia universal, historia de México, nociones de Derecho Positivo Mexicano, técnicas de investigación, conocimientos elementales de latín, conocimientos elementales de ética y deontología.</li>
+                            <li>Aptitudes y habilidades como capacidad de pensamiento abstracto y de análisis, capacidad de síntesis, capacidad persuasiva conciliatoria, habilidad para interrelacionarse con otras personas, sentido de organización y capacidad para cuestionar, adquirir conocimientos inherentes al desarrollo del país.</li>
+                            <li>Actitudes como: interés constante por el estudio, actuar con decoro y respeto, disciplina, respeto por la dignidad humana, responsabilidad y discreción, cuidado en su persona, participación en el proceso de interacción, deseo de superación, interés por la profesión, dedicación, actitud crítica y dialéctica.</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-derecho.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada reunirá las siguientes características:</p>
+                        <ul>
+                            <li>Contará con conocimientos como noción universal del Derecho y los conceptos jurídicos fundamentales, principios generales de la normatividad positiva del país, conocimiento del Derecho en sus fuentes y en sus ramas, conocimiento general sobre los aspectos socioeconómicos que influyen en el Derecho.</li>
+                            <li>Comprenderá los ideales de justicia, moral, libertad, dignidad y solidaridad, que se encuentran en el thelos del Derecho.</li>
+                            <li>Contar con la preespecialización en diversas orientaciones del Derecho como: Civil, Penal, Constitucional, Mercantil, Internacional o Fiscal, Nociones de los recursos y Necesidades nacionales.</li>
+                        </ul>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-economia"></i><h1 class="mw-50 ng-binding">ECONOMÍA</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/g4p34TbLhtk" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 8 ? card_selected = 0 : card_selected = 8)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 8">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante deberá contar con:</p>
+                        <ul>
+                            <li>sensibilidad frente a los problemas económicos, políticos, sociales y sus repercusiones;</li>
+                            <li>habilidades para dirigir, organizar y planear;</li>
+                            <li>conocimientos sólidos principalmente en matemáticas, además en historia universal, historia de México, geografía de México, geografía universal, así como nociones de metodología de la investigación.</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-economia.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                         <p><strong>Perfil de egreso</strong></p>
+                         <p>La comunidad egresada de esta licenciatura tendrá la capacidad de:</p>
+                         <ul>
+                             <li>analizar y diseñar programas de inversiones públicas y privadas para crear nuevas fuentes de trabajo;</li>
+                             <li>analizar los problemas de empleo y contribuir a su solución;</li>
+                             <li>definir estrategias para el abasto de materias primas para las industrias, y para la gestión de servicios públicos y asistenciales.</li>
+                         </ul>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-planificacion-para-el-desarrollo-agropecuario"></i><h1 class="mw-50 ng-binding">PLANIFICACIÓN PARA EL DESARROLLO AGROPECUARIO</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/O0_o5UV4WbM" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 9 ? card_selected = 0 : card_selected = 9)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 9">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>Es deseable que la comunidad aspirante a esta licenciatura, así como a la opción Técnico Profesional en Formulación y Evaluación de Proyectos Agropecuarios tengan:</p>
+                        <ul>
+                            <ul>
+                                <li>interés por las actividades y problemáticas del campo mexicano;</li>
+                                <li>capacidad para adaptarse a ambientes naturales y sociales distintos y diversos;</li>
+                                <li>habilidad para investigar, organizar, sistematizar información y promover iniciativas en busca del bien común de la población rural;</li>
+                                <li>creatividad y productividad para la búsqueda de soluciones.</li>
+                            </ul>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-planificacion.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                         <p><strong>Perfil de egreso</strong></p>
+                         <p>La comunidad egresada de la licenciatura en Planificación para el Desarrollo Agropecuario podrá integrar y conjugar los aspectos económicos, financieros, sociales, organizacionales, técnicos, ambientales y espaciales del desarrollo nacional, local y la unidad económica rural para la elaboración de diagnósticos y la formulación de propuestas de solución a problemas del medio rural.</p>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-relaciones-internacionales"></i><h1 class="mw-50 ng-binding">RELACIONES INTERNACIONALES</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/1bH4aCZguxk" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 10 ? card_selected = 0 : card_selected = 10)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 10">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante a la licenciatura en Relaciones Internacionales debe tener las siguientes características:</p>
+                        <ul>
+                            <li>habilidad para el manejo de la política, la economía, la historia y la geografía;</li>
+                            <li>poseer conocimientos acerca de los acontecimientos nacionales e internacionales;</li>
+                            <li>gusto por la investigación;</li>
+                            <li>facilidad para relacionarse;</li>
+                            <li>disponibilidad para trabajar en el ámbito internacional;</li>
+                            <li>interés por los procesos políticos y socioeconómicos de carácter internacional;</li>
+                            <li>habilidades para los idiomas extranjeros;</li>
+                            <li>buen manejo de lenguaje oral y escrito.</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-rrii.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada de la licenciatura en Relaciones Internacionales será capaz de:</p>
+                        <ul>
+                            <li>comprender factores políticos, históricos, económicos, sociales y culturales desarrollando una perspectiva global para analizar y resolver problemas de carácter mundial;</li>
+                            <li>diagnosticar la esencia de un conflicto internacional con objeto de sugerir las medidas pertinentes para su solución o los escenarios posibles de sus resultados;</li>
+                            <li>analizar el contexto político internacional y nacional, así como diseñar estudios de carácter prospectivo;</li>
+                            <li>desarrollar habilidades en el área de negociaciones diplomáticas dentro y fuera del país, con base en el conocimiento de las diversas culturas de negocios;</li>
+                            <li>desarrollar proyectos de comercialización estratégica en el exterior.</li>
+                        </ul>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-sociologia"></i><h1 class="mw-50 ng-binding">SOCIOLOGÍA</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/7Q8q5dEmlN8" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 11 ? card_selected = 0 : card_selected = 11)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 11">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <ul>
+                            <li>inquietud por el conocimiento y el análisis de los problemas sociales, así como creatividad para proponer alternativas viables de solución de los mismos;</li>
+                            <li>interés por la lectura, el análisis de textos y capacidad para expresarse en forma oral y escrita;</li>
+                            <li>deseos de estudiar otros idiomas y conocer otras culturas;</li>
+                            <li>gusto por la investigación de campo, bibliohemerográfica y todo aquello que coadyuve a una formación intelectual sólida.</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-sociologia.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada de la licenciatura en Sociología obtendrá diversos conocimientos, desarrollará habilidades, aptitudes y actitudes que le permitan comprender, analizar, explicar y proponer alternativas en cuanto a lo social.</p>
+                        <p>Al concluir su formación, el egresado:</p>
+                        <ul>
+                            <li>tendrá una formación teórico-metodológica consistente, actual e interdisciplinaria, sin priorizar el manejo o uso de una sola propuesta;</li>
+                            <li>tendrá los conocimientos adecuados para sustentar sus evaluaciones analíticas sobre temas de actualidad en los medios impresos;</li>
+                            <li>conocerá ampliamente las causas políticas, económicas y sociales del fenómeno de transición democrática en el contexto nacional y regional;</li>
+                            <li>será capaz de identificar temáticas de investigación desde la perspectiva sociológica;</li>
+                            <li>tendrá habilidad para el ejercicio de la investigación (teórico y técnico) a fin de explicar cualitativa y cuantitativamente el surgimiento y desarrollo de los nuevos fenómenos sociales;</li>
+                            <li>tendrá habilidad para contribuir por medio de sus conocimientos profesionales a evaluar las tendencias de los procesos políticos y sociales.</li>
+                        </ul>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr> 
+    </div>
+    <div ng-show="showing === 3">
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-arquitectura"></i><h1 class="mw-50 ng-binding">ARQUITECTURA</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/qyrABW7zr_0" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 12 ? card_selected = 0 : card_selected = 12)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 12">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante deberá contar con:</p>
+                        <ul>
+                            <li>nivel medio superior concluido;</li>
+                            <li>amplia creatividad;</li>
+                            <li>manejo de herramientas algebraicas;</li>
+                            <li>habilidad para el dibujo técnico y arquitectónico;</li>
+                            <li>sociabilidad;</li>
+                            <li>habilidad para el trabajo en ambientes colaborativos;</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-arquitectura.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La formación profesional se concibe como una práctica inscrita en la dinámica social, y se caracteriza más por amplios conocimientos, dominio de métodos y conceptos que por sólo la acumulación de información. También, contempla habilidades y actitudes que en su conjunto delimitan una práctica profesional, por lo que la comunidad egresada de la carrera de Arquitectura debe contar con elementos formativos para:</p>
+                        <ul>
+                            <li>diseñar, concebir, determinar y realizar todo espacio-forma que satisfaga las necesidades de las personas en su dualidad física y espiritual, desde el plano individual y como integrantes de una comunidad;</li>
+                            <li>sustentar la concepción del Diseño Arquitectónico en su concepto integral;</li>
+                            <li>fundamentar la relación y desarrollo de los procesos y sistemas constructivos de los espacios-forma arquitectónicos;</li>
+                            <li>seleccionar el tipo de estructura y el diseño de los elementos estructurales de los espacios-forma arquitectónicos;</li>
+                            <li>establecer la concepción y determinación de las necesidades y elementos para el funcionamiento hidrosanitario, eléctrico y de combustibles, así como para el control luminoso, térmico y acústico de todo espacio-forma;</li>
+                            <li>organizar y estructurar todos los procesos que integran el diseño y la realización de los espacios arquitectónicos y urbanos;</li>
+                            <li>cimentar el diseño arquitectónico integral en su contexto urbano en una planeación normativa;</li>
+                            <li>reconocer que la creatividad de profesionales de la Arquitectura responde a una formación liberal como personas en su dualidad espiritual y ética.</li>
+                        </ul>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-diseno-industrial"></i><h1 class="mw-50 ng-binding">DISEÑO INDUSTRIAL</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/MpxY_OEiBPU" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 13 ? card_selected = 0 : card_selected = 13)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 13">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante deberá:</p>
+                        <ul>
+                            <li>poseer el hábito de la observación (pensamiento racional);</li>
+                            <li>tener la curiosidad innata para investigar los objetos que nos rodean, sus formas, materiales, mecanismos, procesos, etc. (pensamiento deductivo);</li>
+                            <li>asumir una actitud de interés ante la problemática ambiental (pensamiento creativo);</li>
+                            <li>poseer ciertas habilidades manuales, tanto al operar herramientas sencillas, como al transformar los materiales con ingenio y paciencia;</li>
+                            <li>tener una disposición natural para representar mediante lenguajes gráficos (capacidad espacial, experimental y comunicativa);</li>
+                            <li>tener una actitud tolerante y flexible ante las críticas hacia su trabajo (juicio de autoevaluación);</li>
+                            <li>ser capaz de desenvolverse en situaciones que no estén claramente definidas (capacidad de autogestión);</li>
+                            <li>tener sensibilidad natural ante manifestaciones culturales como la música, el teatro, la danza, la pintura, la escultura, la poesía (sensibilidad artística);</li>
+                            <li>preocuparse constantemente por las personas y la comunidad (responsabilidad social y ecológica).</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-diseño-industrial.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada de la carrera de Diseño Industrial contará con conocimientos sobre:</p>
+                        <ul>
+                            <li>el manejo de la forma, la relación óptima que se establece entre usuario-objeto, la geometría, técnicas para desarrollar y comunicar las ideas por diversos medios;</li>
+                            <li>los materiales y sus procesos de transformación, fenómenos físicos y sus aplicaciones, matemáticas y cálculo;</li>
+                            <li>evolución de la forma a través del tiempo, sus influencias sociales, culturales y tecnológicas;</li>
+                            <li>estilos y tendencias;</li>
+                            <li>diversos métodos y técnicas para observar, investigar, organizar y sintetizar información aplicable a la solución de problemas de diseño;</li>
+                            <li>el contexto socioeconómico, planeación, administración, contabilidad, productividad y calidad. Propiedad intelectual e industrial;</li>
+                            <li>redacción de documentos específicos y especializados;</li>
+                            <li>conocimientos básicos de un idioma diferente al español;</li>
+                            <li>algunos campos especializados como el de mobiliario, ergonomía, artesanías mexicanas, museografía, diseño de espacios comerciales.</li>
+                        </ul>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-pedagogia"></i><h1 class="mw-50 ng-binding">PEDAGOGÍA</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/-oJqsCPNZqI" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 14 ? card_selected = 0 : card_selected = 14)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 14">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante deberá desarrollar su aprendizaje a partir del hábito por la lectura, el pensamiento abstracto y la capacidad de análisis y síntesis. Ésto le permitirá integrar conocimientos, aptitudes y habilidades necesarias para explicar los fenómenos educativos desde una perspectiva pedagógica. De igual forma, tendrá que realizar prácticas reflexivas y creativas que le ayuden a generar una postura ante la realidad educativa.</p>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/escolarizado/mapa-pedagogia.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada de la licenciatura en Pedagogía será capaz de: diseñar, ejecutar y evaluar proyectos académicos, de capacitación y actualización laboral;</p>
+                        <ul>
+                            <li>Explicar y proponer soluciones a problemas educativos concretos en nuestra sociedad.</li>
+                            <li>Dar asesorías pedagógicas en investigaciones y estudios con respecto a los distintos niveles y modalidades de la práctica educativa.</li>
+                        </ul>
+                     </div>
+                 </div>
+            </div>
+        </div>
+
+    </div>
+    <div ng-show="showing === 4">
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-derecho-suayed"></i><h1 class="mw-50 ng-binding">DERECHO SUAyED</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/fm31WwL1mZc" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 15 ? card_selected = 0 : card_selected = 15)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 15">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad estudiantil que desee inscribirse al plan de estudios de la carrera de Derecho de la FES Aragón debe poseer las siguientes características:</p>
+                        <ul>
+                            <li>mantener interés constante por el estudio;</li>
+                            <li>tener capacidad de pensamiento abstracto de análisis y de síntesis;</li>
+                            <li>ser disciplinado;</li>
+                            <li>actuar con decoro y respeto;</li>
+                            <li>tener capacidad persuasiva conciliatoria;</li>
+                            <li>tener respeto por la dignidad humana;</li>
+                            <li>contar con habilidad para interrelacionarse;</li>
+                            <li>tener sentido de organización;</li>
+                            <li>ser responsable;</li>
+                            <li>saber cuestionar y generar conocimientos inherentes al desarrollo del país;</li>
+                            <li>ser sujeto partícipe en el proceso de enseñanza-aprendizaje;</li>
+                            <li>tener deseo de superación;</li>
+                            <li>tener inclinación para la profesión de Licenciado en Derecho;</li>
+                            <li>tener dedicación;</li>
+                            <li>contar con actitud crítica y dialéctica;</li>
+                            <li>poseer un criterio ético y deontológico.</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/suayed/mapa-derecho-sua.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada de la carrera en Derecho contará con una visión dinámica del fenómeno jurídico, dotada de las herramientas intelectuales que le permitirán encauzar todo el orden normativo y poner su saber al servicio de la comunidad. Será un promotor de cambio para mejorar el orden social.</p>
+                        <p>Asimismo, utilizará los conocimientos de la Ciencia del Derecho para la defensa de intereses de los particulares ante los órganos judiciales o en la organización legislativa y administrativa del gobierno. Se le puede asimilar como abogado, negociante o consejero.</p>
+                        <p>En los casos del ejercicio de la profesión libre, también puede y debe enfrentarse al gobierno, cuando éste haya transgredido el derecho de los particulares o haya infringido las leyes tutelares de la Nación, con objeto de defender los intereses legítimos de los gobernados y del Estado mexicano.</p>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr> 
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-economia-suayed"></i><h1 class="mw-50 ng-binding">ECONOMÍA SUAyED</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/OcpToXnJG3Y" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 16 ? card_selected = 0 : card_selected = 16)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 16">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>El estudiante que desee inscribirse al plan de estudios de la licenciatura en Economía de la FES Aragón debe tener: habilidad en el manejo de los métodos cuantitativos, disposición para trabajar en grupo, alta disposición para la lectura y sensibilidad para orientar su interés por los problemas nacionales.</p>
+                        <p>El estudiante de nuevo ingreso, por tanto, debe tener conocimientos de álgebra, álgebra lineal, cálculo diferencial e integral, matemáticas financieras, estadística, historia universal y de México, buena redacción y ortografía, geografía física y humana además de principios básicos de contabilidad.</p>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/suayed/mapa-economia-sua.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>El egresado de la Licenciatura en Economía tendrá una sólida formación teórica, diversificada y actualizada, de tal manera que sea capaz de discernir entre las diferentes corrientes de pensamiento económico, comprender la génesis de cada una de ellas y su contexto histórico, así como su aplicación tanto a los hechos macroeconómicos como a los microeconómicos.</p>
+                        <p>Tendrá un suficiente manejo de métodos y técnicas de investigación y capacidad de abstracción, puesto que la labor de investigación es un elemento indispensable para su desarrollo profesional.</p>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr> 
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-relaciones-internacionales-suayed"></i><h1 class="mw-50 ng-binding">RELACIONES INTERNACIONALES SUAyED</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/HlzzFmhrkYg" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 17 ? card_selected = 0 : card_selected = 17)">
+                         Información
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 17">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>Es deseable que los aspirantes a esta licenciatura tengan habilidad para el manejo de la política, economía e historia, entre otras, así como disposición para trabajar en el ámbito mundial y contar con sólidos conocimientos sobre los acontecimientos a nivel nacional e internacional.</p>
+                        <p>Por otra parte, los alumnos deberán cumplir con los requisitos establecidos en conformidad al Reglamento General de Inscripciones de la UNAM, además es necesario haber aprobado satisfactoriamente el bachillerato.</p>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/suayed/mapa-rrii-sua.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>El egresado de la licenciatura en Relaciones Internacionales tendrá la capacidad de entender, analizar y diagnosticar la esencia, origen y solución de los fenómenos, procesos y tendencias mundiales, regionales y nacionales, al comprender los factores políticos, económicos, sociales y culturales que intervienen en el desarrollo de posibles escenarios y sus consecuencias.</p>
+                        <p>El internacionalista lleva en el plan de estudios áreas de preespecialización, por lo que dispondrá de conocimientos teórico-metodológicos y prácticos constituidos en una herramienta para su inserción al campo laboral en los sectores público y privado, así como, en la continuación de estudios de posgrado.</p>
+                     </div>
+                 </div>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 5">
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-posgrados"></i><h1 class="mw-50 ng-binding">POSGRADO</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/Zfz9JpUGRR0" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 18 ? card_selected = 0 : card_selected = 18)">
+                         ESPECIALIZACIÓN EN DERECHO
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 18">
+                        <p><strong>Objetivo general del plan de estudios del programa</strong></p>
+                        <p>En el caso del Programa Único de Especializaciones en Derecho, la FES Aragón es una entidad académica invitada, lo cual se traduce en que la comunidad estudiantil que ingresa a éste en nuestro plantel, cursa las asignaturas del Plan de Estudios en nuestras instalaciones; sin embargo, en lo que concierne a los trámites administrativos -como inscripción y reinscripción-, se llevan a cabo en la Facultad de Derecho.</p>
+                        <a style="color: #0069d9;" target="_blank" href="http://derecho.posgrado.unam.mx/site_cpd/public/inicio">
+                            <p>Programa de posgrado en derecho</p>
+                        </a>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 19 ? card_selected = 0 : card_selected = 19)">
+                         ESPECIALIZACIÓN EN PUENTES
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 19">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La especialización en Puentes se dirige a profesionales en Ingeniería Civil y comunidad egresada de licenciaturas afines al plan de estudios. Está dirigida a aquellas persona que laboran en el campo de las vías terrestres y tienen el interés de especializarse en esta disciplina. Se debe tener conocimientos sólidos en las áreas de hidráulica y geotecnia, vías terrestres, estructuras, construcción y planeación.</p>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada contará con los conocimientos para:</p>
+                        <ul>
+                            <li>planear, coordinar y evaluar estudios previos para el proyecto de puentes;</li>
+                            <li>seleccionar el tipo de puente, elaborar el proyecto geométrico y estético;</li>
+                            <li>realizar cálculos hidráulicos y el diseño geotécnico;</li>
+                            <li>realizar cálculos estructurales y el proyecto ejecutivo de puentes;</li>
+                            <li>supervisar la construcción de puentes y de control de calidad;</li>
+                            <li>detectar problemas que se presenten en el comportamiento de los puentes y las medidas preventivas o correctivas necesarias, así como supervisar tareas de rehabilitación correspondientes.</li>
+                        </ul>
+                        <p><strong>Campos del Conocimiento</strong></p>
+                        <p>Un puente es una obra plena de ingeniería en donde intervienen diversos campos del conocimiento, por lo que la comunidad especialista en puentes debe saber todo lo relacionado con:</p>
+                        <ol>
+                            <li>proyecto y construcción de vías terrestres;</li>
+                            <li>localización y trazo geométrico de caminos;</li>
+                            <li>estudios de drenaje;</li>
+                            <li>hidrología e hidráulica;</li>
+                            <li>topografía;</li>
+                            <li>geología y geotecnia;</li>
+                            <li>comportamiento de suelos;</li>
+                            <li>estabilidad de taludes;</li>
+                            <li>movimiento de tierras;</li>
+                            <li>diseño y construcción de pavimentos;</li>
+                            <li>ingeniería de tránsito;</li>
+                            <li>mecánica de materiales;</li>
+                            <li>análisis y diseño estructural;</li>
+                            <li>ingeniería sísmica;</li>
+                            <li>ingeniería experimental;</li>
+                            <li>operación, mantenimiento y conservación de estructuras;</li>
+                            <li>impacto ambiental;</li>
+                            <li>construcción, planeación, administración y organización de obras;</li>
+                            <li>legislación.</li>
+                        </ol>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/posgrado/mapa-puentes.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 20 ? card_selected = 0 : card_selected = 20)">
+                         MAESTRÍA EN ARQUITECTURA
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 20">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p></p>
+                        <ul>
+                        <li>conocimiento sobre procesos evolutivos de la arquitectura, relacionados con los factores sociales, ambientales, históricos, tecnológicos y su relación con los asentamientos urbanos;</li>
+                        <li>conocimiento sobre los fundamentos de teorías del diseño arquitectónico;</li>
+                        <li>conocimiento sobre las problemáticas que determinan la variedad de temas de investigación relacionados con los campos de conocimiento específicos del ámbito profesional de la arquitectura;</li>
+                        <li>conocimiento sobre las tendencias arquitectónicas contemporáneas;</li>
+                        <li>conocimiento sobre el manejo de nuevas tecnologías de la información;</li>
+                        <li>comprensión de lectura de una lengua diferente al español o a su lengua materna;</li>
+                        <li>capacidad para identificar y analizar metódicamente las posibles temáticas de trabajo para ubicarlas dentro de los campos de la investigación arquitectónica;</li>
+                        <li>habilidad para expresar ideas de manera gráfica, oral y por escrito;</li>
+                        <li>capacidad creativa;</li>
+                        <li>búsqueda y adquisición de conocimientos nuevos relacionados con el quehacer arquitectónico;</li>
+                        <li>disposición para la superación profesional, dedicación al estudio e interés para atender las demandas de la sociedad con ética profesional.</li>
+                        <li>expresión para manifestar su decisión de abordar, personal y socialmente, nuevos retos intelectuales;</li>
+                        <li>habilidad para el trabajo colectivo e interdisciplinario;</li>
+                        <li>tolerancia ante la diversidad de opiniones discrepantes;</li>
+                        <li>respeto a la institución y los individuos;</li>
+                        <li>integridad y honestidad académica.</li>
+                        </ul>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada de la maestría en Arquitectura tendrá las siguientes características:</p>
+                        <ul>
+                        <li>conocimientos teóricos, conceptuales, metodológicos y humanistas de los procesos evolutivos de la Arquitectura y en particular del campo de conocimiento en el cual se formó la comunidad estudiantil;</li>
+                        <li>conocimientos sobre herramientas especializadas para el manejo de fuentes documentales relacionadas con la teoría y práctica del diseño arquitectónico;</li>
+                        <li>conocimientos sobre las tendencias arquitectónicas contemporáneas nacionales e internacionales;</li>
+                        <li>capacidad para formular problemas y proyectos de investigación aplicada al ámbito profesional, en especial aquellos casos relacionados con el campo de conocimiento de la maestría;</li>
+                        <li>capacidad de integración de conocimientos derivados de la investigación aplicada a los procesos de planeación y ejecución de la práctica profesional con resultados de excelencia;</li>
+                        <li>capacidad de análisis, desarrollo y resolución, desde una perspectiva interdisciplinaria y multidisciplinaria de los diversos fenómenos de la Arquitectura, al aportar aspectos que incluyan referentes socialmente pertinentes e innovadores;</li>
+                        <li>capacidad de revisión, evaluación y resolución de manera práctica de los problemas del campo profesional mediante el uso de principios teóricos y herramientas metodológicas de investigación aplicada arquitectónica;</li>
+                        <li>capacidad para la elaboración de proyectos de investigación originales y para generar conocimientos innovadores e incursionar al doctorado;</li>
+                        <li>capacidad para comunicar clara y fluidamente, de manera oral y escrita sobre los conocimientos e ideas propias;</li>
+                        <li>capacidad para resolver de manera original problemas complejos con otras formas de pensamiento, con el fin de avanzar en el descubrimiento de paradigmas nuevos de la Arquitectura con responsabilidad social y ambiental;</li>
+                        <li>apertura a los conocimientos y autonomía intelectual generados en otras disciplinas con potencial de aplicación a la Arquitectura e interacción desde la visión arquitectónica con otros campos de conocimiento;</li>
+                        <li>respeto a opiniones ante la crítica y diferencias expresadas en las diversas posturas del fenómeno arquitectónico;</li>
+                        </ul>
+                        <p><strong>Campos del Conocimiento</strong></p>
+                        <p>En la Facultad de Estudios Superiores Aragón, se imparten los siguientes campos de conocimiento:</p>
+                        <ol>
+                            <li>Diseño arquitectónico</li>
+                            <li>Tecnologías</li>
+                        </ol>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/posgrado/mapa-maestria-arquitectura.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 21 ? card_selected = 0 : card_selected = 21)">
+                         MAESTRÍA EN DERECHO
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 21">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>ra ingresar a la maestría en Derecho, la comunidad aspirante deberá poseer habilidades para el análisis, discusión y generación de textos especializados y problematizar temas de investigación jurídica.</p>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada contará con conocimientos jurídicos de frontera y habilidades para asesorar, formular o proponer proyectos de optimización del funcionamiento de diversas instancias del sistema jurídico nacional, con una actitud analítica, crítica y creativa en la solución de los problemas jurídicos nacionales. Como resultado de su formación estará capacitada para realizar estudios de su disciplina y coadyuvar en la integración de grupos de investigación.</p>
+                        <p><strong>Campos del Conocimiento</strong></p>
+                        <p>Los campos del conocimiento que abarca el programa de maestría en Derecho son:</p>
+                        <ol>
+                            <li>Derecho Administrativo;</li>
+                            <li>Derecho Ambiental;</li>
+                            <li>Derecho Civil;</li>
+                            <li>Derecho Constitucional;</li>
+                            <li>Derecho de la Administración y Procuración de Justicia;</li>
+                            <li>Derecho de la Información;</li>
+                            <li>Derecho de la Propiedad Intelectual;</li>
+                            <li>Derecho de Menores;</li>
+                            <li>Derecho del Comercio Exterior;</li>
+                            <li>Derecho Electoral;</li>
+                            <li>Derecho Empresarial;</li>
+                            <li>Derecho Familiar;</li>
+                            <li>Derecho Financiero;</li>
+                            <li>Derecho Fiscal;</li>
+                            <li>Derecho Internacional Privado;</li>
+                            <li>Derecho Internacional Público;</li>
+                            <li>Derecho Laboral;</li>
+                            <li>Derecho Notarial y Registral;</li>
+                            <li>Derecho Penal;</li>
+                            <li>Derecho Derecho Social;</li>
+                            <li>Derechos Humanos;</li>
+                            <li>filosofía del Derecho;</li>
+                            <li>género y Derecho;</li>
+                            <li>Sistema de Responsabilidad de Servidores públicos.</li>
+                        </ol>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/posgrado/mapa-maestria-derecho.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 22 ? card_selected = 0 : card_selected = 22)">
+                         MAESTRÍA EN ECONOMÍA
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 22">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante a cursar este plan de estudios deberá poseer las habilidades básicas que proporciona la licenciatura, así como la experiencia previa mínima indispensable para continuar con estudios de maestría. En consecuencia, deberá haber egresado de la licenciatura en economía o de otra carrera afín; en todos los casos deberá demostrar que posee los conocimientos básicos de lógica matemática, manejo apropiado del lenguaje, conocimientos básicos en economía e interés por la disciplina. De igual forma, deberá mostrar vocación y aptitudes para emprender tareas de investigación económica, con un interés lo suficientemente claro en alguno de los campos que comprende el programa.</p>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada tendrá un conocimiento amplio y plural de los fundamentos teóricos de la disciplina, y en particular del campo de conocimiento elegido, así como destreza para utilizar los diferentes métodos de la economía aplicada y capacidad para tomar decisiones en cualquiera de los ámbitos en los que se desempeñe laboralmente, además debe hacer aportaciones al avance de la disciplina y su ejercicio profesional.</p>
+                        <p><strong>Campos del Conocimiento</strong></p>
+                        <p>En la Facultad de Estudios Superiores Aragón por ser entidad académica participante se imparten los siguientes:</p>
+                        <ol>
+                            <li>Economía de los recursos naturales y desarrollo sustentable;</li>
+                            <li>Economía financiera;</li>
+                            <li>Economía pública;</li>
+                            <li>teoría y método de la Economía.</li>
+                        </ol>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/posgrado/mapa-maestria-economia.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 23 ? card_selected = 0 : card_selected = 23)">
+                         MAESTRÍA EN INGENIERÍA
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 23">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante a ingresar a la maestría en Ingeniería de este programa deberá tener:</p>
+                        <ul>
+                        <li>conocimientos básicos en física y matemáticas, así como conocimientos generales en el campo al que desea ingresar;</li>
+                        <li>conocimiento sobre programas y paquetes de cómputo relacionados con el campo de conocimiento de su interés;</li>
+                        <li>comprensión de textos técnicos y especializados de ingeniería en inglés;</li>
+                        <li>buena comprensión de lectura, así como capacidad de análisis y síntesis;</li>
+                        <li>redacción correcta en español;</li>
+                        <li>entendimiento el contexto social y económico del país en el que se ejerce la actividad profesional;</li>
+                        <li>capacidad crítica y ser capaz de definir problemas que requieran de ingeniería;</li>
+                        <li>aptitud de adaptarse a situaciones nuevas;</li>
+                        <li>capacidad de análisis con respecto a las nuevas tecnologías;</li>
+                        <li>cualidades personales necesarias que le permitan adaptarse a un medio ambiente de trabajo extremo;</li>
+                        <li>mentalidad abierta al uso de la tecnología y a la innovación educativa, como herramientas que puedan potenciar su aprendizaje;</li>
+                        <li>disposición para el trabajo en equipo.</li>
+                        </ul>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>En términos generales la comunidad egresada de la maestría en Ingeniería:</p>
+                        <ul>
+                        <li>contará con conocimientos, habilidades y actitudes que le permite iniciarse en la investigación y el ejercicio profesional;</li>
+                        <li>habrá adquirido un conocimiento sólido y actual en el campo de conocimiento, y en particular campo disciplinario que hayan cursado;</li>
+                        <li>dominará un amplio conjunto de métodos y técnicas fundamentales, teóricas y experimentales de su campo de conocimiento y disciplinario;</li>
+                        <li>será capaz de apoyar el desarrollo de estudios y proyectos de investigación básica y aplicada, así como plantear estrategias para su realización, en los ámbitos académico, industrial, productivo y de servicios;</li>
+                        <li>trabajará en equipo y en grupos inter y multidisciplinarios;</li>
+                        <li>manejará de manera crítica información científica y técnica de fuentes especializadas de actualidad;</li>
+                        <li>será capaz de atender problemas de análisis en el campo de conocimiento, y en particular en el campo disciplinario elegido, considerando las habilidades adquiridas en el transcurso de sus estudios;</li>
+                        <li>tendrá la capacidad de discernir así como plantear soluciones para resolver problemas complejos en el campo de conocimiento;</li>
+                        <li>podrá proponer soluciones prácticas y realizables, que garanticen la sustentabilidad del medio ambiente basadas en la información científica y tecnológica disponible;</li>
+                        <li>podrá participar en asesorías, consultorías, en el desarrollo de nuevas tecnologías y en la investigación básica y aplicada;</li>
+                        <li>podrá crear con actitud innovadora nuevas fuentes de empleo;</li>
+                        <li>tendrá capacidad de comunicación oral y escrita;</li>
+                        <li>tendrá capacidad para trabajar en equipo.</li>
+                        </ul>
+                        <p><strong>Campos del Conocimiento</strong></p>
+                        <p>El campo de conocimiento que se imparte en la FES Aragón es:</p>
+                        <ul>
+                        <li>Ingeniería en Sistemas.</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/posgrado/mapa-maestria-ingenieria.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 24 ? card_selected = 0 : card_selected = 24)">
+                         MAESTRÍA EN PEDAGOGÍA
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 24">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante que pretenda ingresar al plan de estudios de la maestría en Pedagogía deberá demostrar tanto en su proyecto de investigación, como en la entrevista los siguientes conocimientos, habilidades y actitudes:</p>
+                        <ul>
+                            <li>capacidad crítica, de discernimiento, de abstracción de análisis y síntesis.</li>
+                            <li>Habilidades de expresión oral y escrita;</li>
+                            <li>Dominio del idioma español y expresión precisa y clara del mismo a nivel individual y grupal;</li>
+                            <li>Competencia en la búsqueda y análisis de información y en la sistematización de datos;</li>
+                            <li>Capacidad para identificar problemas relacionados con el ámbito educativo.</li>
+                        </ul>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>Al egresar de esta maestría la comunidad estudiantil será capaz de:</p>
+                         <ul>
+                             <li>Identificar problemáticas relacionadas con el ámbito educativo, a fin de construir objetos de estudio significativos para el campo de la Pedagogía;</li>
+                             <li>Poseer conocimientos y habilidades sólidos en las actividades relacionadas con la investigación educativa;</li>
+                             <li>Demostrar el manejo de enfoques teóricos y estrategias encaminadas al trabajo de la gestión y la docencia.</li>
+                             <li>Contar con la habilidad para elaborar informes académicos y de intervención.</li>
+                             <li>Diseñar propuestas de intervención para la solución de los variados y complejos problemas educativos y pedagógicos vigentes en el ámbito nacional e internacional.</li>
+                         </ul>
+                         <p><strong>Campos del Conocimiento</strong></p>
+                         <P>El plan de estudios tiene cuatro campos de conocimiento, los cuales son:</P>
+                         <ul>
+                             <li>docencia;</li>
+                             <li>políticas educativas y gestión académica;</li>
+                             <li>educación y diversidad cultural;</li>
+                             <li>construcción de saberes pedagógicos.</li>
+                         </ul>
+                         <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/posgrado/mapa-maestria-pedagogia.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 25 ? card_selected = 0 : card_selected = 25)">
+                         MAESTRÍA EN POLÍTICA CRIMINAL
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 25">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>Para ingresar a la maestría en Política Criminal, la comunidad aspirante deberá poseer habilidades para el análisis, discusión y generación de textos especializados en ciencias jurídicas y del control social, para problematizarlos como temas de investigación.</p>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada contará con conocimientos de frontera del control social y habilidades para asesorar, formular o proponer políticas públicas en materia criminal y de seguridad, con una actitud analítica, crítica y creativa en la solución de los problemas de la agenda nacional. Como resultado de su formación, estará capacitada para realizar estudios inter, multi y transdisciplinarios, además de coadyuvar en la integración de grupos de investigación.</p>
+                        <p><strong>Campos del Conocimiento</strong></p>
+                        <p>La Política Criminal es entendida como la parte de la política general de control que desarrolla el Estado y que se manifiesta a través de diversas políticas públicas, para prevenir las alteraciones del orden social y mantener en niveles de tolerabilidad los índices de transgresión de la norma.</p>
+                        <p>Se identifica a la Política Criminal como aquella relacionada en la última de sus instancias con el Derecho Penal, el discurso de la prevención sostenido en las leyes y en el discurso del Estado ha quedado sin credibilidad, por lo que es tiempo de cambiar la estrategia; los diagnósticos que detectaban las posibles alteraciones sociales a futuro y daban cuenta de las deficiencias jurídicas han quedado rebasados.</p>
+                        <p>En el presente, las metas a alcanzar con este campo del conocimiento consisten en proponer políticas públicas (económicas y sociales), así como medidas de política criminal, en el campo del Derecho Penal, a través de las cuales la delincuencia pueda mantenerse dentro de límites tolerables y las autoridades actúen en un marco de respeto a las garantías propias de un Estado democrático de Derecho.</p>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/posgrado/mapa-politica-criminal.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 26 ? card_selected = 0 : card_selected = 26)">
+                         DOCTORADO EN ARQUITECTURA
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 26">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante a ingresar al doctorado en Arquitectura deberá tener los siguientes conocimientos:</p>
+                        <ul>
+                        <li>aspectos teórico-conceptuales pertinentes para formular proyectos viables de investigación original;</li>
+                        <li>bases teóricas, sólidas y rigurosas en la disciplina de estudio;</li>
+                        <li>instrumentos especializados para el manejo de fuentes documentales.</li>
+                        </ul>
+                        <p>Asimismo, deberá tener las siguientes habilidades y competencias:</p>
+                        <ul>
+                        <li>formular problemas de investigación con interrogantes sugerentes, originales y factibles de ser resueltas;</li>
+                        <li>expresar actitud, interés y experiencia en las labores propias de la investigación;</li>
+                        <li>revelar cualidades tolerantes ante la crítica y las diferencias, expresadas en las diversas posturas del fenómeno arquitectónico;</li>
+                        <li>interesarse por la generación de nuevos conocimientos.</li>
+                        </ul>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada del doctorado en Arquitectura deberá:</p>
+                        <ul>
+                        <li>conocer a profundidad los aspectos teórico-metodológicos adecuados para desarrollar proyectos originales de investigación;</li>
+                        <li>mostrar el empleo de un riguroso razonamiento abstracto, uso del lenguaje correcto y comprensión de textos, así como una buena interpretación de los hechos que le permitan comprobar diversas hipótesis a partir de argumentaciones originales;</li>
+                        <li>tener la capacidad de encontrar e interpretar de forma original las fuentes de información de primera mano;</li>
+                        <li>demostrar que posee una sólida formación académica y capacidad para la investigación y el descubrimiento de los límites en el conocimiento de la arquitectura;</li>
+                        <li>contar con la capacidad de organizar y participar productivamente con grupos interdisciplinarios de investigación;</li>
+                        <li>mostrar cualidades y actitudes de tolerancia para entender y debatir los diversos enfoques a su investigación con el fin de profundizar razonadamente en la discusión y defensa de sus ideas y propuestas.</li>
+                        </ul>
+                        <p><strong>Campos del Conocimiento</strong></p>
+                        <ol>
+                        <li>teoría y crítica de la arquitectura;</li>
+                        <li>paradigmas en la comunicación y la enseñanza de la arquitectura;</li>
+                        <li>producción arquitectónica;</li>
+                        <li>pensamiento y producción científica-tecnológica de la Arquitectura;</li>
+                        <li>Arquitectura, medio ambiente y sustentabilidad;</li>
+                        <li>expresión y representación arquitectónica;</li>
+                        <li>Arquitectura histórica y patrimonio;</li>
+                        <li>Arquitectura y habitabilidad;</li>
+                        <li>Arquitectura y territorio;</li>
+                        <li>conocimiento transdisciplinario en la arquitectura.</li>
+                        </ol>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 27 ? card_selected = 0 : card_selected = 27)">
+                         DOCTORADO EN DERECHO
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 27">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>Para ingresar al doctorado, la comunidad aspirante debe poseer habilidades para el análisis, discusión y generación de textos originales y especializados en la línea de su investigación. Además, deberá contar con una sólida formación metodológica que le permita identificar problemas jurídicos relevantes.</p>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada contará con conocimientos jurídicos de frontera y habilidades argumentativas científicas para la generación de conocimiento nuevo, mediante la investigación original, con una alta capacidad para diseñar, coordinar, emprender, dirigir y participar en la investigación básica y aplicada, interactuando con otras comunidades profesionales en ciencias sociales, orientándose a la solución de los problemas jurídicos de la agenda nacional.</p>
+                        <p><strong>Campos del Conocimiento</strong></p>
+                        <p>La actividad fundamental de los estudios de doctorado consiste en la investigación original en alguno de los campos de conocimiento del Derecho. Adicionalmente y de forma complementaria, se realizarán otras actividades académicas, tales como: cursos, docencia, estancias de investigación, seminarios o talleres; que estarán orientadas a una formación académica y profesional, tanto en los conocimientos generales de la disciplina como en los específicos del campo de interés del alumno, que lo preparen para obtener la candidatura al grado.</p>
+                        <p>Actualmente, en la FES Aragón, se imparten los siguientes campos de conocimiento:</p>
+                        <ol>
+                        <li>Derecho Constitucional</li>
+                        <li>Derecho Penal</li>
+                        </ol>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 28 ? card_selected = 0 : card_selected = 28)">
+                         DOCTORADO EN ECONOMÍA
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 28">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante deberá:</p>
+                        <ul>
+                        <li>tener conocimientos sólidos y demostrar que cuenta con las habilidades de investigación indispensables para desarrollar y concluir con éxito su investigación;</li>
+                        <li>ser capaz de preparar un proyecto de investigación que contemple un tema de frontera en la ciencia económica, conocer la bibliografía pertinente, incorporar una hipótesis, describir la metodología para probarla y plantear un plan de trabajo factible para su desarrollo  en un lapso de cuatro años.</li>
+                        </ul>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/posgrado/mapa-rrii-sua.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada tendrá capacidad para realizar investigación de frontera y estará calificada para desempeñarse profesionalmente en cualquier ámbito laboral, dada su competencia teórica, metodológica y técnica.</p>
+                        <p><strong>Campos del Conocimiento</strong></p>
+                        <p>En la FES Aragón, por ser entidad académica participante se imparten los siguientes campos de conocimiento:</p>
+                        <ol>
+                        <li>Economía financiera;</li>
+                        <li>teoría y método de la Economía;</li>
+                        <li>Economía de los recursos naturales y desarrollo sustentable;</li>
+                        <li>Economía pública.</li>
+                        </ol>
+                     </div>
+                 </div>
+            </div>
+            <div class="col-12 col-md-8" style="padding-top: 20px">
+                 <div class="card mb-2">
+                     <div class="card-header" ng-click="(card_selected === 29 ? card_selected = 0 : card_selected = 29)">
+                         DOCTORADO EN PEDAGOGÍA
+                     </div>
+                     <div class="card-body" ng-show="card_selected === 29">
+                        <p><strong>Perfil de ingreso</strong></p>
+                        <p>La comunidad aspirante que pretenda ingresar al plan de estudios del doctorado en Pedagogía deberá contar con un bagaje disciplinario amplio y sólido, con una formación previa para el campo educativo o en uno afín y reunir las condiciones académicas para desarrollar investigación original.</p>
+                        <p>Además, deberá demostrar en el anteproyecto de investigación que presenta, las siguientes habilidades:</p>
+                        <ol>
+                        <li>redacción clara;</li>
+                        <li>capacidad de argumentación;</li>
+                        <li>capacidad crítica de discernimiento, de abstracción y de síntesis;</li>
+                        <li>competencia en la búsqueda y análisis de información y en la sistematización de datos.</li>
+                        </ol>
+                        <a class="boton-registro btn btn-secondary btn-sm boton-header" href="public_html/documents/orientaton-unam/posgrado/mapa-rrii-sua.pdf" target="_blank" title="Mapa Curricular">Mapa Curricular</a>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>La comunidad egresada tendrá las habilidades para la investigación original tales como:</p>
+                        <ol>
+                        <li>búsqueda de información por todos los medios disponibles;</li>
+                        <li>elección un tema de investigación de acuerdo con la problemática identificada;</li>
+                        <li>desarrollo de categorías conceptuales y analíticas;</li>
+                        <li>construcción de líneas teóricas vinculadas con su objeto de estudio;</li>
+                        <li>elaboración de un diseño metodológico que incluya la selección de técnicas y elaboración de instrumentos para la obtención del material de campo y sistematización, organización, análisis e interpretación de datos.</li>
+                        </ol>
+                        <p>Con respecto al ámbito disciplinario, este plan de estudios propicia una formación sólida que le permite reconocer la complejidad y la multireferencialidad de lo educativo.</p>
+                        <p><strong>Perfil de egreso</strong></p>
+                        <p>El plan de estudios tiene cuatro campos de conocimiento, los cuales son:</p>
+                        <p>Las líneas de investigación orientadas al doctorado tienen como objetivo analizar las particularidades de lo educativo como objeto de conocimiento. Estas son:</p>
+                        <ol>
+                        <li>docencia;</li>
+                        <li>políticas educativas y gestión académica;</li>
+                        <li>educación y diversidad cultural;</li>
+                        <li>construcción de saberes pedagógicos.</li>
+                        </ol>
+                        <ul>
+                        <li>antropología cultural y educación;</li>
+                        <li>teoría y desarrollo curricular, didáctica, evaluación y comunicación;</li>
+                        <li>política, economía y planeación educativas;</li>
+                        <li>epistemología y metodología de la investigación pedagógica;</li>
+                        <li>filosofía de la educación y teorías pedagógicas;</li>
+                        <li>historia de la educación y la pedagogía;</li>
+                        <li>desarrollo humano y aprendizaje;</li>
+                        <li>sistemas educativos formales y no formales;</li>
+                        <li>sociología de la educación.</li>
+                        </ul>
+                     </div>
+                 </div>
+            </div>
+        </div>
+        <hr> 
+    </div>
+    <div ng-show="showing === 6">
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-genero"></i><h1 class="mw-50 ng-binding">¿Qué es género?</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/XiwCyV6CWrM" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <hr> 
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-protecion-civil"></i><h1 class="mw-50 ng-binding">Protección Civil</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/PJgVedBfiWg" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <hr> 
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-servicio-a-la-comunidad"></i><h1 class="mw-50 ng-binding">Servicios a la Comunidad</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/J6aCGvm1sps" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <hr> 
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-unidad-juridica"></i><h1 class="mw-50 ng-binding">Oficina Jurídica</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/4PalKK8hhzw" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+       <hr> 
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-centro-de-lenguas"></i><h1 class="mw-50 ng-binding">Centro de Lenguas</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/_oIYZ3B30eg" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <hr> 
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones icon-extencion-universitaria"></i><h1 class="mw-50 ng-binding">Unidad de Extensión Universitaria</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/_oIYZ3B30eg" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <hr> 
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones"></i><h1 class="mw-50 ng-binding">Centro Integral de Servicios Estudiantiles (CISE)</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/Wv_tbtfRP5g" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones"></i><h1 class="mw-50 ng-binding">Campaña Súmate contra el acoso</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ReEPhzbISeM" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row justify-content-center align-items-center" style="padding-top: 20px;">
+            <div class="col-12 col-md-4 secciones">
+            <div class="seccion"><i class="icono-secciones"></i><h1 class="mw-50 ng-binding">Convocatoria PEPASIG y procedimiento</h1></div>
+            </div>
+            <div class="col-md-4">
+                <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/gYUSjpj8ayY" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

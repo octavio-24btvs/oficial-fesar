@@ -1,0 +1,155 @@
+<div id="fb-root"></div>
+<div class="container content">
+    <hr />
+    <div class="row pleca-secciones">
+        <div class="col-lg-12 secciones">
+            <i class="icono-muro icon-periodico-doblado"></i>
+            <h1>NOTICIAS</h1>
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="offset-md-1 col-12 col-md-6">
+            <a class="btn btn-secondary boton-registro mb-1 ml-0"
+               ui-sref="secciones_noticias({seccion:note.seccion_normalizada})" 
+               ng-if="!note.secciones">
+               {{note.seccion}}
+            </a>
+            <a class="btn btn-secondary boton-registro mb-1 ml-0"
+               ui-sref="secciones_noticias({seccion:seccion.seccion_normalizada})" 
+               ng-repeat="seccion in note.secciones"
+               ng-if="note.secciones">
+               {{seccion.seccion}}
+            </a>
+            <h2 class="pt-4 pb-2" >{{note.titulo}}</h2>
+            <strong class="pt-1" >
+                <p ng-bind-html="note.autor"></p>
+            </strong>
+            <p> <i class="fecha icon-tiempo">&nbsp;{{note.fecha}}</i></p>
+            <br />
+            <br>
+            <div ng-bind-html="note.contenido"></div>
+            <div class="pb-5">
+            <p class="m-0 pb-2">Compartir:</p>
+            <span
+                data-href="https://www.aragon.unam.mx/fes-aragon/index.php/share/?noticia={{note.titulo_normalizado}}"
+                data-layout="button_count" data-size="small" data-mobile-iframe="true"><a target="_blank"
+                    href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aragon.unam.mx%2Ffes-aragon%2Findex.php%2Fshare%2F%3Fnoticia%3D{{note.titulo_normalizado}}&amp;src=sdkpreparse"
+                    class="facebook-share">
+                    <svg class="icon-tik-tok">
+                        <use href="public_html/img/logos/facebook.svg#facebook"></use>
+                    </svg>
+                </a>
+            </span>
+            <span><a href="https://twitter.com/share?url=https://www.aragon.unam.mx/fes-aragon/%23!/muro-aragon/noticias/{{note.titulo_normalizado}}"
+                    target="_blank" class="twitter-share" data-lang="es" data-show-count="false">
+                    <svg class="icon-tik-tok">
+                        <use href="public_html/img/logos/twitter.svg#twitter"></use>
+                    </svg>
+                </a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </span>
+            </div>
+            <div id="jssor_1" 
+                 class="col-12 pt-3"
+                 style="position: relative; margin: 0px auto; top: 0px; left: 0px; width:480px; height:360px; visibility: visible;overflow:hidden"
+                 ng-if="note.imagenes.length > 0">
+                <div data-u="slides"
+                    style="cursor:default;position:relative;top:0px;left:0px;width:480px;height:360px;overflow:hidden;">
+                    <div ng-repeat="imagen in note.imagenes">
+                        <img data-u="image"
+                            ng-src="public_html/img/noticias/{{note.titulo_normalizado}}/{{imagen.imagen}}"
+                            alt="{{note.titulo}}" />
+                    </div>
+                </div>
+                <div data-u="navigator" class="jssorb032" style="position:absolute;bottom:12px;right:12px;"
+                    data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
+                    <div data-u="prototype" class="i" style="width:16px;height:16px;">
+                        <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                            <circle class="b" cx="8000" cy="8000" r="5800"></circle>
+                        </svg>
+                    </div>
+                </div>
+                <div data-u="arrowleft" class="jssora106" style="width:55px;height:55px;top:200px;left:30px;"
+                    data-scale="0.75">
+                    <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                        <circle class="c" cx="8000" cy="8000" r="6260.9"></circle>
+                        <polyline class="a" points="7930.4,5495.7 5426.1,8000 7930.4,10504.3 "></polyline>
+                        <line class="a" x1="10573.9" y1="8000" x2="5426.1" y2="8000"></line>
+                    </svg>
+                </div>
+                <div data-u="arrowright" class="jssora106" style="width:55px;height:55px;top:200px;right:30px;"
+                    data-scale="0.75">
+                    <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                        <circle class="c" cx="8000" cy="8000" r="6260.9"></circle>
+                        <polyline class="a" points="8069.6,5495.7 10573.9,8000 8069.6,10504.3 "></polyline>
+                        <line class="a" x1="5426.1" y1="8000" x2="10573.9" y2="8000"></line>
+                    </svg>
+                </div>
+            </div>
+            <br />
+        </div>
+        <div class="col-12 col-md-4 lista-noticias">
+            <div class="row row galeria justify-content-end">
+                <div class="col-12 col-md-8 p-0">
+                    <a class="link-comunicacion" ui-sref="seciones"><img class="img-fluid" style="border-radius: 15px;position: relative;left: 34px;" src="public_html/img/noticias/secciones.png" alt="Secciones" /></a>
+                </div>
+                <div class="seccion col-12 pt-4" ng-repeat="noticia in getSubArray()">
+                    <i class="fecha icon-tiempo">
+                        {{noticia.fecha}}
+                    </i>
+                    <h2>
+                        <a ui-sref="noticias({page:actual_page,noticia:noticia.titulo_normalizado})"
+                            title="{{noticia.titulo}}">{{noticia.titulo}}</a>
+                    </h2>
+                </div>
+            </div>
+            <div class="row">
+                <ul class="pagination ml-a mr-a">
+                    <li class="page-item" ng-show="pages_count > 1 && actual_page > 1">
+                        <a class="page-link" aria-label="Previous" ng-click="actual_page = actual_page - 1">
+                            <span class="fa fa-angle-left"></span>
+                        </a>
+                    </li>
+                    <li class="page-item" ng-show="(actual_page - 1) > 0"><a class="page-link"
+                            ng-click="actual_page = actual_page - 1">{{actual_page - 1}}</a></li>
+                    <li class="page-item active"><a class="page-link">{{actual_page}}</a></li>
+                    <li class="page-item" ng-show="(actual_page + 1) <= pages_count"><a class="page-link"
+                            ng-click="actual_page = actual_page + 1">{{actual_page + 1}}</a></li>
+                    <li class="page-item" ng-show="(pages_count > 1 && actual_page < pages_count)">
+                        <a class="page-link" aria-label="Next" ng-click="actual_page = actual_page + 1">
+                            <span class="fa fa-angle-right"></span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-12 row pt-15 text-center ml-a mr-a">
+                <div class="col-12">
+                    <a href="https://www.aragon.unam.mx/fes-pub/#!/" target="_blank" title="Gaceta y Publicaciones">
+                        <div class="link-comunicacion">
+                            <img class="img-fluid" src="public_html/img/comunicacion_social/gaceta-y-publicaciones.jpg"
+                                alt="Gaceta y Publicaciones" />
+                        </div>
+                        <p class="texto-comunicacion">Gaceta y Publicaciones</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '2227144577336811',
+            status: true,
+            cookie: true,
+            xfbml: true
+        });
+    };
+    (function () {
+        var e = document.createElement('script');
+        e.async = true;
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    }());
+</script>

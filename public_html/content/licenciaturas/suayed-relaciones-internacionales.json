@@ -1,0 +1,66 @@
+﻿{
+    "botones": [
+        "Inicio",
+        "Presentaci\u00F3n",
+        "Perfil de ingreso",
+        "Perfil de egreso",
+        "Plan de estudios",
+        "Mapa curricular",
+        "Programas",
+        "Titulaci\u00F3n",
+        "Contacto"
+    ],
+    "titulo": "Relaciones Internacionales SUAyED",
+    "icono": "icono-secciones icon-relaciones-internacionales-suayed",
+    "secciones": [
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Mensaje de bienvenida<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Estudiantes que ingresan al Sistema Universidad Abierta y Educaci\u00F3n a Distancia de la Facultad de Estudios Superiores Arag\u00F3n: les damos la m\u00E1s cordial bienvenida a \u00E9sta, su Universidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">A partir de hoy forman parte de una Instituci\u00F3n llena de historia, extraordinaria por su prestigio, desarrollo, evoluci\u00F3n y un gran compromiso social. Nuestra Escuela est\u00E1 dise\u00F1ada para servir a nuestro pa\u00EDs, formando profesionistas \u00E9ticos y justos, con profesores \u00E1vidos de transmitir su experiencia y con investigaciones que propongan ofrecer soluciones acorde a nuestra realidad.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Aprovechen el privilegio que significa la posibilidad de ingresar a la Universidad Nacional Aut\u00F3noma de M\u00E9xico y realicen su mayor esfuerzo para responder al compromiso con nuestra sociedad.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Presentaci\u00F3n<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Licenciatura de Relaciones Internacionales tiene el objetivo de formar estudiantes para entender los fen\u00F3menos mundiales, a trav\u00E9s de una ense\u00F1anza multidisciplinaria que fomente su capacidad anal\u00EDtica de decisi\u00F3n desde una perspectiva humanista, que permita aplicar diversos aspectos te\u00F3rico-metodol\u00F3gico, pol\u00EDticos, jur\u00EDdicos y econ\u00F3micos para construir las alternativas factibles de soluci\u00F3n a los temas nacionales e internacionales, donde demuestren una actitud de responsabilidad y compromiso, fomenten la cr\u00EDtica y el liderazgo con base en el conocimiento, la disciplina y el esfuerzo acad\u00E9mico. <\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La Licenciatura en Relaciones Internacionales del SUAyED Arag\u00F3n, es reconocida por su acreditada calidad acad\u00E9mica y es referente en la formaci\u00F3n de profesionales de alto nivel acad\u00E9mico en el contexto mundial, distinguidos por su liderazgo, conocimiento y disciplina.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Los egresados de la Licenciatura en Relaciones Internacionales, ser\u00E1n profesionistas&nbsp;\u00EDntegros, \u00E9ticos y comprometidos que respondan a los retos de nuestra sociedad, desde una perspectiva humanista, capaces de entender los fen\u00F3menos mundiales y de proponer alternativas de soluci\u00F3n, a trav\u00E9s de una construcci\u00F3n pedag\u00F3gica interdisciplinaria y multidisciplinaria, mediante una modalidad educativa flexible e innovadora, a trav\u00E9s del uso de las Tecnolog\u00EDas de la Informaci\u00F3n y Comunicaci\u00F3n (TIC).<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de ingreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Es deseable que los aspirantes a esta licenciatura tengan habilidad para el manejo de la pol\u00EDtica, econom\u00EDa e historia, entre otras, as\u00ED como disposici\u00F3n para trabajar en el \u00E1mbito mundial y contar con s\u00F3lidos conocimientos sobre los acontecimientos a nivel nacional e internacional.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por otra parte, los alumnos deber\u00E1n cumplir con los requisitos establecidos en conformidad al Reglamento General de Inscripciones de la UNAM, adem\u00E1s es necesario haber aprobado satisfactoriamente el bachillerato.<\/span><\/p>"
+        },
+        {
+            "tipo": "html",
+            "texto": "<h2 class=\"titulo-seccion pb-2\">Perfil de egreso<\/h2><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El egresado de la licenciatura en Relaciones Internacionales tendr\u00E1 la capacidad de entender, analizar y diagnosticar la esencia, origen y soluci\u00F3n de los fen\u00F3menos, procesos y tendencias mundiales, regionales y nacionales, al comprender los factores pol\u00EDticos, econ\u00F3micos, sociales y culturales que intervienen en el desarrollo de posibles escenarios y sus consecuencias.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El internacionalista lleva en el plan de estudios \u00E1reas de preespecializaci\u00F3n, por lo que dispondr\u00E1 de conocimientos te\u00F3rico-metodol\u00F3gicos y pr\u00E1cticos constituidos en una herramienta para su inserci\u00F3n al campo laboral en los sectores p\u00FAblico y privado, as\u00ED como, en la continuaci\u00F3n de estudios de posgrado.<\/span><\/p>"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/rrii-sua/plan-de-estudios-rrii-sua.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/rrii-sua/mapa-rrii-sua.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/rrii-sua/programas-rrii-sua.pdf"
+        },
+        {
+            "tipo": "pdf",
+            "texto": "public_html/documents/licenciaturas/rrii-sua/titulacion-rrii-sua.pdf"
+        },
+        {
+            "tipo": "contacto",
+            "texto": {
+                "jefe_carrera": "Omar Alejandro Coutiño Pérez",
+                "foto_jefe_de_carrera": "public_html/img/oferta_academica/suayed-relaciones-internacionales/omar-alejandro-coutinno-perez.jpg",
+                "genero_jefe_carrera": "0",
+                "secretario_tecnico": "Luis Alberto Arenas Reyes",
+                "foto_secretario_tecnico": "public_html/img/oferta_academica/suayed-relaciones-internacionales/luis-arenas.jpg",
+                "genero_secretario_tecnico": "0",
+                "horario": "De lunes a viernes de 09:00 a 15:00 h y de 17:00 a 21:00 h, s\u00E1bado de 09:00 a 14:00 h",
+                "telefonos": "55 5623 0222",
+                "extension": "Ext. 83013",
+                "correo_electronico": "suayed.atencion@aragon.unam.mx",
+                "facebook": "https:\/\/www.facebook.com\/FESAragon.suayed\/",
+                "noticias": "https://www.aragon.unam.mx/fes-aragon/#!/seccion/suayed"
+            }
+        }
+    ]
+}

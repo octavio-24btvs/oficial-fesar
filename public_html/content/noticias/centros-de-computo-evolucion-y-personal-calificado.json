@@ -1,0 +1,24 @@
+{
+	"titulo": "Centros de c\u00F3mputo: evoluci\u00F3n y personal calificado",
+	"titulo_normalizado": "centros-de-computo-evolucion-y-personal-calificado",
+	"secciones": [
+		{
+			"seccion": "Ingeniería en Computación",
+			"seccion_normalizada": "ingenieria-en-computacion"
+		}
+	],
+	"autor": "F\u00E1tima V\u00E1zquez",
+	"fecha": "25/05/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La carrera de Ingenier\u00EDa en Computaci\u00F3n de la Facultad de Estudios Superiores Arag\u00F3n organiz\u00F3 la pl\u00E1tica “Centro de Datos”, en relaci\u00F3n con el convenio acad\u00E9mico celebrado con Data Center Dynamics. A trav\u00E9s de la plataforma Zoom, la conferencia se llev\u00F3 a cabo con la participaci\u00F3n de <\/span><span style=\"color: rgb(0, 0, 0);\">DCProfessional Development (<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">DCPro)<\/span><span style=\"color: rgb(0, 0, 0);\">, impartida por <\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Pedro Cant\u00FA, director de Critical Facilities Consulting Group y por Sandra Torr\u00F3n, representante de DCPro.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para iniciar, Cant\u00FA explic\u00F3 la diferencia entre los cuartos de c\u00F3mputo y los centros del mismo tipo, con ello dio un contexto hist\u00F3rico de su evoluci\u00F3n desde los a\u00F1os sesenta hasta la actualidad, haciendo \u00E9nfasis en que un ejemplo de ellos es la tan conocida y utilizada “nube”.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Adem\u00E1s, mencion\u00F3 las oportunidades laborales que existen, seg\u00FAn datos del Uptime Institute, a pesar de la gran oferta de trabajo en el \u00E1rea, las personas no est\u00E1n interesadas. Gracias a la inminente falta de atractivo, estos espacios han acudido a dar soluciones como la utilizaci\u00F3n de inteligencia artificial y contratar personal jubilado para cubrir las vacantes.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para finalizar, ambos panelistas explicaron la importancia de ser autodidactas, saber ingl\u00E9s e investigar todo lo posible, pues los centros de c\u00F3mputo requieren de conocimientos de electr\u00F3nica, mec\u00E1nica, comunicaci\u00F3n y programaci\u00F3n, as\u00ED mismo alentaron a los estudiantes a interesarse en ellos en consecuencia de que es lo m\u00E1s demandado por las empresas nacionales, multinacionales y transnacionales actualmente.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Evolución-de-los-centros-de-computo-1.jpg"
+		},
+		{
+			"imagen": "Evolución-de-los-centros-de-computo-3.jpg"
+		},
+		{
+			"imagen": "Evolución-de-los-centros-de-computo-4.jpg"
+		}	]
+
+}

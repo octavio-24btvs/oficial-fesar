@@ -1,0 +1,27 @@
+{
+	"titulo": "ANEIC: diversi\u00F3n y risas en el Circuito Deportivo",
+	"titulo_normalizado": "aneic-diversion-y-risas-en-el-circuito-deportivo",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Civil",
+			"seccion_normalizada": "civil"
+		}
+	],
+	"autor": "Leslie Mart\u00EDnez",
+	"fecha": "16/11/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por segunda ocasi\u00F3n, el Circuito Deportivo fue organizado por el Cap\u00EDtulo Estudiantil ANEIC en una de las \u00E1reas verdes dentro de las instalaciones de la FES Arag\u00F3n, como parte de las actividades de recreaci\u00F3n ofrecidas por la Facultad para su comunidad estudiantil.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La encargada del evento e integrante de la ANEIC fue Ingrid Rasc\u00F3n, de la mano de estudiantes de Ingenier\u00EDa Civil, juntos llevaron a cabo el evento de manera interna, animando a la comunidad a participar en el circuito.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La actividad const\u00F3 de una peque\u00F1a carrera en la cual las y los participantes ten\u00EDan que luchar por ser los primeros en llegar a la meta, pasando por aros, conos y una colchoneta para aventarse una marometa. Quien llegara primero, se llevar\u00EDa un dulce como premio.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La finalidad del evento, en palabras de Rasc\u00F3n, es que las y los estudiantes no solo de ingenier\u00EDa, sino de cualquier \u00E1rea participante, tenga un plus en su preparaci\u00F3n, que todos puedan conocer gente y disfrutar m\u00E1s all\u00E1 de las aulas de clase.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Del mismo modo todo el equipo presente invit\u00F3 a las y los aragoneses a unirse a un cap\u00EDtulo estudiantil para estar m\u00E1s presentes en la riqueza cultural y deportiva que les ofrece su universidad.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "circuito-1.jpg"
+		},
+		{
+			"imagen": "circuito-2.jpg"
+		},
+		{
+			"imagen": "circuito-3.jpg"
+		},
+		{
+			"imagen": "circuito-4.jpg"
+		}	]
+
+}

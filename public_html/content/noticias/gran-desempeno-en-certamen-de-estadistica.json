@@ -1,0 +1,14 @@
+{
+	"titulo": "Gran desempe\u00F1o en certamen de estad\u00EDstica",
+	"titulo_normalizado": "gran-desempeno-en-certamen-de-estadistica",
+	"secciones": [
+		{
+			"seccion": "Economía",
+			"seccion_normalizada": "economia"
+		}
+	],
+	"autor":"Daniela D\u00EDaz",
+	"fecha":"16/08/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por tercera vez consecutiva, el conjunto representativo de nuestra Facultad gan\u00F3 el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Concurso de Estad\u00EDstica Aplicada a la Econom\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, celebrado en nuestra Facultad.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La agrupaci\u00F3n, conformada por Juan Carlos Mu\u00F1oz Contreras, Diana Paola Luna Mart\u00EDnez, Guadalupe Tendilla Herrera, Luis Alfonso Escobar Ram\u00EDrez y Miguel \u00C1ngel Balbuena Hern\u00E1ndez, fue seleccionada mediante un proceso interno de la carrera de Econom\u00EDa. Como parte de la preparaci\u00F3n, su asesor Armando Pizarro les puso ejercicios para mejorar la t\u00E9cnica y velocidad en el razonamiento y resoluci\u00F3n de problemas en los temas: Teorema de Bayes, distribuci\u00F3n exponencial, probabilidad y prueba de hip\u00F3tesis. <\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Este tipo de experiencias les permite desarrollar habilidades a nivel personal y profesional; por eso, invitaron a la comunidad universitaria para adentrarse en el \u00E1mbito competitivo, independientemente de la carrera que estudien.<\/span><\/p>",
+	"imagenes":[{"imagen":"img-1.jpg"},{"imagen":"img-2.jpg"}]
+}

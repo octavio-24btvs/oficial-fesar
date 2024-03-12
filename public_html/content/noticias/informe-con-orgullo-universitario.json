@@ -1,0 +1,14 @@
+{
+	"titulo": "Informe con orgullo universitario",
+	"titulo_normalizado": "informe-con-orgullo-universitario",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor":"Erik Pliego",
+	"fecha":"24/01/20",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Gracias a los esfuerzos invertidos en mantener un progreso constante –en aspectos acad\u00E9micos, culturales y sociales–, la FES Arag\u00F3n se ha posicionado como una instancia altamente eficiente. En el 3° Informe del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Plan de Desarrollo 2016-2020<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> se especifican los logros obtenidos como resultado del trabajo de la comunidad aragonesa y de entidades externas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por ello, miembros de organizaciones civiles y gubernamentales, as\u00ED como autoridades de nuestra Facultad y la Universidad en general, se reunieron en el Auditorio de la DUACyD donde se present\u00F3 el documento. Posteriormente, el director Fernando Macedo agradeci\u00F3 la presencia de las y los invitados, de las dependencias que apoyaron a la FES Arag\u00F3n en su labor y refiri\u00F3 el honor que conlleva estar al frente de una instituci\u00F3n como la nuestra.&nbsp;<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por su parte, el Secretario General de la UNAM, Leonardo Lomel\u00ED, se mostr\u00F3 satisfecho al poder “constatar avances muy significativos en todos los \u00E1mbitos”; asimismo inst\u00F3 a “redoblar el paso” en los proyectos planteados para el progreso de la Facultad, no sin antes felicitar a la comunidad por el \u00E9xito en las labores realizadas hasta el momento.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Al t\u00E9rmino del evento, Fernando Macedo se dirigi\u00F3 a la firma del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Convenio Para la Reconstrucci\u00F3n del Tejido Social en Municipios Marginados del Pa\u00EDs, <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">con el director del Instituto de Geograf\u00EDa UNAM, Manuel Su\u00E1rez. El acuerdo cimenta nuevas instancias de cooperaci\u00F3n interinstitucional que refuerzan las labores de nuestra FES.<\/span><\/p>",
+	"imagenes":[{"imagen":"informe-con-orgullo-universitario-1.jpg"},{"imagen":"informe-con-orgullo-universitario-2.jpg"},{"imagen":"informe-con-orgullo-universitario-3.jpg"},{"imagen":"informe-con-orgullo-universitario-4.jpg"},{"imagen":"informe-con-orgullo-universitario-5.jpg"},{"imagen":"informe-con-orgullo-universitario-6.jpg"}]
+}

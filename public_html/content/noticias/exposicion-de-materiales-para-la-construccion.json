@@ -1,0 +1,14 @@
+{
+	"titulo": "Exposici\u00F3n de materiales para la construcci\u00F3n",
+	"titulo_normalizado": "exposicion-de-materiales-para-la-construccion",
+	"secciones": [
+		{
+			"seccion": "General",
+			"seccion_normalizada": "general"
+		}
+	],
+	"autor":"Alberto Sosa",
+	"fecha":"10/10/18",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para complementar el aprendizaje adquirido en la materia Elementos y Sistemas Constructivos I, estudiantes de primer semestre de la carrera de Arquitectura realizaron una presentaci\u00F3n de materiales utilizados en las obras de construcci\u00F3n. Este ejercicio les permite familiarizarse con estos elementos y con algunas empresas que los distribuyen.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Fernanda Becerra Barr\u00F3n, Erandi V\u00E1zquez Rodr\u00EDguez y Alonso Valdez Rodr\u00EDguez mostraron su cat\u00E1logo de materiales y contaron la experiencia que vivieron en el proceso de realizaci\u00F3n, dejando claro que para la comunidad estudiantil de la Licenciatura este tipo de pr\u00E1cticas son fundamentales en su formaci\u00F3n acad\u00E9mica universitaria, pues les ayudar\u00E1n en un futuro como profesionales.<\/span><\/p>",
+	"imagenes":[{"imagen":"exposicion-de-materiales-para-la-construccion-1.png"},{"imagen":"exposicion-de-materiales-para-la-construccion-2.png"},{"imagen":"exposicion-de-materiales-para-la-construccion-3.jpg"}]
+}

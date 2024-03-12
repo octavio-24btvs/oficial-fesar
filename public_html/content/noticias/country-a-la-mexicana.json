@@ -1,0 +1,14 @@
+{
+	"titulo": "Country a la mexicana",
+	"titulo_normalizado": "country-a-la-mexicana",
+	"secciones": [
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor":"Jos\u00E9 Espejel",
+	"fecha":"29/10/19",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Festival de D\u00EDa de Muertos realizado en nuestra Facultad tambi\u00E9n brind\u00F3 un espacio para que nuevas propuestas art\u00EDsticas muestren su trabajo frente a comunidad aragonesa.<\/span><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El Pasillo Cultural fue el lugar donde <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Santo Benito<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, banda que define su sonido como “country mexicano para gente rota”, present\u00F3 una combinaci\u00F3n de rock y sonidos folcl\u00F3ricos de <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">country<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> los cuales evocan a las cl\u00E1sicas pel\u00EDculas <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">western<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Esta m\u00FAsica acompa\u00F1\u00F3 la exhibici\u00F3n de algunos de los talleres culturales impartidos por la Unidad Extensi\u00F3n Universitaria.<\/span><\/p>",
+	"imagenes":[{"imagen":"country-a-la-mexicana-1.jpg"},{"imagen":"country-a-la-mexicana-2.jpg"},{"imagen":"country-a-la-mexicana-3.jpg"},{"imagen":"country-a-la-mexicana-4.jpg"},{"imagen":"country-a-la-mexicana-5.jpg"},{"imagen":"country-a-la-mexicana-6.jpg"}]
+}

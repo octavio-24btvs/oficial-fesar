@@ -1,0 +1,1253 @@
+{
+	"id": 38,
+	"titulo": "FES Arag\u00F3n",
+	"icono": "icon-fes-aragon",
+	"noticias": [
+		{
+			"titulo":"PC Puma: Un vistazo a la transformaci\u00F3n digital en M\u00E9xico",
+			"titulo_normalizado":"pc-puma-un-vistazo-a-la-transformacion-digital-en-mexico",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "PCPUMA1.gif",
+			"fecha":"31/10/23"
+		},
+		{
+			"titulo":"Fomentando el aprendizaje colaborativo",
+			"titulo_normalizado":"fomentando-el-aprendizaje-colaborativo",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "fomentando-1.gif",
+			"fecha":"31/08/23"
+		},
+		{
+			"titulo":"La pandemia sigue, nosotros tambi\u00E9n",
+			"titulo_normalizado":"la-pandemia-sigue-nosotros-tambien",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "bienvenida-escolar-1.jpg",
+			"fecha":"31/01/22"
+		},
+		{
+			"titulo":"FES Arag\u00F3n al encuentro del ma\u00F1ana",
+			"titulo_normalizado":"fes-aragon-al-encuentro-del-manana",
+			"autor":"Erik Pliego",
+			"imagen": "Al-encuentro-1.gif",
+			"fecha":"30/10/20"
+		},
+		{
+			"titulo":"Lupita “Dinamita” Torres orgullo de Arag\u00F3n",
+			"titulo_normalizado":"lupita----dinamita----torres-orgullo-de-aragon",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Box-1.gif",
+			"fecha":"30/08/23"
+		},
+		{
+			"titulo":"Bienvenida a la nueva generaci\u00F3n, inicia el semestre 2022-1",
+			"titulo_normalizado":"bienvenida-a-la-nueva-generacion-inicia-el-semestre-2022-1",
+			"autor":"Velia L\u00F3pez",
+			"imagen": "Magistrado.gif",
+			"fecha":"30/08/21"
+		},
+		{
+			"titulo":"El progreso de las tutor\u00EDas en la FES Arag\u00F3n",
+			"titulo_normalizado":"el-progreso-de-las-tutorias-en-la-fes-aragon",
+			"autor":"Isaias Hern\u00E1ndez",
+			"imagen": "Totorias-Rosa1.gif",
+			"fecha":"30/07/21"
+		},
+		{
+			"titulo":"Finaliza primer encuentro sobre tutor\u00EDa",
+			"titulo_normalizado":"finaliza-primer-encuentro-sobre-tutoria",
+			"autor":"Gabriel Hern\u00E1ndez",
+			"imagen": "finaliza-primer-encuentro-sobre-tutoria-1.jpg",
+			"fecha":"30/07/21"
+		},
+		{
+			"titulo":"La FES Arag\u00F3n orienta al joven talento",
+			"titulo_normalizado":"la-fes-aragon-orienta-al-joven-talento",
+			"autor":"Beatriz Calva",
+			"imagen": "Orientación-2.jpg",
+			"fecha":"30/03/23"
+		},
+		{
+			"titulo":"Clausura sexto diplomado “Espacio Educativo Virtual con Tecnolog\u00EDa Multimedia y Web 2.0”",
+			"titulo_normalizado":"clausura-sexto-diplomado----espacio-educativo-virtual-con-tecnologia-multimedia-y-web-20---",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Entrega_de_reconocimientos01.jpg",
+			"fecha":"29/11/19"
+		},
+		{
+			"titulo":"Conociendo mis opciones",
+			"titulo_normalizado":"conociendo-mis-opciones",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Encuentro1.gif",
+			"fecha":"29/10/21"
+		},
+		{
+			"titulo":"Celebrando \u00E9xitos: Graduaci\u00F3n 2020-2023 en Relaciones Internacionales",
+			"titulo_normalizado":"celebrando-exitos-graduacion-2020-2023-en-relaciones-internacionales",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Graduación1.gif",
+			"fecha":"29/09/23"
+		},
+		{
+			"titulo":"Derechos humanos y prisi\u00F3n preventiva",
+			"titulo_normalizado":"derechos-humanos-y-prision-preventiva",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Diagnostico-1.gif",
+			"fecha":"29/08/23"
+		},
+		{
+			"titulo":"Un espacio para todas, finaliza Congreso Mujeres y ni\u00F1as",
+			"titulo_normalizado":"un-espacio-para-todas-finaliza-congreso-mujeres-y-ninas",
+			"autor":"Thalia Ortega",
+			"imagen": "finaliza-congreso.mujeres-1.jpg",
+			"fecha":"29/08/20"
+		},
+		{
+			"titulo":"Tutor\u00EDas: compromiso con la universidad",
+			"titulo_normalizado":"tutorias-compromiso-con-la-universidad",
+			"autor":"Brenda Martinez",
+			"imagen": "tutorias-compromiso-con-la-universidad-1.jpg",
+			"fecha":"29/07/21"
+		},
+		{
+			"titulo":"La importancia de las tutor\u00EDas",
+			"titulo_normalizado":"la-importancia-de-las-tutorias",
+			"autor":"Alberto Ochoa",
+			"imagen": "Tutorías1.gif",
+			"fecha":"29/07/21"
+		},
+		{
+			"titulo":"1er Encuentro de Tutor\u00EDas Inter Facultades",
+			"titulo_normalizado":"1er-encuentro-de-tutorias-inter-facultades",
+			"autor":"Alberto Ochoa",
+			"imagen": "Inauguración-1.gif",
+			"fecha":"29/07/21"
+		},
+		{
+			"titulo":"Ceremonia de despedida del PITAAE",
+			"titulo_normalizado":"ceremonia-de-despedida-del-pitaae",
+			"autor":"Erik Pliego",
+			"imagen": "Ceremonia1.gif",
+			"fecha":"29/06/22"
+		},
+		{
+			"titulo":"Foro sobre cuidados y COVID-19",
+			"titulo_normalizado":"foro-sobre-cuidados-y-covid-19",
+			"autor":"Redacci\u00F3n",
+			"imagen": "foro-sobre-cuidados-y-covid-19-1.jpg",
+			"fecha":"29/06/21"
+		},
+		{
+			"titulo":"PC PUMA llega a Arag\u00F3n",
+			"titulo_normalizado":"pc-puma-llega-a-aragon",
+			"autor":"Alejandro Frias",
+			"imagen": "pc-puma-llega-a-aragon-1.jpg",
+			"fecha":"29/03/19"
+		},
+		{
+			"titulo":"Compromiso en beneficio del municipio de Ecatepec",
+			"titulo_normalizado":"compromiso-en-beneficio-del-municipio-de-ecatepec",
+			"autor":"Thalia Ortega",
+			"imagen": "compromiso-en-beneficio-del-1.jpg",
+			"fecha":"28/11/19"
+		},
+		{
+			"titulo":"XVCIMI: La propiedad industrial en M\u00E9xico",
+			"titulo_normalizado":"xvcimi-la-propiedad-industrial-en-mexico",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Propiedad1.gif",
+			"fecha":"28/10/22"
+		},
+		{
+			"titulo":"4to Informe de Actividades",
+			"titulo_normalizado":"4to-informe-de-actividades",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "4to-informe-de-actividades-1.jpg",
+			"fecha":"28/09/20"
+		},
+		{
+			"titulo":"C\u00F3mo proteger la informaci\u00F3n personal",
+			"titulo_normalizado":"como-proteger-la-informacion-personal",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "seguridad-1.JPG",
+			"fecha":"28/04/23"
+		},
+		{
+			"titulo":"Trabajar en conjunto por la educaci\u00F3n de las personas con discapacidad",
+			"titulo_normalizado":"trabajar-en-conjunto-por-la-educacion-de-las-personas-con-discapacidad",
+			"autor":"Redacci\u00F3n",
+			"imagen": "trabajar-en-conjunto-por-la-educacion-de-las-personas-con-discapacidad-1.jpg",
+			"fecha":"28/01/22"
+		},
+		{
+			"titulo":"XVCIMI: La interdisciplina en biolog\u00EDa, qu\u00EDmica y salud",
+			"titulo_normalizado":"xvcimi-la-interdisciplina-en-biologia-quimica-y-salud",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Interdis2.gif",
+			"fecha":"27/10/22"
+		},
+		{
+			"titulo":"Premio Gustavo Baz Prada, reflejo del trabajo universitario",
+			"titulo_normalizado":"premio-gustavo-baz-prada-reflejo-del-trabajo-universitario",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "PremioSS1.gif",
+			"fecha":"27/10/21"
+		},
+		{
+			"titulo":"Reconocimiento a la antig\u00FCedad acad\u00E9mica",
+			"titulo_normalizado":"reconocimiento-a-la-antiguedad-academica",
+			"autor":"Erik Pliego",
+			"imagen": "Docentes1.gif",
+			"fecha":"27/05/22"
+		},
+		{
+			"titulo":"Arag\u00F3n en la FILPM 41: presentan libro sobre nuevas din\u00E1micas en las organizaciones",
+			"titulo_normalizado":"aragon-en-la-filpm-41-presentan-libro-sobre-nuevas-dinamicas-en-las-organizaciones",
+			"autor":"Thalia Ortega",
+			"imagen": "nuevas-dinamicas-en-las-organizaciones-1.jpg",
+			"fecha":"27/02/20"
+		},
+		{
+			"titulo":"Transporte seguro para aragoneses",
+			"titulo_normalizado":"transporte-seguro-para-aragoneses",
+			"autor":"Alejandro Frias",
+			"imagen": "transporte-seguro-para-1.jpg",
+			"fecha":"27/02/19"
+		},
+		{
+			"titulo":"XVCIMI: Procesos de Formaci\u00F3n en Investigaci\u00F3n",
+			"titulo_normalizado":"xvcimi-procesos-de-formacion-en-investigacion",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Procesos1.gif",
+			"fecha":"26/10/22"
+		},
+		{
+			"titulo":"XVCIMI: La independencia intelectual",
+			"titulo_normalizado":"xvcimi-la-independencia-intelectual",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Independencia1.gif",
+			"fecha":"26/10/22"
+		},
+		{
+			"titulo":"La importancia del primer empleo",
+			"titulo_normalizado":"la-importancia-del-primer-empleo",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Empleo1.gif",
+			"fecha":"26/09/22"
+		},
+		{
+			"titulo":"Reconocimiento a la docencia en Arag\u00F3n",
+			"titulo_normalizado":"reconocimiento-a-la-docencia-en-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "medallas-1.jpg",
+			"fecha":"26/05/22"
+		},
+		{
+			"titulo":"Arag\u00F3n en la FILPM 41: ingenier\u00EDa, m\u00FAsica y econom\u00EDa",
+			"titulo_normalizado":"aragon-en-la-filpm-41-ingenieria-musica-y-economia",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "aragon-en-la-filpm-41-ingenieria-musica-y-economia-2.jpg",
+			"fecha":"26/02/20"
+		},
+		{
+			"titulo":"Tu vida profesional y personal est\u00E1 en Arag\u00F3n",
+			"titulo_normalizado":"tu-vida-profesional-y-personal-esta-en-aragon",
+			"autor":"Edna Reyes",
+			"imagen": "tu-vida-profesional-y-personal-esta-en-aragon-1.jpg",
+			"fecha":"25/10/22"
+		},
+		{
+			"titulo":"XVCIMI: Las artes y humanidades multidisciplinarias",
+			"titulo_normalizado":"xvcimi-las-artes-y-humanidades-multidisciplinarias",
+			"autor":"Alexis Rey",
+			"imagen": "Humanidad1.gif",
+			"fecha":"25/10/22"
+		},
+		{
+			"titulo":"Aragon\u00E9s en la NASA",
+			"titulo_normalizado":"aragones-en-la-nasa",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "FOTO WEB.jpg",
+			"fecha":"25/06/23"
+		},
+		{
+			"titulo":"Internacionalizaci\u00F3n, la UNAM con visi\u00F3n global",
+			"titulo_normalizado":"internacionalizacion-la-unam-con-vision-global",
+			"autor":"Beatriz Calva",
+			"imagen": "aragon-1.gif",
+			"fecha":"25/05/23"
+		},
+		{
+			"titulo":"Reconocen labor docente de aragonesas y aragoneses",
+			"titulo_normalizado":"reconocen-labor-docente-de-aragonesas-y-aragoneses",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "reconocen-labor-docente-de-aragonesas-y-aragoneses-1.jpg",
+			"fecha":"25/05/22"
+		},
+		{
+			"titulo":"Primeros auxilios psicol\u00F3gicos",
+			"titulo_normalizado":"primeros-auxilios-psicologicos",
+			"autor":"Thal\u00EDa Ortega",
+			"imagen": "primeros-auxilios-psicolgicos-1.jpg",
+			"fecha":"25/02/20"
+		},
+		{
+			"titulo":"Arag\u00F3n en la FILPM 41: destacadas participaciones aragonesas",
+			"titulo_normalizado":"aragon-en-la-filpm-41-destacadas-participaciones-aragonesas",
+			"autor":"Erik Pliego",
+			"imagen": "aragon_en_la_filpm41-01.jpg",
+			"fecha":"25/02/20"
+		},
+		{
+			"titulo":"Del emprendimiento: palabras de cierre",
+			"titulo_normalizado":"del-emprendimiento-palabras-de-cierre",
+			"autor":"Elisa Jacobo",
+			"imagen": "clausura.jpg",
+			"fecha":"24/11/22"
+		},
+		{
+			"titulo":"Estrechando lazos",
+			"titulo_normalizado":"estrechando-lazos",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Acuerdo-1.gif",
+			"fecha":"24/10/23"
+		},
+		{
+			"titulo":"Reconocen trabajo inclusivo de aragonesa",
+			"titulo_normalizado":"reconocen-trabajo-inclusivo-de-aragonesa",
+			"autor":"Erik Pliego",
+			"imagen": "Abigail1.gif",
+			"fecha":"24/08/21"
+		},
+		{
+			"titulo":"FES Arag\u00F3n-COPARMEX",
+			"titulo_normalizado":"fes-aragon-coparmex",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Coparmex1.gif",
+			"fecha":"24/05/23"
+		},
+		{
+			"titulo":"CIII: Ingenier\u00EDa Industrial y la Empresa Familiar",
+			"titulo_normalizado":"ciii-ingenieria-industrial-y-la-empresa-familiar",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "Ciii1.gif",
+			"fecha":"24/03/22"
+		},
+		{
+			"titulo":"CIII: Ingenier\u00EDa Industrial en la experiencia laboral",
+			"titulo_normalizado":"ciii-ingenieria-industrial-en-la-experiencia-laboral",
+			"autor":"Romina Mel\u00E9ndez",
+			"imagen": "primer-congreso-2.jpg",
+			"fecha":"24/03/22"
+		},
+		{
+			"titulo":"FES Arag\u00F3n, sede de vacunaci\u00F3n contra la COVID-19",
+			"titulo_normalizado":"fes-aragon-sede-de-vacunacion-contra-la-covid-19",
+			"autor":"Redacci\u00F3n",
+			"imagen": "fes-aragon-sede-de-vacunacion-contra-la-covid-19-1.jpg",
+			"fecha":"24/03/21"
+		},
+		{
+			"titulo":"Arag\u00F3n en la FILPM 41: inicia la segunda semana de actividades",
+			"titulo_normalizado":"aragon-en-la-filpm-41-inicia-la-segunda-semana-de-actividades",
+			"autor":"Redacci\u00F3n",
+			"imagen": "aragon-en-la-filpm-41-febrero-24-1.jpg",
+			"fecha":"24/02/20"
+		},
+		{
+			"titulo":"A\u00F1o nuevo, espacios renovados",
+			"titulo_normalizado":"ano-nuevo-espacios-renovados",
+			"autor":"Liliana Espinosa",
+			"imagen": "ano-nuevo-espacios-renovados-1.jpg",
+			"fecha":"24/01/20"
+		},
+		{
+			"titulo":"Informe con orgullo universitario",
+			"titulo_normalizado":"informe-con-orgullo-universitario",
+			"autor":"Erik Pliego",
+			"imagen": "informe-con-orgullo-universitario-1.jpg",
+			"fecha":"24/01/20"
+		},
+		{
+			"titulo":"Se inaugura Centro de Acceso PC PUMA aragon\u00E9s",
+			"titulo_normalizado":"se-inaugura-centro-de-acceso-pc-puma-aragones",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "Aula-PCPUMA-1.jpg",
+			"fecha":"23/11/20"
+		},
+		{
+			"titulo":"REUC, por la difusi\u00F3n cultural",
+			"titulo_normalizado":"reuc-por-la-difusion-cultural",
+			"autor":"Erik Pliego",
+			"imagen": "REUC1.gif",
+			"fecha":"23/09/22"
+		},
+		{
+			"titulo":"Reconocen excelencia de docentes aragoneses",
+			"titulo_normalizado":"reconocen-excelencia-de-docentes-aragoneses",
+			"autor":"Redacci\u00F3n",
+			"imagen": "reconocen-excelencia-de-docentes-aragoneses-3.jpg",
+			"fecha":"23/05/19"
+		},
+		{
+			"titulo":"Feria SACUDE 2023",
+			"titulo_normalizado":"feria-sacude-2023",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "sacude-1.jpg",
+			"fecha":"23/03/23"
+		},
+		{
+			"titulo":"Fernando Pineda Navarro: s\u00EDmbolo de la excelencia acad\u00E9mica",
+			"titulo_normalizado":"fernando-pineda-navarro-simbolo-de-la-excelencia-academica",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "fernando-pineda-navarro-simbolo-de-la-excelencia-academica-1.jpg",
+			"fecha":"23/03/23"
+		},
+		{
+			"titulo":"\u00A1Feliz Aniversario SUAyED!",
+			"titulo_normalizado":"feliz-aniversario-suayed",
+			"autor":"Johana Mart\u00EDnez",
+			"imagen": "suayed1.gif",
+			"fecha":"23/03/22"
+		},
+		{
+			"titulo":"Laboratorios de calidad en la FES Arag\u00F3n",
+			"titulo_normalizado":"laboratorios-de-calidad-en-la-fes-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "Certificación1.gif",
+			"fecha":"23/03/22"
+		},
+		{
+			"titulo":"JID: Inclusi\u00F3n laboral y empleabilidad",
+			"titulo_normalizado":"jid-inclusion-laboral-y-empleabilidad",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Laboral1.gif",
+			"fecha":"23/02/23"
+		},
+		{
+			"titulo":"Un s\u00EDmbolo del saber",
+			"titulo_normalizado":"un-simbolo-del-saber",
+			"autor":"Erik Pliego",
+			"imagen": "plaza-1.gif",
+			"fecha":"23/01/21"
+		},
+		{
+			"titulo":"Arte y dise\u00F1o en la producci\u00F3n artesanal",
+			"titulo_normalizado":"arte-y-diseno-en-la-produccion-artesanal",
+			"autor":"Alexis Rey",
+			"imagen": "Artesanal1.gif",
+			"fecha":"22/09/22"
+		},
+		{
+			"titulo":"Emprender sin riesgos con evaluaci\u00F3n financiera",
+			"titulo_normalizado":"emprender-sin-riesgos-con-evaluacion-financiera",
+			"autor":"Adri\u00E1n Escobar",
+			"imagen": "Taller-1.gif",
+			"fecha":"22/08/23"
+		},
+		{
+			"titulo":"Arag\u00F3n celebra la 1.era Feria InnovaFES de emprendimiento",
+			"titulo_normalizado":"aragon-celebra-la-1era-feria-innovafes-de-emprendimiento",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Innova10.gif",
+			"fecha":"22/08/23"
+		},
+		{
+			"titulo":"Arag\u00F3n enlazado con beca de conectividad",
+			"titulo_normalizado":"aragon-enlazado-con-beca-de-conectividad",
+			"autor":"Brenda Martinez",
+			"imagen": "aragon-enlazado-con-beca-de-conectividad-1.jpg",
+			"fecha":"22/01/21"
+		},
+		{
+			"titulo":"La UNAM y el INAH por la reconstrucci\u00F3n hist\u00F3rica",
+			"titulo_normalizado":"la-unam-y-el-inah-por-la-reconstruccion-historica",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "INAH1.gif",
+			"fecha":"21/11/22"
+		},
+		{
+			"titulo":"Un comienzo diferente: nuevo ciclo escolar",
+			"titulo_normalizado":"un-comienzo-diferente-nuevo-ciclo-escolar",
+			"autor":"Erik Pliego",
+			"imagen": "Un-comienzo-diferente-1.gif",
+			"fecha":"21/09/20"
+		},
+		{
+			"titulo":"Emprender para el futuro",
+			"titulo_normalizado":"emprender-para-el-futuro",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "INNOVAFES-1.gif",
+			"fecha":"21/08/23"
+		},
+		{
+			"titulo":"Concluye su periodo el H. Consejo T\u00E9cnico 2018-2022",
+			"titulo_normalizado":"concluye-su-periodo-el-h-consejo-tecnico-2018-2022",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "consejo-tecnico-2018-2022-1.jpg",
+			"fecha":"21/04/22"
+		},
+		{
+			"titulo":"Primer torneo de videojuegos en FES Arag\u00F3n",
+			"titulo_normalizado":"primer-torneo-de-videojuegos-en-fes-aragon",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "primer-torneo-de-videojuegos-en-fes-aragon-1.jpg",
+			"fecha":"21/03/19"
+		},
+		{
+			"titulo":"La FES Arag\u00F3n y Neza: de la mano hacia el futuro",
+			"titulo_normalizado":"la-fes-aragon-y-neza-de-la-mano-hacia-el-futuro",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "convenio-1.jpg",
+			"fecha":"21/02/23"
+		},
+		{
+			"titulo":"Un emoji vale m\u00E1s que mil palabras",
+			"titulo_normalizado":"un-emoji-vale-mas-que-mil-palabras",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "emoji-1.gif",
+			"fecha":"20/10/22"
+		},
+		{
+			"titulo":"La FES Arag\u00F3n celebra la excelencia acad\u00E9mica",
+			"titulo_normalizado":"la-fes-aragon-celebra-la-excelencia-academica",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Reconocimiento-5.gif",
+			"fecha":"20/06/23"
+		},
+		{
+			"titulo":"Equipos nuevos para la comunidad universitaria",
+			"titulo_normalizado":"equipos-nuevos-para-la-comunidad-universitaria",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "centro-de-computo-1.jpg",
+			"fecha":"20/05/22"
+		},
+		{
+			"titulo":"FES Arag\u00F3n recibe medalla “Por amor a Neza”",
+			"titulo_normalizado":"fes-aragon-recibe-medalla----por-amor-a-neza---",
+			"autor":"Erik Pliego",
+			"imagen": "NEza10.gif",
+			"fecha":"20/04/23"
+		},
+		{
+			"titulo":"Arag\u00F3n en la FILPM 41: Primer d\u00EDa de actividades",
+			"titulo_normalizado":"aragon-en-la-filpm-41-primer-dia-de-actividades",
+			"autor":"Redacci\u00F3n",
+			"imagen": "aragon-en-la-filpm-41-crisis-migratoria-en-mexico-1.jpg",
+			"fecha":"20/02/20"
+		},
+		{
+			"titulo":"Fernando Macedo estar\u00E1 al frente de la FES Arag\u00F3n",
+			"titulo_normalizado":"fernando-macedo-estara-al-frente-de-la-fes-aragon",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "Fernando-Macedo-al-frente-de-la-FES-2.jpg",
+			"fecha":"19/10/20"
+		},
+		{
+			"titulo":"Primer encuentro de emprendimiento",
+			"titulo_normalizado":"primer-encuentro-de-emprendimiento",
+			"autor":"Erik Pliego",
+			"imagen": "InnovaFES1.gif",
+			"fecha":"19/06/23"
+		},
+		{
+			"titulo":"Donaci\u00F3n de alta tecnolog\u00EDa a la FES Arag\u00F3n",
+			"titulo_normalizado":"donacion-de-alta-tecnologia-a-la-fes-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "donacion-de-alta-tecnologia-a-la-fes-aragon-1.jpg",
+			"fecha":"19/02/20"
+		},
+		{
+			"titulo":"American Concrete Institute reconoce nuevamente a la FES Arag\u00F3n",
+			"titulo_normalizado":"american-concrete-institute-reconoce-nuevamente-a-la-fes-aragon",
+			"autor":"Redacci\u00F3n",
+			"imagen": "el-instituto-americano-del-cincreto-reconoce-a-la-fes-aragon-1.jpg",
+			"fecha":"19/02/20"
+		},
+		{
+			"titulo":"Feliz 45 aniversario a nuestra Facultad",
+			"titulo_normalizado":"feliz-45-aniversario-a-nuestra-facultad",
+			"autor":"Thalia Ortega",
+			"imagen": "felices-45-a-nuestra-facultad-1.jpg",
+			"fecha":"19/01/21"
+		},
+		{
+			"titulo":"Del pensamiento antiguo a la Era Moderna: Geometr\u00EDa,universo y gravedad",
+			"titulo_normalizado":"del-pensamiento-antiguo-a-la-era-moderna-geometriauniverso-y-gravedad",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Gravedad1.gif",
+			"fecha":"18/09/23"
+		},
+		{
+			"titulo":"App para una mejor alimentaci\u00F3n de ni\u00F1as y ni\u00F1os",
+			"titulo_normalizado":"app-para-una-mejor-alimentacion-de-ninas-y-ninos",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "app-para-una-mejor-alimentacion-de-ninas-y-ninos-1.jpg",
+			"fecha":"18/08/20"
+		},
+		{
+			"titulo":"El Congreso reconoce el m\u00E9rito docente aragon\u00E9s",
+			"titulo_normalizado":"el-congreso-reconoce-el-merito-docente-aragones",
+			"autor":"Erik Pliego",
+			"imagen": "Ponce1.gif",
+			"fecha":"18/05/23"
+		},
+		{
+			"titulo":"Retos y soluciones del Congreso de la Uni\u00F3n",
+			"titulo_normalizado":"retos-y-soluciones-del-congreso-de-la-union",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "Libro-Congreso-1.png",
+			"fecha":"17/11/21"
+		},
+		{
+			"titulo":"FES Arag\u00F3n comprometida con la Protecci\u00F3n Civil",
+			"titulo_normalizado":"fes-aragon-comprometida-con-la-proteccion-civil",
+			"autor":"Yamileth Reza",
+			"imagen": "fes_aragon_comprometida_con_ la_ proteccion01.jpg",
+			"fecha":"17/09/19"
+		},
+		{
+			"titulo":"S\u00E9ptima edici\u00F3n del Encuentro de emprendedores",
+			"titulo_normalizado":"septima-edicion-del-encuentro-de-emprendedores",
+			"autor":"Francisco Olivares",
+			"imagen": "Encuentro1.gif",
+			"fecha":"17/05/21"
+		},
+		{
+			"titulo":"Se realizan adecuaciones para el regreso a clases",
+			"titulo_normalizado":"se-realizan-adecuaciones-para-el-regreso-a-clases",
+			"autor":"Yamileth Reza",
+			"imagen": "Medidas1.gif",
+			"fecha":"16/11/21"
+		},
+		{
+			"titulo":"Pensar los cuidados como acci\u00F3n pol\u00EDtica",
+			"titulo_normalizado":"pensar-los-cuidados-como-accion-politica",
+			"autor":"Atzayacatl Cabrera",
+			"imagen": "Cuidados.gif",
+			"fecha":"16/11/21"
+		},
+		{
+			"titulo":"Educaci\u00F3n para la Inclusi\u00F3n: La Cartilla LGBTTTIQA+",
+			"titulo_normalizado":"educacion-para-la-inclusion-la-cartilla-lgbtttiqa",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "CArtilla2.gif",
+			"fecha":"15/11/23"
+		},
+		{
+			"titulo":"CIMN22: Inclusi\u00F3n social",
+			"titulo_normalizado":"cimn22-inclusion-social",
+			"autor":"Alexis Rey",
+			"imagen": "Inclusivo1.gif",
+			"fecha":"15/10/22"
+		},
+		{
+			"titulo":"Foro de Justicia Cotidiana en Arag\u00F3n",
+			"titulo_normalizado":"foro-de-justicia-cotidiana-en-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "Foto1.gif",
+			"fecha":"15/08/22"
+		},
+		{
+			"titulo":"Organiza Arag\u00F3n Panel Internacional",
+			"titulo_normalizado":"organiza-aragon-panel-internacional",
+			"autor":"Miguel Palacios",
+			"imagen": "panel-estudiantes.JPG",
+			"fecha":"15/06/22"
+		},
+		{
+			"titulo":"Movimientos juveniles en Brasil",
+			"titulo_normalizado":"movimientos-juveniles-en-brasil",
+			"autor":"No\u00E9 \u00C1lvarez",
+			"imagen": "movimientos-juveniles-en-brasil-1.jpg",
+			"fecha":"15/02/22"
+		},
+		{
+			"titulo":"Medalla Antonio Caso para aragonesa",
+			"titulo_normalizado":"medalla-antonio-caso-para-aragonesa",
+			"autor":"Thalia Ortega",
+			"imagen": "medalla-antonio-caso-para-aragonesa-1.jpg",
+			"fecha":"14/11/19"
+		},
+		{
+			"titulo":"Bienestar sobre la mesa",
+			"titulo_normalizado":"bienestar-sobre-la-mesa",
+			"autor":"Elisa Jacobo",
+			"imagen": "mesa-1.gif",
+			"fecha":"14/10/22"
+		},
+		{
+			"titulo":"Reconocimiento al desempe\u00F1o acad\u00E9mico",
+			"titulo_normalizado":"reconocimiento-al-desempeno-academico",
+			"autor":"Erik Pliego",
+			"imagen": "Gabino1.gif",
+			"fecha":"14/10/22"
+		},
+		{
+			"titulo":"Visita nuestro recorrido virtual M\u00E9xico-Tenochtitl\u00E1n",
+			"titulo_normalizado":"visita-nuestro-recorrido-virtual-mexico-tenochtitlan",
+			"autor":"Sianya S\u00E1nchez",
+			"imagen": "visita-nuestro-recorrido-virtual-mexico-tenochtitlan-1.jpg",
+			"fecha":"14/09/21"
+		},
+		{
+			"titulo":"8M: Ejes de acci\u00F3n contra la violencia de g\u00E9nero",
+			"titulo_normalizado":"8m-ejes-de-accion-contra-la-violencia-de-genero",
+			"autor":"Kenia Brodman",
+			"imagen": "Ejes1.gif",
+			"fecha":"14/03/22"
+		},
+		{
+			"titulo":"Amor y amistad en Arag\u00F3n",
+			"titulo_normalizado":"amor-y-amistad-en-aragon",
+			"autor":"Redacci\u00F3n",
+			"imagen": "amor-y-amistad-en-aragon-1.jpg",
+			"fecha":"14/02/20"
+		},
+		{
+			"titulo":"Una mejor atenci\u00F3n",
+			"titulo_normalizado":"una-mejor-atencion",
+			"autor":"Erik Pliego",
+			"imagen": "una-mejor-atencion-1.jpg",
+			"fecha":"14/01/20"
+		},
+		{
+			"titulo":"CIMN 22: La violencia basada en el g\u00E9nero",
+			"titulo_normalizado":"cimn-22-la-violencia-basada-en-el-genero",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Violencia1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN22: La violencia basada en el g\u00E9nero",
+			"titulo_normalizado":"cimn22-la-violencia-basada-en-el-genero",
+			"autor":"Monserrat Jimenez",
+			"imagen": "Foto1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN22: Mujeres privadas de su libertad",
+			"titulo_normalizado":"cimn22-mujeres-privadas-de-su-libertad",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "mujeres-1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN22: El impacto de las mujeres en sociedad",
+			"titulo_normalizado":"cimn22-el-impacto-de-las-mujeres-en-sociedad",
+			"autor":"Alexis Rey",
+			"imagen": "Sociedad1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"CIMN22: Derechos de las mujeres ind\u00EDgenas",
+			"titulo_normalizado":"cimn22-derechos-de-las-mujeres-indigenas",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Mujeres1.gif",
+			"fecha":"13/10/22"
+		},
+		{
+			"titulo":"FES Arag\u00F3n presente en encuentro de escuelas en Oaxaca",
+			"titulo_normalizado":"fes-aragon-presente-en-encuentro-de-escuelas-en-oaxaca",
+			"autor":"Redacci\u00F3n",
+			"imagen": "autoridades-aragonesas-presentes-en-encuentro-1.jpg",
+			"fecha":"13/05/19"
+		},
+		{
+			"titulo":"Hermila Galindo: legado de activismo feminista",
+			"titulo_normalizado":"hermila-galindo-legado-de-activismo-feminista",
+			"autor":"Beatriz Calva",
+			"imagen": "auditorio-1.jpg",
+			"fecha":"13/03/23"
+		},
+		{
+			"titulo":"Convenio entre Nezahualc\u00F3yotl y la FES Arag\u00F3n",
+			"titulo_normalizado":"convenio-entre-nezahualcoyotl-y-la-fes-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "convenio-entre-nezahualcoyotl-y-fes-aragon-1.jpg",
+			"fecha":"13/02/20"
+		},
+		{
+			"titulo":"Primer desayuno de la comunidad egresada",
+			"titulo_normalizado":"primer-desayuno-de-la-comunidad-egresada",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "Desayuno1.gif",
+			"fecha":"12/11/22"
+		},
+		{
+			"titulo":"Formaci\u00F3n e innovaci\u00F3n de la docencia",
+			"titulo_normalizado":"formacion-e-innovacion-de-la-docencia",
+			"autor":"Erik Pliego",
+			"imagen": "Docente1.gif",
+			"fecha":"12/11/21"
+		},
+		{
+			"titulo":"CIMN22: Mujer en la ciencia",
+			"titulo_normalizado":"cimn22-mujer-en-la-ciencia",
+			"autor":"Elisa Jacobo",
+			"imagen": "mujeres-ciencia-1.gif",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"CIMN22: Paridad pol\u00EDtica: a\u00FAn mucho por hacer",
+			"titulo_normalizado":"cimn22-paridad-politica-aun-mucho-por-hacer",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "Mujeres política 1 (1).png",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"CIMN22: Mujeres en la ciencia y sociedad",
+			"titulo_normalizado":"cimn22-mujeres-en-la-ciencia-y-sociedad",
+			"autor":"Alexis Rey",
+			"imagen": "Ciencia1.gif",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"CIMN22: Comunidad trans: adi\u00F3s a la escuela",
+			"titulo_normalizado":"cimn22-comunidad-trans-adios-a-la-escuela",
+			"autor":"Luis Gonz\u00E1lez",
+			"imagen": "salud-1.gif",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"Por la igualdad: diversidad y retos",
+			"titulo_normalizado":"por-la-igualdad-diversidad-y-retos",
+			"autor":"Elisa Jacobo",
+			"imagen": "inauguracion-1.gif",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"CIMN22: Ciencia y educaci\u00F3n en voces de mujeres",
+			"titulo_normalizado":"cimn22-ciencia-y-educacion-en-voces-de-mujeres",
+			"autor":"Elisa Jacobo",
+			"imagen": "Voces 1 (1).jpeg",
+			"fecha":"12/10/22"
+		},
+		{
+			"titulo":"Conociendo la escuela",
+			"titulo_normalizado":"conociendo-la-escuela",
+			"autor":"Erik Pliego",
+			"imagen": "FES3.gif",
+			"fecha":"12/10/21"
+		},
+		{
+			"titulo":"Homenaje a Mario Molina",
+			"titulo_normalizado":"homenaje-a-mario-molina",
+			"autor":"Erik Pliego",
+			"imagen": "Homenaje-Mario-molina-1.gif",
+			"fecha":"12/10/20"
+		},
+		{
+			"titulo":"C\u00E1tedra UNESCO: por una transformaci\u00F3n en las universidades",
+			"titulo_normalizado":"catedra-unesco-por-una-transformacion-en-las-universidades",
+			"autor":"Edna Reyes",
+			"imagen": "catedras-unesco-por-una-transformacion-en-las-universidades-1.jpg",
+			"fecha":"12/06/22"
+		},
+		{
+			"titulo":"Las ecuaciones para vencer al SARS-CoV-2",
+			"titulo_normalizado":"las-ecuaciones-para-vencer-al-sars-cov-2",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "las-ecuaciones-para-vencer-al-sars-cov.jpg",
+			"fecha":"12/04/20"
+		},
+		{
+			"titulo":"Lanzamiento de la serie Todxs somos Arag\u00F3n",
+			"titulo_normalizado":"lanzamiento-de-la-serie-todxs-somos-aragon",
+			"autor":"Gabriel P\u00E1ez",
+			"imagen": "Lanzamiento-de-la-serie-todxs-somos-aragon-1.jpg",
+			"fecha":"11/03/19"
+		},
+		{
+			"titulo":"UNAM y OEI se unen por los derechos humanos",
+			"titulo_normalizado":"unam-y-oei-se-unen-por-los-derechos-humanos",
+			"autor":"Mar\u00EDa Jos\u00E9 Ram\u00EDrez",
+			"imagen": "Convenio-OEI-UNAM-1.jpg",
+			"fecha":"10/12/20"
+		},
+		{
+			"titulo":"Se refuerza el compromiso de la FES Arag\u00F3n con municipios mexiquenses",
+			"titulo_normalizado":"se-refuerza-el-compromiso-de-la-fes-aragon-con-municipios-mexiquenses",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "Se_refuerza_el_compromiso_de_la_FES01.jpg",
+			"fecha":"10/12/19"
+		},
+		{
+			"titulo":"Trabajo colaborativo COPARMEX - FES Arag\u00F3n",
+			"titulo_normalizado":"trabajo-colaborativo-coparmex---fes-aragon",
+			"autor":"Daniela D\u00EDaz",
+			"imagen": "trabajo-colaborativo-coparmex-fes-aragon-1.jpg",
+			"fecha":"10/12/18"
+		},
+		{
+			"titulo":"Nuevo certificado de calidad para la FES Arag\u00F3n",
+			"titulo_normalizado":"nuevo-certificado-de-calidad-para-la-fes-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "IMNC1.gif",
+			"fecha":"10/11/22"
+		},
+		{
+			"titulo":"La Universidad al servicio de la comunidad",
+			"titulo_normalizado":"la-universidad-al-servicio-de-la-comunidad",
+			"autor":"Redacci\u00F3n",
+			"imagen": "la-universidad-al-servicio-de-la-comunidad-1.jpg",
+			"fecha":"10/10/19"
+		},
+		{
+			"titulo":"Retribuir a la universidad ense\u00F1ando",
+			"titulo_normalizado":"retribuir-a-la-universidad-ensenando",
+			"autor":"Erik Pliego",
+			"imagen": "libro-magistrado-1.gif",
+			"fecha":"10/09/21"
+		},
+		{
+			"titulo":"Arag\u00F3n se embellece con un nuevo mural",
+			"titulo_normalizado":"aragon-se-embellece-con-un-nuevo-mural",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "mural-1.jpg",
+			"fecha":"10/08/23"
+		},
+		{
+			"titulo":"8M: \u00BFQu\u00E9 podemos aprender del estafador de Tinder?",
+			"titulo_normalizado":"8m-que-podemos-aprender-del-estafador-de-tinder",
+			"autor":"Rosa Francisco",
+			"imagen": "8m-que-podemos-aprender-del-estafador-de-tinder-1.jpg",
+			"fecha":"10/03/22"
+		},
+		{
+			"titulo":"V\u00EDnculo para el desarrollo acad\u00E9mico y empresarial",
+			"titulo_normalizado":"vinculo-para-el-desarrollo-academico-y-empresarial",
+			"autor":"Erik Pliego",
+			"imagen": "vinculo-para-el-desarrollo-academico-y-empresarial-1.jpg",
+			"fecha":"10/03/20"
+		},
+		{
+			"titulo":"Aragoneses reciben su t\u00EDtulo universitario",
+			"titulo_normalizado":"aragoneses-reciben-su-titulo-universitario",
+			"autor":"Redacci\u00F3n",
+			"imagen": "aragoneses-reciben-titulo-universitario-1.jpg",
+			"fecha":"09/12/19"
+		},
+		{
+			"titulo":"SEFI y la FES Arag\u00F3n en pro de las ingenier\u00EDas",
+			"titulo_normalizado":"sefi-y-la-fes-aragon-en-pro-de-las-ingenierias",
+			"autor":"Erik Pliego",
+			"imagen": "SEFI1.gif",
+			"fecha":"09/11/23"
+		},
+		{
+			"titulo":"Inversiones y Premios: Reto Actinver 2023",
+			"titulo_normalizado":"inversiones-y-premios-reto-actinver-2023",
+			"autor":"Hilda Hern\u00E1ndez",
+			"imagen": "Actinver2.gif",
+			"fecha":"09/10/23"
+		},
+		{
+			"titulo":"Primera sesi\u00F3n de la CInIG",
+			"titulo_normalizado":"primera-sesion-de-la-cinig",
+			"autor":"Erik Pliego",
+			"imagen": "Comisión1.gif",
+			"fecha":"09/03/22"
+		},
+		{
+			"titulo":"Presencia internacional en la FES Arag\u00F3n",
+			"titulo_normalizado":"presencia-internacional-en-la-fes-aragon",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "presencia-internacional-en-la-fes-aragon-1.png",
+			"fecha":"08/10/18"
+		},
+		{
+			"titulo":"Brasil, el cambio hist\u00F3rico-cultural",
+			"titulo_normalizado":"brasil-el-cambio-historico-cultural",
+			"autor":"Rodrigo Castillo",
+			"imagen": "Brasil-elcambio-1.gif",
+			"fecha":"08/09/23"
+		},
+		{
+			"titulo":"Reconocimiento a la labor docente",
+			"titulo_normalizado":"reconocimiento-a-la-labor-docente",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "medallas-1 (1).jpg",
+			"fecha":"08/06/22"
+		},
+		{
+			"titulo":"Sor Juana In\u00E9s de la Cruz 2023",
+			"titulo_normalizado":"sor-juana-ines-de-la-cruz-2023",
+			"autor":"Leslie Mart\u00EDnez",
+			"imagen": "Copia de FPG_8241.JPG",
+			"fecha":"08/03/23"
+		},
+		{
+			"titulo":"Quince ediciones de ARAMUN",
+			"titulo_normalizado":"quince-ediciones-de-aramun",
+			"autor":"Luis Bocanegra",
+			"imagen": "Quince-ediciones-de-ARAMUN-1.jpg",
+			"fecha":"08/03/19"
+		},
+		{
+			"titulo":"Informe de Actividades: esfuerzo, compromiso y trabajo conjunto",
+			"titulo_normalizado":"informe-de-actividades-esfuerzo-compromiso-y-trabajo-conjunto",
+			"autor":"Luis Bocanegra",
+			"imagen": "IMG_9806.JPG",
+			"fecha":"08/02/19"
+		},
+		{
+			"titulo":"Manpower y la FES Arag\u00F3n juntas por el progreso",
+			"titulo_normalizado":"manpower-y-la-fes-aragon-juntas-por-el-progreso",
+			"autor":"Thalia Ortega",
+			"imagen": "manpower-y-fes-arago-juntos-1.jpg",
+			"fecha":"07/12/20"
+		},
+		{
+			"titulo":"ForoTok22: \u00BFC\u00F3mo crear t\u00FA p\u00FAblico en redes sociales?",
+			"titulo_normalizado":"forotok22-como-crear-tu-publico-en-redes-sociales",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "tk1.gif",
+			"fecha":"07/09/22"
+		},
+		{
+			"titulo":"ForoTok22: Ense\u00F1anza de la historia en TikTok",
+			"titulo_normalizado":"forotok22-ensenanza-de-la-historia-en-tiktok",
+			"autor":"Tiar\u00E9 Rodr\u00EDguez",
+			"imagen": "img1.gif",
+			"fecha":"07/09/22"
+		},
+		{
+			"titulo":"Firma de convenio COPARMEX-FES Arag\u00F3n",
+			"titulo_normalizado":"firma-de-convenio-coparmex-fes-aragon",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "firma-de-convenio-coparmex-fes-aragon-1.jpg",
+			"fecha":"07/09/21"
+		},
+		{
+			"titulo":"Encuentro interinstitucional universitario 2022",
+			"titulo_normalizado":"encuentro-interinstitucional-universitario-2022",
+			"autor":"Aranza Ramos",
+			"imagen": "encuentro-1.JPG",
+			"fecha":"07/06/22"
+		},
+		{
+			"titulo":"Entrega de t\u00EDtulos universitarios, febrero de 2020",
+			"titulo_normalizado":"entrega-de-titulos-universitarios-febrero-de-2020",
+			"autor":"Redacci\u00F3n",
+			"imagen": "Entrega_de_titulos_universitarios_febrero_de_2020_01.jpg",
+			"fecha":"07/02/20"
+		},
+		{
+			"titulo":"Viernes en Casa de la Ciencia",
+			"titulo_normalizado":"viernes-en-casa-de-la-ciencia",
+			"autor":"Alejandra Vel\u00E1zquez",
+			"imagen": "viernes-en-casa-de-la-ciencia-1.jpg",
+			"fecha":"06/11/20"
+		},
+		{
+			"titulo":"FES Arag\u00F3n e Innova UNAM fortalecen el emprendimiento artesanal en Ixtapaluca",
+			"titulo_normalizado":"fes-aragon-e-innova-unam-fortalecen-el-emprendimiento-artesanal-en-ixtapaluca",
+			"autor":"Erik Pliego",
+			"imagen": "Ixtapaluca.gif",
+			"fecha":"06/06/23"
+		},
+		{
+			"titulo":"Elecciones del H. Consejo T\u00E9cnico",
+			"titulo_normalizado":"elecciones-del-h-consejo-tecnico",
+			"autor":"Redacci\u00F3n",
+			"imagen": "1.jpg",
+			"fecha":"06/04/22"
+		},
+		{
+			"titulo":"Educaci\u00F3n, lengua y cultura, Arag\u00F3n en la FIL",
+			"titulo_normalizado":"educacion-lengua-y-cultura-aragon-en-la-fil",
+			"autor":"Elisa Jacobo",
+			"imagen": "fil-1.jpg",
+			"fecha":"06/03/23"
+		},
+		{
+			"titulo":"Entrega de t\u00EDtulos universitarios, marzo 2020",
+			"titulo_normalizado":"entrega-de-titulos-universitarios-marzo-2020",
+			"autor":"Redacci\u00F3n",
+			"imagen": "entrega-de-titulos-universitarios-marzo-2020-1.jpg",
+			"fecha":"06/03/20"
+		},
+		{
+			"titulo":"Docente aragonesa recibe el Reconocimiento Sor Juana In\u00E9s de la Cruz 2020",
+			"titulo_normalizado":"docente-aragonesa-recibe-el-reconocimiento-sor-juana-ines-de-la-cruz-2020",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "reconocimiento_sor_Juana_Inés_de_la_Cruz_2020_01.jpg",
+			"fecha":"06/03/20"
+		},
+		{
+			"titulo":"La FES Arag\u00F3n con la mayor presencia de estudiantes en el extranjero",
+			"titulo_normalizado":"la-fes-aragon-con-la-mayor-presencia-de-estudiantes-en-el-extranjero",
+			"autor":"Redacci\u00F3n",
+			"imagen": "la-fes-aragon-con-la-mayor-presencia-de-estudiantes-en-el-extranjero-1.jpg",
+			"fecha":"05/12/19"
+		},
+		{
+			"titulo":"Actividades acad\u00E9micas presenciales en la FES Arag\u00F3n",
+			"titulo_normalizado":"actividades-academicas-presenciales-en-la-fes-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "Presensiales1.gif",
+			"fecha":"05/11/21"
+		},
+		{
+			"titulo":"FES Arag\u00F3n recibe el Sello KVI",
+			"titulo_normalizado":"fes-aragon-recibe-el-sello-kvi",
+			"autor":"",
+			"imagen": "KIV.gif",
+			"fecha":"05/09/22"
+		},
+		{
+			"titulo":"Los ODS en la FES Arag\u00F3n",
+			"titulo_normalizado":"los-ods-en-la-fes-aragon",
+			"autor":"Erik Pliego",
+			"imagen": "ODS1.gif",
+			"fecha":"05/06/23"
+		},
+		{
+			"titulo":"Comunidad docente recibe reconocimiento por su labor investigadora",
+			"titulo_normalizado":"comunidad-docente-recibe-reconocimiento-por-su-labor-investigadora",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "entrega_de_reconocimientos_a_los_profesores_participantes_en_proyectos_PAPIME_y_PAPIIT01.jpg",
+			"fecha":"05/03/20"
+		},
+		{
+			"titulo":"Hacia una sociedad m\u00E1s justa",
+			"titulo_normalizado":"hacia-una-sociedad-mas-justa",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "mesa-5-1.gif",
+			"fecha":"04/10/23"
+		},
+		{
+			"titulo":"La importancia de los cuidados",
+			"titulo_normalizado":"la-importancia-de-los-cuidados",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "cuidados-1.gif",
+			"fecha":"04/10/23"
+		},
+		{
+			"titulo":"Cuidados sin g\u00E9nero",
+			"titulo_normalizado":"cuidados-sin-genero",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "mesa-9-1.gif",
+			"fecha":"04/10/23"
+		},
+		{
+			"titulo":"Calidad y dignidad en los cuidados",
+			"titulo_normalizado":"calidad-y-dignidad-en-los-cuidados",
+			"autor":"Jorge Narv\u00E1ez",
+			"imagen": "mesa-3-1.gif",
+			"fecha":"04/10/23"
+		},
+		{
+			"titulo":"L\u00EDmites y Libertades: salud sexual y los derechos humanos",
+			"titulo_normalizado":"limites-y-libertades-salud-sexual-y-los-derechos-humanos",
+			"autor":"Israel Garc\u00EDa",
+			"imagen": "Limites-y-libertades-1.gif",
+			"fecha":"04/09/23"
+		},
+		{
+			"titulo":"Feria de Salud Sexual 2023",
+			"titulo_normalizado":"feria-de-salud-sexual-2023",
+			"autor":"\u00D3scar Rafael Cornejo",
+			"imagen": "Feriasex1.gif",
+			"fecha":"04/09/23"
+		},
+		{
+			"titulo":"Empezamos el semestre 2020-1",
+			"titulo_normalizado":"empezamos-el-semestre-2020-1",
+			"autor":"Redacci\u00F3n",
+			"imagen": "empezamos-el-semestre-2020-1-1.jpg",
+			"fecha":"04/08/19"
+		},
+		{
+			"titulo":"Comunidad aragonesa trabaja para apoyar a hospitales",
+			"titulo_normalizado":"comunidad-aragonesa-trabaja-para-apoyar-a-hospitales",
+			"autor":"Julio G\u00F3mez",
+			"imagen": "comunidad-aragonesa-trabaja-para-apoyar-a-hospitales-1.jpg",
+			"fecha":"04/05/20"
+		},
+		{
+			"titulo":"FES Arag\u00F3n presente en encuentro de emprendedores",
+			"titulo_normalizado":"fes-aragon-presente-en-encuentro-de-emprendedores",
+			"autor":"Alberto Sosa",
+			"imagen": "img-1.jpg",
+			"fecha":"03/09/18"
+		},
+		{
+			"titulo":"Inauguran lactario en Arag\u00F3n",
+			"titulo_normalizado":"inauguran-lactario-en-aragon",
+			"autor":"Cynthia V\u00E1zquez",
+			"imagen": "lua-1.jpg",
+			"fecha":"03/08/22"
+		},
+		{
+			"titulo":"Becas para el desarrollo profesional",
+			"titulo_normalizado":"becas-para-el-desarrollo-profesional",
+			"autor":"Erik Pliego",
+			"imagen": "Becas1.gif",
+			"fecha":"03/06/22"
+		},
+		{
+			"titulo":"8M: Prevenci\u00F3n de violencia digital",
+			"titulo_normalizado":"8m-prevencion-de-violencia-digital",
+			"autor":"Alejandro Trujillo",
+			"imagen": "8m-1.JPG",
+			"fecha":"03/03/23"
+		},
+		{
+			"titulo":"Visibilizar la violencia pol\u00EDtica contra las mujeres",
+			"titulo_normalizado":"visibilizar-la-violencia-politica-contra-las-mujeres",
+			"autor":"Priscila Ch\u00E1vez",
+			"imagen": "visibilizar-la-violencia-politica-contra-las-mujeres-1.jpg",
+			"fecha":"03/03/23"
+		},
+		{
+			"titulo":"Segundo Informe de Actividades",
+			"titulo_normalizado":"segundo-informe-de-actividades",
+			"autor":"Erik Pliego",
+			"imagen": "Informe1.gif",
+			"fecha":"03/02/23"
+		},
+		{
+			"titulo":"1er Informe de Actividades 2020-2021",
+			"titulo_normalizado":"1er-informe-de-actividades-2020-2021",
+			"autor":"Erik Pliego",
+			"imagen": "Informe1.gif",
+			"fecha":"03/02/22"
+		},
+		{
+			"titulo":"\u00A1Feliz Navidad! FES Arag\u00F3n despide cursos con villancicos",
+			"titulo_normalizado":"feliz-navidad-fes-aragon-despide-cursos-con-villancicos",
+			"autor":"Ana Mart\u00EDnez",
+			"imagen": "feliz-navidad-fes-aragon-despide-cursos-con-villancicos-1.jpg",
+			"fecha":"02/12/22"
+		},
+		{
+			"titulo":"Arag\u00F3n en la FILPM 41: Finalizan las actividades aragonesas",
+			"titulo_normalizado":"aragon-en-la-filpm-41-finalizan-las-actividades-aragonesas",
+			"autor":"Thalia Ortega",
+			"imagen": "finalizan-las-actividades-aragonesas-1.jpg",
+			"fecha":"02/03/20"
+		},
+		{
+			"titulo":"Precauciones ante el SARS-CoV-2",
+			"titulo_normalizado":"precauciones-ante-el-sars-cov-2",
+			"autor":"Roberto V\u00E1zquez",
+			"imagen": "not-found.jpg",
+			"fecha":"02/03/20"
+		},
+		{
+			"titulo":"Tercer encuentro de tutorias Interfacultades",
+			"titulo_normalizado":"tercer-encuentro-de-tutorias-interfacultades",
+			"autor":"Alejandro Trujillo",
+			"imagen": "Interfes1.gif",
+			"fecha":"01/09/23"
+		},
+		{
+			"titulo":"FES Arag\u00F3n y familias se comprometen con la educaci\u00F3n",
+			"titulo_normalizado":"fes-aragon-y-familias-se-comprometen-con-la-educacion",
+			"autor":"Luis Bocanegra",
+			"imagen": "fes-aragon-comprometida-con-padres-de-familia-1.jpg",
+			"fecha":"01/08/19"
+		}
+	]
+}

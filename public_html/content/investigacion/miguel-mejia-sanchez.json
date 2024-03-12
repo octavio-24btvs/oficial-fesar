@@ -1,0 +1,16 @@
+{
+    "nombre": "Miguel Mejía Sánchez", 
+    "grado_academico": "Licenciado", 
+     "correo": [ "miguelmejiauq3@aragon.unam.mx"     ],
+    "imagen": true, 
+    "estudios": [
+        "Licenciado en Derecho, Facultad de Derecho UNAM.",
+        "Especialidad en Derecho Social, División de Estudios Superiores de la Facultad de Derecho. UNAM."
+    ], 
+    "lineas_investigacion": [
+        "Ciencias Sociales."
+    ], 
+    "investigaciones": [
+        "Análisis de las iniciativas para reformar la constitución en materia de revocación del mandato presidencial."
+    ]
+}

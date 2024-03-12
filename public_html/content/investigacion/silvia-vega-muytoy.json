@@ -1,0 +1,22 @@
+{
+    "nombre": "Silvia Vega Muytoy", 
+    "grado_academico": "Maestra en Enseñanza Superior, UNAM. ",
+    "ubicacion": ["Laboratorio de Cómputo  y Educación del Centro Tecnológico Aragón."],
+    "telefono": [ "55 5623 0964" ],
+    "correo": [ "silviav@unam.mx"],
+    "imagen": true,
+    "estudios": [
+        "Licenciatura en Ingeniería Mecánica Electricista, Universidad Nacional Autónoma de México.",
+        "Licenciatura en Ingeniería en Computación, Universidad Nacional Autónoma de México.",
+        "Maestría en Enseñanza Superior, Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Diseño y desarrollo de material didáctico de apoyo en la enseñanza-aprendizaje de la ingeniería.",
+        "La enseñanza en la Educación Superior, El B-Learning, en la nube, a distancia y en los móviles.",
+        "Las Tecnologías de la Información y la Educación Superior.",
+        "Desarrollo de sistemas para apoyo a la docencia."
+    ], 
+    "investigaciones": [
+        "PE112119 . Dispositivos Ra (Concluyo 2021)."
+    ]
+}

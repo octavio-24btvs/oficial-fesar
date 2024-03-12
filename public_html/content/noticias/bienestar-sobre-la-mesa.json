@@ -1,0 +1,34 @@
+{
+	"titulo": "Bienestar sobre la mesa",
+	"titulo_normalizado": "bienestar-sobre-la-mesa",
+	"secciones": [
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		},
+		{
+			"seccion": "UNAM",
+			"seccion_normalizada": "unam"
+		}
+	],
+	"autor": "Elisa Jacobo",
+	"fecha": "14/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Un espacio para compartir proyectos fue abierto en la “Mesa 4” del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">4to. Congreso Internacional Mujeres y ni\u00F1as desde una doble perspectiva: G\u00E9nero y Derechos Humanos en el marco de los Objetivos del Desarrollo Sostenible<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Se transmiti\u00F3 por el Facebook del Congreso Mujeres UNAM y moder\u00F3 Beatriz Ulloa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Luc\u00EDa Mor\u00E1n, de la Universidad de Cantabria en Espa\u00F1a, aclar\u00F3 conceptos y datos sobre la calidad de vida de las personas con trastorno del espectro autista, ubicando limitaciones en inclusi\u00F3n social y autodeterminaci\u00F3n, concluy\u00F3 con la necesidad de cambios incluyan&nbsp; la perspectiva de g\u00E9nero. Cristal Campillay, de la Asociaci\u00F3n Sendero de Ayni; junto con Coraline Landeros, acad\u00E9mica de la Universidad Andr\u00E9s Bello en Chile, externaron diversos testimonios y detalles sobre el proyecto Bienestar, el cual beneficia a las mujeres con c\u00E1ncer u otra dolencia as\u00ED como a las estudiantes en pr\u00E1cticas de terapia ocupacional: brinda espacios de confianza, apoyo y acompa\u00F1amiento. Rossana Achach y Valeria Estrella, del centro de Estudios Superiores en Sexualidad compartieron experiencias en las Escuelas de Liderazgo Adolescente en Campeche, un proyecto con el objetivo de otorgar herramientas a ni\u00F1as y adolescentes para convertirse en agentes de cambio por sus derechos humanos.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Daniela Castro, docente en el sistema a distancia de esta Facultad, habl\u00F3 de la La Alianza Global por los Cuidados, siendo este un derecho y una labor invisibilizada.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "mesa-1.gif"
+		},
+		{
+			"imagen": "mesa-2.gif"
+		},
+		{
+			"imagen": "mesa-3.gif"
+		},
+		{
+			"imagen": "mesa-4.gif"
+		},
+		{
+			"imagen": "mesa-5.gif"
+		}	]
+
+}

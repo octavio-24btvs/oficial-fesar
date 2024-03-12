@@ -1,0 +1,14 @@
+{
+	"titulo": "SEMING: M\u00E9xico y sus proyectos espaciales",
+	"titulo_normalizado": "seming-mexico-y-sus-proyectos-espaciales",
+	"secciones": [
+		{
+			"seccion": "Ingeniería Mecánica",
+			"seccion_normalizada": "mecanica"
+		}
+	],
+	"autor":"Daniel Mart\u00EDnez",
+	"fecha":"25/10/21",
+	"contenido":"<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">En la pl\u00E1tica “Misiones an\u00E1logas: un paso previo en el camino a Marte” de la <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Semana de Ingenier\u00EDa<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, Tania Mar\u00EDa Robles, ingeniera mec\u00E1nica egresada de nuestra Facultad, habl\u00F3 sobre su participaci\u00F3n en proyectos relacionados con el espacio exterior, de las acciones de nuestro pa\u00EDs dentro de este \u00E1mbito y de las varias opciones existentes para quienes desean dedicarse de manera profesional a investigar el universo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La ponente destac\u00F3 que desde la d\u00E9cada de los sesenta en M\u00E9xico han existido grupos interesados en la exploraci\u00F3n espacial, mencion\u00F3 a la Comisi\u00F3n Nacional del Espacio Exterior, la cual, por falta de financiamiento no dur\u00F3 mucho tiempo. Asimismo, se refiri\u00F3 a la Sociedad Universitaria de Cohetes Experimentales; y a un programa de dise\u00F1o de sat\u00E9lites desarrollado por la UNAM en la d\u00E9cada de los noventa.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por otra parte, Robles relat\u00F3 su experiencia al fundar la Asociaci\u00F3n Aeroespacial de la Facultad de Ingenier\u00EDa; las vivencias al ser parte de una misi\u00F3n an\u00E1loga a Marte realizada en Estados Unidos; su labor en la Space Generation Advisory Council; as\u00ED como su ocupaci\u00F3n en la Agencia Espacial Mexicana, la cual surge en la b\u00FAsqueda de desarrollo de tecnolog\u00EDa espacial, pues es considerado un sector importante para la econom\u00EDa en un futuro.<\/span><\/p>",
+	"imagenes":[{"imagen":"seming-mexico-y-sus-proyectos-espaciales-1.jpg"},{"imagen":"seming-mexico-y-sus-proyectos-espaciales-2.jpg"},{"imagen":"seming-mexico-y-sus-proyectos-espaciales-3.jpg"}]
+}

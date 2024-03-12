@@ -1,0 +1,21 @@
+{
+    "nombre": "Patricio Martínez Zamudio", 
+    "grado_academico": "Doctor", 
+     "correo": [ "pmz_rofi@comunidad.unam.mx"     ],
+    "estudios": [
+        "Licenciatura en Ingeniería Mecatrónica. Universidad Nacional Autónoma de México.", 
+        "Maestría en Ingeniería. Universidad Nacional Autónoma de México.", 
+        "Posgrado en Ingeniería Mecatrónica. Universidad Nacional Autónoma de México.", 
+        "Doctorado en Ingeniería. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Desarrollo e innovación tecnológica de sistemas de instrumentos virtual en proyectos de propósito específico y en la industria.", 
+        "Investigación sobre robótica topofixa adaptable aplicada a robots móviles híbridos que operan en ambientes inteligentes estructurados, en tareas de sujeción, traslación y orientación de objetos con cierto grado de simetría.", 
+        "Diseño de tecnología para el aprendizaje de la lecto-escritura en niños con discapacidad intelectual.", 
+        "Desarrollo de un sistema de monitoreo, control y adquisición de datos, vías remotas de un generador."
+    ], 
+    "investigaciones": [
+        "Ciencias físico matemáticas e ingenierías.", 
+        "Manufactura y tecnología."
+    ]
+}

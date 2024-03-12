@@ -1,0 +1,20 @@
+{
+    "nombre": "Helios Padilla Zazueta", 
+    "grado_academico": "Doctor", 
+     "correo": [ "heliospadillah5@aragon.unam.mx"],
+    "imagen": true, 
+    "estudios": [
+        "Licenciatura en Economía. Universidad Nacional Autónoma de México.", 
+        "Maestría en Economía (Financiera). Universidad Nacional Autónoma de México.", 
+        "Doctorado en Economía. Universidad Nacional Autónoma de México."
+    ], 
+    "lineas_investigacion": [
+        "Enseñanza de la macroeconomía y ciclos económicos.", 
+        "Intervención del Estado en la Economía para propiciar el crecimiento económico \"vía inversión pública\"."
+    ], 
+    "investigaciones": [
+        "Sobre el nuevo aeropuerto en la Ciudad de México.", 
+        "Importancia del gasto pública en el crecimiento económico (un enfoque post keynesiano).", 
+        "El sector público. \"Comité de importaciones del Sector público y su importancia en el crecimiento económico de México\"."
+    ]
+}

@@ -1,0 +1,31 @@
+{
+	"titulo": "Apertura del futbol r\u00E1pido",
+	"titulo_normalizado": "apertura-del-futbol-rapido",
+	"secciones": [
+		{
+			"seccion": "Deportivas",
+			"seccion_normalizada": "deportivas"
+		},
+		{
+			"seccion": "Extensión Universitaria",
+			"seccion_normalizada": "extension-universitaria"
+		}
+	],
+	"autor": "Priscila Ch\u00E1vez",
+	"fecha": "17/08/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Como parte de las actividades deportivas realizadas en la Facultad de Estudios Superiores Arag\u00F3n, el <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Torneo de Futbol R\u00E1pido 2023<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> inici\u00F3 con un emocionante partido en el que se enfrentaron dos equipos, azul y amarillo, representando a sus respectivas carreras. Los participantes se enfrentaron en la cancha de futbol r\u00E1pido de manera amistosa pero con toda la actitud para ganar.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El partido estuvo muy re\u00F1ido, el primero en anotar un gol fue el equipo amarillo, seguido de uno m\u00E1s que los posicionaba como los ganadores de la tarde; sin embargo, los azules no se dieron por vencidos y anotaron su primer gol antes del medio tiempo. Tras el cambio de cancha, el equipo azul regres\u00F3 renovado y anot\u00F3 dos goles m\u00E1s, dejando el marcador 3 a 2 antes de que los amarillos empataran el marcador.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El partido finaliz\u00F3 sin contratiempos, a pesar de que el clima parec\u00EDa desfavorable. Ambos bandos demostraron sus habilidades as\u00ED como una actitud competitiva y respetuosa con sus oponentes. El futbol r\u00E1pido es uno de los m\u00FAltiples deportes que formar\u00E1n parte del torneo intercarreras que comenzar\u00E1 pr\u00F3ximamente en la FES Arag\u00F3n y una muestra m\u00E1s del compromiso universitario por incentivar el deporte.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Apertura.gif"
+		},
+		{
+			"imagen": "Apertura2.gif"
+		},
+		{
+			"imagen": "Apertura3.gif"
+		},
+		{
+			"imagen": "Apertura4.gif"
+		}	]
+
+}

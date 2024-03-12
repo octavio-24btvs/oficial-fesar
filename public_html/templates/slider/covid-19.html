@@ -1,0 +1,516 @@
+<div id="image-modal" class="image-modal" ng-show="modal">
+    <div class="close-image-modal d-block" ng-click="modal = false">&times;</div>
+    <a ng-href="{{image_source}}" title="Descarga la imagen" download="">
+        <i class="fas fa-download fs-20 download-image-modal"></i>
+    </a>
+    <img class="image-modal-content img-fluid" ng-src="{{image_source}}" alt="{{image_alt}}" />
+    <div id="image-modal-caption">
+    </div>
+</div>
+<div class="container content">
+    <div class="row justify-content-center">
+        <div class="col-12 col-lg-10">
+            <div id="jssor_1" style="
+                 position:relative;
+                 margin:0 auto;
+                 top:0px;
+                 left:0px;
+                 width:895px;
+                 height:300px;
+                 overflow:hidden;
+                 visibility:hidden;
+                 margin: 10px 0 10px -15px;">
+                <!-- Loading Screen -->
+                <div data-u="loading" class="jssorl-009-spin" style="
+                     position:absolute;
+                     top:0px;
+                     left:0px;
+                     width:100%;
+                     height:100%;
+                     text-align:center;
+                     background-color:rgba(0,0,0,0.7);">
+                </div>
+                <div data-u="slides" style="
+                     cursor:default;
+                     position:relative;
+                     top:0px;
+                     left:0px;
+                     width:895px;
+                     height:300px;
+                     overflow:hidden;">
+                    <div ng-repeat="imagen in banners">
+                        <a ng-href="{{imagen.hipervinculo}}" title="{{imagen.descripcion}}"
+                            ng-show="imagen.hipervinculo !== ''" target="_blank">
+                            <img data-u="image" ng-src="public_html/img/covid-19/{{imagen.imagen}}"
+                                alt="{{imagen.descripcion}}" />
+                        </a>
+                        <a ng-show="imagen.hipervinculo === ''" ng-click="change()">
+                            <img data-u="image" ng-src="public_html/img/covid-19/{{imagen.imagen}}"
+                                alt="{{imagen.descripcion}}" />
+                        </a>
+                    </div>
+                </div>
+                <div data-u="navigator" class="jssorb032" style="
+                     position:absolute;
+                     bottom:12px;
+                     right:12px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
+                    <div data-u="prototype" class="i" style="
+                         width:16px;
+                         height:16px;">
+                        <svg viewBox="0 0 16000 16000" style="
+                             position:absolute;
+                             top:0;
+                             left:0;
+                             width:100%;
+                             height:100%;">
+                            <circle class="b" cx="8000" cy="8000" r="5800">
+                            </circle>
+                        </svg>
+                    </div>
+                </div>
+                <div data-u="arrowleft" class="jssora051" style="
+                     width:65px;
+                     height:65px;
+                     top:0px;
+                     left:25px;" data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
+                    <svg viewBox="0 0 16000 16000" style="
+                         position:absolute;
+                         top:0;
+                         left:0;
+                         width:100%;
+                         height:100%;">
+                        <polyline class="a" points="11040,1920 4960,8000 11040,14080 ">
+                        </polyline>
+                    </svg>
+                </div>
+                <div data-u="arrowright" class="jssora051" style="
+                     width:65px;
+                     height:65px;
+                     top:0px;
+                     right:25px;" data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
+                    <svg viewBox="0 0 16000 16000" style="
+                         position:absolute;
+                         top:0;
+                         left:0;
+                         width:100%;
+                         height:100%;">
+                        <polyline class="a" points="4960,1920 11040,8000 4960,14080 ">
+                        </polyline>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center ">
+        <div class="col-12 col-lg-10 menu-rapido">
+            <ul class="nav d-flex justify-content-center">
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 0" title="Inicio">
+                        Inicio
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 1" title="Boletines y Avisos">
+                        Boletines y Avisos
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 3" title="Contenido Multimedia">
+                        Infograf&iacute;as
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 2" title="Videos">
+                        Videos
+                    </a>
+                </li>
+                <li class="nav-item animated zoomIn">
+                    <a class="nav-link active" ng-click="showing = 5" title="Enlaces de inter&eacute;s">
+                        Enlaces de inter&eacute;s
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div ng-show="showing === 0">
+        <div class="row justify-content-center pt-4">
+            <div class="col-12 col-lg-10">
+                <h2>Responsables sanitarias</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-3 mt-4 mb-4">
+                <img class="rounded-circle img-responsable d-flex mx-auto"
+                    src="public_html/img/primera_respuesta/proteccion-civil/adriana-brenda-ramirez-gomez.jpg"
+                    alt="Adriana Brenda Ram&iacute;rez G&oacute;mez" />
+                <p class="text-center">Adriana Brenda Ram&iacute;rez G&oacute;mez</p>
+            </div>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-3 mt-4 mb-4">
+                <img class="rounded-circle img-responsable d-flex mx-auto"
+                    src="public_html/img/vida_universitaria/servicios-a-la-comunidad/berenice-cano-santos.jpg"
+                    alt="Berenice Cano Santos" />
+                <p class="text-center">Berenice Cano Santos</p>
+            </div>
+            <div class="col-12 col-lg-8">
+                <p style="text-align: center;"><strong>correo electrónico: </strong>responsablesanitario@aragon.unam.mx
+                </p>
+            </div>
+            <div class="col-12 col-lg-10 sub">
+                <h2>Modalidades de atención</h2>
+                <hr />
+            </div>
+            <div class="col-12 col-lg-5">
+                <ul style="padding-left: 15px;">
+                    <li>
+                        <h6>Atención dirigida a la comunidad universitaria y público general</h6>
+                        <br>
+                        <p style="margin-bottom: 0px;"><strong>Horario de atención durante la contingencia de
+                                COVID-19</strong>
+                        </p>
+                        <p style="margin-bottom: 0px;">Lunes a viernes de 9:00 a 21:00 h y sábado de 9:00 a 14:00 h</p>
+                        <p><strong>La atención se realiza a distancia mediante el correo electrónico</strong></p>
+                        <p><strong>En caso de presentar síntomas se proporciona asesoría a la comunidad universitaria
+                                sobre las acciones que se deben realizar y dónde se puede realizar el Diagnóstico
+                                COVID-19.</strong></p>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-12 col-lg-5">
+                <ul style="padding-left: 15px;">
+                    <li>
+                        <h6>Asesoría Psicológica a la comunidad estudiantil FES Aragón</h6>
+                        <br>
+                        <p style="margin-bottom: 0px;"><strong>Horario de atención</strong></p>
+                <p style="margin-bottom: 0px;">Lunes a viernes de 9:00 a 19:00 h y sábado de 9:00 a 12:00 h</p>
+                <p> <strong>La atención es a distancia a través de videollamadas.</strong></p>
+                <p> <strong>Para citas programadas se atienden a la siguiente semana de que llenaron el formulario
+                        publicado en <a style="color: #0069d9;" target="_blank" href="https://www.facebook.com/FESAragon.servalacomunidad/">facebook</a>. Para los casos
+                        urgentes, la atención es inmediata.</strong></p>
+                    </li>
+                </ul>
+            </div>
+            <div class="portafolio">
+                <div class="row justify-content-center galeria">
+                    <div class="col-12 col-lg-4  contenedor-imagen">
+                        <a target="blank" href="public_html/img/covid-19/asesoria-psicologica.pdf">
+                            <img class="img-fluid d-flex mx-auto" src="public_html/img/covid-19/asesoria-psicologica.jpg"
+                                alt="Evaluaci&oacute;n de riesgos y prevenci&oacute;n">
+                        </a>
+                    </div>
+                    <div class="col-12 col-lg-4  contenedor-imagen">
+                        <a target="blank" href="public_html/img/covid-19/servicios-de-asesoria.pdf">
+                            <img class="img-fluid d-flex mx-auto" src="public_html/img/covid-19/servicio-de-asesoria.jpg"
+                                alt="Evaluaci&oacute;n de riesgos y prevenci&oacute;n">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10 sub">
+                <h2>Informaci&oacute;n General</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-3 col-lg-1" style="padding-left: 0px;padding-right: 0px;">
+                <img class="img-fluid" src="public_html/img/logos/covid-19.svg" alt="covid-19"
+                    style="height: 70%;padding-left: 20px;">
+            </div>
+            <div class="col-12 col-lg-9" style="padding-left: 0px;padding-left: 15px">
+                <p>En esta secci&oacute;n podr&aacute;s encontrar informaci&oacute;n detallada sobre las estrategias que
+                    la FES Arag&oacute;n ha tomado ante la contingencia sanitaria con el fin de garantizar la seguridad
+                    de toda la comunidad universitaria. Adem&aacute;s, encontrar&aacute;s avisos sobre las actividades
+                    acad&eacute;micas y administrativas, y recursos de inter&eacute;s para fomentar medidas de
+                    autocuidado y prevenci&oacute;n.</p>
+            </div>
+            <!--
+            <div class="col-12 col-lg-6" style="padding-left: 0px;padding-left: 15px">
+                <a target="blank" href="public_html/documents/slider_principal/regreso-a-actividades.pdf"><img
+                        class="img-fluid"
+                        src="public_html/img/covid-19/estrategia-lineamientos-tecnicos-medidas-y-protocolos-para-el-regreso-ordenado-gradual-y-seguro-a-las-actividades-universitarias.png"
+                        alt="Estrategia, lineamientos t&eacute;cnicos, medidas y protocolos para el regreso ordenado, gradual y seguro a las actividades universitarias"></a>
+            </div>-->
+            <div class="portafolio">
+                <div class="row justify-content-center galeria">
+                    <div class="col-12 col-lg-4  contenedor-imagen">
+                        <a target="blank" href="public_html/documents/slider_principal/regreso-a-actividades.pdf">
+                            <img class="img-fluid" src="public_html/img/covid-19/lineamientos-covid-fesaragon.png"
+                                alt="Estrategia, lineamientos t&eacute;cnicos, medidas y protocolos para el regreso ordenado, gradual y seguro a las actividades universitarias">
+                        </a>
+                    </div>
+                    <div class="col-12 col-lg-4  contenedor-imagen">
+                        <a target="blank" href="public_html/documents/covid-19/lineamientos-version-amigable.pdf">
+                            <img class="img-fluid" src="public_html/img/covid-19/lineamientos-version-amigable.png"
+                                alt="Estrategia, lineamientos t&eacute;cnicos, medidas y protocolos para el regreso ordenado, gradual y seguro a las actividades universitarias. Versi&oacute;n amigable">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="portafolio">
+            <div class="row justify-content-center galeria">
+                <div class="col-12 col-lg-8  contenedor-imagen">
+                    <a target="blank" href="public_html/img/covid-19/recomendaciones-salud-en-las-oficinas.jpg"><img
+                            class="img-fluid" src="public_html/img/covid-19/b-recomendaciones-salud-en-las-oficinas.jpg"
+                            alt="Recomendaciones salud en las oficinas"></a>
+                </div>
+                <div class="col-12 col-lg-4  contenedor-imagen">
+                    <a target="blank" href="public_html/img/covid-19/prevencion.png"><img class="img-fluid"
+                            src="public_html/img/covid-19/evaluacion-de-riesgos-y-prevencion.jpg"
+                            alt="Evaluaci&oacute;n de riesgos y prevenci&oacute;n"></a>
+                </div>
+                <div class="col-12 col-lg-4 contenedor-imagen">
+                    <a target="blank" href="public_html/img/covid-19/normalidad.png"><img class="img-fluid"
+                            src="public_html/img/covid-19/adaptacion-a-la-nueva-normalidad.jpg"
+                            alt="Adaptaci&oacute;n a la nueva normalidad"></a>
+                </div>
+            </div>
+            <div class="row justify-content-center galeria">
+                <div class="col-5 col-lg-2  contenedor-imagen">
+                    <a target="blank"
+                        href="https://www.bidi.unam.mx/index.php/cobertura-tematica/sitios-de-interes/800-enlaces-a-recursos-sobre-covid-19"><img
+                            class="img-fluid" src="public_html/img/muro_aragon/enlaces-a-recursos-sobre-covid-19.jpg"
+                            alt="Sitios de interés COVID-19"></a>
+                </div>
+                <div class="col-5 col-lg-2 contenedor-imagen">
+                    <a target="blank" href="https://cieg.unam.mx/covid-genero/"><img class="img-fluid"
+                            src="public_html/img/muro_aragon/covid-19-y-genero.jpg" alt="COVID-19 y género"></a>
+                </div>
+                <div class="col-5 col-lg-2 contenedor-imagen">
+                    <a target="blank"
+                        href="http://www.aragon.unam.mx/fes-aragon/public_html/documents/muro_aragon/seguimos-contigo.pdf"><img
+                            class="img-fluid" src="public_html/img/muro_aragon/seguimos-contigo.jpg"
+                            alt="Adaptaci&oacute;n a la nueva normalidad"></a>
+                </div>
+                <div class="col-5 col-lg-2 contenedor-imagen">
+                    <a target="blank"
+                        href="http://www.aragon.unam.mx/fes-aragon/public_html/documents/muro_aragon/contencion-emocional.pdf"><img
+                            class="img-fluid" src="public_html/img/muro_aragon/contencion-emocional.jpg"
+                            alt="Adaptaci&oacute;n a la nueva normalidad"></a>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="padding-top: 20px;">
+            <div class="col-12 col-lg-10">
+                <h2>Enlaces de inter&eacute;s</h2>
+                <hr />
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-6 col-lg-3 liga-de-interes" style="padding-left: 5px;padding-right: 5px;">
+                <a target="_blank" href="https://covid19comisionunam.unamglobal.com/"
+                    title="Comisi&oacute;n Universitaria para la Atenci&oacute;n de la Emergencia">
+                    <img class="img-fluid" src="public_html/img/covid-19/covid19comisionunam.jpg"
+                        alt="Comisi&oacute;n Universitaria para la Atenci&oacute;n de la Emergencia" />
+                </a>
+            </div>
+            <div class="col-6 col-lg-3 liga-de-interes" style="padding-left: 5px;padding-right: 5px;">
+                <a target="_blank" href="https://covid19.ciga.unam.mx/"
+                    title="Coordinaci&oacute;n de la Investigaci&oacute;n Cient&iacute;fica">
+                    <img class="img-fluid"
+                        src="public_html/img/covid-19/coordinacion-de-la-investigacion-cientifica1.jpg"
+                        alt="Coordinaci&oacute;n de la Investigaci&oacute;n Cient&iacute;fica" />
+                </a>
+            </div>
+            <div class="col-6 col-lg-3 liga-de-interes" style="padding-left: 5px;padding-right: 5px;">
+                <a target="_blank" href="http://covid19.facmed.unam.mx/" title="COVID-19 Facultad de Medicina, UNAM">
+                    <img class="img-fluid" src="public_html/img/covid-19/facultad-de-medicina-unam.jpg"
+                        alt="COVID-19 Facultad de Medicina, UNAM" />
+                </a>
+            </div>
+        </div>
+
+    </div>
+    <div ng-show="showing === 1">
+        <div class="row justify-content-center pt-4">
+            <div class="col-12 col-lg-10">
+                <h2>Boletines y avisos</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row portafolio justify-content-center">
+            <div class="col-12 col-lg-5">
+                <ul>
+                    <li><a href="https://www.dgcs.unam.mx/boletin/bdboletin/2020_689.html" target="_blank"
+                            title="USAR CUBREBOCAS, UNA RESPONSABILIDAD SOCIAL">USAR CUBREBOCAS, UNA RESPONSABILIDAD
+                            SOCIAL</a></li>
+                    <li><a href="https://www.dgcs.unam.mx/boletin/bdboletin/2020_663.html" target="_blank"
+                            title="ENTREGA RECTOR MÃ�S DE 105 MIL KITS PARA PROTECCIÃ“N DE ENFERMERAS Y ENFERMEROS">ENTREGA
+                            RECTOR M&Aacute;S DE 105 MIL KITS PARA PROTECCI&Oacute;N DE ENFERMERAS Y ENFERMEROS</a></li>
+                    <li><a href="https://www.dgcs.unam.mx/boletin/bdboletin/2020_659.html" target="_blank"
+                            title="TRANSITA LA EDUCACIÃ“N A MODELOS MIXTOS">TRANSITA LA EDUCACI&Oacute;N A MODELOS
+                            MIXTOS</a></li>
+                    <li><a href="https://www.dgcs.unam.mx/boletin/bdboletin/2020_657.html" target="_blank"
+                            title="MAYORES HERRAMIENTAS A PLATAFORMA DE INFORMACIÃ“N GEOGRÃ�FICA SOBRE COVID-19">MAYORES
+                            HERRAMIENTAS A PLATAFORMA DE INFORMACI&Oacute;N GEOGR&Aacute;FICA SOBRE COVID-19</a></li>
+                    <li><a href="https://www.dgcs.unam.mx/boletin/bdboletin/2020_635.html" target="_blank"
+                            title="IMPLEMENTAN EN LA UNAM MÃ‰TODO PARA DETECTAR SARS-CoV-2 EN AGUAS RESIDUALES">IMPLEMENTAN
+                            EN LA UNAM M&Eacute;TODO PARA DETECTAR SARS-CoV-2 EN AGUAS RESIDUALES</a></li>
+            </div>
+            <div class="col-12 col-lg-5">
+                <ul>
+                    <li><a href="https://www.dgcs.unam.mx/boletin/bdboletin/2020_661.html" target="_blank"
+                            title="PRESENTAN PROYECTOS PARA RESOLVER PROBLEMÃ�TICAS DERIVADAS DE LA COVID-19">PRESENTAN
+                            PROYECTOS PARA RESOLVER PROBLEM&Aacute;TICAS DERIVADAS DE LA COVID-19</a></li>
+                    <li><a href="https://www.dgcs.unam.mx/boletin/bdboletin/2020_660.html" target="_blank"
+                            title="POSEE PROPÃ“LEO PROPIEDADES AUXILIARES CONTRA COVID-19">POSEE PROP&Oacute;LEO
+                            PROPIEDADES AUXILIARES CONTRA COVID-19</a></li>
+                    <li><a href="https://www.dgcs.unam.mx/boletin/bdboletin/2020_647.html" target="_blank"
+                            title="DEBATEN EN LA UNAM ESTRATEGIAS DE INTERVENCIÃ“N SOCIAL PARA AFRONTAR LA NUEVA NORMALIDAD">DEBATEN
+                            EN LA UNAM ESTRATEGIAS DE INTERVENCI&Oacute;N SOCIAL PARA AFRONTAR LA NUEVA NORMALIDAD</a>
+                    </li>
+                    <li><a href="https://www.dgcs.unam.mx/boletin/bdboletin/2020_636.html" target="_blank"
+                            title="SIN EVIDENCIA CIENTÃ�FICA LA EFICACIA DEL DIÃ“XIDO DE CLORO CONTRA LA COVID-19">SIN
+                            EVIDENCIA CIENT&Iacute;FICA LA EFICACIA DEL DI&Oacute;XIDO DE CLORO CONTRA LA COVID-19</a>
+                    </li>
+                    <li><a href="https://www.dgcs.unam.mx/boletin/bdboletin/2020_634.html" target="_blank"
+                            title="LA UNAM INFORMA">LA UNAM INFORMA</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 2">
+        <div class="row justify-content-center pt-4">
+            <div class="col-12 col-lg-10">
+                <h2>Videos</h2>
+                <hr />
+                <div class="row">
+                    <div class="col-12 col-lg-6 mb-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q0Plwmgdc1U"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 mb-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4eFIB4nhdbk"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 mb-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/p65m9LgZ1hw"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 mb-3">
+                        <div class="embed-responsive embed-responsive-16by9" style="border-radius: 15px;">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Dw4sGSgFD4U"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 3">
+        <div ng-if="informacion_de_interes !== null">
+            <div ng-if="informacion_de_interes.imagenes.length > 0">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-10 mt-1 pt-4">
+                        <h2>{{informacion_de_interes.titulo}}</h2>
+                        <hr />
+                    </div>
+                    <div class="col-12 mb-15 col-md-8"
+                        ng-class="informacion_de_interes.imagenes.length === 0 ? 'offset-md-3' : ''">
+                        <div class="col-12 owl-carousel owl-theme contenedor-imagen"
+                            style="z-index: 0;margin-top: 8px;">
+                            <div class="item conte-img carousel-portal-docente"
+                                ng-repeat="imagen in informacion_de_interes.imagenes">
+                                <a ng-click="showModal(imagen, informacion_de_interes.seccion)"
+                                    title="Mostrar Im&aacute;gen">
+                                    <img class="img-fluid image"
+                                        ng-src="public_html/img/covid-19/{{informacion_de_interes.seccion}}/{{imagen.imagen}}"
+                                        alt="{{imagen.alt}}" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div ng-if="informacion_oficial !== null">
+            <div ng-if="informacion_oficial.imagenes.length > 0">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-10 mt-1">
+                        <h2>{{informacion_oficial.titulo}}</h2>
+                        <hr />
+                    </div>
+                    <div class="col-12 mb-15 col-md-8"
+                        ng-class="informacion_oficial.imagenes.length === 0 ? 'offset-md-3' : ''">
+                        <div class="col-12 owl-carousel owl-theme contenedor-imagen"
+                            style="z-index: 0;margin-top: 8px;">
+                            <div class="item conte-img carousel-portal-docente"
+                                ng-repeat="imagen in informacion_oficial.imagenes">
+                                <a ng-click="showModal(imagen, informacion_oficial.seccion)"
+                                    title="Mostrar Im&aacute;gen">
+                                    <img class="img-fluid image"
+                                        ng-src="public_html/img/covid-19/{{informacion_oficial.seccion}}/{{imagen.imagen}}"
+                                        alt="{{imagen.alt}}" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div ng-if="comics !== null">
+            <div ng-if="comics.imagenes.length > 0">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-10 mt-3">
+                        <h2>{{comics.titulo}}</h2>
+                        <hr />
+                    </div>
+                    <div class="col-12 mb-15 col-md-8" ng-class="comics.imagenes.length === 0 ? 'offset-md-3' : ''">
+                        <div class="col-12 owl-carousel owl-theme contenedor-imagen"
+                            style="z-index: 0;margin-top: 8px;">
+                            <div class="item conte-img carousel-portal-docente" ng-repeat="imagen in comics.imagenes">
+                                <a ng-click="showModal(imagen, comics.seccion)" title="Mostrar Im&aacute;gen">
+                                    <img class="img-fluid image"
+                                        ng-src="public_html/img/covid-19/{{comics.seccion}}/{{imagen.imagen}}"
+                                        alt="{{imagen.alt}}" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div ng-show="showing === 5">
+        <div class="row justify-content-center pt-4">
+            <div class="col-12 col-lg-10">
+                <h2>Enlaces de inter&eacute;s</h2>
+                <hr />
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-6 col-lg-3 liga-de-interes" style="padding-left: 5px;padding-right: 5px;">
+                <a target="_blank" href="https://covid19comisionunam.unamglobal.com/"
+                    title="Comisi&oacute;n Universitaria para la Atenci&oacute;n de la Emergencia">
+                    <img class="img-fluid" src="public_html/img/covid-19/covid19comisionunam.jpg"
+                        alt="Comisi&oacute;n Universitaria para la Atenci&oacute;n de la Emergencia" />
+                </a>
+            </div>
+            <div class="col-6 col-lg-3 liga-de-interes" style="padding-left: 5px;padding-right: 5px;">
+                <a target="_blank" href="https://covid19.ciga.unam.mx/"
+                    title="Coordinaci&oacute;n de la Investigaci&oacute;n Cient&iacute;fica">
+                    <img class="img-fluid"
+                        src="public_html/img/covid-19/coordinacion-de-la-investigacion-cientifica1.jpg"
+                        alt="Coordinaci&oacute;n de la Investigaci&oacute;n Cient&iacute;fica" />
+                </a>
+            </div>
+            <div class="col-6 col-lg-3 liga-de-interes" style="padding-left: 5px;padding-right: 5px;">
+                <a target="_blank" href="http://covid19.facmed.unam.mx/" title="COVID-19 Facultad de Medicina, UNAM">
+                    <img class="img-fluid" src="public_html/img/covid-19/facultad-de-medicina-unam.jpg"
+                        alt="COVID-19 Facultad de Medicina, UNAM" />
+                </a>
+            </div>
+        </div>
+
+    </div>
+</div>

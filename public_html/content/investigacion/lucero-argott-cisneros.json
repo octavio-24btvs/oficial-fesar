@@ -1,0 +1,21 @@
+{
+    "nombre": "Lucero Argott Cisneros", 
+    "grado_academico": "Maestra", 
+     "correo": [ "luceroargottq3@aragon.unam.mx"],
+    "imagen": true,
+    "estudios": [
+        "Licenciatura en Sociología. Universidad Autónoma Metropolitana.",
+        "Licenciatura en Pedagogía. Universidad Nacional Autónoma de México.",
+        "Maestría en Enseñanza Superior. Universidad La Salle."
+    
+    ], 
+    "lineas_investigacion": [
+        "Investigación pedagógica/educativa.", 
+        "Formación pedagógica.", 
+        "Socio-pedagógica.", 
+        "Currículum en Educación Superior."
+    ], 
+    "investigaciones": [
+        "El currículo de la Licenciatura en Pedagogía de la UNAM FES Aragón; entre la colonialidad neoliberal y la resistencia política del conocimiento en la enseñanza de la investigación."
+    ]
+}

@@ -1,0 +1,31 @@
+{
+	"titulo": "XVCIMI: Procesos de Formaci\u00F3n en Investigaci\u00F3n",
+	"titulo_normalizado": "xvcimi-procesos-de-formacion-en-investigacion",
+	"secciones": [
+		{
+			"seccion": "CIMA",
+			"seccion_normalizada": "cima"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Monserrat Jimenez",
+	"fecha": "26/10/22",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Durante la sesi\u00F3n n\u00FAmero seis del <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">XV Congreso Internacional Multidisciplinario de Investigaci\u00F3n<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, se expusieron investigaciones sobre el campo de las ciencias de la educaci\u00F3n y en procesos de formaci\u00F3n en investigaci\u00F3n. En esta sesi\u00F3n Jes\u00FAs Escamilla, profesor de carrera de la FES Arag\u00F3n, se desempe\u00F1\u00F3 como moderador, mientras que las doctoras M\u00F3nica Morales, Eva Ch\u00E1zaro, Mar\u00EDa Eugenia Canut D\u00EDaz, Ingrid Chantal Torres, Martha Lorena Obermeier, Leonor Pastrana y Arcelia Bernal fungieron como ponentes.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Las investigadoras expusieron temas como la inserci\u00F3n laboral de las y los egresados de la Licenciatura en Pedagog\u00EDa, mostrando&nbsp; las dificultades, los diferentes campos, \u00E1mbitos y actividades de trabajo de quienes ingresan al mercado laboral; adem\u00E1s de los elementos axiol\u00F3gicos en el modelo pedag\u00F3gico.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Asimismo, se presentaron investigaciones en el an\u00E1lisis del plan de estudios Ingenier\u00EDa Civil en una universidad p\u00FAblica y sobre los procesos de investigaci\u00F3n y c\u00F3mo medir las habilidades dentro de estos, a trav\u00E9s de los comportamientos en lectura y redacci\u00F3n de investigaciones acad\u00E9micas.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Por \u00FAltimo se habl\u00F3 sobre las necesidades educativo-escolares que surgieron durante la pandemia y el impacto del Covid-19 en la ense\u00F1anza, pues este suceso demostr\u00F3 la deficiencia de conocimientos para impartir clases desde el punto de vista del estudiantado y el personal docente.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Procesos1.gif"
+		},
+		{
+			"imagen": "Procesos2.gif"
+		},
+		{
+			"imagen": "Procesos3.gif"
+		},
+		{
+			"imagen": "Procesos4.gif"
+		}	]
+
+}

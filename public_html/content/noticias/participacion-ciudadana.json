@@ -1,0 +1,29 @@
+{
+	"titulo": "Participaci\u00F3n ciudadana",
+	"titulo_normalizado": "participacion-ciudadana",
+	"secciones": [
+		{
+			"seccion": "#ProyecciónAragón",
+			"seccion_normalizada": "proyeccion-aragon"
+		},
+		{
+			"seccion": "CIMA",
+			"seccion_normalizada": "cima"
+		},
+		{
+			"seccion": "Sociología",
+			"seccion_normalizada": "sociologia"
+		}
+	],
+	"autor": "Erik Pliego",
+	"fecha": "17/03/22",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">La participaci\u00F3n ciudadana en actos pol\u00EDticos, democr\u00E1ticos y civiles se ha visto afectada por la desestimaci\u00F3n de las personas hacia las instituciones gubernamentales. Este hecho es analizado por Manuel Ram\u00EDrez, profesor de la carrera de Sociolog\u00EDa en la FES Arag\u00F3n desde 1996, quien se encuentra realizando la investigaci\u00F3n: “Representaciones sociales de la participaci\u00F3n ciudadana en las elecciones de M\u00E9xico”.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Seg\u00FAn Ram\u00EDrez, en nuestro pa\u00EDs existe una cultura b\u00E1sica parroquial donde los derechos no son bien comprendidos por la poblaci\u00F3n, se toleran gobiernos autoritarios e incluso se conf\u00EDa en ellos, aun cuando no se tenga fe en las instituciones. Asimismo, el acad\u00E9mico explica que las representaciones sociales son la construcci\u00F3n ideol\u00F3gica de una persona u objeto; estas tienen tres niveles, imagen, mensaje y lenguaje, o el c\u00F3mo comunica esa informaci\u00F3n.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El acad\u00E9mico ha reproducido estudios nacionales en la comunidad estudiantil de la FES Arag\u00F3n con el fin de conocer el estado de su cultura pol\u00EDtica. En los resultados destaca el hecho de que las y los estudiantes suelen tener una gran participaci\u00F3n pol\u00EDtica y c\u00EDvica dentro de las escuelas; sin embargo, esta disminuye dr\u00E1sticamente fuera de ellas debido a la desconfianza con las y los actores gubernamentales.&nbsp;&nbsp;&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Finalmente, Ramirez recuerda que estos proyectos y el Centro de Investigaciones Multidisciplinarias Arag\u00F3n (CIMA) generan oportunidades de participaci\u00F3n en publicaciones o temas de investigaci\u00F3n para el proceso de titulaci\u00F3n. Al mismo tiempo, invita a reflexionar sobre la convivencia cotidiana con las dem\u00E1s personas para analizar el actual contexto nacional en cuanto a participaci\u00F3n pol\u00EDtica.&nbsp;<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "Representaciones1.gif"
+		},
+		{
+			"imagen": "Representaciones2.gif"
+		}	]
+
+}

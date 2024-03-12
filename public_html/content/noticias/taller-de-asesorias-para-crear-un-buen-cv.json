@@ -1,0 +1,34 @@
+{
+	"titulo": "Taller de asesor\u00EDas para crear un buen CV",
+	"titulo_normalizado": "taller-de-asesorias-para-crear-un-buen-cv",
+	"secciones": [
+		{
+			"seccion": "Bolsa de Trabajo",
+			"seccion_normalizada": "bolsa-de-trabajo"
+		},
+		{
+			"seccion": "FES Aragón",
+			"seccion_normalizada": "fes-aragon"
+		}
+	],
+	"autor": "Oscar Rafael Cornejo",
+	"fecha": "15/11/23",
+	"contenido": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hazel Cano y Fernanda Fuentes, del equipo de Valtech, dieron una pl\u00E1tica en l\u00EDnea para la comunidad de la FES Arag\u00F3n donde explicaron y ejemplificaron c\u00F3mo crear un <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">curriculum vitae<\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> (CV) de la mejor forma posible para resaltar y tener m\u00E1s oportunidades al postularse para alg\u00FAn puesto de trabajo.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Comenzaron por mencionar las partes de un buen CV, tales como: datos de contacto, competencias y habilidades, formaci\u00F3n acad\u00E9mica, experiencia profesional, idiomas y nombre completo junto con una breve descripci\u00F3n de la persona.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Reiteraron lo importante de la brevedad y la consistencia, ya que un documento lleno de texto innecesario no es atractivo y suele ser descartado casi de inmediato, por ello tambi\u00E9n recomendaron no extenderse a m\u00E1s de dos p\u00E1ginas y resumir la informaci\u00F3n eliminando datos m\u00E1s personales, como la direcci\u00F3n completa, para dejar espacio a las habilidades.<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">El formato es otra caracter\u00EDstica indispensable para hacer m\u00E1s atractivo el documento, las ponentes aconsejaron usar una tipograf\u00EDa para todo el texto donde se resalten con negritas encabezados o palabras clave, as\u00ED como el uso de colores m\u00E1s serios y formales. Otro punto destacado fue el de la fotograf\u00EDa del archivo, esta no debe ser una <\/span><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">selfie <\/em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">ni recorte de alguna foto en evento social o familiar, sino una exclusiva para este documento.&nbsp;<\/span><\/p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Para concluir, Fernanda y Hazel invitaron a hacer uso de plataformas de b\u00FAsqueda de empleo como LinkedIn, Indeed, OCC, Computrabajo, entre otras, para tomarlas como si se tratara de una red social.<\/span><\/p>",
+	"imagenes": [
+		{
+			"imagen": "CV1.gif"
+		},
+		{
+			"imagen": "CV2.gif"
+		},
+		{
+			"imagen": "CV3.gif"
+		},
+		{
+			"imagen": "cv4.gif"
+		},
+		{
+			"imagen": "CV5.gif"
+		}	]
+
+}
